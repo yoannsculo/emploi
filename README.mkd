@@ -1,2 +1,8 @@
-emploi
+Emploi
 ======
+
+Ce repository recense un certain nombre de liens et d'informations relatives à
+la recherche d'emploi.
+
+- ssii : Contient une liste non exhaustive de SSII en France
+
