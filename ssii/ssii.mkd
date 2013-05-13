@@ -118,6 +118,7 @@
 - [Solucom](http://www.solucom.fr)
 - [Sophia Conseil](http://www.sophiaconseil.fr)
 - [Sopra Group](http://www.sopragroup.fr)
+- [SPC Consultants](http://www.spcconsultants.com)
 - [SQLI](http://www.sqli.com)
 - [Steria](http://www.steria.com)
 - [Synchrone Technologies](http://www.synchrone-technologies.fr)
