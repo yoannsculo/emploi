@@ -17,10 +17,12 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Arm - www.arm.com
 - Atmel - www.atmel.com
 - Ateme - www.ateme.com
+- Awox - www.awox.com
 - Bertin Technologies - www.bertin.fr
 - Bertrandt - www.bertrandt.com/fr
 - Bookeen - www.bookeen.com/fr
 - Bull - www.bull.fr
+- CEA - www.cea.fr
 - CIELE INGENIERIE - www.ciele.fr
 - Coyote - www.moncoyote.com
 - Dassault Aviation - www.dassault-aviation.com
@@ -50,7 +52,8 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - IRIS-RFID - www.iris-rfid.com
 - JCDecaux - www.jcdecaux.fr
 - JMI Tech - www.jmitech.fr
-- Joshfire - joshfire.com
+- Joshfire - www.joshfire.com
+- Kalray - www.kalray.eu
 - Klervi - www.klervi.com
 - LaCie - www.lacie.com
 - Legrand - www.legrand.fr
@@ -58,6 +61,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Memup - www.memup.fr
 - Modulowatt - www.modulowatt.com
 - Montavista - www.mvista.com
+- Myriad Group - www.myriadgroup.com
 - Naïo-Technologies - www.naio-technologies.com
 - Navocap - www.navocap.com
 - NDS - www.nds.com
