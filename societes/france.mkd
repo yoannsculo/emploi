@@ -24,6 +24,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Bull - www.bull.fr
 - CEA - www.cea.fr
 - CIELE INGENIERIE - www.ciele.fr
+- CNES - www.cnes.fr
 - Coyote - www.moncoyote.com
 - Dassault Aviation - www.dassault-aviation.com
 - DCNS - fr.dcnsgroup.com
@@ -66,6 +67,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Navocap - www.navocap.com
 - NDS - www.nds.com
 - Netgem - www.netgem.com
+- Novasparks - www.novasparks.com
 - OneAccess - www.oneaccess-net.com - Clamart
 - OpenPattern - www.openpattern.com
 - Ordissimo - www.ordissimo.com
@@ -103,3 +105,8 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - WizziLab - www.wizzilab.com
 - Wyplay - www.wyplay.com
 - Zodiac Aérospace - www.zodiacaerospace.com
+
+Autres secteurs
+---------------
+
+- CLS - www.cls.fr
