@@ -42,6 +42,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Evitech - www.evitech.com
 - Freebox
 - Galitt - www.galitt.fr
+- Gemalto - www.gemalto.com
 - Getraline - www.getraline.com
 - Goobie - www.goobie.fr
 - Greenhills - www.ghs.com
@@ -85,6 +86,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - SFR - www.sfr.com
 - SCHILLER Médical SAS - www.schiller.fr
 - Sigfox - www.sigfox.com
+- Sigma Designs - www.sigmadesigns.com
 - Smart Impulse - www.smart-impulse.com
 - SoftAtHome - www.softathome.com
 - ST-Ericsson - www.stericsson.com
