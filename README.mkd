@@ -8,3 +8,4 @@ monde de l'emploi et particulièrement au secteur des systèmes embarqués.
 - cabinets : liste de cabinets de recrutement.
 - societes : liste de sociétés (noSSII) en France et à l'étranger.
 
+www.yoannsculo.fr
