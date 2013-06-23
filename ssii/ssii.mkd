@@ -137,6 +137,7 @@
 - [Sopra Group](http://www.sopragroup.fr)
 - [SPC Consultants](http://www.spcconsultants.com)
 - [SQLI](http://www.sqli.com)
+- [Squad](http://www.squad.fr)
 - [Steria](http://www.steria.com)
 - [Synchrone Technologies](http://www.synchrone-technologies.fr)
 - [Systerel](http://systerel.fr)
