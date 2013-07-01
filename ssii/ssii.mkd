@@ -146,6 +146,7 @@
 - [Tenesea](http://www.tenesea.fr)
 - [Thalès Services](http://thalesgroup.com)
 - [Umanis](http://www.umanis.com)
+- [u-need](http://www.u-need.fr)
 - [UP Ingenierie](http://up-ingenierie.com)
 - [Up Technologies](http://www.uptechnologies.fr)
 - [Viveris Technologies](http://viveris.fr)
