@@ -52,6 +52,7 @@
 - [Business & Decision](http://www.businessdecision.fr)
 - [Capgemini](http://www.capgemini.com)
 - [Celad](http://celad.com)
+- [CGI](http://www.cgi.com)
 - [ClearSy](http://www.clearsy.com)
 - [Computacenter](http://www.computacenter.fr)
 - [Consept](http://www.consept.fr)
