@@ -30,6 +30,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Coyote - www.moncoyote.com
 - Dassault Aviation - www.dassault-aviation.com
 - DCNS - fr.dcnsgroup.com
+- DEF - www.def-online.com (Massy 91)
 - Delair-Tech - www.delair-tech.com
 - Devialet - www.devialet.com
 - EADS - www.eads.com
@@ -97,6 +98,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Sigfox - www.sigfox.com
 - Sigma Designs - www.sigmadesigns.com
 - Smart Impulse - www.smart-impulse.com
+- Smiirl - www.smiirl.com
 - SoftAtHome - www.softathome.com
 - ST-Ericsson - www.stericsson.com
 - STMicroelectronics - www.st.com
