@@ -25,6 +25,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Bull - www.bull.fr
 - CEA - www.cea.fr
 - CIELE INGENIERIE - www.ciele.fr
+- Cityzen Sciences - www.cityzensciences.fr (Lyon)
 - CNES - www.cnes.fr
 - Coyote - www.moncoyote.com
 - Dassault Aviation - www.dassault-aviation.com
@@ -32,9 +33,11 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Delair-Tech - www.delair-tech.com
 - Devialet - www.devialet.com
 - EADS - www.eads.com
+- EBV - www.ebv.fr (Saint Maur des Fossés 94)
 - ECA - www.ecagroup.com
 - Efixo - www.efixo.com
 - Eikeo - www.eikeo.com
+- Eliocity - www.xee.com
 - Em-Sys - www.em-sys.fr
 - ePawn - www.epawn.fr
 - eROCCA - www.erocca.com
@@ -47,6 +50,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Getraline - www.getraline.com
 - Goobie - www.goobie.fr
 - Greenhills - www.ghs.com
+- HAPILABS - www.hapilabs.com
 - Hubee - www.hubee.tv
 - HTTV - www.httv.fr
 - IBM
@@ -54,6 +58,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Interface Concept - www.interfaceconcept.com
 - Intel - www.intel.com (Open Source Technology Center)
 - IRIS-RFID - www.iris-rfid.com
+- IS2T - www.is2t.com (Nantes)
 - JCDecaux - www.jcdecaux.fr
 - JMI Tech - www.jmitech.fr
 - Joshfire - www.joshfire.com
@@ -76,6 +81,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - OpenPattern - www.openpattern.com
 - Ordissimo - www.ordissimo.com
 - Orpheo Group - www.ophrys.net
+- Oxylane - www.oxylane.com
 - Parrot - www.parrot.com
 - POB-Technology - www.pob-tech.com
 - Pragmatec - www.pragmatec.net
