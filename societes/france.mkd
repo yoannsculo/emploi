@@ -9,11 +9,13 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Aeta - www.aeta-audio.com - Plessis Robinson
 - Airinov - www.airinov.fr
 - Airtag - www.airtag.com
+- Alcatel-Lucent - www.alcatel-lucent.com
 - Aldebaran Robotics - www.aldebaran-robotics.com
 - Alpwise - www.alpwise.com
 - Alstom - www.alstom.com
 - Anaveo - www.anaveo.com
 - Archos - www.archos.com
+- Arianespace - www.arianespace.com
 - Arm - www.arm.com
 - Atmel - www.atmel.com
 - Ateme - www.ateme.com
@@ -23,6 +25,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Bookeen - www.bookeen.com/fr
 - BrightLoop - www.brightloop.fr
 - Bull - www.bull.fr
+- Carri - www.carri.fr (Noisy-le-Sec)
 - CEA - www.cea.fr
 - CIELE INGENIERIE - www.ciele.fr
 - Cityzen Sciences - www.cityzensciences.fr (Lyon)
@@ -77,6 +80,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - NDS - www.nds.com
 - Netgem - www.netgem.com
 - Novasparks - www.novasparks.com
+- Netatmo - www.netatmo.com (Boulogne-Billancourt)
 - Oberthur Technologies - www.oberthur.com
 - OneAccess - www.oneaccess-net.com - Clamart
 - OpenPattern - www.openpattern.com
@@ -87,6 +91,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - POB-Technology - www.pob-tech.com
 - Pragmatec - www.pragmatec.net
 - PSA - www.psa-peugeot-citroen.com
+- Qarnot computing - www.qarnot-computing.com (Paris / Montrouge)
 - Quietty - www.quietty.com
 - ReaDIYmate - www.readiymate.com
 - Safran - www.safran-group.com
@@ -95,10 +100,12 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Sefi - www.sefi.net
 - SFR - www.sfr.com
 - SCHILLER Médical SAS - www.schiller.fr
+- Schneider Electric - www.schneider-electric.com
 - Sigfox - www.sigfox.com
 - Sigma Designs - www.sigmadesigns.com
 - Smart Impulse - www.smart-impulse.com
 - Smiirl - www.smiirl.com
+- Soitec - www.soitec.com
 - SoftAtHome - www.softathome.com
 - ST-Ericsson - www.stericsson.com
 - STMicroelectronics - www.st.com
@@ -113,6 +120,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Viaccess - www.viaccess.com
 - Vitec - www.vitecmm.com
 - Viotec - www.viotech.net
+- Wiko - www.wikomobile.com
 - Wind River - www.windriver.com
 - Withings - www.withings.fr
 - WizziLab - www.wizzilab.com
