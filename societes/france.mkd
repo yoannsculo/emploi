@@ -27,6 +27,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Bookeen - www.bookeen.com/fr
 - BrightLoop - www.brightloop.fr
 - Bull - www.bull.fr
+- Calao Systems - www.calao-systems.com (Saint Martin le Vinoux, 38)
 - Carri - www.carri.fr (Noisy-le-Sec)
 - CEA - www.cea.fr
 - CIELE INGENIERIE - www.ciele.fr
@@ -102,7 +103,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - ReaDIYmate - www.readiymate.com
 - Red Bend - www.redbend.com (Saint-Quentin-en-Yvelines, 78)
 - Safran - www.safran-group.com
-- Sagemcom - www.sagemcom.com
+- Sagemcom - www.sagemcom.com (Rueil-Malmaison, 92)
 - Sequans - www.sequans.com
 - Sefi - www.sefi.net
 - SFR - www.sfr.com
