@@ -66,6 +66,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - iFeelSmart - www.ifeelsmart.com
 - Interface Concept - www.interfaceconcept.com
 - Intel - www.intel.com (Open Source Technology Center)
+- invoxia - www.invoxia.com
 - IRIS-RFID - www.iris-rfid.com
 - IS2T - www.is2t.com (Nantes)
 - JCDecaux - www.jcdecaux.fr
@@ -104,6 +105,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Red Bend - www.redbend.com (Saint-Quentin-en-Yvelines, 78)
 - Safran - www.safran-group.com
 - Sagemcom - www.sagemcom.com (Rueil-Malmaison, 92)
+- Sen.se - sen.se
 - Sequans - www.sequans.com
 - Sefi - www.sefi.net
 - SFR - www.sfr.com
@@ -127,6 +129,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Terraillon - www.terraillon.fr (CROISSY-SUR-SEINE, 78)
 - Thalès - www.thalesgroup.com
 - Trimble - www.trimble.com
+- UrbanHello - www.urbanhello.com (Paris, 75)
 - Valeo - www.valeo.com
 - Vehco - www.vehco.fr
 - Viaccess - www.viaccess.com
