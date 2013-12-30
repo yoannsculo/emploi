@@ -8,6 +8,14 @@ monde de l'emploi et particulièrement au secteur des systèmes embarqués.
 - cabinets : liste de cabinets de recrutement.
 - societes : liste de sociétés (noSSII) en France et à l'étranger.
 
+###SSII
+
+Figurent dans cette liste les sociétés de service, au sens étymologique du terme, qui fournissent un service via des consultants.
+Quand bien même elles fonctionneraient en partie ou intégralement au forfait.
+Cette liste se veut la plus objective possible et a pour seul but de lister de façon neutre toutes les sociétés de services de France.
+
+[En savoir plus](http://www.yoannsculo.fr/quelques-precisions-sur-ma-liste-de-ssii)
+
 ### Licence
 
 Ces données de Yoann Sculo sont mises à disposition selon les termes de la licence
