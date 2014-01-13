@@ -1,0 +1,1696 @@
+{
+    "companies": [
+        {
+            "name": "23 de Enero",
+            "url": "http://www.23-de-enero.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 Rue Ambroise Thomas, 75009 Paris, France",
+                    "gps_coordinates": "48.87465/2.34724"
+                }
+            ]
+        },
+        {
+            "name": "6Wind",
+            "url": "http://www.6wind.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Central Gare, Bat A, 1, place Charles de Gaulle, 78180 Montigny-le-Bretonneux, France",
+                    "gps_coordinates": "48.78651/2.04526"
+                }
+            ]
+        },
+        {
+            "name": "AETA AUDIO Systems",
+            "url": "http://www.aeta-audio.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technologique - Kepler 4, 18-22, avenue Edouard Herriot, 92350 Le Plessis Robinson, France",
+                    "gps_coordinates": "48.78379/2.25212"
+                }
+            ]
+        },
+        {
+            "name": "Airinov",
+            "url": "http://www.airinov.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "48 Rue René Clair, 75018 Paris, France",
+                    "gps_coordinates": "48.89384/2.35371"
+                }
+            ]
+        },
+        {
+            "name": "Airtag",
+            "url": "http://www.airtag.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": " 1 Villa le Mesnil, 92320 Châtillon",
+                    "gps_coordinates": "48.80812/2.29695"
+                }
+            ]
+        },
+        {
+            "name": "Alcatel-Lucent",
+            "url": "http://www.alcatel-lucent.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Aldebaran Robotics",
+            "url": "http://www.aldebaran-robotics.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.83009/2.31017"
+                }
+            ]
+        },
+        {
+            "name": "Alpwise",
+            "url": "http://www.alpwise.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Alstom",
+            "url": "http://www.alstom.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Anaveo",
+            "url": "http://www.anaveo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Archos",
+            "url": "http://www.archos.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.72963/2.23505"
+                }
+            ]
+        },
+        {
+            "name": "Arianespace",
+            "url": "http://www.arianespace.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Arm",
+            "url": "http://www.arm.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Armadeus Systems",
+            "url": "http://www.armadeus.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Atmel",
+            "url": "http://www.atmel.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Ateme",
+            "url": "http://www.ateme.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Awox",
+            "url": "http://www.awox.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "BBright",
+            "url": "http://www.bbright.com (Rennes, 35)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Bertin Technologies",
+            "url": "http://www.bertin.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Bertrandt",
+            "url": "http://www.bertrandt.com/fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Bookeen",
+            "url": "http://www.bookeen.com/fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.82281/2.35887"
+                }
+            ]
+        },
+        {
+            "name": "BrightLoop",
+            "url": "http://www.brightloop.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Bull",
+            "url": "http://www.bull.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Calao Systems",
+            "url": "http://www.calao-systems.com (Saint Martin le Vinoux, 38)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Carri",
+            "url": "http://www.carri.fr (Noisy-le-Sec)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "CEA",
+            "url": "http://www.cea.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "CIELE INGENIERIE",
+            "url": "http://www.ciele.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Cityzen Sciences",
+            "url": "http://www.cityzensciences.fr (Lyon)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "CNES",
+            "url": "http://www.cnes.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Continental",
+            "url": "http://www.conti-online.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Coyote",
+            "url": "http://www.moncoyote.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Dassault Aviation",
+            "url": "http://www.dassault-aviation.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "DCNS",
+            "url": "http://fr.dcnsgroup.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "DEF",
+            "url": "http://www.def-online.com (Massy 91)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Delair-Tech",
+            "url": "http://www.delair-tech.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Demand Side Instruments",
+            "url": "http://www.dsinstruments.fr (Colombelles, 14)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Devialet",
+            "url": "http://www.devialet.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "EADS",
+            "url": "http://www.eads.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "EBV",
+            "url": "http://www.ebv.fr (Saint Maur des Fossés 94)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "ECA",
+            "url": "http://www.ecagroup.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Efixo",
+            "url": "http://www.efixo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Eikeo",
+            "url": "http://www.eikeo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Eliocity",
+            "url": "http://www.xee.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Em-Sys",
+            "url": "http://www.em-sys.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "ePawn",
+            "url": "http://www.epawn.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "eROCCA",
+            "url": "http://www.erocca.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Eukrea",
+            "url": "http://www.eukrea.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Evigroup",
+            "url": "http://www.evi-group.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Evitech",
+            "url": "http://www.evitech.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Expway",
+            "url": "http://www.expway.com (Paris, 75)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Freebox",
+            "url": "http://",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.87141/2.32119"
+                }
+            ]
+        },
+        {
+            "name": "Galitt",
+            "url": "http://www.galitt.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Gemalto",
+            "url": "http://www.gemalto.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Getraline",
+            "url": "http://www.getraline.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Goobie",
+            "url": "http://www.goobie.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Greenhills",
+            "url": "http://www.ghs.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "HAPILABS",
+            "url": "http://www.hapilabs.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "HITRONETIC",
+            "url": "http://www.hitronetic.com (Paris 13eme)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Hubee",
+            "url": "http://www.hubee.tv",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "HTTV",
+            "url": "http://www.httv.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "IBM",
+            "url": "http://",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "iFeelSmart",
+            "url": "http://www.ifeelsmart.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Prine, 110 rue des Poissonniers - 75018 Paris, France",
+                    "gps_coordinates": "48.89369/2.35425"
+                }
+            ]
+        },
+        {
+            "name": "Interface Concept",
+            "url": "http://www.interfaceconcept.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Intel",
+            "url": "http://www.intel.com (Open Source Technology Center)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "invoxia",
+            "url": "http://www.invoxia.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "IRIS-RFID",
+            "url": "http://www.iris-rfid.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "IS2T",
+            "url": "http://www.is2t.com (Nantes)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "JCDecaux",
+            "url": "http://www.jcdecaux.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.7996/1.9466"
+                }
+            ]
+        },
+        {
+            "name": "JMI Tech",
+            "url": "http://www.jmitech.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Joshfire",
+            "url": "http://www.joshfire.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Kalray",
+            "url": "http://www.kalray.eu",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Klervi",
+            "url": "http://www.klervi.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "LaCie",
+            "url": "http://www.lacie.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.83764/2.27302"
+                }
+            ]
+        },
+        {
+            "name": "Legrand",
+            "url": "http://www.legrand.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Luceor",
+            "url": "http://www.luceor.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Memup",
+            "url": "http://www.memup.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Mobile Devices Ingenierie",
+            "url": "http://www.mobile-devices.com (Villejuif, 94)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Modulowatt",
+            "url": "http://www.modulowatt.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Montavista",
+            "url": "http://www.mvista.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "MotionTree",
+            "url": "http://www.motiontree.net (Paris, 75)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Myriad Group",
+            "url": "http://www.myriadgroup.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Naïo-Technologies",
+            "url": "http://www.naio-technologies.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Navocap",
+            "url": "http://www.navocap.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "NDS",
+            "url": "http://www.nds.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Netgem",
+            "url": "http://www.netgem.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Novasparks",
+            "url": "http://www.novasparks.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Netatmo",
+            "url": "http://www.netatmo.com (Boulogne-Billancourt)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Oberthur Technologies",
+            "url": "http://www.oberthur.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "OneAccess",
+            "url": "http://www.oneaccess-net.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "OpenPattern",
+            "url": "http://www.openpattern.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Ordissimo",
+            "url": "http://www.ordissimo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Orpheo Group",
+            "url": "http://www.ophrys.net",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Oxylane",
+            "url": "http://www.oxylane.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Padways",
+            "url": "http://www.pad-ways.com (Ramonville, 31)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Parrot",
+            "url": "http://www.parrot.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.87893/2.36774"
+                }
+            ]
+        },
+        {
+            "name": "POB-Technology",
+            "url": "http://www.pob-tech.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Pragmatec",
+            "url": "http://www.pragmatec.net",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "PSA",
+            "url": "http://www.psa-peugeot-citroen.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Qarnot computing",
+            "url": "http://www.qarnot-computing.com (Paris / Montrouge)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Qivivo",
+            "url": "http://www.qivivo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "47.21406/-1.55936"
+                }
+            ]
+        },
+        {
+            "name": "Quietty",
+            "url": "http://www.quietty.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "ReaDIYmate",
+            "url": "http://www.readiymate.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Red Bend",
+            "url": "http://www.redbend.com (Saint-Quentin-en-Yvelines, 78)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Safran",
+            "url": "http://www.safran-group.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sagemcom",
+            "url": "http://www.sagemcom.com (Rueil-Malmaison, 92)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sen.se",
+            "url": "http://sen.se",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sequans",
+            "url": "http://www.sequans.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sefi",
+            "url": "http://www.sefi.net",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "SFR",
+            "url": "http://www.sfr.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "SCHILLER Médical SAS",
+            "url": "http://www.schiller.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Schneider Electric",
+            "url": "http://www.schneider-electric.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sigfox",
+            "url": "http://www.sigfox.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "43.54366/1.51111"
+                }
+            ]
+        },
+        {
+            "name": "Sigma Designs",
+            "url": "http://www.sigmadesigns.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Smart Impulse",
+            "url": "http://www.smart-impulse.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "48 rue René Clair - 75018 Paris, France",
+                    "gps_coordinates": "48.89385/2.35428"
+                }
+            ]
+        },
+        {
+            "name": "Smiirl",
+            "url": "http://www.smiirl.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Soitec",
+            "url": "http://www.soitec.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "SoftAtHome",
+            "url": "http://www.softathome.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "ST-Ericsson",
+            "url": "http://www.stericsson.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "STMicroelectronics",
+            "url": "http://www.st.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Synopsys",
+            "url": "http://www.synopsys.com (Wissous, 91)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "SysPlug",
+            "url": "http://sysplug.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sysgo",
+            "url": "http://www.sysgo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Taztag",
+            "url": "http://www.taztag.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Tea Ebook",
+            "url": "http://www.tea-ebook.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Technicolor",
+            "url": "http://www.technicolor.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Telorion",
+            "url": "http://www.telorion.com (Paris, 75)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Terraillon",
+            "url": "http://www.terraillon.fr (CROISSY-SUR-SEINE, 78)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Thalès",
+            "url": "http://www.thalesgroup.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Trimble",
+            "url": "http://www.trimble.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "UrbanHello",
+            "url": "http://www.urbanhello.com (Paris, 75)",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Valeo",
+            "url": "http://www.valeo.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Vehco",
+            "url": "http://www.vehco.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Viaccess",
+            "url": "http://www.viaccess.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Vitec",
+            "url": "http://www.vitecmm.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Viotec",
+            "url": "http://www.viotech.net",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Wiko",
+            "url": "http://www.wikomobile.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Wind River",
+            "url": "http://www.windriver.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Withings",
+            "url": "http://www.withings.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "WizziLab",
+            "url": "http://www.wizzilab.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Wyplay",
+            "url": "http://www.wyplay.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Zodiac Aérospace",
+            "url": "http://www.zodiacaerospace.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": "48.80115/1.98414"
+                }
+            ]
+        }
+    ]
+}
