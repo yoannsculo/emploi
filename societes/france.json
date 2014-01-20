@@ -27,7 +27,7 @@
         {
             "name": "AETA AUDIO Systems",
             "url": "http://www.aeta-audio.com",
-            "description": "",
+            "description": "Portable sound recording units, mixers and advanced audio codecs",
             "locations": [
                 {
                     "name": "",
@@ -39,7 +39,7 @@
         {
             "name": "Airinov",
             "url": "http://www.airinov.fr",
-            "description": "",
+            "description": "Automated aerial cartography",
             "locations": [
                 {
                     "name": "",
@@ -75,7 +75,7 @@
         {
             "name": "Aldebaran Robotics",
             "url": "http://www.aldebaran-robotics.com",
-            "description": "",
+            "description": "Robots",
             "locations": [
                 {
                     "name": "",
@@ -87,12 +87,12 @@
         {
             "name": "Alpwise",
             "url": "http://www.alpwise.com",
-            "description": "",
+            "description": "Wireless solutions: Bluetooth and Bluetooth low energy products.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4 Avenue Doyen Louis Weil 38000 GRENOBLE",
+                    "gps_coordinates": "45.19194/5.71290"
                 }
             ]
         },
@@ -111,23 +111,23 @@
         {
             "name": "Anaveo",
             "url": "http://www.anaveo.com",
-            "description": "",
+            "description": "Video surveillance systems",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "Anaveo - Siège social",
+                    "postal_address": "Les Carrés du Parc, 10, rue des Rosiéristes, 69410 Champagne au Mont d’Or",
+                    "gps_coordinates": "45.80443/4.77971"
                 }
             ]
         },
         {
             "name": "Archos",
             "url": "http://www.archos.com",
-            "description": "",
+            "description": "Tablets, Smartphones, Home Automation",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "12, rue Ampère 91430 Igny",
                     "gps_coordinates": "48.72963/2.23505"
                 }
             ]
@@ -159,12 +159,12 @@
         {
             "name": "Armadeus Systems",
             "url": "http://www.armadeus.com",
-            "description": "",
+            "description": "Electronic board, software and FPGA firmware development",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Business Campus, 15, rue des Frères Lumière, 68100 Mulhouse",
+                    "gps_coordinates": "47.72706/7.30761"
                 }
             ]
         },
@@ -183,12 +183,12 @@
         {
             "name": "Ateme",
             "url": "http://www.ateme.com",
-            "description": "",
+            "description": "Advanced video compression for the broadcast and telecom industries",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "26 Burospace - Route de Gisy 91570 Bièvres",
+                    "gps_coordinates": "48.76520/2.21591"
                 }
             ]
         },
@@ -234,16 +234,31 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "Bertrandt SAS",
+                    "description": "Complete vehicle architectures, bodies-in-white, interiors and exteriors, chassis, powertrains and, since 2007, electronics development and design.",
+                    "postal_address": "Burospace Bât. 10 Route de Gisy B.P. 35, 91572 Bièvres CEDEX",
+                    "gps_coordinates": "48.76625/2.21881"
+                },
+                {
+                    "name": "Bertrandt France S.A.",
+                    "description": "Integrated solutions for the aircraft industry",
+                    "postal_address": "17, Avenue Didier Daurat CS 10051 Immeuble SOCRATE 31702 Blagnac Cedex",
+                    "gps_coordinates": "43.63057/1.37895"
+                },
+                {
+                    "name": "Bertrandt SAS Betriebsstätte",
+                    "description": "Complete vehicle architectures, bodies-in-white, interiors and exteriors, chassis, powertrains and, since 2007, electronics development and design.",
+                    "postal_address": "10, rue Frédéric Japy Immeuble Le Quasar 2 ZAC Val Parc 25200 Montbéliard",
+                    "gps_coordinates": "47.50279/6.81914"
                 }
+
+
             ]
         },
         {
             "name": "Bookeen",
             "url": "http://www.bookeen.com/fr",
-            "description": "",
+            "description": "E-readers",
             "locations": [
                 {
                     "name": "",
@@ -867,7 +882,7 @@
         {
             "name": "LaCie",
             "url": "http://www.lacie.com",
-            "description": "",
+            "description": "External hard drives, NAS, RAID arrays, Flash Drives, and computer monitors.",
             "locations": [
                 {
                     "name": "",
@@ -1359,7 +1374,7 @@
         {
             "name": "Smart Impulse",
             "url": "http://www.smart-impulse.com",
-            "description": "",
+            "description": "Building power consumption measurement",
             "locations": [
                 {
                     "name": "",
