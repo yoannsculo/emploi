@@ -957,6 +957,17 @@
                 }
             ]
         },
+	{
+            "name": "Kolibree",
+            "url": "http://www.kolibree.com",
+            "description": "connected electric toothbrush",
+            "locations": [
+                {
+                    "postal_address": "Radioline - 1, rue Garnier 92200 Neuilly Sur Seine",
+                    "gps_coordinates": "48.88566/2.26056"
+                }
+            ]
+        },
         {
             "name": "LaCie",
             "url": "http://www.lacie.com",
@@ -1211,6 +1222,17 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Optinvent",
+            "url": "http://optinvent.com/",
+            "description": "Eyewear products",
+            "locations": [
+                {
+                    "postal_address": "80 Avenue des Buttes de Coësmes 35700 RENNES",
+                    "gps_coordinates": "48.12571/-1.62936"
                 }
             ]
         },
