@@ -195,12 +195,12 @@
         {
             "name": "Awox",
             "url": "http://www.awox.com",
-            "description": "",
+            "description": "Multimedia interconnection technologies for Smart TVs, smartphones, and tablets.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "93, Place Pierre Duhem, 34000 Montpellier",
+                    "gps_coordinates": "43.60695/3.91461"
                 }
             ]
         },
@@ -211,8 +211,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "80, Avenue des Buttes de Coësmes 35700 Rennes",
+                    "gps_coordinates": "48.12563/-1.62918"
                 }
             ]
         },
@@ -262,7 +262,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "27 Rue de la Vistule, 75013 Paris",
                     "gps_coordinates": "48.82281/2.35887"
                 }
             ]
@@ -270,12 +270,12 @@
         {
             "name": "BrightLoop",
             "url": "http://www.brightloop.fr",
-            "description": "",
+            "description": "Development of custom power supplies with digital control",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "221 Boulevard Davout 75020 Paris",
+                    "gps_coordinates": "48.86371/2.40850"
                 }
             ]
         },
@@ -293,25 +293,25 @@
         },
         {
             "name": "Calao Systems",
-            "url": "http://www.calao-systems.com (Saint Martin le Vinoux, 38)",
-            "description": "",
+            "url": "http://www.calao-systems.com",
+            "description": "Embedded and secure computers, smart gateways.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Le Magistère 2 334, rue des 20 Toises 38950 Saint Martin le Vinoux",
+                    "gps_coordinates": "45.21307/5.68746"
                 }
             ]
         },
         {
-            "name": "Carri",
-            "url": "http://www.carri.fr (Noisy-le-Sec)",
-            "description": "",
+            "name": "CARRI Systems",
+            "url": "http://www.carri.fr",
+            "description": "High performance computer systems.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "36 avenue de Bobigny 93130 Noisy-le-sec",
+                    "gps_coordinates": "48.89412/2.44871"
                 }
             ]
         },
@@ -328,38 +328,50 @@
             ]
         },
         {
+            "name": "Cloud Guys Corporation",
+            "url": "http://meetlima.com",
+            "description": "Data storage solutions",
+            "locations": [
+                {
+                    "name": "Lima France",
+                    "postal_address": "61 rue de Sevres 92410 Ville d'Avray",
+                    "gps_coordinates": "48.82615/2.19593"
+                }
+            ]
+        },
+        {
             "name": "CIELE INGENIERIE",
             "url": "http://www.ciele.fr",
-            "description": "",
+            "description": "Research & Development for electronic and embedded software systems",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "135 Chemin des bassins 94000 CRETEIL",
+                    "gps_coordinates": "48.76289/2.46823"
                 }
             ]
         },
         {
             "name": "Cityzen Sciences",
             "url": "http://www.cityzensciences.fr (Lyon)",
-            "description": "",
+            "description": "Smart textiles conception and development",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "208 rue Garibaldi 69003 Lyon",
+                    "gps_coordinates": "45.75856/4.85225"
                 }
             ]
         },
         {
             "name": "CNES",
             "url": "http://www.cnes.fr",
-            "description": "",
+            "description": "Véhicules et les systèmes spatiaux complets (satellites, sondes, ballons) ",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "Centre spatial de Toulouse",
+                    "postal_address": "Centre spatial de Toulouse 18 avenue Edouard Belin 31 401 TOULOUSE CEDEX 9",
+                    "gps_coordinates": "43.56187/1.48163"
                 }
             ]
         },
@@ -378,12 +390,12 @@
         {
             "name": "Coyote",
             "url": "http://www.moncoyote.com",
-            "description": "",
+            "description": "Real-time GPS speed camera alert system",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "5 rue Salomon de Rothschild, 92150 Suresnes",
+                    "gps_coordinates": "48.87367/2.23318"
                 }
             ]
         },
@@ -413,25 +425,25 @@
         },
         {
             "name": "DEF",
-            "url": "http://www.def-online.com (Massy 91)",
-            "description": "",
+            "url": "http://www.def-online.com",
+            "description": "fire safety systems",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Sise Parc d'Activités du Moulin - 9, rue du Saule Trapu - 91300 Massy",
+                    "gps_coordinates": "48.72800/2.30081"
                 }
             ]
         },
         {
             "name": "Delair-Tech",
             "url": "http://www.delair-tech.com",
-            "description": "",
+            "description": "Solutions for aerial observation for industrial and agricultural sectors",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Pépinière d’entreprises de Montaudran 3, avenue Didier Daurat 31400 TOULOUSE",
+                    "gps_coordinates": "43.56314/1.49194"
                 }
             ]
         },
