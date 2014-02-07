@@ -109,6 +109,18 @@
             ]
         },
         {
+            "name": "Altis Semiconductor",
+            "url": "http://www.altissemiconductor.com",
+            "description": "Semiconductor foundry",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "224, Bd John Kennedy 91105 Corbeil Essonnes Cedex, France",
+                    "gps_coordinates": "48.5711/2.4745"
+                }
+            ]
+        },
+        {
             "name": "Anaveo",
             "url": "http://www.anaveo.com",
             "description": "Video surveillance systems",
@@ -193,6 +205,18 @@
             ]
         },
         {
+            "name": "Awabot SAS",
+            "url": "http://www.awabot.com",
+            "description": "Robotics",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue Docteur Fleury Papillon 69100 Villeurbanne",
+                    "gps_coordinates": "45.76459/4.88350"
+                }
+            ]
+        },
+        {
             "name": "Awox",
             "url": "http://www.awox.com",
             "description": "Multimedia interconnection technologies for Smart TVs, smartphones, and tablets.",
@@ -205,8 +229,20 @@
             ]
         },
         {
+            "name": "Balyo",
+            "url": "http://www.balyo.com",
+            "description": "Robotic solutions for the automated transport of pallets",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "240 rue de la Motte 77550 Moissy-Cramayel, France",
+                    "gps_coordinates": "48.63127/2.57075"
+                }
+            ]
+        },
+        {
             "name": "BBright",
-            "url": "http://www.bbright.com (Rennes, 35)",
+            "url": "http://www.bbright.com",
             "description": "",
             "locations": [
                 {
@@ -450,24 +486,24 @@
         {
             "name": "Demand Side Instruments",
             "url": "http://www.dsinstruments.fr (Colombelles, 14)",
-            "description": "",
+            "description": "Demand side management for energy networks",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "2 Esplanade Anton Philips 14460 Colombelles",
+                    "gps_coordinates": "49.18747/-0.30927"
                 }
             ]
         },
         {
             "name": "Devialet",
             "url": "http://www.devialet.com",
-            "description": "",
+            "description": "Integrated amplifiers",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "126 Rue Réaumur, 75002 Paris",
+                    "gps_coordinates": "48.86821/2.34395"
                 }
             ]
         },
@@ -485,8 +521,8 @@
         },
         {
             "name": "EBV",
-            "url": "http://www.ebv.fr (Saint Maur des Fossés 94)",
-            "description": "",
+            "url": "http://www.ebv.fr",
+            "description": "PDA, passive and active RFID components",
             "locations": [
                 {
                     "name": "",
@@ -522,48 +558,48 @@
         {
             "name": "Eikeo",
             "url": "http://www.eikeo.com",
-            "description": "",
+            "description": "Video signage, Industrial IT and electronics and wireless networks",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "11 rue Léon Jouhaux 75010 PARIS",
+                    "gps_coordinates": "48.86944/2.36487"
                 }
             ]
         },
         {
             "name": "Eliocity",
             "url": "http://www.xee.com",
-            "description": "",
+            "description": "Solutions Technologiques pour l'Automobile et la Mobilité",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Parc de l'innovation 1 rue de Menin 59520 Marquette-Lez-Lille",
+                    "gps_coordinates": "50.67817/3.08204"
                 }
             ]
         },
         {
             "name": "Em-Sys",
             "url": "http://www.em-sys.fr",
-            "description": "",
+            "description": "Digital Multimedia Application Development Services",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
+                    "gps_coordinates": "45.18752/5.77576"
                 }
             ]
         },
         {
             "name": "ePawn",
             "url": "http://www.epawn.fr",
-            "description": "",
+            "description": "Interactive table with real-world objects",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "80, rue des haies 75020 Paris",
+                    "gps_coordinates": "48.85482/2.40359"
                 }
             ]
         },
@@ -574,20 +610,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "196 RUE DE LA ROCHE DE LORZIER PARC CENTR'ALP 38430 MOIRANS ",
+                    "gps_coordinates": "45.32076/5.59245"
                 }
             ]
         },
         {
-            "name": "Eukrea",
+            "name": "Eukrea Electromatique",
             "url": "http://www.eukrea.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "74 avenue Jean Jaurès 33 600 PESSAC",
+                    "gps_coordinates": "44.80858/-0.62428"
                 }
             ]
         },
@@ -598,8 +634,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4 avenue de l'Opéra, 75001 Paris",
+                    "gps_coordinates": "48.86422/2.33532"
                 }
             ]
         },
@@ -610,31 +646,31 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "7 rue Léonard de VINCI, 92160 Antony",
+                    "gps_coordinates": "48.74064/2.31572"
                 }
             ]
         },
         {
             "name": "Expway",
-            "url": "http://www.expway.com (Paris, 75)",
+            "url": "http://www.expway.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "44 Rue la Fayette, 75009 Paris",
+                    "gps_coordinates": "48.87471/2.33995"
                 }
             ]
         },
         {
             "name": "Freebox",
-            "url": "http://",
-            "description": "",
+            "url": "http://www.free.fr",
+            "description": "Set-top box",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "8 rue de la ville l'Eveque 75008 Paris",
                     "gps_coordinates": "48.87141/2.32119"
                 }
             ]
@@ -646,9 +682,15 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "17 route de la Reine 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83864/2.24959"
+                },
+                {
+                    "name": "",
+                    "postal_address": "11 rue des Paluds ZI du Barnier 34110 Frontignan",
+                    "gps_coordinates": "43.46414/3.76760"
                 }
+
             ]
         },
         {
@@ -670,8 +712,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "15 rue Angiviller, 78000 VERSAILLES",
+                    "gps_coordinates": "48.81051/2.12837"
                 }
             ]
         },
@@ -682,8 +724,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": " 23 Avenue Louis Breguet 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.78112/2.18391"
                 }
             ]
         },
@@ -694,8 +736,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4, rue de la Pierre Levée 75011 Paris France",
+                    "gps_coordinates": "48.86659/2.37113"
                 }
             ]
         },
@@ -713,13 +755,13 @@
         },
         {
             "name": "HITRONETIC",
-            "url": "http://www.hitronetic.com (Paris 13eme)",
+            "url": "http://www.hitronetic.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "63 bd Masséna 75013 PARIS FRANCE",
+                    "gps_coordinates": "48.82189/2.37108"
                 }
             ]
         },
@@ -730,8 +772,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4bis rue St Sauveur 75002 PARIS",
+                    "gps_coordinates": "48.86592/2.34966"
                 }
             ]
         },
@@ -742,9 +784,15 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "7, chemin du Vieux Chêne 38240 MEYLAN",
+                    "gps_coordinates": "45.20723/5.78416"
+                },
+                {
+                    "name": "",
+                    "postal_address": "89, rue du Gouverneur Général Eboué 92130 ISSY LES MOULINEAUX",
+                    "gps_coordinates": "48.82448/2.26511"
                 }
+
             ]
         },
         {
@@ -778,8 +826,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "3, rue Félix Le Dantec 29000 QUIMPER",
+                    "gps_coordinates": "47.97869/-4.10503"
                 }
             ]
         },
@@ -802,8 +850,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "87 Rue du Gouverneur Général Eboué, Issy-les-Moulineaux",
+                    "gps_coordinates": "48.82447/2.26502"
                 }
             ]
         },
@@ -814,20 +862,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Technopôle Brest Iroise 295 avenue Alexis De Rochon, 29280 Plouzané, France",
+                    "gps_coordinates": "48.35970/-4.56535"
                 }
             ]
         },
         {
             "name": "IS2T",
-            "url": "http://www.is2t.com (Nantes)",
+            "url": "http://www.is2t.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
+                    "gps_coordinates": "47.25263/-1.51155"
                 }
             ]
         },
@@ -838,7 +886,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "Avenue de Sainte-Apolline, 78370 Plaisir",
                     "gps_coordinates": "48.7996/1.9466"
                 }
             ]
@@ -862,8 +910,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "100 rue de la Folie Méricourt 75011 Paris",
+                    "gps_coordinates": "48.86756/2.36957"
                 }
             ]
         },
@@ -874,8 +922,26 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "86, rue de Paris 91400 Orsay",
+                    "gps_coordinates": "48.69563/2.19648"
+                },
+                {
+                    "name": "",
+                    "postal_address": "445, rue Lavoisier, 38330 Montbonnot Saint Martin",
+                    "gps_coordinates": "45.21638/5.81382"
+                }
+
+            ]
+        },
+        {
+            "name": "Keecker",
+            "url": "http://www.keecker.com",
+            "description": "Connected robot for home entertainment and more",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9 rue Bleue, 75009, Paris",
+                    "gps_coordinates": "48.87581/2.34681"
                 }
             ]
         },
@@ -886,8 +952,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "21 rue Alfred de Musset 69100 Villeurbanne",
+                    "gps_coordinates": "45.75731/4.91667"
                 }
             ]
         },
@@ -910,8 +976,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "128 avenue du Maréchal de Lattre de Tassigny 87045 Limoges",
+                    "gps_coordinates": "45.82484/1.27764"
+                }
+            ]
+        },
+        {
+            "name": "Lotsys",
+            "url": "http://www.lotsys.com/",
+            "description": "Customized solutions for gaming",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Rue Salomon de Rothschild, 92150 Suresnes",
+                    "gps_coordinates": "48.87400/2.23358"
                 }
             ]
         },
@@ -922,8 +1000,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "2, place Jules Gévelot 92138 Issy-les-Moulineaux",
+                    "gps_coordinates": "48.82162/2.25236"
                 }
             ]
         },
@@ -946,8 +1024,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "100 Avenue de Stalingrad 94800 Villejuif – France",
+                    "gps_coordinates": "48.78380/2.36663"
                 }
             ]
         },
@@ -958,8 +1036,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "64bis, avenue de New York 75016 Paris",
+                    "gps_coordinates": "48.85825/2.28805"
                 }
             ]
         },
@@ -977,13 +1055,13 @@
         },
         {
             "name": "MotionTree",
-            "url": "http://www.motiontree.net (Paris, 75)",
+            "url": "http://www.motiontree.net",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "46  rue René Clair Immeuble Paris Région Innovation Nord Express Bureau 506 – 5ème étage 75892 PARIS CEDEX 18",
+                    "gps_coordinates": "48.89418/2.35407"
                 }
             ]
         },
@@ -994,8 +1072,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Les Saisons 4, Place des Saisons 92400 Courbevoie Cedex Paris - La Defense 1",
+                    "gps_coordinates": "48.88927/2.25220"
                 }
             ]
         },
@@ -1006,8 +1084,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
+                    "gps_coordinates": "43.56312/1.49186"
                 }
             ]
         },
@@ -1018,20 +1096,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "11 rue de Savoie 31330 Merville",
+                    "gps_coordinates": "43.72142/1.32597"
                 }
             ]
         },
         {
-            "name": "NDS",
+            "name": "Cisco Systems France (ex NDS)",
             "url": "http://www.nds.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "11, rue Camille Desmoulins 92782 Issy les Moulineaux Cedex 9",
+                    "gps_coordinates": "48.83034/2.26597"
                 }
             ]
         },
@@ -1042,8 +1120,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "27, rue d'Orléans 92200 Neuilly sur Seine",
+                    "gps_coordinates": "48.88296/2.27311"
                 }
             ]
         },
@@ -1054,21 +1132,44 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "12 Rue de Châtillon 75014 Paris",
+                    "gps_coordinates": "48.82759/2.32377"
                 }
             ]
         },
         {
             "name": "Netatmo",
-            "url": "http://www.netatmo.com (Boulogne-Billancourt)",
+            "url": "http://www.netatmo.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "17 route de la reine 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83859/2.24946"
+                }
+            ]
+        },
+        {
+            "name": "NXP Semiconductors",
+            "url": "",
+            "description": "Semiconductors",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 rue du port aux Vins 92150 Suresnes",
+                    "gps_coordinates": "48.87007/2.23086"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Caen",
+                    "gps_coordinates": ""
+                },
+                {
+                    "name": "",
+                    "postal_address": "Sophia-Antipolis",
                     "gps_coordinates": ""
                 }
+
             ]
         },
         {
@@ -1090,9 +1191,15 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Pentagone Plaza 381 Avenue du Général de Gaulle 92140 Clamart",
+                    "gps_coordinates": "48.78165/2.24292"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2455 Route des Dolines, BP 355 06906 Sophia-Antipolis",
+                    "gps_coordinates": "43.62643/7.05014"
                 }
+
             ]
         },
         {
@@ -1114,8 +1221,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "33, avenue Léon Gambetta 92120 montrouge",
+                    "gps_coordinates": "48.81397/2.32236"
                 }
             ]
         },
@@ -1126,8 +1233,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "17 rue de Montreuil 75011 PARIS",
+                    "gps_coordinates": "48.85051/2.38484"
                 }
             ]
         },
@@ -1138,8 +1245,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4, bd de Mons - BP 299 59665 Villeneuve d'Ascq cedex",
+                    "gps_coordinates": "50.64589/3.14240"
                 }
             ]
         },
@@ -1150,8 +1257,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "10 Avenue de l'Europe 31520 Ramonville",
+                    "gps_coordinates": "43.55098/1.48834"
                 }
             ]
         },
@@ -1162,20 +1269,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "174-178, quai de Jemmapes 75010 Paris",
                     "gps_coordinates": "48.87893/2.36774"
-                }
-            ]
-        },
-        {
-            "name": "POB-Technology",
-            "url": "http://www.pob-tech.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -1186,8 +1281,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "44 rue Pierre Joseph Proudhon 78800 HOUILLES",
+                    "gps_coordinates": "48.93364/2.19997"
                 }
             ]
         },
@@ -1210,8 +1305,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "40/42 rue Barbès 92120 Montrouge",
+                    "gps_coordinates": "48.81697/2.33001"
                 }
             ]
         },
@@ -1222,20 +1317,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "43, rue Préfet Bonnefoy 44000 NANTES",
                     "gps_coordinates": "47.21406/-1.55936"
                 }
             ]
         },
         {
-            "name": "Quietty",
+            "name": "Splitted-Desktop Systems (Quietty)",
             "url": "http://www.quietty.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Bâtiment Aristote  Parc des Algorithmes Route de l'Orme des Merisiers 91190 ST AUBIN",
+                    "gps_coordinates": "48.70996/2.15187"
                 }
             ]
         },
@@ -1246,20 +1341,32 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "7 rue Ambroise Thomas 75009 Paris",
+                    "gps_coordinates": "48.87466/2.34724"
                 }
             ]
         },
         {
-            "name": "Red Bend",
-            "url": "http://www.redbend.com (Saint-Quentin-en-Yvelines, 78)",
+            "name": "Red Bend Software",
+            "url": "http://www.redbend.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "14, place Georges Pompidou 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.78440/2.04253"
+                }
+            ]
+        },
+        {
+            "name": "ReFLEX CES",
+            "url": "http://reflexces.com/",
+            "description": "Complex electronic embedded systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue du Gévaudan - ZA Petite Montagne SudLisses 91047 EVRY CEDEX",
+                    "gps_coordinates": "48.60915/2.42897"
                 }
             ]
         },
