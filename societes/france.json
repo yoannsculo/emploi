@@ -364,18 +364,6 @@
             ]
         },
         {
-            "name": "Cloud Guys Corporation",
-            "url": "http://meetlima.com",
-            "description": "Data storage solutions",
-            "locations": [
-                {
-                    "name": "Lima France",
-                    "postal_address": "17 route de la reine, 92100 Boulogne-Billancourt",
-                    "gps_coordinates": "48.83868/2.24948"
-                }
-            ]
-        },
-        {
             "name": "CIELE INGENIERIE",
             "url": "http://www.ciele.fr",
             "description": "Research & Development for electronic and embedded software systems",
@@ -660,6 +648,18 @@
                     "name": "",
                     "postal_address": "44 Rue la Fayette, 75009 Paris",
                     "gps_coordinates": "48.87471/2.33995"
+                }
+            ]
+        },
+        {
+            "name": "ForgetBox",
+            "url": "http://meetlima.com",
+            "description": "Data storage solutions",
+            "locations": [
+                {
+                    "name": "Lima France",
+                    "postal_address": "17 route de la reine, 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83868/2.24948"
                 }
             ]
         },
@@ -1406,12 +1406,12 @@
         },
         {
             "name": "Sagemcom",
-            "url": "http://www.sagemcom.com (Rueil-Malmaison, 92)",
+            "url": "http://www.sagemcom.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "250 route de l'Empereur 92848 Rueil-Malmaison Cedex ",
                     "gps_coordinates": ""
                 }
             ]
@@ -1641,6 +1641,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Tecbak",
+            "url": "http://www.tecbak.com/",
+            "description": "Connected foosball",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13 Rue Lechapelais 75017 Paris",
+                    "gps_coordinates": "48.88575/2.32534"
                 }
             ]
         },
