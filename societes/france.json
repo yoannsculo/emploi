@@ -1419,36 +1419,36 @@
         {
             "name": "Sen.se",
             "url": "http://sen.se",
-            "description": "",
+            "description": "Internet of Things and smart devices",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "59-63 rue Emile Cordon, 93400 Saint-Ouen",
+                    "gps_coordinates": "48.91361/2.34378"
                 }
             ]
         },
         {
-            "name": "Sequans",
+            "name": "Sequans Communications",
             "url": "http://www.sequans.com",
-            "description": "",
+            "description": "LTE and WiMAX chipmaker",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Bâtiment Elysées la Défense 19, Le Parvis 92073 Puteaux CEDEX, France",
+                    "gps_coordinates": "48.89146/2.23843"
                 }
             ]
         },
         {
             "name": "Sefi",
             "url": "http://www.sefi.net",
-            "description": "",
+            "description": "Electronics systems",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Parc d'activités du Moulin de Massy 11 Rue du Saule Trapu 91882 MASSY Cedex",
+                    "gps_coordinates": "48.72903/2.30243"
                 }
             ]
         },
@@ -1467,12 +1467,12 @@
         {
             "name": "SCHILLER Médical SAS",
             "url": "http://www.schiller.fr",
-            "description": "",
+            "description": "Medical devices for cardiopulmonary diagnostics, patient monitoring and emergency medicine",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4, rue Louis Pasteur ZAE Sud BP 50 F-67162 WISSEMBOURG/Cedex",
+                    "gps_coordinates": "49.02333/7.96198"
                 }
             ]
         },
