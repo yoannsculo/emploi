@@ -1495,7 +1495,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "Bâtiment E-volution 425, rue Jean Rostand 31670 Labège FRANCE",
                     "gps_coordinates": "43.54366/1.51111"
                 }
             ]
@@ -1507,8 +1507,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "4-14 rue Ferrus 75014 Paris France",
+                    "gps_coordinates": "48.83119/2.34052"
                 }
             ]
         },
@@ -1555,8 +1555,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "81 avenue François Arago 92000 Nanterre - France",
+                    "gps_coordinates": "48.89953/2.22153"
                 }
             ]
         },
@@ -1603,8 +1603,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "C.E.E.I 21 rue de Loigny la Bataille 28000 CHARTRESC.E.E.I 21 rue de Loigny la Bataille 28000 CHARTRES",
+                    "gps_coordinates": "48.43580/1.48742"
                 }
             ]
         },
@@ -1627,8 +1627,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "2 Allée Gustave Eiffel Campus de Ker Lann 35170 BRUZ FRANCE",
+                    "gps_coordinates": "48.04900/-1.74142"
                 }
             ]
         },
@@ -1670,13 +1670,13 @@
         },
         {
             "name": "Telorion",
-            "url": "http://www.telorion.com (Paris, 75)",
+            "url": "http://www.telorion.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "62 rue Tiquetonne, 75002 Paris",
+                    "gps_coordinates": "48.86486/2.34590"
                 }
             ]
         },
@@ -1687,8 +1687,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "1 rue Ernest Gouin - CS 50001 78293 CROISSY-SUR-SEINE Cedex - France",
+                    "gps_coordinates": "48.87734/2.12591"
                 }
             ]
         },
@@ -1711,20 +1711,20 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "174 Avenue du Maréchal de Lattre de Tassigny 94120 Fontenay Sous Bois",
+                    "gps_coordinates": "48.86009/2.49079"
                 }
             ]
         },
         {
             "name": "UrbanHello",
-            "url": "http://www.urbanhello.com (Paris, 75)",
+            "url": "http://www.urbanhello.com",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "13 rue St Antoine 75004 Paris FRANCE",
+                    "gps_coordinates": "48.85334/2.36678"
                 }
             ]
         },
@@ -1747,8 +1747,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "ZA de Loscoat 23 rue Nicephore Niepce 29200 Brest",
+                    "gps_coordinates": "48.42625/-4.48960"
                 }
             ]
         },
@@ -1759,9 +1759,15 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "33, av des peupliers CS 21 763 F-35517 Cesson Sevigne Cedex",
+                    "gps_coordinates": "48.11168/-1.61270"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Les Collines de l’Arche Tour Opéra C 92 057 Paris La Défense Cedex",
+                    "gps_coordinates": "48.89322/2.23715"
                 }
+
             ]
         },
         {
@@ -1771,8 +1777,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "99, rue Pierre Sémard 92320 CHATILLON Cedex France",
+                    "gps_coordinates": "48.80592/2.29703"
                 }
             ]
         },
@@ -1783,20 +1789,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
-            "name": "Wiko",
-            "url": "http://www.wikomobile.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "8, rue Germain Soufflot 78180 MONTIGNY LE BRETONNEUX",
+                    "gps_coordinates": "48.78463/2.04247"
                 }
             ]
         },
@@ -1807,8 +1801,18 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "3, Avenue du Canada Parc Technopolis - Bat Omega Z.A. de Courtaboeuf 2 91975 Courtaboeuf Cedex",
+                    "gps_coordinates": "48.68707/2.19557"
+                },
+                {
+                    "name": "",
+                    "postal_address": "55, rue Blaise Pascal ZIRST II 38330 Montbonnot",
+                    "gps_coordinates": "45.21459/5.80847"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Innovation Bretagne Sud 56000 VANNES",
+                    "gps_coordinates": "47.64168/-2.75407"
                 }
             ]
         },
@@ -1819,8 +1823,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "20 rue Rouget de Lisle 92130 ISSY LES MOULINEAUX",
+                    "gps_coordinates": "48.82810/2.26584"
                 }
             ]
         },
@@ -1831,8 +1835,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "48 rue René Clair 75899 Paris Cedex 18",
+                    "gps_coordinates": "48.89369/2.35426"
                 }
             ]
         },
@@ -1843,8 +1847,8 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "200 Avenue de Provence 13190 Allauch",
+                    "gps_coordinates": "43.33082/5.48502"
                 }
             ]
         },
@@ -1855,7 +1859,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "61 rue Pierre Curie CS20001 78373 Plaisir Cedex",
                     "gps_coordinates": "48.80115/1.98414"
                 }
             ]
