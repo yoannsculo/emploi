@@ -37,6 +37,19 @@
             ]
         },
         {
+            "name": "Agence nationale de la sécurité des systèmes d’information",
+            "url": "http://www.ssi.gouv.fr/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Tour Mercure, 31 quai de Grenelle, Paris 15e",
+                    "gps_coordinates": "48.85228/2.28662"
+                }
+            ]
+        },
+
+        {
             "name": "Airinov",
             "url": "http://www.airinov.fr",
             "description": "Automated aerial cartography",
