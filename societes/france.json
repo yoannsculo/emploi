@@ -146,6 +146,18 @@
             ]
         },
         {
+            "name": "Anevia",
+            "url": "http://www.anevia.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue René Anjolvy 94250 Gentilly",
+                    "gps_coordinates": "48.81399/2.34299"
+                }
+            ]
+        },
+        {
             "name": "Archos",
             "url": "http://www.archos.com",
             "description": "Tablets, Smartphones, Home Automation",
@@ -865,6 +877,18 @@
                     "name": "",
                     "postal_address": "87 Rue du Gouverneur Général Eboué, Issy-les-Moulineaux",
                     "gps_coordinates": "48.82447/2.26502"
+                }
+            ]
+        },
+        {
+            "name": "Ipanema Technologies",
+            "url": "http://www.ipanematech.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "28, rue de la Redoute 92260 Fontenay-aux-Roses",
+                    "gps_coordinates": "48.79472/2.27513"
                 }
             ]
         },
