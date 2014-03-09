@@ -1,0 +1,16 @@
+{
+    "companies": [
+        {
+            "name": "Mind",
+            "url": "http://www.mind.be",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Arenberg Science Park Gaston Geenslaan 9 B-3001 Leuven",
+                    "gps_coordinates": "50.86539/4.66902"
+                }
+            ]
+        }
+    ]
+}
