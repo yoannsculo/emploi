@@ -437,6 +437,18 @@
             ]
         },
         {
+            "name": "Cortus S.A.S.",
+            "url": "http://www.cortus.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le Génésis - 97 rue de Freyr 34000 Montpellier",
+                    "gps_coordinates": "43.61707/3.91628"
+                }
+            ]
+        },
+        {
             "name": "Coyote",
             "url": "http://www.moncoyote.com",
             "description": "Real-time GPS speed camera alert system",
