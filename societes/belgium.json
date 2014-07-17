@@ -1,4 +1,8 @@
 {
+    "country": {
+        "name": "Belgium",
+        "iso": "BEL"
+    },
     "companies": [
         {
             "name": "Mind",

@@ -1,4 +1,8 @@
 {
+    "country": {
+        "name": "France",
+        "iso": "FRA"
+    },
     "companies": [
         {
             "name": "23 de Enero",
