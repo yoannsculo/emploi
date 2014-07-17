@@ -15,6 +15,32 @@
                     "gps_coordinates": "50.86539/4.66902"
                 }
             ]
+        },
+        {
+            "name": "Synopsys NV",
+            "url": "http://www.synopsys.com",
+            "description": "Microelectronic",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Interleuvenlaan 15A 3001 Leuven, Belgium",
+                    "gps_coordinates": "50.84717/4.73156"
+                }
+            ]
+        },
+        {
+            "name": "Technicolor",
+            "url": "http://www.technicolor-edegem.be/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "Technicolor Delivery Technologies Belgium",
+                    "postal_address": "Attn. Katrijn Cornil Prins Boudewijnlaan 47 2650 Edegem Belgium",
+                    "gps_coordinates": "51.15137/4.43549"
+                }
+            ]
         }
+
+
     ]
 }
