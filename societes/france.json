@@ -158,6 +158,18 @@
             ]
         },
         {
+            "name": "Arago systems",
+            "url": "http://www.aragosystems.com",
+            "description": "Embedded Systems, ECOmmunicating Solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 rue Soutrane 06560 Sophia Antipolis France",
+                    "gps_coordinates": "43.623624/7.046000"
+                }
+            ]
+        },
+        {
             "name": "Archos",
             "url": "http://www.archos.com",
             "description": "Tablets, Smartphones, Home Automation",
@@ -202,6 +214,18 @@
                     "name": "",
                     "postal_address": "Business Campus, 15, rue des Frères Lumière, 68100 Mulhouse",
                     "gps_coordinates": "47.72706/7.30761"
+                }
+            ]
+        },
+        {
+            "name": "Ask",
+            "url": "http://www.ask-rfid.com",
+            "description": "Smartcard with and without contact",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2260 route des Crêtes, BP337, 06906 Sophia Antipolis",
+                    "gps_coordinates": "43.625884/7.047818"
                 }
             ]
         },
@@ -983,6 +1007,19 @@
             ]
         },
         {
+            "name": "Kuantic",
+            "url": "http://www.kuantic.com",
+            "description": "Machine to machine",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1360 Route des Dolines 06560 Valbonne, France",
+                    "gps_coordinates": "43.624882/7.044093"
+                }
+
+            ]
+        },
+        {
             "name": "Keecker",
             "url": "http://www.keecker.com",
             "description": "Connected robot for home entertainment and more",
@@ -1635,13 +1672,18 @@
         },
         {
             "name": "Synopsys",
-            "url": "http://www.synopsys.com (Wissous, 91)",
-            "description": "",
+            "url": "http://www.synopsys.com",
+            "description": "Microelectronic",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "3 Avenue Jeanne Garnerin 91320 Wissous France",
+                    "gps_coordinates": "48.728606/2.307490"
+                },
+                {
+                    "name": "",
+                    "postal_address": "400 Avenue de Roumanille 06410 Sophia Antipolis, France",
+                    "gps_coordinates": "43.622232/7.074947"
                 }
             ]
         },

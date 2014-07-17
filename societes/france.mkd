@@ -14,10 +14,12 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Alpwise - www.alpwise.com
 - Alstom - www.alstom.com
 - Anaveo - www.anaveo.com
+- Arago systems - www.aragosystems.com
 - Archos - www.archos.com
 - Arianespace - www.arianespace.com
 - Arm - www.arm.com
 - Armadeus Systems - www.armadeus.com
+- Ask - www.ask-rfid.com
 - Atmel - www.atmel.com
 - Ateme - www.ateme.com
 - Awox - www.awox.com
@@ -75,6 +77,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - JMI Tech - www.jmitech.fr
 - Joshfire - www.joshfire.com
 - Kalray - www.kalray.eu
+- Kuantic - www.kuantic.com
 - Klervi - www.klervi.com
 - LaCie - www.lacie.com
 - Legrand - www.legrand.fr
