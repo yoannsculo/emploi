@@ -1363,6 +1363,18 @@
             ]
         },
         {
+            "name": "Oxytronic",
+            "url": "http://www.oxytronic.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "520 av. de Jouques Z.I. Les Paluds 13400 Aubagne",
+                    "gps_coordinates": "43.28674/5.60556"
+                }
+            ]
+        },
+        {
             "name": "Padways",
             "url": "http://www.pad-ways.com (Ramonville, 31)",
             "description": "",
