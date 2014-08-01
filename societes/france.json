@@ -203,9 +203,9 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "ARM France - Sophia Antipolis",
+                    "postal_address": "25 Allée Pierre Ziller, Le Paros, BP 70124, 06903 Sophia Antipolis Cedex",
+                    "gps_coordinates": "43.626913/7.041351"
                 }
             ]
         },
@@ -1251,6 +1251,18 @@
             ]
         },
         {
+            "name": "NVIDIA",
+            "url": "http://www.nvidia.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "WTC1-Bat 4 - entrée I-2, 1300 Route des Cretes, 06560 Sophia Antipolis"
+                    "gps_coordinates": "43.628053/7.039560"
+                }
+            ]
+        },
+        {
             "name": "NXP Semiconductors",
             "url": "",
             "description": "Semiconductors",
@@ -1808,6 +1820,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Thalès Underwater Systems",
+            "url": "https://www.thalesgroup.com/en/worldwide/defence/naval-forces/underwater-warfare",
+            "description": "Underwater warfare",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "525 route des Dolines 06901 Sophia Antipolis Cedex ",
+                    "gps_coordinates": "43.621752/7.036531"
                 }
             ]
         },
