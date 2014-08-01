@@ -94,6 +94,7 @@ Sociétés / industriels (noSSII) évoluant dans le secteur des systèmes embarq
 - Netgem - www.netgem.com
 - Novasparks - www.novasparks.com
 - Netatmo - www.netatmo.com (Boulogne-Billancourt)
+- NVIDIA - www.nvidia.fr
 - Oberthur Technologies - www.oberthur.com
 - OneAccess - www.oneaccess-net.com - Clamart
 - OpenPattern - www.openpattern.com
