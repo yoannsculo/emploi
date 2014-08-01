@@ -1972,6 +1972,18 @@
             ]
         },
         {
+            "name": "Ween",
+            "url": "http://ween.fr/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Versailles",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
             "name": "Wyplay",
             "url": "http://www.wyplay.com",
             "description": "",
