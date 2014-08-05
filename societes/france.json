@@ -1215,6 +1215,18 @@
             ]
         },
         {
+            "name": "Neotion",
+            "url": "http://www.neotion.com",
+            "description": "Conditional Access Modules dedicated to Pay TV Operators",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "165, avenue du Marin Blanc - ZI Les Paluds - Immeuble Optimum - entrée B 13685 Aubagne Cedex",
+                    "gps_coordinates": "43.28476/5.59461"
+                }
+            ]
+        },
+        {
             "name": "Netgem",
             "url": "http://www.netgem.com",
             "description": "",
