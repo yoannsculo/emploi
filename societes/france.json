@@ -2018,6 +2018,79 @@
                     "gps_coordinates": "48.80115/1.98414"
                 }
             ]
+        },
+        {
+            "name": "Otonomy Aviation",
+            "url": "http://www.otonomy-aviation.com/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue du Bocage 33200 Bordeaux",
+                    "gps_coordinates": "44.849756/-0.601128"
+                }
+            ]
+        },
+        {
+            "name": "Stantum",
+            "url": "http://edu.stantum.com/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "107 Cours Balguerie Stuttenberg 33300 Bordeaux",
+                    "gps_coordinates": "44.859128/-0.565747"
+                }
+            ]
+        },
+        {
+            "name": "e-device",
+            "url": "http://www.edevice.com/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Cadéra Sud, Bât. P2 - Avenue Ariane - 33700 Mérignac",
+                    "gps_coordinates": "44.833141/-0.679489"
+                }
+            ]
+        },
+        {
+            "name": "TDM Ingénierie",
+            "url": "http://www.tdm-ing.com/topic/index.html",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 avenue Henri Becquerel 33700 MERIGNAC",
+                    "gps_coordinates": "44.836243/-0.688809"
+                }
+            ]
+        },
+        {
+            "name": "TDM Ingénierie",
+            "url": "http://www.tdm-ing.com/topic/index.html",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Science Parc du Perget 25 Boulevard Victor Hugo 31770 COLOMIERS",
+                    "gps_coordinates": "43.613933/1.307831"
+                }
+            ]
+        },
+        {
+            "name": "Nexvision",
+            "url": "http://nexvision.fr/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Boulevard de l'Océan 13009 Marseille",
+                    "gps_coordinates": "43.2409980/5.3996354"
+                }
+            ]
         }
     ]
 }
+
