@@ -765,8 +765,33 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "6 rue de la Verrerie CS 20001 92197 MEUDON CEDEX",
+                    "gps_coordinates": "48.82028/2.23570"
+                },
+                {
+                    "name": "",
+                    "postal_address": "14 Route du Saint Laurent, 37171 Chambray Les Tours Cedex France",
+                    "gps_coordinates": "47.31929/0.71419"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Avenue du Pic de Bertagne CS12023 13881 Gémenos Cedex",
+                    "gps_coordinates": "43.28118/5.61531"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Avenue du Jujubier Z.I Athelia IV 13705 La Ciotat",
+                    "gps_coordinates": "43.20592/5.59583"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Z.I. Saint Ulfrant, 27500 Pont-Audemer",
+                    "gps_coordinates": "49.34479/0.54122"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble E-Golf Park Bat B 950, Avenue de Roumanille 06410 Biot Sophia Antipolis",
+                    "gps_coordinates": "43.62330/7.06882"
                 }
             ]
         },
