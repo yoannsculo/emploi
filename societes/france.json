@@ -239,9 +239,14 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "Atmel Rousset",
+                    "postal_address": "Atmel Zone industrielle, 13790 Rousset",
+                    "gps_coordinates": "43.47178/5.59994"
+                },
+                {
+                    "name": "Atmel Nantes",
+                    "postal_address": "Route de Gachet, 44300 Nantes",
+                    "gps_coordinates": "47.28459/-1.51851"
                 }
             ]
         },
@@ -312,8 +317,23 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Parc d’activités du Pas du Lac 10 bis, avenue Ampère 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.79622/2.04743"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Pôle d’activités d’Aix-en-Provence 155, rue Louis-Armand - CS 30495 13 593 Aix-en-Provence",
+                    "gps_coordinates": "43.48879/5.37938"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Espace technologique Jean-Bertin Avenue du 1er mai 40220 Tarnos",
+                    "gps_coordinates": "43.545955/-1.492072"
+                },
+                {
+                    "name": "",
+                    "postal_address": "15, chemin de la Crabe 31300 Toulouse",
+                    "gps_coordinates": "43.610979/1.37397"
                 }
             ]
         },
