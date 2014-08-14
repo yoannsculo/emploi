@@ -526,9 +526,64 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "DCNS - Siège social",
+                    "postal_address": "40-42 rue du Docteur Finlay 75015 Paris",
+                    "gps_coordinates": "48.85096/2.29007"
+                },
+                {
+                    "name": "DCNS - Services",
+                    "postal_address": "Lattitude 20 280 avenue Aristide Briand 92220 Bagneux",
+                    "gps_coordinates": "48.78950/2.31863"
+                },
+                {
+                    "name": "DCNS - Systèmes Navals de Surface",
+                    "postal_address": "280 avenue Aristide Briand 92220 Bagneux",
+                    "gps_coordinates": "48.78968/2.31871"
+                },
+                {
+                    "name": "DCNS - Services",
+                    "postal_address": "CS 72837 29228 Brest cedex 2",
+                    "gps_coordinates": "48.3807/-4.4976"
+                },
+                {
+                    "name": "DCNS - Sous-marins",
+                    "postal_address": "BP 440 50104 Cherbourg-Octeville cedex",
+                    "gps_coordinates": "49.6473/-1.6348"
+                },
+                {
+                    "name": "DCNS - Systèmes Navals de Surface",
+                    "postal_address": "Avenue de Choiseul CS 80001 56311 Lorient cedex",
+                    "gps_coordinates": "47.75106/-3.35365"
+                },
+                {
+                    "name": "DCNS - Propulsion",
+                    "postal_address": "Indret 44620 La Montagne",
+                    "gps_coordinates": "47.19651/-1.68331"
+                },
+                {
+                    "name": "DCNS - Sirhena",
+                    "postal_address": "1 Rue de Noë BP 42105 44321 Nantes cedex 3",
+                    "gps_coordinates": "47.24814/-1.54986"
+                },
+                {
+                    "name": "DCNS - Equipements navals",
+                    "postal_address": "BP 30 16600 Ruelle",
+                    "gps_coordinates": "45.6803/0.2224"
+                },
+                {
+                    "name": "DCNS - Armes sous-marines",
+                    "postal_address": "BP 240 83997 Saint-Tropez cedex",
+                    "gps_coordinates": "43.2619/6.5952"
+                },
+                {
+                    "name": "DCNS - Systèmes Navals de Surface",
+                    "postal_address": "Rond point de l’Artillerie de Marine BP 403 Le Mourillon 83055 Toulon Cedex",
+                    "gps_coordinates": "43.11191/5.93300"
+                },
+                {
+                    "name": "DCNS - Services",
+                    "postal_address": "BP1306 83076 Toulon Cedex",
+                    "gps_coordinates": "43.11155/5.93280"
                 }
             ]
         },
