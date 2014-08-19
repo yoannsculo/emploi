@@ -1,0 +1,37 @@
+{
+    "country": {
+        "name": "United States of America",
+        "iso": "USA"
+    },
+    "companies": [
+        {
+            "name": "Amazon Lab126",
+            "url": "http://www.lab126.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1100 Enterprise Way Sunnyvale, CA 94089",
+                    "gps_coordinates": "37.4083675/-122.0365531"
+                },
+                {
+                    "name": "",
+                    "postal_address": "20450 Stevens Creek Blvd #126, Cupertino, CA 95014",
+                    "gps_coordinates": "37.3213228/-122.0309305"
+                }
+            ]
+        },
+        {
+            "name": "Timesys",
+            "url": "http://www.timesys.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Suite 2100 428 Forbes Avenue Pittsburgh, PA 15219 UNITED STATES",
+                    "gps_coordinates": "40.4391366/-79.9986204"
+                }
+            ]
+        }
+    ]
+}
