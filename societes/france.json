@@ -1033,14 +1033,34 @@
             ]
         },
         {
-            "name": "Intel",
+            "name": "Intel Corporation",
             "url": "http://www.intel.com (Open Source Technology Center)",
             "description": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Les Montalets, 2, rue de Paris, 92196 Meudon France",
+                    "gps_coordinates": "48.8176/2.2485"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Les Taissounières B3, 1681, Rte des Dolines - BP 293, 06905 SOPHIA ANTIPOLIS CEDEX",
+                    "gps_coordinates": "43.62488/7.04571"
+                },
+                {
+                    "name": "",
+                    "postal_address": "8 Rue Claude Marie Perroud 31100 Toulouse",
+                    "gps_coordinates": "43.57582/1.38134"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Eureka, 52 Rue Odin, 34000 Montpellier",
+                    "gps_coordinates": "43.61637/3.91470"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Le Saphir, 3 Rue Alfred Kastler - 44300 NANTES",
+                    "gps_coordinates": "47.28244/-1.51956"
                 }
             ]
         },
