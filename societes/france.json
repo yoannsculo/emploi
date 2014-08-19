@@ -263,6 +263,18 @@
             ]
         },
         {
+            "name": "Avolla",
+            "url": "http://www.avolla.eu",
+            "description": "multi-parametric monitoring system",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29 chemin du Vieux Chêne 38240 Meylan FRANCE",
+                    "gps_coordinates": "45.20863/5.79320"
+                }
+            ]
+        },
+        {
             "name": "Awabot SAS",
             "url": "http://www.awabot.com",
             "description": "Robotics",
@@ -636,6 +648,18 @@
             ]
         },
         {
+            "name": "DxO Labs SAS",
+            "url": "https://www.dxo.com",
+            "description": "Products and solutions in digital imaging",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue Nationale 92100, Boulogne-Billancourt FRANCE",
+                    "gps_coordinates": "48.82430/2.24449"
+                }
+            ]
+        },
+        {
             "name": "EADS",
             "url": "http://www.eads.com",
             "description": "",
@@ -985,6 +1009,18 @@
             ]
         },
         {
+            "name": "Infotron",
+            "url": "http://www.infotron.fr",
+            "description": "Drones",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 rue Ampère - 91300 MASSY FRANCE",
+                    "gps_coordinates": "48.72036/2.27076"
+                }
+            ]
+        },
+        {
             "name": "Interface Concept",
             "url": "http://www.interfaceconcept.com",
             "description": "",
@@ -1065,6 +1101,23 @@
                     "name": "",
                     "postal_address": "Avenue de Sainte-Apolline, 78370 Plaisir",
                     "gps_coordinates": "48.7996/1.9466"
+                }
+            ]
+        },
+        {
+            "name": "JDSU France SAS",
+            "url": "http://www.jdsu.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "JDSU - Manufacturing, Research and Development",
+                    "postal_address": "34 rue Necker, 42000 St. Etienne France",
+                    "gps_coordinates": "45.45679/4.40675"
+                },
+                {
+                    "name": "JDSU - Sales Office",
+                    "postal_address": "ZI Les Gâtines 46 bis rue Pierre Curie, 78370 Plaisir France",
+                    "gps_coordinates": "48.80233/1.97687"
                 }
             ]
         },
@@ -1203,6 +1256,18 @@
                     "name": "",
                     "postal_address": "2, place Jules Gévelot 92138 Issy-les-Moulineaux",
                     "gps_coordinates": "48.82162/2.25236"
+                }
+            ]
+        },
+        {
+            "name": "MAINtag",
+            "url": "http://www.maintag.fr",
+            "description": "RFID solutions for aerospace",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 rue Edouard Vallerand 94100 Saint-Maur des Fossés - FRANCE",
+                    "gps_coordinates": "48.80414/2.48310"
                 }
             ]
         },
@@ -1739,6 +1804,18 @@
             ]
         },
         {
+            "name": "S.I.S.E.",
+            "url": "http://www.sise.fr",
+            "description": "Products dedicated to the plastic injection molding industry",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Industriel Sud - Groissiat 01100 OYONNAX France",
+                    "gps_coordinates": "46.23221/5.61718"
+                }
+            ]
+        },
+        {
             "name": "Smart Impulse",
             "url": "http://www.smart-impulse.com",
             "description": "Building power consumption measurement",
@@ -1747,6 +1824,18 @@
                     "name": "",
                     "postal_address": "48 rue René Clair - 75018 Paris, France",
                     "gps_coordinates": "48.89385/2.35428"
+                }
+            ]
+        },
+        {
+            "name": "Smartware",
+            "url": "http://www.smartware.fr",
+            "description": "Contactless secure elements (Smartcard, NFC microSD, M2M)",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le Carthagène 11, Avenue des Andes 91940 Les Ulis FRANCE",
+                    "gps_coordinates": "48.6774/2.1949"
                 }
             ]
         },
@@ -1920,6 +2009,18 @@
                     "name": "",
                     "postal_address": "1 rue Ernest Gouin - CS 50001 78293 CROISSY-SUR-SEINE Cedex - France",
                     "gps_coordinates": "48.87734/2.12591"
+                }
+            ]
+        },
+        {
+            "name": "Texas Instruments",
+            "url": "",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "65 Quai George Gorse 92650 BOULOGNE BILLANCOURT CEDEX ",
+                    "gps_coordinates": "48.82604/2.23374"
                 }
             ]
         },
