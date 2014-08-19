@@ -1913,9 +1913,9 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "name": "STMicroelectronics Grenoble",
+                    "postal_address": "12 RUE JULES HOROWITZ 38000 GRENOBLE",
+                    "gps_coordinates": "45.20452/5.69585"
                 }
             ]
         },
