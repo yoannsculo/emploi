@@ -401,6 +401,18 @@
             ]
         },
         {
+            "name": "BSE Electronic",
+            "url": "http://www.bse-electronic.com",
+            "description": "Design, prototyping, industrialization, manufacturing, testing, integration and logistics services",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "616 avenue de l’Europe - BP 8771203 LE CREUSOT cedex FRANCE",
+                    "gps_coordinates": "46.80797/4.42168"
+                }
+            ]
+        },
+        {
             "name": "Bull",
             "url": "http://www.bull.fr",
             "description": "",
@@ -788,6 +800,18 @@
                     "name": "",
                     "postal_address": "74 avenue Jean Jaurès 33 600 PESSAC",
                     "gps_coordinates": "44.80858/-0.62428"
+                }
+            ]
+        },
+        {
+            "name": "Eurotech France S.A.S.",
+            "url": "http://www.eurotech.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc du Moulin à Vent - Bât 33 - 133 avenue Docteur Georges Lévy 69693 VENISSIEUX CEDEX - FRANCE",
+                    "gps_coordinates": "45.72154/4.86180"
                 }
             ]
         },
