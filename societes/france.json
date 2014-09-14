@@ -1057,6 +1057,18 @@
             ]
         },
         {
+            "name": "Ingenico",
+            "url": "",
+            "description": "seamless payment",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "28-32, boulevard de Grenelle 75015 Paris",
+                    "gps_coordinates": "48.85275/2.29024"
+                }
+            ]
+        },
+        {
             "name": "Interface Concept",
             "url": "http://www.interfaceconcept.com",
             "description": "",
@@ -1121,6 +1133,18 @@
                     "name": "",
                     "postal_address": "28, rue de la Redoute 92260 Fontenay-aux-Roses",
                     "gps_coordinates": "48.79472/2.27513"
+                }
+            ]
+        },
+        {
+            "name": "Irdeto",
+            "url": "http://www.irdeto.com/",
+            "description": "Media Protection, Multiscreen and Revenue Assurance solutions for pay TV operators, OTT service providers and content owners.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "59 Rue La Fayette 75009 Paris",
+                    "gps_coordinates": "48.87589/2.34333"
                 }
             ]
         },
@@ -1944,6 +1968,35 @@
             ]
         },
         {
+            "name": "Somfy",
+            "url": "http://www.somfy.com",
+            "description": "Automatic control of openings and closures in homes and buildings",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "50, Avenue du Nouveau Monde BP 152 74307 Cluses Cedex France",
+                    "gps_coordinates": "46.05797/6.57352"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 Place du Cretet - 74300 CLUSES",
+                    "gps_coordinates": "46.05570/6.58079"
+                },
+                {
+                    "name": "",
+                    "postal_address": "500 Rue des Sarcelles - ZAC des Bo - 74130 BONNEVILLE",
+                    "gps_coordinates": "46.07297/6.43324"
+                },
+                {
+                    "name": "",
+                    "postal_address": "500 Rue des Sarcelles - 74130 BONNEVILLE",
+                    "gps_coordinates": "46.13815/6.11684"
+                }
+
+
+            ]
+        },
+        {
             "name": "SoftAtHome",
             "url": "http://www.softathome.com",
             "description": "",
@@ -2244,6 +2297,18 @@
                     "name": "",
                     "postal_address": "8, rue Germain Soufflot 78180 MONTIGNY LE BRETONNEUX",
                     "gps_coordinates": "48.78463/2.04247"
+                }
+            ]
+        },
+        {
+            "name": "WI6Labs",
+            "url": "http://www.wi6labs.com",
+            "description": "Ultra low power and secured wireless sensors network solution",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 rue de Jouanet E-Park 35700 Rennes",
+                    "gps_coordinates": "48.13320/-1.63609"
                 }
             ]
         },
