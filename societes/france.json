@@ -2393,18 +2393,6 @@
                     "gps_coordinates": "48.80115/1.98414"
                 }
             ]
-        },
-        {
-            "name": "Otonomy Aviation",
-            "url": "http://www.otonomy-aviation.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "1 rue du Bocage 33200 Bordeaux",
-                    "gps_coordinates": "44.849756/-0.601128"
-                }
-            ]
         }
     ]
 }
