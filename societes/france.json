@@ -461,6 +461,18 @@
             ]
         },
         {
+            "name": "CHAUVIN ARNOUX Group",
+            "url": "http://www.chauvin-arnoux.com",
+            "description": "Measurement, Testing, Metering, and Supervision of electrical networks",
+            "locations": [
+                {
+                    "name": "Chauvin Arnoux / Enerdis",
+                    "postal_address": "16, rue Georges Besse Silic 44 92182 ANTONY Cedex - FRANCE",
+                    "gps_coordinates": "48.73014/2.31051"
+                }
+            ]
+        },
+        {
             "name": "CIELE INGENIERIE",
             "url": "http://www.ciele.fr",
             "description": "Research & Development for electronic and embedded software systems",
@@ -872,6 +884,18 @@
                     "name": "",
                     "postal_address": "8 rue de la ville l'Eveque 75008 Paris",
                     "gps_coordinates": "48.87141/2.32119"
+                }
+            ]
+        },
+        {
+            "name": "Freemindtronic",
+            "url": "http://freemindtronic.com/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1B Chemin de la Mestrise BP 50134 09500 Mirepoix",
+                    "gps_coordinates": "43.08757/1.87224"
                 }
             ]
         },
