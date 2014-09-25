@@ -4268,6 +4268,23 @@
             ]
         },
         {
+            "name": "Thalès Alenia Space",
+            "url": "https://www.thalesgroup.com/fr/thales-alenia-space",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Allée des Gabians, 06150 Cannes",
+                    "gps_coordinates": "43.541716/6.955469"
+                },
+		{
+                    "name": "",
+		    "postal_address": "26 Avenue Jean François Champollion, 31100 Toulouse, France",
+		    "gps_coordinates": "43.548167/1.394023"
+		}
+            ]
+        },
+        {
             "name": "Thalès Underwater Systems",
             "url": "https://www.thalesgroup.com/en/worldwide/defence/naval-forces/underwater-warfare",
             "description": "Underwater warfare",
