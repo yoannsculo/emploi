@@ -1045,6 +1045,51 @@
             ]
         },
         {
+            "name": "Huawei",
+            "url": "http://www.huawei.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20 Rue Rouget de Lisle, 92130 Issy-les-Moulineaux",
+                    "gps_coordinates": "48.82836/2.26519"
+                },
+                {
+                    "name": "",
+                    "postal_address": "18, Quai du Point du Jour 92659 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83227/2.25919"
+                },
+                {
+                    "name": "",
+                    "postal_address": "694 avenue du Dr Maurice Donat, Parc Haute Technologie, Bâtiment 7 - 06250 Mougins",
+                    "gps_coordinates": "43.61150/7.01596"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Leeds 253 boulevard de Leeds - 59000 Lille",
+                    "gps_coordinates": "50.64068/3.07503"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2 cours du 30 juillet 33000 Bordeaux",
+                    "gps_coordinates": "44.84312/-0.57423"
+                },
+                {
+                    "name": "",
+                    "postal_address": "8 allée Irène Joliot Curie 69800 Saint Priest",
+                    "gps_coordinates": "45.71712/4.93409"
+                },
+                {
+                    "name": "",
+                    "postal_address": "12 avenue Carnot 40017 Nantes",
+                    "gps_coordinates": "47.21368/-1.54535"
+                }
+
+
+
+            ]
+        },
+        {
             "name": "IBM",
             "url": "http://",
             "description": "",
