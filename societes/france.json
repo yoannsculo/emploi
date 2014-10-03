@@ -459,6 +459,18 @@
             ]
         },
         {
+            "name": "Bosch",
+            "url": "http://www.bosch.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "32 Avenue Michelet, 93400 Saint-Ouen",
+                    "gps_coordinates": "48.91192/2.34244"
+                }
+            ]
+        },
+        {
             "name": "BrightLoop",
             "url": "http://www.brightloop.fr",
             "description": "Development of custom power supplies with digital control",
