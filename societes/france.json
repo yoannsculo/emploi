@@ -2184,6 +2184,18 @@
             ]
         },
         {
+            "name": "Stereolabs",
+            "url": "http://www.stereolabs.com/",
+            "description": "Stereoscopic 3D video processing solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Centre Scientifique d'Orsay Building 503 91400 Orsay, France",
+                    "gps_coordinates": "48.70655/2.17446"
+                }
+            ]
+        },
+        {
             "name": "STMicroelectronics",
             "url": "http://www.st.com",
             "description": "",
