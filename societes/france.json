@@ -160,6 +160,18 @@
             ]
         },
         {
+            "name": "Alcea",
+            "url": "http://www.alcea.fr",
+            "description": "designer and manufacturer of security and supervision systems for buildings",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue Joly de Bammeville - Z.A.C. de la Fontaine de Jouvence - 91460 Marcoussis",
+                    "gps_coordinates": "48.66308/2.21435"
+                }
+            ]
+        },
+        {
             "name": "Aldebaran Robotics",
             "url": "http://www.aldebaran-robotics.com",
             "description": "Robots",
@@ -369,6 +381,18 @@
             ]
         },
         {
+            "name": "Axode",
+            "url": "http://www.axode.com",
+            "description": "Global Solutions for securing document production",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZAC de la Petite Camargue 352, Chemin des Oliviers 34400 Lunel",
+                    "gps_coordinates": "43.68904/4.14219"
+                }
+            ]
+        },
+        {
             "name": "Balyo",
             "url": "http://www.balyo.com",
             "description": "Robotic solutions for the automated transport of pallets",
@@ -531,6 +555,18 @@
             ]
         },
         {
+            "name": "CDVI",
+            "url": "http://www.cdvi.com/",
+            "description": "Access control and locking systems manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "31, avenue du Général Leclerc - 93500 PANTIN",
+                    "gps_coordinates": "48.89524/2.39975"
+                }
+            ]
+        },
+        {
             "name": "CEA",
             "url": "http://www.cea.fr",
             "description": "",
@@ -575,6 +611,18 @@
                     "name": "",
                     "postal_address": "208 rue Garibaldi 69003 Lyon",
                     "gps_coordinates": "45.75856/4.85225"
+                }
+            ]
+        },
+        {
+            "name": "CNB Electronique",
+            "url": "http://www.cnb-electronique.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 rue de la Source 25620 MAMIROLLE",
+                    "gps_coordinates": "47.19998/6.15129"
                 }
             ]
         },
@@ -635,6 +683,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Data-Pixel",
+            "url": "http://www.data-pixel.com",
+            "description": "Image-processing based test and measurement equipment",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": " 27 rue Saturne - ZAC Altaïs - 74650 Chavanod",
+                    "gps_coordinates": "45.89278/6.07644"
                 }
             ]
         },
@@ -838,6 +898,18 @@
             ]
         },
         {
+            "name": "Elektrobit",
+            "url": "http://www.elektrobit.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 Avenue Eiffel 78420 Carrières sur Seine",
+                    "gps_coordinates": "48.91046/2.16802"
+                }
+            ]
+        },
+        {
             "name": "Eliocity",
             "url": "http://www.xee.com",
             "description": "Solutions Technologiques pour l'Automobile et la Mobilité",
@@ -1037,6 +1109,18 @@
             ]
         },
         {
+            "name": "GEOTRACEUR",
+            "url": "http://www.geotraceur.fr",
+            "description": "Solutions de géolocalisation",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Euratechnologies - 165 avenue de Bretagne - 59000 Lille",
+                    "gps_coordinates": "50.63310/3.02025"
+                }
+            ]
+        },
+        {
             "name": "Getraline",
             "url": "http://www.getraline.com",
             "description": "",
@@ -1045,6 +1129,18 @@
                     "name": "",
                     "postal_address": "15 rue Angiviller, 78000 VERSAILLES",
                     "gps_coordinates": "48.81051/2.12837"
+                }
+            ]
+        },
+        {
+            "name": "Giroptic",
+            "url": "http://www.giroptic.com",
+            "description": "360 camera",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Euratechnologies - 165 avenue de Bretagne - 59000 Lille",
+                    "gps_coordinates": "50.63325/3.02000"
                 }
             ]
         },
@@ -1093,6 +1189,18 @@
                     "name": "",
                     "postal_address": "63 bd Masséna 75013 PARIS FRANCE",
                     "gps_coordinates": "48.82189/2.37108"
+                }
+            ]
+        },
+        {
+            "name": "HORIZON TELECOM",
+            "url": "http://www.horizon-telecom.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6, rue de Gueugnon - BP 30 - 71302 MONTCEAU LES MINES CEDEX",
+                    "gps_coordinates": "46.66438/4.35730"
                 }
             ]
         },
@@ -1312,6 +1420,18 @@
             ]
         },
         {
+            "name": "ISKN",
+            "url": "www.isketchnote.com",
+            "description": "Writing devices",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "52 Cours Jean Jaurès, 38000 Grenoble",
+                    "gps_coordinates": "45.18760/5.71854"
+                }
+            ]
+        },
+        {
             "name": "IS2T",
             "url": "http://www.is2t.com",
             "description": "",
@@ -1511,6 +1631,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Micropross",
+            "url": "http://www.micropross.com",
+            "description": "supply of test and personalization solutions for the business of RFID, smartcard and NFC",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11-21 rue Hubble - Parc de la Haute Borne - 59650 Villeneuve d'Ascq",
+                    "gps_coordinates": "50.60114/3.15386"
                 }
             ]
         },
@@ -1891,6 +2023,18 @@
             ]
         },
         {
+            "name": "Qualcomm",
+            "url": "http://www.qualcomm.eu",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "52 Boulevard Rodin 92130 Issy les Moulineaux",
+                    "gps_coordinates": "48.81947/2.25943"
+                }
+            ]
+        },
+        {
             "name": "Splitted-Desktop Systems (Quietty)",
             "url": "http://www.quietty.com",
             "description": "",
@@ -1935,6 +2079,40 @@
                     "name": "",
                     "postal_address": "2 rue du Gévaudan - ZA Petite Montagne SudLisses 91047 EVRY CEDEX",
                     "gps_coordinates": "48.60915/2.42897"
+                }
+            ]
+        },
+        {
+            "name": "RX Solutions",
+            "url": "http://www.rxsolutions.fr",
+            "description": "X-Ray Non-Destructive Testing",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": " 27 rue Saturne - ZAC Altaïs - 74650 Chavanod",
+                    "gps_coordinates": "45.89259/6.07658"
+                }
+            ]
+        },
+        {
+            "name": "Sabatier Géolocalisation",
+            "url": "http://geolocalisation-sabatier.fr",
+            "description": "On-board computer programs",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "90 rue de la Sauge Ecoparc 34130 St Aunés",
+                    "gps_coordinates": "43.64747/3.97562"
+                },
+                {
+                    "name": "",
+                    "postal_address": "610, Avenue du Grand Gigognan 84090 Avignon",
+                    "gps_coordinates": "43.93314/4.78155"
+                },
+                {
+                    "name": "",
+                    "postal_address": "ZI les Milles - 1140, rue Ampère Centre Actimart - Bâtiment 1B - BP 13000 13791 Aix en Provence Cedex 3",
+                    "gps_coordinates": "43.4867/5.3791"
                 }
             ]
         },
