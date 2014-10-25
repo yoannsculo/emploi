@@ -184,6 +184,18 @@
             ]
         },
         {
+            "name": "Alpes DEIS",
+            "url": "http://www.alpes-deis.fr",
+            "description": "Electronic board design & manufacturing",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "300, Rue des Techniques - 74970 Marignier",
+                    "gps_coordinates": "46.07655/6.50398"
+                }
+            ]
+        },
+        {
             "name": "Alpwise",
             "url": "http://www.alpwise.com",
             "description": "Wireless solutions: Bluetooth and Bluetooth low energy products.",
@@ -228,6 +240,18 @@
                     "name": "",
                     "postal_address": "11 Avenue de Canteranne, 33600 PESSAC",
                     "gps_coordinates": "44.78511/-0.63125"
+                }
+            ]
+        },
+        {
+            "name": "Amplitude Technologies",
+            "url": "http://amplitude-technologies.com",
+            "description": "High performance laser systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2-4 rue du Bois Chaland - CE 2926 - 91029 EVRY",
+                    "gps_coordinates": "48.60712/2.42811"
                 }
             ]
         },
@@ -778,6 +802,18 @@
             ]
         },
         {
+            "name": "Detracom",
+            "url": "http://www.detracom.fr",
+            "description": "Professional radiocommunication equipments and systems, radio infrastructures, mobile and handportable terminals",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14 Chemin de Fondeyre - 31200, TOULOUSE",
+                    "gps_coordinates": "43.63884/1.42339"
+                }
+            ]
+        },
+        {
             "name": "DEF",
             "url": "http://www.def-online.com",
             "description": "fire safety systems",
@@ -886,6 +922,18 @@
             ]
         },
         {
+            "name": "ECOMETERING",
+            "url": "http://www.ecometering-gdfsuez.com",
+            "description": "Pilotage intelligent de l’énergie",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11, place des Vosges – La Défense 5 - 92061 LA DEFENSE CEDEX",
+                    "gps_coordinates": "48.89195/2.24742"
+                }
+            ]
+        },
+        {
             "name": "Efixo",
             "url": "http://www.efixo.com",
             "description": "",
@@ -958,6 +1006,18 @@
             ]
         },
         {
+            "name": "ERCOM",
+            "url": "http://www.ercom.fr",
+            "description": "Telecom manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment Emeraude - 6, rue Dewoitine - 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.78242/2.21582"
+                }
+            ]
+        },
+        {
             "name": "eROCCA",
             "url": "http://www.erocca.com",
             "description": "",
@@ -990,6 +1050,18 @@
                     "name": "",
                     "postal_address": "Parc du Moulin à Vent - Bât 33 - 133 avenue Docteur Georges Lévy 69693 VENISSIEUX CEDEX - FRANCE",
                     "gps_coordinates": "45.72154/4.86180"
+                }
+            ]
+        },
+        {
+            "name": "eVaderis",
+            "url": "http://www.evaderis.com/",
+            "description": "ultra-low-power processors for the Internet of Things market",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Minatec Entreprises BHT - Bâtiment 52 - 7, Parvis Louis Néel - 38040 GRENOBLE CEDEX 9",
+                    "gps_coordinates": "45.19595/5.70921"
                 }
             ]
         },
@@ -1647,6 +1719,18 @@
             ]
         },
         {
+            "name": "Micronics",
+            "url": "http://www.micronics.fr/",
+            "description": "Electronique de puissance et conversion d’énergie",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Za Rue des Emeraudes BP F-38280 Villette d'Anthon",
+                    "gps_coordinates": "45.79435/5.13386"
+                }
+            ]
+        },
+        {
             "name": "Micropross",
             "url": "http://www.micropross.com",
             "description": "supply of test and personalization solutions for the business of RFID, smartcard and NFC",
@@ -1811,6 +1895,18 @@
                     "name": "",
                     "postal_address": "1 Boulevard de l'Océan 13009 Marseille",
                     "gps_coordinates": "43.2409980/5.3996354"
+                }
+            ]
+        },
+        {
+            "name": "Nicolaudie",
+            "url": "http://www.nicolaudie.com",
+            "description": "DMX lighting control software and hardware products",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "838 rue de l'Aiguelongue - 34090 Montpellier",
+                    "gps_coordinates": "43.63469/3.87765"
                 }
             ]
         },
@@ -2178,6 +2274,30 @@
             ]
         },
         {
+            "name": "Satcom1",
+            "url": "http://www.satcom1.com/",
+            "description": "Aeronautical satellite communication solution provider",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "100 Rue Henri Lossier - 93350 Le Bourget",
+                    "gps_coordinates": "48.94972/2.43707"
+                }
+            ]
+        },
+        {
+            "name": "Schneider Electric",
+            "url": "Electricity distribution, automation management and components for energy management.",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "35 rue Joseph Monier, 92500 Rueil Malmaison",
+                    "gps_coordinates": "48.89130/2.17272"
+                }
+            ]
+        },
+        {
             "name": "Sen.se",
             "url": "http://sen.se",
             "description": "Internet of Things and smart devices",
@@ -2246,6 +2366,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Sebia",
+            "url": "http://www.sebia.com",
+            "description": "Electrophoresis systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technologique Léonard de Vinci - Rue Léonard de Vinci - CP 8010 LISSES - 91008 EVRY Cedex",
+                    "gps_coordinates": "48.59910/2.41532"
                 }
             ]
         },
@@ -2766,6 +2898,30 @@
             ]
         },
         {
+            "name": "WOODHEAD SOFTWARE ",
+            "url": "http://www.woodhead.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Voie Romaine Zone Artisanale Du Thuit Anger 27370 LE THUIT ANGER",
+                    "gps_coordinates": "49.2723/0.9657"
+                }
+            ]
+        },
+        {
+            "name": "WorldCast Systems",
+            "url": "http://www.worldcastsystems.com",
+            "description": "Solutions for the Radio & TV industry",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20, avenue Neil Armstrong - Parc d'Activités J.F. Kennedy - 33700 Bordeaux - Mérignac",
+                    "gps_coordinates": "44.83969/-0.69053"
+                }
+            ]
+        },
+        {
             "name": "Wyplay",
             "url": "http://www.wyplay.com",
             "description": "",
@@ -2774,6 +2930,18 @@
                     "name": "",
                     "postal_address": "200 Avenue de Provence 13190 Allauch",
                     "gps_coordinates": "43.33082/5.48502"
+                }
+            ]
+        },
+        {
+            "name": "XTIM",
+            "url": "http://www.mybionicbird.com",
+            "description": "Robotic birds",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 Boulevard Maire, 13008 Marseille",
+                    "gps_coordinates": "43.24120/5.37480"
                 }
             ]
         },
