@@ -1844,8 +1844,28 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "Zone Industriel de l’étang 63290 Puy-Guillaume",
+                    "gps_coordinates": "45.95212/3.47530"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Rue des Cortots 21121 Fontaine-lès-Dijon",
+                    "gps_coordinates": "47.35432/5.02689"
+                },
+                {
+                    "name": "",
+                    "postal_address": "420, rue d’Estienne d’Orves 92700 Colombes",
+                    "gps_coordinates": "48.90864/2.22956"
+                },
+                {
+                    "name": "",
+                    "postal_address": "La Haye Robert Avenue d Helmstedt – BP90308 35503 Vitré Cedex",
+                    "gps_coordinates": "48.11406/-1.19381"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Scientifique Unitec - 14, allée du Doyen Georges Brus - 33600 Pessac",
+                    "gps_coordinates": "44.79426/-0.62520"
                 }
             ]
         },
@@ -2135,8 +2155,13 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "250 route de l'Empereur 92848 Rueil-Malmaison Cedex ",
-                    "gps_coordinates": ""
+                    "postal_address": "250 route de l'Empereur 92500 Rueil-Malmaison",
+                    "gps_coordinates": "48.86094/2.18469"
+                },
+                {
+                    "name": "",
+                    "postal_address": "31/33 rue Beaux Soleils 95520 OSNY",
+                    "gps_coordinates": "49.05450/2.06598"
                 }
             ]
         },
