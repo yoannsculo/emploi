@@ -1,0 +1,52 @@
+TODO
+====
+
+###France
+
+####Locations to get
+
+Schneider Electric has more than 40 locations according to http://www.societe.com/societe/schneider-electric-france-421106709.html
+I can't find any information on their corporate website.
+Therefore I only located HQ for now. Too much work on this company and I miss relevant information.
+
+####Candidates to the list
+
+Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
+
+- Atlantic - http://www.atlantic.fr/
+- Elnec - http://www.elnec.com/
+- Eurocave - http://www.eurocave.com
+- Indesit - http://www.indesit.fr
+- Invensys - invensys.com
+- Moulinex - http://www.moulinex.fr
+- Noirot - http://www.noirot.fr
+- Airelec - http://www.airelec.fr
+- Saunier Duval - http://www.saunierduval.fr
+- Scholtes - http://www.scholtes.fr
+- Tefal - http://www.tefal.com
+- Calor - http://www.calor.fr
+- Rowenta - http://www.rowenta.com
+- Seb - http://www.seb.fr/
+- http://www.fanucrobotics.com/ - https://www.google.fr/maps/@48.60707,2.428692,3a,52.1y,245.56h,84.78t/data=!3m4!1e1!3m2!1sVA0ZfRMjxwzgPIqBc1wDTg!2e0
+- http://www.tekin.fr
+- http://www.arelis.com/
+- http://www.graniou.com/
+- http://www.hexadome.com/fr
+- http://www.ledpowerfrance.fr/
+- http://thomson-broadcast.com/
+- http://www.onera.fr/
+- http://www.avnet.com
+- http://www.aedle.net/fr/
+- http://www.pryntcases.com/
+- http://www.selftech.pt/
+- http://www.green-creative.fr/ 
+
+Dav / Valéo, Dura, G Cartier electronique, L'electricfil, LEM, NSI, Peugeot motocycles, Pinguely, PSA, Renault, Rockwell, Serdi, Soubitez, Striebel, Teleflex, Chongqing Teleflex Automotive (China) etc ...
+
+3M, Alcatel / Vaccum Technology, Amphenol / Socapex, Arnoul, Ascom / Néopost, ASSA ABLOY, CEA, EDF, Essilor, Flunch, France Telecom, Leroy Sommer, Metrix/ Chauvin Arnoux, Navic, Orange, Parker, Schneider / Merlin, Gérin, Secap, Sensorex, SKF, SNR, Somfy, Thales, Thiriet, Renault Truck etc ... 
+
+
+####Misc
+
+- Rename LaCie into Seagate
+- Rename NDS into Cisco
