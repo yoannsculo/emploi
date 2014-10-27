@@ -2312,12 +2312,12 @@
         {
             "name": "Sequans Communications",
             "url": "http://www.sequans.com",
-            "description": "LTE and WiMAX chipmaker",
+            "description": "LTE and WiMAX baseband and RF chipmaker",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "Bâtiment Elysées la Défense 19, Le Parvis 92073 Puteaux CEDEX, France",
-                    "gps_coordinates": "48.89146/2.23843"
+                    "name": "Les portes de la Défense",
+                    "postal_address": "Les portes de la Défense - Hall A, 15/55 boulevard Charles de Gaulle, 92700 Colombes, France",
+                    "gps_coordinates": "48.910234/2.234476"
                 }
             ]
         },
