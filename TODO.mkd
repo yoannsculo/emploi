@@ -40,13 +40,19 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.pryntcases.com/
 - http://www.selftech.pt/
 - http://www.green-creative.fr/ 
-
-Dav / Valéo, Dura, G Cartier electronique, L'electricfil, LEM, NSI, Peugeot motocycles, Pinguely, PSA, Renault, Rockwell, Serdi, Soubitez, Striebel, Teleflex, Chongqing Teleflex Automotive (China) etc ...
-
-3M, Alcatel / Vaccum Technology, Amphenol / Socapex, Arnoul, Ascom / Néopost, ASSA ABLOY, CEA, EDF, Essilor, Flunch, France Telecom, Leroy Sommer, Metrix/ Chauvin Arnoux, Navic, Orange, Parker, Schneider / Merlin, Gérin, Secap, Sensorex, SKF, SNR, Somfy, Thales, Thiriet, Renault Truck etc ... 
+- Dav / Valéo, Dura, G Cartier electronique, L'electricfil, LEM, NSI, Peugeot motocycles, Pinguely, PSA, Renault, Rockwell, Serdi, Soubitez, Striebel, Teleflex, Chongqing Teleflex Automotive (China) etc ...
+- 3M, Alcatel / Vaccum Technology, Amphenol / Socapex, Arnoul, Ascom / Néopost, ASSA ABLOY, CEA, EDF, Essilor, Flunch, France Telecom, Leroy Sommer, Metrix/ Chauvin Arnoux, Navic, Orange, Parker, Schneider / Merlin, Gérin, Secap, Sensorex, SKF, SNR, Somfy, Thales, Thiriet, Renault Truck etc ... 
+- MBDA (Plessis Robinson)
+- AIRBUS GROUP
+- SOCOMEC - http://www.socomec.fr
+- PEUGEOT CITROEN AUTOMOBILE SA
+- Fare - Pithiviers (Loiret) / Groupe DEF
+- SIEMENS SAS / Chatillon
 
 
 ####Misc
 
 - Rename LaCie into Seagate
 - Rename NDS into Cisco
+- Netatmo moved into Issy
+- ForgetBox moved into Paris
