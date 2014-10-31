@@ -9,6 +9,10 @@ Schneider Electric has more than 40 locations according to http://www.societe.co
 I can't find any information on their corporate website.
 Therefore I only located HQ for now. Too much work on this company and I miss relevant information.
 
+- Général Electric Médical Systems Europe G.E.M.S.E
+  283 Rue de la Minière
+  78530 Buc
+
 ####Candidates to the list
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
@@ -48,6 +52,9 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - PEUGEOT CITROEN AUTOMOBILE SA
 - Fare - Pithiviers (Loiret) / Groupe DEF
 - SIEMENS SAS / Chatillon
+- Niwa / http://getniwa.com/
+- Technifor/Gravotech Group - http://www.gravotech.com/ - http://www.technifor.fr (http://www.directemploi.com/offre/1960427/ingenieur-de-developpement-c-c-embarque-h-f)
+
 
 
 ####Misc
