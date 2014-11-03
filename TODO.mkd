@@ -54,7 +54,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - SIEMENS SAS / Chatillon
 - Niwa / http://getniwa.com/
 - Technifor/Gravotech Group - http://www.gravotech.com/ - http://www.technifor.fr (http://www.directemploi.com/offre/1960427/ingenieur-de-developpement-c-c-embarque-h-f)
-
+- http://amd-group.fr
+- http://atelec-electronic.com
+- http://e2-cad.com/
+- http://cadres.apec.fr/offres-emploi-cadres/0_0_19_107756441W__________offre-d-emploi-developpeur-informatique-industrielle-h-f.html?xtmc=embarque&xtnp=1&xtcr=20
+- http://cadres.apec.fr/offres-emploi-cadres/0_0_14_107768093W__________offre-d-emploi-ingenieur-electronicien-h-f.html?xtmc=embarque&xtnp=1&xtcr=15
+- http://www.thyssenkrupp-ascenseurs.fr/societe/notre-centre-industriel/
+- http://www.oxhoo.com/corporate/
+- http://fr.agneovo.com/
 
 
 ####Misc
@@ -63,3 +70,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Rename NDS into Cisco
 - Netatmo moved into Issy
 - ForgetBox moved into Paris
+
+###Worldwide
+
+- http://www.ubnt.com/unifi-voip/uvp-executive/
+
