@@ -13,6 +13,8 @@ Therefore I only located HQ for now. Too much work on this company and I miss re
   283 Rue de la Minière
   78530 Buc
 
+- Embedded System Integrator in Grenoble - https://www.linkedin.com/jobs2/view/12070072
+
 ####Candidates to the list
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
@@ -62,6 +64,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.thyssenkrupp-ascenseurs.fr/societe/notre-centre-industriel/
 - http://www.oxhoo.com/corporate/
 - http://fr.agneovo.com/
+- ECA Group / Toulon : http://cadres.apec.fr/offres-emploi-cadres/0_0_17_108437033W__________offre-d-emploi-h-f-ingenieur-e-developpeur-concepteur-experimente.html?xtmc=linux_embarque&xtnp=1&xtcr=18
+- HydrokiT / http://www.hydrokit.com : http://cadres.apec.fr/offres-emploi-cadres/0_1_3_109713029W__________offre-d-emploi-un-responsable-du-pole-electronique-h-f.html?xtmc=embarque&xtnp=2&xtcr=4
 
 
 ####Misc
