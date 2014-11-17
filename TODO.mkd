@@ -66,7 +66,20 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://fr.agneovo.com/
 - ECA Group / Toulon : http://cadres.apec.fr/offres-emploi-cadres/0_0_17_108437033W__________offre-d-emploi-h-f-ingenieur-e-developpeur-concepteur-experimente.html?xtmc=linux_embarque&xtnp=1&xtcr=18
 - HydrokiT / http://www.hydrokit.com : http://cadres.apec.fr/offres-emploi-cadres/0_1_3_109713029W__________offre-d-emploi-un-responsable-du-pole-electronique-h-f.html?xtmc=embarque&xtnp=2&xtcr=4
-
+- Qosmos / 17eme / Paris
+- Cirpack / Issy-les-Moulineaux
+- Schlumberger
+- Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
+- Airbus Defense & Space
+- Digigram
+- Appep (système Epsilon)
+- Synox Group (SoFleet)
+- Assystem
+- BodyCap/Lacroix Electronics
+- FeetMe
+- Intesens
+- Smart Me Up
+- Squoring Technologies
 
 ####Misc
 
