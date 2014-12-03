@@ -1102,18 +1102,6 @@
             ]
         },
         {
-            "name": "ForgetBox",
-            "url": "http://meetlima.com",
-            "description": "Data storage solutions",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "17 route de la reine, 92100 Boulogne-Billancourt",
-                    "gps_coordinates": "48.83868/2.24948"
-                }
-            ]
-        },
-        {
             "name": "Freebox",
             "url": "http://www.free.fr",
             "description": "Set-top box",
@@ -1667,6 +1655,18 @@
                     "name": "",
                     "postal_address": "128 avenue du Maréchal de Lattre de Tassigny 87045 Limoges",
                     "gps_coordinates": "45.82484/1.27764"
+                }
+            ]
+        },
+        {
+            "name": "Lima",
+            "url": "http://meetlima.com",
+            "description": "Data storage solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 route de la reine, 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83868/2.24948"
                 }
             ]
         },
