@@ -2695,8 +2695,13 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "1-5 rue Jeanne d’Arc - 92130 Issy les Moulineaux",
+                    "gps_coordinates": "48.83170/2.28087"
+                },
+                {
+                    "name": "",
+                    "postal_address": "975 Avenue des Champs Blancs - 35576 CESSON SEVIGNE CEDEX",
+                    "gps_coordinates": "48.13425/-1.62086"
                 }
             ]
         },
