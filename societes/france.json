@@ -1413,14 +1413,9 @@
         },
         {
             "name": "Intel Corporation",
-            "url": "http://www.intel.com",
+            "url": "http://www.intel.fr",
             "description": "",
             "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Les Montalets, 2, rue de Paris, 92196 Meudon France",
-                    "gps_coordinates": "48.8176/2.2485"
-                },
                 {
                     "name": "",
                     "postal_address": "Les Taissounières B3, 1681, Rte des Dolines - BP 293, 06905 SOPHIA ANTIPOLIS CEDEX",
@@ -1440,6 +1435,51 @@
                     "name": "",
                     "postal_address": "Immeuble Le Saphir, 3 Rue Alfred Kastler - 44300 NANTES",
                     "gps_coordinates": "47.28244/-1.51956"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9 rue Alfred Kastler, C.S. 80746 - NANTES",
+                    "gps_coordinates": "47.28138/-1.51981"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2600 Route des Cretes, GAIA - Sophia Antipolis",
+                    "gps_coordinates": "43.62689/7.04927"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2455 route des Dolines - Sophia Antipolis",
+                    "gps_coordinates": "43.62633/7.04998"
+                },
+                {
+                    "name": "",
+                    "postal_address": "950 Avenue de Roumanille, ZAC Saint Philippe II bat tech - Sophia Antipolis",
+                    "gps_coordinates": "43.61658/7.06634"
+                },
+                {
+                    "name": "",
+                    "postal_address": "505 route des Lucioles, Building B - Sophia Antipolis",
+                    "gps_coordinates": "43.61643/7.04876"
+                },
+                {
+                    "name": "Intel Mobile Communications France",
+                    "postal_address": "2600 Route des Cretes, GAIA, 06560 Sophia-Antipolis",
+                    "gps_coordinates": "43.62706/7.04948"
+                },
+                {
+                    "name": "Intel Mobile Communications France",
+                    "postal_address": "Rue de la Carrière de Bachasson - Arteparc De Bachassons - Building A - 13590 Meyreuil",
+                    "gps_coordinates": "43.48997/5.52971"
+                },
+                {
+                    "name": "Intel Mobile Communications France",
+                    "postal_address": "8 Rue Claude-Marie Perroud Basso Cambo - 31100 Toulouse",
+                    "gps_coordinates": "43.57553/1.38075"
+                },
+                {
+                    "name": "Intel Mobile Communications France",
+                    "postal_address": "Les Montalets - 2 Rue de Paris - 92190 Meudon",
+                    "gps_coordinates": "48.8176/2.2485"
                 }
             ]
         },
