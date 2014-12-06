@@ -639,6 +639,24 @@
             ]
         },
         {
+            "name": "Cirpack",
+            "url": "http://www.cirpack.com",
+            "description": "Voice over IP services.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue Jeanne d'Arc - 92130 Issy-les-Moulineaux",
+                    "gps_coordinates": "48.83187/2.28052"
+                },
+                {
+                    "name": "",
+                    "postal_address": "26-40 rue d'Oradour-sur-Glane - 75015 Paris",
+                    "gps_coordinates": "48.83100/2.28284"
+                }
+            ]
+        },
+
+        {
             "name": "Cityzen Sciences",
             "url": "http://www.cityzensciences.fr (Lyon)",
             "description": "Smart textiles conception and development",
@@ -2187,6 +2205,18 @@
                     "name": "",
                     "postal_address": "43, rue Préfet Bonnefoy 44000 NANTES",
                     "gps_coordinates": "47.21406/-1.55936"
+                }
+            ]
+        },
+        {
+            "name": "Qosmos",
+            "url": "http://www.qosmos.com",
+            "description": "Deep Packet Inspection (DPI) and Network Intelligence (NI) technologies",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Le Cardinet - 8 rue Bernard Buffet - 75017 Paris",
+                    "gps_coordinates": "48.89209/2.31638"
                 }
             ]
         },
