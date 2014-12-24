@@ -42,9 +42,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.hexadome.com/fr
 - http://www.ledpowerfrance.fr/
 - http://thomson-broadcast.com/
-- http://www.onera.fr/
-- http://www.avnet.com
-- http://www.aedle.net/fr/
+v http://www.onera.fr/
+v http://www.avnet.com
+v http://www.ebv.com/locations-contact/
+v http://www.avnet-memec.eu/company/about-us.html
+v Silica - http://www.silica.com/about-us/locations-contacts.html
+v http://www.avnet-abacus.eu/about/locations/#c175
+v http://www.ts.avnet.com/fr/contact_us.html
+v http://www.aedle.net/fr/
 - http://www.pryntcases.com/
 - http://www.selftech.pt/
 - http://www.green-creative.fr/ 
@@ -68,8 +73,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://fr.agneovo.com/
 - ECA Group / Toulon : http://cadres.apec.fr/offres-emploi-cadres/0_0_17_108437033W__________offre-d-emploi-h-f-ingenieur-e-developpeur-concepteur-experimente.html?xtmc=linux_embarque&xtnp=1&xtcr=18
 - HydrokiT / http://www.hydrokit.com : http://cadres.apec.fr/offres-emploi-cadres/0_1_3_109713029W__________offre-d-emploi-un-responsable-du-pole-electronique-h-f.html?xtmc=embarque&xtnp=2&xtcr=4
-- Qosmos / 17eme / Paris
-- Cirpack / Issy-les-Moulineaux
+v Qosmos / 17eme / Paris
+v Cirpack / Issy-les-Moulineaux
 - Schlumberger
 - Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
 - Airbus Defense & Space
@@ -84,7 +89,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Squoring Technologies
 - eileo / http://www.eileo.com
 - irlynx / http://www.irlynx.com
-- Kubb / http://www.kubb.eu
+v Kubb / http://www.kubb.eu
 - Advantech / http://www.advantech.com/ / Colombes (92)
 - Wistiki / http://www.wistiki.com
 - Feeligreen / http://www.feeligreen.net
@@ -96,12 +101,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Aëdle / http://www.aedle.net
 - Holî / http://www.holimotion.com
 - SensorWake / http://sensorwake.com
-- MEG CORP / http://meg-live.com / 17 rue Henri Monnier – 75009 Paris
+v MEG CORP / http://meg-live.com / 17 rue Henri Monnier – 75009 Paris
 - Orée / http://oreeartisans.com
-- Hemodia / http://www.hemodia.com / 85 rue du Chêne Vert, 31670 Labège
+v Hemodia / http://www.hemodia.com / 85 rue du Chêne Vert, 31670 Labège
 - SIGNEE / http://signee.fr / 104 rue du courbillon 59175 Vendeville
 - Mooltibox / http://www.mooltibox.fr / Versailles
-- HORIBA Jobin Yvon / http://www.horiba.com
+v HORIBA Jobin Yvon / http://www.horiba.com
 - Kerlink / http://www.kerlink.fr
 - Ilex / http://www.ilex-international.com
 - Citinnov / http://www.citinnov.com
@@ -118,6 +123,10 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Safran Morpho - Osny (45 mn de la Défense) ou à Aix en Provence (13) - https://www.linkedin.com/jobs2/view/12043773?trk=job_view_similar_jobs
 - Canon Research Centre / 48.13282/-1.62586
 - BroadSoft ?
+- http://www.voxtok.com/
+- RSI VIDEO TECHNOLOGIE
+- LACROIX TRAFIC
+- https://www.poppy-project.org / INRIA Bordeaux Sud Ouest 200 Avenue de la Vieille Tour 33405 Talence Cedex
 
 ####Misc
 

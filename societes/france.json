@@ -29,6 +29,18 @@
             ]
         },
         {
+            "name": "Aëdle",
+            "url": "http://www.aedle.net",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "53 Rue Charles Duflos - 92270 Bois-Colombes",
+                    "gps_coordinates": "48.91533/2.26553"
+                }
+            ]
+        },
+        {
             "name": "AETA AUDIO Systems",
             "url": "http://www.aeta-audio.com",
             "description": "Portable sound recording units, mixers and advanced audio codecs",
@@ -377,6 +389,89 @@
                     "name": "",
                     "postal_address": "26 Burospace - Route de Gisy 91570 Bièvres",
                     "gps_coordinates": "48.76520/2.21591"
+                }
+            ]
+        },
+        {
+            "name": "Avnet Abacus",
+            "url": "http://www.avnet-abacus.eu",
+            "description": "European distributor of electronic components",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Club du Moulin à VentBat 40, 33 rue du Dr. G LévyF-69693 Vénissieux Cedex, Lyon",
+                    "gps_coordinates": "45.71976/4.86184"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Carnot Plaza - 14 Avenue Carnot Massy Cedex",
+                    "gps_coordinates": "48.72925/2.26684"
+                },
+                {
+                    "name": "",
+                    "postal_address": "35 avenue Des Peupliers 2 Cesson Sevigné F-35510 Rennes",
+                    "gps_coordinates": "48.11120/-1.61402"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc de la Plaine 35 Avenue Marcel Dassault F-31506 Toulouse ",
+                    "gps_coordinates": "43.58088/1.49436"
+                }
+            ]
+        },
+        {
+            "name": "AVNET EMBEDDED FRANCE",
+            "url": "http://www.avnet-embedded.eu/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Club du Moulin à Vent, Bat 10 33, rue du Dr. Georges Lévy 69693 Vénissieux Cedex",
+                    "gps_coordinates": "45.71961/4.86198"
+                },
+                {
+                    "name": "",
+                    "postal_address": "14 avenue Carnot 91349 Massy Cedex",
+                    "gps_coordinates": "48.72912/2.26664"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Les Peupliers II 35 avenue des Peupliers 35510 Cesson-Sevigne",
+                    "gps_coordinates": "48.11112/-1.61431"
+                }
+            ]
+        },
+        {
+            "name": "Avnet Memec",
+            "url": "http://www.avnet-memec.eu",
+            "description": "Semiconductors distributor",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14 avenue Carnot F-91349 MASSY Cedex",
+                    "gps_coordinates": "48.72919/2.26701"
+                }
+            ]
+        },
+        {
+            "name": "Avnet Technology Solutions",
+            "url": "http://www.ts.avnet.com",
+            "description": "Distributor of enterprise computing solutions, services, software and hardware.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29, rue des Trois Fontanot 92000 Nanterre",
+                    "gps_coordinates": "48.89629/2.22036"
+                },
+                {
+                    "name": "",
+                    "postal_address": "14 avenue Carnot 91349 Massy Cedex",
+                    "gps_coordinates": "48.72904/2.26660"
+                },
+                {
+                    "name": "",
+                    "postal_address": "3 Rue du Parc 67205 Oberhausbergen",
+                    "gps_coordinates": "48.60273/7.68043"
                 }
             ]
         },
@@ -916,14 +1011,39 @@
             ]
         },
         {
-            "name": "EBV",
-            "url": "http://www.ebv.fr",
+            "name": "EBV Elektronik",
+            "url": "http://www.ebv.com",
             "description": "PDA, passive and active RFID components",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "3, rue de la Renaissance 92184 Antony Cedex",
+                    "gps_coordinates": "48.76120/2.29948"
+                },
+                {
+                    "name": "",
+                    "postal_address": "35, av. des Peupliers 35510 Cesson Sévigné",
+                    "gps_coordinates": "48.11125/-1.61404"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Rue Gruninger 67400 Illkirch Graffenstaden",
+                    "gps_coordinates": "48.52450/7.73479"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Club du Moulin à Vent 33, Av. du Dr. Georges Lévy 69693 Venissieux",
+                    "gps_coordinates": "45.71964/4.86171"
+                },
+                {
+                    "name": "",
+                    "postal_address": "115, Rue Nicolas Ledoux Immeuble Hemiris, Bâtiment A 13854 Aix-en-Provence",
+                    "gps_coordinates": "43.48382/5.38263"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Les Berges du Lac Bat A 45 Rue du Colombier 31670 Labège",
+                    "gps_coordinates": "43.53528/1.51632"
                 }
             ]
         },
@@ -1271,6 +1391,18 @@
             ]
         },
         {
+            "name": "Hemodia",
+            "url": "http://www.hemodia.com/",
+            "description": "Manufacturing and marketing of customized single-use care kits.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "85 Rue du Chêne Vert - 31670 Labège",
+                    "gps_coordinates": "43.53994/1.52140"
+                }
+            ]
+        },
+        {
             "name": "HITRONETIC",
             "url": "http://www.hitronetic.com",
             "description": "",
@@ -1279,6 +1411,28 @@
                     "name": "",
                     "postal_address": "63 bd Masséna 75013 PARIS FRANCE",
                     "gps_coordinates": "48.82189/2.37108"
+                }
+            ]
+        },
+        {
+            "name": "HORIBA Jobin Yvon SAS",
+            "url": "http://www.horiba.com/",
+            "description": "Precision instruments for measurement and analysis",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16-18 rue du Canal - 91165 Longjumeau Cedex",
+                    "gps_coordinates": "48.69499/2.28829"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Avenue de la Vauve - Passage Jobin Yvon CS 45002 - 91120 Palaiseau",
+                    "gps_coordinates": "48.71186/2.19908"
+                },
+                {
+                    "name": "",
+                    "postal_address": "231 rue de Lille - 59650 Villeneuve d’Ascq",
+                    "gps_coordinates": "50.62686/3.14007"
                 }
             ]
         },
@@ -1658,6 +1812,19 @@
             ]
         },
         {
+            "name": "BLEUJOUR",
+            "url": "http://www.kubb.eu",
+            "description": "Computer manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
+                    "gps_coordinates": "43.56300/1.49201"
+                }
+
+            ]
+        },
+        {
             "name": "Keecker",
             "url": "http://www.keecker.com",
             "description": "Connected robot for home entertainment and more",
@@ -1761,6 +1928,18 @@
                     "name": "",
                     "postal_address": "8 rue Edouard Vallerand 94100 Saint-Maur des Fossés - FRANCE",
                     "gps_coordinates": "48.80414/2.48310"
+                }
+            ]
+        },
+        {
+            "name": "MEG CORP",
+            "url": "http://meg-live.com",
+            "description": "Intelligent plant pot",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 rue Henri Monnier – 75009 Paris",
+                    "gps_coordinates": "48.88008/2.33728"
                 }
             ]
         },
@@ -2051,6 +2230,53 @@
                     "gps_coordinates": "43.62643/7.05014"
                 }
 
+            ]
+        },
+        {
+            "name": "Onera",
+            "url": "http://www.onera.fr/",
+            "description": "Office national d'études et de recherches aérospatiales",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "BP72 - 29 avenue de la Division Leclerc - 92322 CHATILLON CEDEX",
+                    "gps_coordinates": "48.79695/2.28272"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Onera - 31410 Mauzac",
+                    "gps_coordinates": "43.3834/1.2950"
+                },
+                {
+                    "name": "",
+                    "postal_address": "5 boulevard Paul Painlevé - 59045 LILLE CEDEX",
+                    "gps_coordinates": "50.62248/3.08172"
+                },
+                {
+                    "name": "",
+                    "postal_address": "8 rue des Vertugadins - 92190 MEUDON",
+                    "gps_coordinates": "48.80089/2.23645"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Route Départementale n° 215 - 73500 AVRIEUX",
+                    "gps_coordinates": "45.21397/6.71276"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Chemin de la Hunière et des Joncherettes BP 80100 - 91123 PALAISEAU CEDEX",
+                    "gps_coordinates": "48.7139/2.2322"
+                },
+                {
+                    "name": "",
+                    "postal_address": "BA 701 - 13661 SALON CEDEX AIR",
+                    "gps_coordinates": "43.6188/5.1181"
+                },
+                {
+                    "name": "",
+                    "postal_address": "BP74025 2 avenue Edouard Belin - 31055 TOULOUSE CEDEX 4",
+                    "gps_coordinates": "43.57121/1.47275"
+                }
             ]
         },
         {
@@ -2472,6 +2698,33 @@
                     "name": "",
                     "postal_address": "4-14 rue Ferrus 75014 Paris France",
                     "gps_coordinates": "48.83119/2.34052"
+                }
+            ]
+        },
+        {
+            "name": "Silica",
+            "url": "http://www.silica.com",
+            "description": "Semiconductor distributor",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Carnot Plaza14 Avenue Carnot 91349 Massy Cedex",
+                    "gps_coordinates": "48.72909/2.26684"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Les Peupliers II 35 avenue des Peupliers 35510 Cesson Sévigné",
+                    "gps_coordinates": "48.11100/-1.61415"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Club du Moulin a Vent Bat 10 - 33, rue du Dr. G. Levy 69693 Venissieux Cedex",
+                    "gps_coordinates": "45.71974/4.86218"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc de la Plaine 35 avenue Marcel Dassault BP 5867 31506 Toulouse Cedex 5",
+                    "gps_coordinates": "43.58090/1.49447"
                 }
             ]
         },
