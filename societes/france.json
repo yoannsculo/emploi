@@ -29,6 +29,18 @@
             ]
         },
         {
+            "name": "Advantech",
+            "url": "http://www.advantech.com",
+            "description": "Embedded and automation products and solutions.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Bld Charles de Gaulle Noblet hall C - 92700 Colombes",
+                    "gps_coordinates": "48.90898/2.23581"
+                }
+            ]
+        },
+        {
             "name": "Aëdle",
             "url": "http://www.aedle.net",
             "description": "",
