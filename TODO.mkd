@@ -90,7 +90,7 @@ v Cirpack / Issy-les-Moulineaux
 - eileo / http://www.eileo.com
 - irlynx / http://www.irlynx.com
 v Kubb / http://www.kubb.eu
-- Advantech / http://www.advantech.com/ / Colombes (92)
+v Advantech / http://www.advantech.com/ / Colombes (92)
 - Wistiki / http://www.wistiki.com
 - Feeligreen / http://www.feeligreen.net
 - PKparis / http://www.pkparis.com
@@ -98,7 +98,7 @@ v Kubb / http://www.kubb.eu
 - Phonotonic / http://www.phonotonic.net
 - Prizm Corp / http://www.meetprizm.com
 - Dualo / http://dualo.org
-- Aëdle / http://www.aedle.net
+v Aëdle / http://www.aedle.net
 - Holî / http://www.holimotion.com
 - SensorWake / http://sensorwake.com
 v MEG CORP / http://meg-live.com / 17 rue Henri Monnier – 75009 Paris
@@ -127,6 +127,7 @@ v HORIBA Jobin Yvon / http://www.horiba.com
 - RSI VIDEO TECHNOLOGIE
 - LACROIX TRAFIC
 - https://www.poppy-project.org / INRIA Bordeaux Sud Ouest 200 Avenue de la Vieille Tour 33405 Talence Cedex
+- SIERRA WIRELESS / Issy
 
 ####Misc
 
