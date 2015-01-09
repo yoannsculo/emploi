@@ -99,21 +99,21 @@ v Advantech / http://www.advantech.com/ / Colombes (92)
 - Prizm Corp / http://www.meetprizm.com
 - Dualo / http://dualo.org
 v Aëdle / http://www.aedle.net
-- Holî / http://www.holimotion.com
+v Holî / http://www.holimotion.com
 - SensorWake / http://sensorwake.com
 v MEG CORP / http://meg-live.com / 17 rue Henri Monnier – 75009 Paris
-- Orée / http://oreeartisans.com
+v Orée / http://oreeartisans.com
 v Hemodia / http://www.hemodia.com / 85 rue du Chêne Vert, 31670 Labège
 - SIGNEE / http://signee.fr / 104 rue du courbillon 59175 Vendeville
 - Mooltibox / http://www.mooltibox.fr / Versailles
 v HORIBA Jobin Yvon / http://www.horiba.com
-- Kerlink / http://www.kerlink.fr
-- Ilex / http://www.ilex-international.com
-- Citinnov / http://www.citinnov.com
+v Kerlink / http://www.kerlink.fr
+x Ilex / http://www.ilex-international.com
+v Citinnov / http://www.citinnov.com
 - Protecteam / http://www.protecteam.fr/
 - Protel / http://www.protelsecurite.com
 - Hub One / http://www.hubone.fr
-- Sierra Wireless / http://www.sierrawireless.com
+v Sierra Wireless / http://www.sierrawireless.com
 - INTRATONE / http://www.intratone.fr
 - Orange Business Services, 25-27 rue Juliette Savar, 94000 CRETEIL
 - M2M / http://www.m2m-ndt.com / Les Ulis
@@ -124,10 +124,11 @@ v HORIBA Jobin Yvon / http://www.horiba.com
 - Canon Research Centre / 48.13282/-1.62586
 - BroadSoft ?
 - http://www.voxtok.com/
-- RSI VIDEO TECHNOLOGIE
-- LACROIX TRAFIC
+v RSI VIDEO TECHNOLOGIE
+v LACROIX TRAFIC
 - https://www.poppy-project.org / INRIA Bordeaux Sud Ouest 200 Avenue de la Vieille Tour 33405 Talence Cedex
-- SIERRA WIRELESS / Issy
+v SIERRA WIRELESS / Issy
+v Visiomed / http://www.visiomed-lab.com/ / 8 Avenue Kléber 75116 Paris
 
 ####Misc
 
