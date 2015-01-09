@@ -614,6 +614,18 @@
             ]
         },
         {
+            "name": "Bioaxial",
+            "url": "http://www.bioaxial.com",
+            "description": "Super-resolution instrument for the life sciences and medical research communities",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "24 rue du Faubourg Saint Jacques 75014 Paris",
+                    "gps_coordinates": "48.83746/2.33852"
+                }
+            ]
+        },
+        {
             "name": "Bookeen",
             "url": "http://www.bookeen.com/fr",
             "description": "E-readers",
@@ -762,7 +774,18 @@
                 }
             ]
         },
-
+        {
+            "name": "Citinnov",
+            "url": "http://www.citinnov.com",
+            "description": "Contrôle d’accès urbain",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZA du Barret - Av. Jean-Baptiste Tron - 13160 CHATEAURENARD",
+                    "gps_coordinates": "43.88925/4.82858"
+                }
+            ]
+        },
         {
             "name": "Cityzen Sciences",
             "url": "http://www.cityzensciences.fr (Lyon)",
@@ -1415,6 +1438,18 @@
             ]
         },
         {
+            "name": "HGH Systèmes Infrarouges",
+            "url": "http://www.hgh.fr/",
+            "description": "infrared technologies for security, industrial and civil applications",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 Rue Maryse Bastié, 91430 Igny",
+                    "gps_coordinates": "48.73203/2.23488"
+                }
+            ]
+        },
+        {
             "name": "HITRONETIC",
             "url": "http://www.hitronetic.com",
             "description": "",
@@ -1423,6 +1458,18 @@
                     "name": "",
                     "postal_address": "63 bd Masséna 75013 PARIS FRANCE",
                     "gps_coordinates": "48.82189/2.37108"
+                }
+            ]
+        },
+        {
+            "name": "Holî",
+            "url": "http://www.holimotion.com",
+            "description": "digital lighting solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "37, rue de la Bourse 69002 Lyon",
+                    "gps_coordinates": "45.76469/4.83696"
                 }
             ]
         },
@@ -1849,6 +1896,18 @@
             ]
         },
         {
+            "name": "Kerlink",
+            "url": "http://www.kerlink.fr",
+            "description": "Supplier of M2M solutions for remote equipements interconnection",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue Jacqueline Auriol 35235 THORIGNE-FOUILLARD",
+                    "gps_coordinates": "48.15261/-1.59087"
+                }
+            ]
+        },
+        {
             "name": "Klervi",
             "url": "http://www.klervi.com",
             "description": "",
@@ -1880,6 +1939,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": "48.83764/2.27302"
+                }
+            ]
+        },
+        {
+            "name": "Lacroix Signalisation",
+            "url": "http://www.lacroix-signalisation.com",
+            "description": "Road signs, street furniture and traffic management solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 impasse du Bourrelier  BP 30004  44801 Saint-Herblain Cedex",
+                    "gps_coordinates": "47.22138/-1.64275"
                 }
             ]
         },
@@ -2327,6 +2398,18 @@
             ]
         },
         {
+            "name": "Orée",
+            "url": "http://oreeartisans.com/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "287 avenue Jean Fourastie 11400 Castelnaudary",
+                    "gps_coordinates": "43.30312/1.96560"
+                }
+            ]
+        },
+        {
             "name": "Orpheo Group",
             "url": "http://www.ophrys.net",
             "description": "",
@@ -2467,6 +2550,18 @@
                     "name": "",
                     "postal_address": "52 Boulevard Rodin 92130 Issy les Moulineaux",
                     "gps_coordinates": "48.81947/2.25943"
+                }
+            ]
+        },
+        {
+            "name": "RSI Video Technologies",
+            "url": "http://www.videofied.com",
+            "description": "Wireless, self-powered security solutions for commercial, residential and government customers",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "25, rue Jacobi-Netter  67200 Strasbourg",
+                    "gps_coordinates": "48.58714/7.70677"
                 }
             ]
         },
@@ -2686,6 +2781,23 @@
                     "name": "",
                     "postal_address": "Parc Technologique Léonard de Vinci - Rue Léonard de Vinci - CP 8010 LISSES - 91008 EVRY Cedex",
                     "gps_coordinates": "48.59910/2.41532"
+                }
+            ]
+        },
+        {
+            "name": "Sierra Wireless",
+            "url": "http://www.sebia.com",
+            "description": "Modules, gateways and cloud services for M2M",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 boulevard Gallieni 92442 Issy-les-Moulineaux Cedex",
+                    "gps_coordinates": "48.83248/2.26746"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Lake Park ZAC de l'Hers - Allée du Lac 31672 Labège Cedex",
+                    "gps_coordinates": "43.53610/1.51454"
                 }
             ]
         },
@@ -3141,6 +3253,18 @@
                     "gps_coordinates": "48.89322/2.23715"
                 }
 
+            ]
+        },
+        {
+            "name": "Visiomed",
+            "url": "http://www.visiomed-lab.com/",
+            "description": "Smart connected devices for health and wellbeing",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 Avenue Kléber 75116 Paris",
+                    "gps_coordinates": "48.87201/2.29348"
+                }
             ]
         },
         {
