@@ -2614,6 +2614,18 @@
             ]
         },
         {
+            "name": "Rutronik",
+            "url": "http://www.rutronik.com/",
+            "description": "Distributor for electronic components",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6, Mail de l'Europe 78170 La Celle St Cloud",
+                    "gps_coordinates": "48.84889/2.13352"
+                }
+            ]
+        },
+        {
             "name": "RX Solutions",
             "url": "http://www.rxsolutions.fr",
             "description": "X-Ray Non-Destructive Testing",
