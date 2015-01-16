@@ -1167,6 +1167,18 @@
             ]
         },
         {
+            "name": "EOS Innovation",
+            "url": "http://www.eos-innovation.eu",
+            "description": "mobile surveillance robot",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 Rue Montespan 91024 Évry Cedex",
+                    "gps_coordinates": "48.63284/2.43555"
+                }
+            ]
+        },
+        {
             "name": "ePawn",
             "url": "http://www.epawn.fr",
             "description": "Interactive table with real-world objects",
@@ -2873,6 +2885,23 @@
                     "name": "",
                     "postal_address": "Parc Industriel Sud - Groissiat 01100 OYONNAX France",
                     "gps_coordinates": "46.23221/5.61718"
+                }
+            ]
+        },
+        {
+            "name": "SmarDTV",
+            "url": "http://www.smardtv.com",
+            "description": "Modules enabling the reception of pay television",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "147 Avenue du Jujubier ZE Athélia IV 13600 La Ciotat",
+                    "gps_coordinates": "43.20479/5.59691"
+                },
+                {
+                    "name": "",
+                    "postal_address": "14 Rue du Pâtis Tatelini Metropolis 2, Bâtiment G, C.S 10842 F-35700 Rennes",
+                    "gps_coordinates": "48.13299/-1.63805"
                 }
             ]
         },
