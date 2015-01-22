@@ -129,6 +129,9 @@ v LACROIX TRAFIC
 - https://www.poppy-project.org / INRIA Bordeaux Sud Ouest 200 Avenue de la Vieille Tour 33405 Talence Cedex
 v SIERRA WIRELESS / Issy
 v Visiomed / http://www.visiomed-lab.com/ / 8 Avenue Kléber 75116 Paris
+- Altimet / http://www.altimet.fr/fr/index.htm
+- http://www.vision-systems.fr
+- http://www.environnement-sa.fr
 
 ####Misc
 
