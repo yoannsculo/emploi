@@ -758,6 +758,18 @@
             ]
         },
         {
+            "name": "CIO Systèmes Embarqués",
+            "url": "http://www.ciose.fr",
+            "description": "Research & Development for electronic and embedded software systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue de la Presse - 42000 Saint Etienne",
+                    "gps_coordinates": "45.4579105/4.3971091"
+                }
+            ]
+        },
+        {
             "name": "Cirpack",
             "url": "http://www.cirpack.com",
             "description": "Voice over IP services.",
