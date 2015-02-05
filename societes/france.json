@@ -1119,6 +1119,18 @@
             ]
         },
         {
+            "name": "Edgeflex",
+            "url": "http://www.edgeflex.fr/",
+            "description": "Conception de systèmes embarqués (électronique, mécanique, design, production)",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "625 Rue de la Croix Verte, 34000 Montpellier",
+                    "gps_coordinates": "43.645840/3.840766"
+                }
+            ]
+        },
+        {
             "name": "Efixo",
             "url": "http://www.efixo.com",
             "description": "",
@@ -2954,6 +2966,18 @@
             ]
         },
         {
+            "name": "Snapkin",
+            "url": "http://www.snapkin.fr",
+            "description": "Outil de mesure 2D/3D avec réalisation des plans d'architectes",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Rond Point Benjamin Franklin - Avenue du Wahlalla - Cap Omega, 34960 Montpellier Cedex 2",
+                    "gps_coordinates": "43.618523/3.913801"
+                }
+            ]
+        },
+        {
             "name": "Soitec",
             "url": "http://www.soitec.com",
             "description": "",
@@ -3471,30 +3495,6 @@
                     "name": "",
                     "postal_address": "61 rue Pierre Curie CS20001 78373 Plaisir Cedex",
                     "gps_coordinates": "48.80115/1.98414"
-                }
-            ]
-        },
-        {
-            "name": "Snapkin",
-            "url": "http://www.snapkin.fr",
-            "description": "Outil de mesure 2D/3D avec réalisation des plans d'architectes",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Rond Point Benjamin Franklin - Avenue du Wahlalla - Cap Omega, 34960 Montpellier Cedex 2",
-                    "gps_coordinates": "43.618523/3.913801"
-                }
-            ]
-        },
-        {
-            "name": "Edgeflex",
-            "url": "http://www.edgeflex.fr/",
-            "description": "Conception de systèmes embarqués (électronique, mécanique, design, production)",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "625 Rue de la Croix Verte, 34000 Montpellier",
-                    "gps_coordinates": "43.645840/3.840766"
                 }
             ]
         }
