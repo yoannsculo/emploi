@@ -811,6 +811,18 @@
             ]
         },
         {
+            "name": "CLEODE",
+            "url": "http://www.cleode.fr",
+            "description": "Manufacture of industrial-process control equipment",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 RUE THOMAS EDISON - 22300 LANNION",
+                    "gps_coordinates": "48.75996/-3.47127"
+                }
+            ]
+        },
+        {
             "name": "CNB Electronique",
             "url": "http://www.cnb-electronique.com",
             "description": "",
@@ -2147,6 +2159,18 @@
             ]
         },
         {
+            "name": "Myfox",
+            "url": "http://www.getmyfox.com",
+            "description": "Smart home security systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Regent Part II, Bat. 1, 2460 l’Occitane, 31679 Labege",
+                    "gps_coordinates": "43.54121/1.51029"
+                }
+            ]
+        },
+        {
             "name": "Myriad Group",
             "url": "http://www.myriadgroup.com",
             "description": "",
@@ -2407,6 +2431,23 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Open Wide Ingénierie",
+            "url": "http://ingenierie.openwide.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "23 rue Daviel 75013 Paris",
+                    "gps_coordinates": "48.82811/2.34445"
+                },
+                {
+                    "name": "",
+                    "postal_address": "36 rue Jacques Babinet 31100 Toulouse",
+                    "gps_coordinates": "43.57474/1.40625"
                 }
             ]
         },
@@ -2962,6 +3003,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Smokio",
+            "url": "http://www.smokio.com",
+            "description": "Smart wireless vaporizer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue d'Alexandrie, 75002 Paris",
+                    "gps_coordinates": "48.86816/2.35093"
                 }
             ]
         },
