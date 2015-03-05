@@ -2291,18 +2291,6 @@
             ]
         },
         {
-            "name": "Novasparks",
-            "url": "http://www.novasparks.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "12 Rue de Châtillon 75014 Paris",
-                    "gps_coordinates": "48.82759/2.32377"
-                }
-            ]
-        },
-        {
             "name": "Netatmo",
             "url": "http://www.netatmo.com",
             "description": "",
@@ -2335,6 +2323,18 @@
                     "name": "",
                     "postal_address": "838 rue de l'Aiguelongue - 34090 Montpellier",
                     "gps_coordinates": "43.63469/3.87765"
+                }
+            ]
+        },
+        {
+            "name": "Novasparks",
+            "url": "http://www.novasparks.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 Rue de Châtillon 75014 Paris",
+                    "gps_coordinates": "48.82759/2.32377"
                 }
             ]
         },
