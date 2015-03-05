@@ -1034,6 +1034,18 @@
             ]
         },
         {
+            "name": "Dreem",
+            "url": "http://dreem.com/",
+            "description": "Wearable devices",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "33 rue du mail 75002 Paris",
+                    "gps_coordinates": "48.86731/2.34364"
+                }
+            ]
+        },
+        {
             "name": "DxO Labs SAS",
             "url": "https://www.dxo.com",
             "description": "Products and solutions in digital imaging",
@@ -1365,6 +1377,18 @@
             ]
         },
         {
+            "name": "G.E.A.",
+            "url": "http://www.gea.fr",
+            "description": "Toll collection systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Inovallée 12 Chemin de Malacher CS60085 - 38243 MEYLAN CEDEX",
+                    "gps_coordinates": "45.20868/5.78756"
+                }
+            ]
+        },
+        {
             "name": "Gemalto",
             "url": "http://www.gemalto.com",
             "description": "",
@@ -1446,6 +1470,18 @@
                     "name": "",
                     "postal_address": " 23 Avenue Louis Breguet 78140 Vélizy-Villacoublay",
                     "gps_coordinates": "48.78112/2.18391"
+                }
+            ]
+        },
+        {
+            "name": "Green Communications",
+            "url": "http://www.green-communications.fr",
+            "description": "Mesh networks",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "86, Rue de Paris 91400 Orsay",
+                    "gps_coordinates": "48.69619/2.19472"
                 }
             ]
         },
@@ -1999,6 +2035,18 @@
                     "name": "",
                     "postal_address": "8 impasse du Bourrelier  BP 30004  44801 Saint-Herblain Cedex",
                     "gps_coordinates": "47.22138/-1.64275"
+                }
+            ]
+        },
+        {
+            "name": "LEA",
+            "url": "http://www.lea-networks.fr/",
+            "description": "xDSL Splitter, Power Line Carrier (PLC), and Surge Protection systems for the telecommunication industry",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Le Linéa 1, rue du Général Leclerc 92047 Paris La Défense Cedex",
+                    "gps_coordinates": "48.88663/2.24253"
                 }
             ]
         },
@@ -2631,6 +2679,18 @@
             ]
         },
         {
+            "name": "R-Cade",
+            "url": "http://www.r-cade.fr",
+            "description": "Flippers numériques et bornes d'arcade",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "120 rue Sébastien Charléty 73490 LA RAVOIRE",
+                    "gps_coordinates": "45.56322/5.96694"
+                }
+            ]
+        },
+        {
             "name": "RSI Video Technologies",
             "url": "http://www.videofied.com",
             "description": "Wireless, self-powered security solutions for commercial, residential and government customers",
@@ -3031,6 +3091,18 @@
             ]
         },
         {
+            "name": "SODIMAS",
+            "url": "http://www.sodimas.com/",
+            "description": "Lift manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 rue Ampère - 26600 PONT DE L'ISÈRE",
+                    "gps_coordinates": "45.01371/4.87369"
+                }
+            ]
+        },
+        {
             "name": "Soitec",
             "url": "http://www.soitec.com",
             "description": "",
@@ -3128,6 +3200,18 @@
                     "name": "STMicroelectronics Grenoble",
                     "postal_address": "12 RUE JULES HOROWITZ 38000 GRENOBLE",
                     "gps_coordinates": "45.20452/5.69585"
+                }
+            ]
+        },
+        {
+            "name": "Sunpartner Technologies",
+            "url": "http://sunpartnertechnologies.com/",
+            "description": "Photovoltaic solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Chateau de Galice 1940 route de Loqui 13090 Aix-en-Provence",
+                    "gps_coordinates": "43.5225/5.3805"
                 }
             ]
         },
@@ -3383,6 +3467,18 @@
                     "gps_coordinates": "48.89322/2.23715"
                 }
 
+            ]
+        },
+        {
+            "name": "Virtual Open Systems",
+            "url": "http://www.virtualopensystems.com/",
+            "description": "Linux, android, SMP virtualization and cloud computing software solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 RUE LAKANAL 38000 GRENOBLE",
+                    "gps_coordinates": "45.18572/5.72280"
+                }
             ]
         },
         {
