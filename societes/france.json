@@ -2243,6 +2243,18 @@
             ]
         },
         {
+            "name": "Naonext",
+            "url": "http://www.crystall-ball.com",
+            "description": "Computer music controller",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "30 rue Jan Palach 44220 Couëron",
+                    "gps_coordinates": "47.23601/-1.67073"
+                }
+            ]
+        },
+        {
             "name": "Navocap",
             "url": "http://www.navocap.com",
             "description": "",
