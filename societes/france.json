@@ -2482,6 +2482,18 @@
                 }
             ]
         },
+	{
+            "name": "Onet securité Telem",
+            "url": "http://www.telemsa.com/",
+            "description": "Security systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16, rue de l'Etang - ZI de Mayencin - 38610 Gières",
+                    "gps_coordinates": "45.18524/5.77883"
+                }
+            ]
+        },
         {
             "name": "OpenPattern",
             "url": "http://www.openpattern.com",
