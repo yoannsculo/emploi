@@ -3167,6 +3167,18 @@
                 }
             ]
         },
+	{
+            "name": "Squadrone system",
+            "url": "http://squadrone-system.com",
+            "description": "Auto following systems for drones",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 place Firmin Gautier 38000 Grenoble - France",
+                    "gps_coordinates": "45.1904754/5.7121659"
+                }
+            ]
+	},
         {
             "name": "ST-Ericsson",
             "url": "http://www.stericsson.com",
