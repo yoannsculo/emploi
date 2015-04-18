@@ -139,6 +139,9 @@ v Visiomed / http://www.visiomed-lab.com/ / 8 Avenue Kléber 75116 Paris
 - eProvenance - http://www.eprovenance.com/
 - Gigaset - http://www.gigaset.com/fr_FR/gigaset/mentions-legales.html
 - Oralb - http://www.oralb.fr/fr-FR/details-des-produits/brosse-a-dents-electrique-oral-b-pro-7000-blanche-smartseries
+- CEMI - http://www.cemifrance.fr
+- Pace - http://www.pace.com/global
+- Jortex - http://www.kortex-psi.fr/
 
 ####Misc
 
