@@ -3428,6 +3428,28 @@
             ]
         },
         {
+            "name": "Thales Systèmes Aéroportés",
+            "url": "https://www.thalesgroup.com/en",
+            "description": "Fabrication d'outils électroniques d'aide à la navigation",
+            "locations": [
+                {
+                    "name": "Thales Systemes Aeroportes S.a",
+                    "postal_address": "2 Avenue Gay Lussac - 78990 Élancourt",
+                    "gps_coordinates": "48.79060/1.97652"
+                },
+                {
+                    "name": "",
+                    "postal_address": "25 Avenue Gustave Eiffel - 33600 Pessac",
+                    "gps_coordinates": "44.77884/-0.65220"
+                },
+                {
+                    "name": "",
+                    "postal_address": "10 Avenue 1ère Dfl - 29200 Brest",
+                    "gps_coordinates": "48.37455/-4.55299"
+                }
+            ]
+        },
+        {
             "name": "Thalès Underwater Systems",
             "url": "https://www.thalesgroup.com/en/worldwide/defence/naval-forces/underwater-warfare",
             "description": "Underwater warfare",
