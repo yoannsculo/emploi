@@ -2017,12 +2017,17 @@
         {
             "name": "LaCie",
             "url": "http://www.lacie.com",
-            "description": "External hard drives, NAS, RAID arrays, Flash Drives, and computer monitors.",
+            "description": "External hard drives, NAS, RAID arrays and Flash Drives.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
+                    "postal_address": "33, boulevard du Général Martial Valin - 75015 Paris",
                     "gps_coordinates": "48.83764/2.27302"
+                },
+                {
+                    "name": "",
+                    "postal_address": "17, rue Ampère - 91349 Massy Cedex",
+                    "gps_coordinates": "48.72052/2.27071"
                 }
             ]
         },

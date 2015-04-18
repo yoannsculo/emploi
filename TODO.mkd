@@ -142,7 +142,6 @@ v Visiomed / http://www.visiomed-lab.com/ / 8 Avenue Kléber 75116 Paris
 
 ####Misc
 
-- Rename LaCie into Seagate
 - Rename NDS into Cisco
 - Netatmo moved into Issy
 - Lima moved into Paris
