@@ -626,6 +626,18 @@
             ]
         },
         {
+            "name": "BLUE FROG ROBOTICS",
+            "url": "http://www.bluefrogrobotics.com/",
+            "description": "Companion Robots",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 rue Coquillière 75001 PARIS",
+                    "gps_coordinates": "48.86357/2.34344"
+                }
+            ]
+        },
+        {
             "name": "Bookeen",
             "url": "http://www.bookeen.com/fr",
             "description": "E-readers",
@@ -1715,6 +1727,23 @@
             ]
         },
         {
+            "name": "INSIDE Secure",
+            "url": "http://www.insidesecure.com",
+            "description": "Embedded security systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Arteparc Bachasson, Bât A Rue de la carrière de Bachasson, CS70025 13590 MEYREUIL",
+                    "gps_coordinates": "43.49002/5.53078"
+                },
+		{
+                    "name": "",
+                    "postal_address": "Space Antipolis 9  2323 Chemin Saint Bernard  06225 Vallauris Cedex",
+                    "gps_coordinates": "43.59760/7.05697"
+                }
+            ]
+        },
+        {
             "name": "Interface Concept",
             "url": "http://www.interfaceconcept.com",
             "description": "",
@@ -2104,6 +2133,18 @@
             ]
         },
         {
+            "name": "LUCIE LABS ",
+            "url": "http://www.lucielabs.com",
+            "description": "smart & creative LED lighting wristband",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Business Pôle, Allée Pierre Ziller Bâtiment B, Entrée A, BP19 – CS80019 06560 Valbonne - Sophia Antipolis",
+                    "gps_coordinates": "43.62719/7.04132"
+                }
+            ]
+        },
+        {
             "name": "MAINtag",
             "url": "http://www.maintag.fr",
             "description": "RFID solutions for aerospace",
@@ -2316,6 +2357,73 @@
                     "name": "",
                     "postal_address": "17 route de la reine 92100 Boulogne-Billancourt",
                     "gps_coordinates": "48.83859/2.24946"
+                }
+            ]
+        },
+        {
+            "name": "Nexter",
+            "url": "http://www.nexter-group.fr/",
+            "description": "French government-owned weapons manufacturer",
+            "locations": [
+                {
+                    "name": "NEXTER MUNITIONS",
+                    "postal_address": "7 route de Guerry 18023 Bourges Cedex",
+                    "gps_coordinates": "47.07181/2.42438"
+                },
+		{
+                    "name": "NEXTER MUNITIONS",
+                    "postal_address": "Route de Villeneuve 18570 La Chapelle Saint Ursin",
+                    "gps_coordinates": "47.0504/2.3016"
+                },
+		{
+                    "name": "NEXTER MUNITIONS",
+                    "postal_address": "13bis chemin des Poudrières 65000 Tarbes",
+                    "gps_coordinates": "43.2507/0.0814"
+                },
+		{
+                    "name": "NEXTER SYSTEMS",
+                    "postal_address": "11 allée des Marronniers 78022 Versailles Cedex",
+                    "gps_coordinates": "48.78360/2.10023"
+                },
+		{
+                    "name": "NEXTER SYSTEMS",
+                    "postal_address": "34 boulevard de Valmy BP 504 / 42328 Roanne Cedex",
+                    "gps_coordinates": "46.0665/4.0883"
+                },
+		{
+                    "name": "NEXTER SYSTEMS",
+                    "postal_address": "13 route de la Minière 78034 Versailles Cedex",
+                    "gps_coordinates": "48.78334/2.10446"
+                },
+		{
+                    "name": "NEXTER SYSTEMS",
+                    "postal_address": "7 route de Guerry 18023 Bourges Cedex",
+                    "gps_coordinates": "47.07107/2.42520"
+                },
+		{
+                    "name": "NEXTER ELECTRONICS",
+                    "postal_address": "6 rue Claude-Marie PERROUD 31100 Toulouse",
+                    "gps_coordinates": "43.57486/1.38123"
+                },
+		{
+                    "name": "NEXTER MECHANICS",
+                    "postal_address": "20 rue du 9 juin 1944 BP 210 19012 Tulle Cedex",
+                    "gps_coordinates": "45.26088/1.75072"
+                },
+		{
+                    "name": "NEXTER ROBOTICS",
+                    "postal_address": "13 route de la Minière 78034 Versailles Cedex",
+                    "gps_coordinates": "48.78436/2.10384"
+                },
+		{
+                    "name": "NBC-Sys",
+                    "postal_address": "8 rue Maurice Bonnevialle BP 10226 42408 Saint-Chamond Cedex",
+                    "gps_coordinates": "45.47087/4.50885"
+                },
+		{
+                    "name": "OPTSYS",
+                    "postal_address": "7 rue Salvadore Dali BP 505 42007 Saint Etienne cedex 1",
+                    "gps_coordinates": "45.45147/4.38628"
                 }
             ]
         },
