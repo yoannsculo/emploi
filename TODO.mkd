@@ -142,6 +142,13 @@ v Visiomed / http://www.visiomed-lab.com/ / 8 Avenue Kléber 75116 Paris
 - CEMI - http://www.cemifrance.fr
 - Pace - http://www.pace.com/global
 - Jortex - http://www.kortex-psi.fr/
+- Bosch VisionTec à Sophia Antipolis (lieu inconnu)
+- Shrader electronics
+
+###CONSULTING COMPANIES ?
+
+- http://www.eridanis.com/ - (#consulting company)
+- MODIS : Expert Linux Embarqué/ ROM Android (H/F)
 
 ####Misc
 
