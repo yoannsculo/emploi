@@ -3817,6 +3817,18 @@
                     "gps_coordinates": "48.80115/1.98414"
                 }
             ]
+        },
+        {
+            "name": "CP Georges Renault : Desoutter",
+            "url": "http://www.desouttertools.fr",
+            "description": "Industrial tightening's tools for aerospace and automotive industries.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "38 Rue Bobby Sands, 44800 Saint-Herblain",
+                    "gps_coordinates": "47.235742/-1.660139,15"
+                }
+            ]
         }
     ]
 }
