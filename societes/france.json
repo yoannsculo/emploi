@@ -3071,6 +3071,18 @@
             ]
         },
         {
+            "name": "Shrader electronics",
+            "url": "https://www.schraderinternational.com",
+            "description": "Valves, fluid control systems and component manufacturing and assembly. Aftermarket TPMS, air accessory and tire hardware distribution.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "48 rue de Salins, BP 29, Pontarlier, 25301 Cedex",
+                    "gps_coordinates": "46.90825/6.34425"
+                }
+            ]
+        },
+        {
             "name": "Sebia",
             "url": "http://www.sebia.com",
             "description": "Electrophoresis systems",
