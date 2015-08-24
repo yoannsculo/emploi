@@ -614,6 +614,18 @@
             ]
         },
         {
+            "name": "BioSerenity",
+            "url": "http://www.bioserenity.com/",
+            "description": "Smart healthcare solution for the diagnosis and monitoring of epilepsy.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ICM - iPEPS 47 Boulevard Hôpital 75013 Paris",
+                    "gps_coordinates": "48.83540/2.36424"
+                }
+            ]
+        },
+        {
             "name": "Bioaxial",
             "url": "http://www.bioaxial.com",
             "description": "Super-resolution instrument for the life sciences and medical research communities",
