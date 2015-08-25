@@ -219,6 +219,23 @@
                 }
             ]
         },
+	{
+            "name": "Altimet",
+            "url": "http://www.altimet.fr",
+            "description": "Surface Metrology products manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble le President - 1, bis Avenue des Tilleuls FR-74200 Thonon-les-Bains",
+                    "gps_coordinates": "46.37061/6.47399"
+                },
+                {
+                    "name": "",
+                    "postal_address": "354 voie Magellan - Parc d’activités Alpespace 73800 SAINTE-HÉLÈNE-DU-LAC",
+                    "gps_coordinates": "45.47942/6.03604"
+                }
+            ]
+        },
         {
             "name": "Alpwise",
             "url": "http://www.alpwise.com",
@@ -1094,6 +1111,23 @@
             ]
         },
         {
+            "name": "e2v",
+            "url": "http://www.e2v.com",
+            "description": "RF Power, Semiconductor and Imaging technologies",
+            "locations": [
+                {
+                    "name": "e2v - Sales and Support Offices",
+                    "postal_address": "16 Burospace 91572 Bièvres Cedex",
+                    "gps_coordinates": "48.76478/2.21660"
+                },
+                {
+                    "name": "e2v - Operations",
+                    "postal_address": "Avenue de Rochepleine BP 123 38521 Saint-Egrève Cedex",
+                    "gps_coordinates": "45.24344/5.68103"
+                }
+            ]
+        },
+        {
             "name": "EADS",
             "url": "http://www.eads.com",
             "description": "",
@@ -1235,6 +1269,18 @@
                     "name": "",
                     "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
                     "gps_coordinates": "45.18752/5.77576"
+                }
+            ]
+        },
+        {
+            "name": "Environnement S.A",
+            "url": "http://www.environnement-sa.com",
+            "description": "Continuous environmental pollution analysis systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "111 bd Robespierre - BP 84513 - 78304 Poissy Cedex",
+                    "gps_coordinates": "48.93470/2.05672"
                 }
             ]
         },
@@ -1983,6 +2029,18 @@
             ]
         },
         {
+            "name": "KORTEX Point of Sales & Industry",
+            "url": "http://www.kortex-psi.fr",
+            "description": "Access solutions and broadband networks",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "91 rue Réaumur 75002 PARIS",
+                    "gps_coordinates": "48.86740/2.34674"
+                }
+            ]
+        },
+        {
             "name": "Kuantic",
             "url": "http://www.kuantic.com",
             "description": "Machine to machine",
@@ -2157,6 +2215,18 @@
             ]
         },
         {
+            "name": "Lyra Networks",
+            "url": "http://www.lyra-network.co.in/",
+            "description": "EFT/POS payment gateways",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "109 rue de l'Innovation - 31670 Labège",
+                    "gps_coordinates": "43.54160/1.51659"
+                }
+            ]
+        },
+        {
             "name": "MAINtag",
             "url": "http://www.maintag.fr",
             "description": "RFID solutions for aerospace",
@@ -2201,6 +2271,18 @@
                     "name": "",
                     "postal_address": "Za Rue des Emeraudes BP F-38280 Villette d'Anthon",
                     "gps_coordinates": "45.79435/5.13386"
+                }
+            ]
+        },
+        {
+            "name": "MICRONIQUE",
+            "url": "http://micronique.fr",
+            "description": "PCB / PCBA factory",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "61 rue Fernand Laguide - BP 302 - 91103 Corbeil Essonnes",
+                    "gps_coordinates": "48.59724/2.45873"
                 }
             ]
         },
@@ -2728,6 +2810,18 @@
                     "name": "",
                     "postal_address": "520 av. de Jouques Z.I. Les Paluds 13400 Aubagne",
                     "gps_coordinates": "43.28674/5.60556"
+                }
+            ]
+        },
+        {
+            "name": "Pace",
+            "url": "http://www.pace.com",
+            "description": "Satellite, Cable, IPTV, Terrestrial and Gateway",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "55 quai Marcel Dassault 92210 Saint-Cloud",
+                    "gps_coordinates": "48.85170/2.22169"
                 }
             ]
         },
@@ -3685,6 +3779,18 @@
                     "name": "",
                     "postal_address": "8 Avenue Kléber 75116 Paris",
                     "gps_coordinates": "48.87201/2.29348"
+                }
+            ]
+        },
+        {
+            "name": "Vision Systems",
+            "url": "http://www.vision-systems.fr",
+            "description": "System supplier in the aeronautics, automotive and marine markets",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 chemin de Chiradie 69530 Brignais",
+                    "gps_coordinates": "45.67319/4.76645"
                 }
             ]
         },
