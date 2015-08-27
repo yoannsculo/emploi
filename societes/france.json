@@ -17,6 +17,18 @@
             ]
         },
         {
+            "name": "3D SOUND LABS",
+            "url": "http://3dsoundlabs.com",
+            "description": "Smart 3D audio headphones",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "22, rue de la Rigourdière, 35510 Cesson-Sevigné",
+                    "gps_coordinates": "48.11415/-1.58619"
+                }
+            ]
+        },
+        {
             "name": "6Wind",
             "url": "http://www.6wind.com",
             "description": "",
@@ -317,6 +329,18 @@
                     "name": "",
                     "postal_address": "1 rue René Anjolvy 94250 Gentilly",
                     "gps_coordinates": "48.81399/2.34299"
+                }
+            ]
+        },
+        {
+            "name": "Appep",
+            "url": "http://www.appep.org",
+            "description": "Smart decentralized power management system",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZA Croix de la Cadoue - 86240 Smarves",
+                    "gps_coordinates": "46.50978/0.35384"
                 }
             ]
         },
@@ -888,6 +912,18 @@
             ]
         },
         {
+            "name": "COGELEC",
+            "url": "http://www.cogelec.fr",
+            "description": "Design, manufacture and marketing of telephone intercom and access control solutions.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue de l'Industrie – 85290 MORTAGNE SUR SEVRE",
+                    "gps_coordinates": "46.99810/-0.94713"
+                }
+            ]
+        },
+        {
             "name": "Continental",
             "url": "http://www.conti-online.com",
             "description": "",
@@ -1075,6 +1111,18 @@
             ]
         },
         {
+            "name": "Digigram",
+            "url": "http://www.digigram.com",
+            "description": "Professional Sound Cards, Audio over IP Codecs, Video over IP Codecs",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "82/84 Allée Galilée (INOVALLEE) 38330 Montbonnot",
+                    "gps_coordinates": "45.21806/5.81321"
+                }
+            ]
+        },
+        {
             "name": "Dreem",
             "url": "http://dreem.com/",
             "description": "Wearable devices",
@@ -1083,6 +1131,18 @@
                     "name": "",
                     "postal_address": "33 rue du mail 75002 Paris",
                     "gps_coordinates": "48.86731/2.34364"
+                }
+            ]
+        },
+        {
+            "name": "Dualo",
+            "url": "http://dualo.org",
+            "description": "Music instruments manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "pépinière d’entreprise de La Courneuve - 1 centre commercial La Tour, 93120 La Courneuve",
+                    "gps_coordinates": "48.92781/2.37780"
                 }
             ]
         },
@@ -1237,6 +1297,18 @@
             ]
         },
         {
+            "name": "Eileo",
+            "url": "http://www.eileo.com",
+            "description": "Carsharing technologies",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Impasse de la Planchette, 75003 Paris",
+                    "gps_coordinates": "48.86828/2.35576"
+                }
+            ]
+        },
+        {
             "name": "Elektrobit",
             "url": "http://www.elektrobit.com",
             "description": "",
@@ -1333,6 +1405,18 @@
             ]
         },
         {
+            "name": "Esterel Technologies",
+            "url": "http://www.esterel-technologies.com",
+            "description": "Provider of critical systems and software development solutions for the aerospace, defense, rail transportation, nuclear, and industrial & automotive domains",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Euclide 8 rue Blaise Pascal 78990 Elancourt",
+                    "gps_coordinates": "48.79409/1.97746"
+                }
+            ]
+        },
+        {
             "name": "Eukrea Electromatique",
             "url": "http://www.eukrea.com",
             "description": "",
@@ -1401,6 +1485,18 @@
                     "name": "",
                     "postal_address": "44 Rue la Fayette, 75009 Paris",
                     "gps_coordinates": "48.87471/2.33995"
+                }
+            ]
+        },
+        {
+            "name": "Feeligreen",
+            "url": "http://www.feeligreen.net",
+            "description": "Micro-current devices for cosmetic and therapeutic applications",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4, traverse Dupont 06130 GRASSE",
+                    "gps_coordinates": "43.65726/6.93138"
                 }
             ]
         },
@@ -1886,6 +1982,18 @@
             ]
         },
         {
+            "name": "Intesens",
+            "url": "http://www.intesens.com",
+            "description": "Solutions de surveillance à distance",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "425 rue Jean Rostand 31670 Labège",
+                    "gps_coordinates": "43.54365/1.51111"
+                }
+            ]
+        },
+        {
             "name": "invoxia",
             "url": "http://www.invoxia.com",
             "description": "Market telecommunication products",
@@ -1930,6 +2038,18 @@
                     "name": "",
                     "postal_address": "Technopôle Brest Iroise 295 avenue Alexis De Rochon, 29280 Plouzané, France",
                     "gps_coordinates": "48.35970/-4.56535"
+                }
+            ]
+        },
+        {
+            "name": "Irlynx",
+            "url": "http://www.irlynx.com/",
+            "description": "Human activity sensing modules",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "51 Avenue Jean Kuntzmann, 38330 Montbonnot",
+                    "gps_coordinates": "45.21678/5.80725"
                 }
             ]
         },
@@ -2167,6 +2287,18 @@
             ]
         },
         {
+            "name": "Le Las",
+            "url": "http://www.lelas.fr/fr",
+            "description": "Critical areas Telecommunications",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "34/36 rue Roger Salengro 94134 FONTENAY SOUS BOIS CEDEX",
+                    "gps_coordinates": "48.85004/2.48937"
+                }
+            ]
+        },
+        {
             "name": "Lima",
             "url": "http://meetlima.com",
             "description": "Data storage solutions",
@@ -2331,6 +2463,18 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "Mooltibox",
+            "url": "http://www.mooltibox.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 rue de Penthièvre 75008 Paris",
+                    "gps_coordinates": "48.87305/2.31661"
                 }
             ]
         },
@@ -3298,6 +3442,23 @@
             ]
         },
         {
+            "name": "Smart Me Up",
+            "url": "http://www.smartmeup.org/",
+            "description": "Real-time face analysis",
+            "locations": [
+                {
+                    "name": "Smart Me Up - Grenoble",
+                    "postal_address": "15, Chemin des Prés - 38240 Meylan",
+                    "gps_coordinates": "45.21053/5.79128"
+                },
+		{
+                    "name": "Smart Me Up - Paris",
+                    "postal_address": "4, av de la Porte Champeret 75017 Paris",
+                    "gps_coordinates": "48.88650/2.28702"
+                }
+            ]
+        },
+        {
             "name": "Smartware",
             "url": "http://www.smartware.fr",
             "description": "Contactless secure elements (Smartcard, NFC microSD, M2M)",
@@ -3312,12 +3473,12 @@
         {
             "name": "Smiirl",
             "url": "http://www.smiirl.com",
-            "description": "",
+            "description": "Connected objects to enhance the link between the physical and digital identities of small businesses and public places.",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
+                    "postal_address": "80 rue des haies Paris 75020",
+                    "gps_coordinates": "48.85484/2.40357"
                 }
             ]
         },
@@ -3849,6 +4010,18 @@
                     "name": "",
                     "postal_address": "Parc Innovation Bretagne Sud 56000 VANNES",
                     "gps_coordinates": "47.64168/-2.75407"
+                }
+            ]
+        },
+        {
+            "name": "Wistiki",
+            "url": "http://www.wistiki.com",
+            "description": "Lost items localisation",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 rue du Faubourg Poissonnière 75010 Paris",
+                    "gps_coordinates": "48.87131/2.34798"
                 }
             ]
         },
