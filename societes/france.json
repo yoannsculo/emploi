@@ -3134,18 +3134,6 @@
             ]
         },
         {
-            "name": "SFR",
-            "url": "http://www.sfr.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "SCHILLER Médical SAS",
             "url": "http://www.schiller.fr",
             "description": "Medical devices for cardiopulmonary diagnostics, patient monitoring and emergency medicine",
@@ -3154,18 +3142,6 @@
                     "name": "",
                     "postal_address": "4, rue Louis Pasteur ZAE Sud BP 50 F-67162 WISSEMBOURG/Cedex",
                     "gps_coordinates": "49.02333/7.96198"
-                }
-            ]
-        },
-        {
-            "name": "Schneider Electric",
-            "url": "http://www.schneider-electric.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
