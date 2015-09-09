@@ -2051,18 +2051,6 @@
             ]
         },
         {
-            "name": "JMI Tech",
-            "url": "http://www.jmitech.fr",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Joshfire",
             "url": "http://www.joshfire.com",
             "description": "",
@@ -2323,18 +2311,6 @@
                     "name": "",
                     "postal_address": "17 rue Henri Monnier – 75009 Paris",
                     "gps_coordinates": "48.88008/2.33728"
-                }
-            ]
-        },
-        {
-            "name": "Memup",
-            "url": "http://www.memup.fr",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
