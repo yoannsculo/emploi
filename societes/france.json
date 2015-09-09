@@ -261,18 +261,6 @@
             ]
         },
         {
-            "name": "Alstom",
-            "url": "http://www.alstom.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Altis Semiconductor",
             "url": "http://www.altissemiconductor.com",
             "description": "Semiconductor foundry",
@@ -365,18 +353,6 @@
                     "name": "",
                     "postal_address": "12, rue Ampère 91430 Igny",
                     "gps_coordinates": "48.72963/2.23505"
-                }
-            ]
-        },
-        {
-            "name": "Arianespace",
-            "url": "http://www.arianespace.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -739,18 +715,6 @@
             ]
         },
         {
-            "name": "Bull",
-            "url": "http://www.bull.fr",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Calao Systems",
             "url": "http://www.calao-systems.com",
             "description": "Embedded and secure computers, smart gateways.",
@@ -783,18 +747,6 @@
                     "name": "",
                     "postal_address": "31, avenue du Général Leclerc - 93500 PANTIN",
                     "gps_coordinates": "48.89524/2.39975"
-                }
-            ]
-        },
-        {
-            "name": "CEA",
-            "url": "http://www.cea.fr",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -924,18 +876,6 @@
             ]
         },
         {
-            "name": "Continental",
-            "url": "http://www.conti-online.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Cortus S.A.S.",
             "url": "http://www.cortus.com",
             "description": "Semiconductor IP company",
@@ -956,18 +896,6 @@
                     "name": "",
                     "postal_address": "5 rue Salomon de Rothschild, 92150 Suresnes",
                     "gps_coordinates": "48.87367/2.23318"
-                }
-            ]
-        },
-        {
-            "name": "Dassault Aviation",
-            "url": "http://www.dassault-aviation.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -1188,18 +1116,6 @@
             ]
         },
         {
-            "name": "EADS",
-            "url": "http://www.eads.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "EBV Elektronik",
             "url": "http://www.ebv.com",
             "description": "PDA, passive and active RFID components",
@@ -1237,18 +1153,6 @@
             ]
         },
         {
-            "name": "ECA",
-            "url": "http://www.ecagroup.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "ECOMETERING",
             "url": "http://www.ecometering-gdfsuez.com",
             "description": "Pilotage intelligent de l’énergie",
@@ -1269,18 +1173,6 @@
                     "name": "",
                     "postal_address": "625 Rue de la Croix Verte, 34000 Montpellier",
                     "gps_coordinates": "43.645840/3.840766"
-                }
-            ]
-        },
-        {
-            "name": "Efixo",
-            "url": "http://www.efixo.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -1688,18 +1580,6 @@
             ]
         },
         {
-            "name": "HAPILABS",
-            "url": "http://www.hapilabs.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Hemodia",
             "url": "http://www.hemodia.com/",
             "description": "Manufacturing and marketing of customized single-use care kits.",
@@ -1854,18 +1734,6 @@
 
 
 
-            ]
-        },
-        {
-            "name": "IBM",
-            "url": "http://",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
             ]
         },
         {
@@ -2531,18 +2399,6 @@
             ]
         },
         {
-            "name": "Montavista",
-            "url": "http://www.mvista.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Mooltibox",
             "url": "http://www.mooltibox.fr",
             "description": "",
@@ -2798,18 +2654,7 @@
                     "name": "",
                     "postal_address": "4 rue du port aux Vins 92150 Suresnes",
                     "gps_coordinates": "48.87007/2.23086"
-                },
-                {
-                    "name": "",
-                    "postal_address": "Caen",
-                    "gps_coordinates": ""
-                },
-                {
-                    "name": "",
-                    "postal_address": "Sophia-Antipolis",
-                    "gps_coordinates": ""
                 }
-
             ]
         },
         {
@@ -2918,18 +2763,6 @@
                     "name": "",
                     "postal_address": "16, rue de l'Etang - ZI de Mayencin - 38610 Gières",
                     "gps_coordinates": "45.18515/5.77920"
-                }
-            ]
-        },
-        {
-            "name": "OpenPattern",
-            "url": "http://www.openpattern.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3078,18 +2911,6 @@
                     "name": "",
                     "postal_address": "44 rue Pierre Joseph Proudhon 78800 HOUILLES",
                     "gps_coordinates": "48.93364/2.19997"
-                }
-            ]
-        },
-        {
-            "name": "PSA",
-            "url": "http://www.psa-peugeot-citroen.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3256,18 +3077,6 @@
                     "name": "",
                     "postal_address": "ZI les Milles - 1140, rue Ampère Centre Actimart - Bâtiment 1B - BP 13000 13791 Aix en Provence Cedex 3",
                     "gps_coordinates": "43.4867/5.3791"
-                }
-            ]
-        },
-        {
-            "name": "Safran",
-            "url": "http://www.safran-group.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3595,18 +3404,6 @@
             ]
         },
         {
-            "name": "Soitec",
-            "url": "http://www.soitec.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Somfy",
             "url": "http://www.somfy.com",
             "description": "Automatic control of openings and closures in homes and buildings",
@@ -3659,18 +3456,6 @@
                 }
             ]
 	},
-        {
-            "name": "ST-Ericsson",
-            "url": "http://www.stericsson.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
         {
             "name": "Stantum",
             "url": "http://edu.stantum.com/",
@@ -3749,18 +3534,6 @@
             ]
         },
         {
-            "name": "Sysgo",
-            "url": "http://www.sysgo.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
-                }
-            ]
-        },
-        {
             "name": "Taztag",
             "url": "http://www.taztag.com",
             "description": "",
@@ -3786,18 +3559,6 @@
                     "name": "",
                     "postal_address": "Science Parc du Perget 25 Boulevard Victor Hugo 31770 COLOMIERS",
                     "gps_coordinates": "43.613933/1.307831"
-                }
-            ]
-        },
-        {
-            "name": "Tea Ebook",
-            "url": "http://www.tea-ebook.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3863,18 +3624,6 @@
                     "name": "",
                     "postal_address": "65 Quai George Gorse 92650 BOULOGNE BILLANCOURT CEDEX ",
                     "gps_coordinates": "48.82604/2.23374"
-                }
-            ]
-        },
-        {
-            "name": "Thalès",
-            "url": "http://www.thalesgroup.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3950,18 +3699,6 @@
                     "name": "",
                     "postal_address": "13 rue St Antoine 75004 Paris FRANCE",
                     "gps_coordinates": "48.85334/2.36678"
-                }
-            ]
-        },
-        {
-            "name": "Valeo",
-            "url": "http://www.valeo.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "",
-                    "gps_coordinates": ""
                 }
             ]
         },
