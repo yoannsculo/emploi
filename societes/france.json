@@ -1321,6 +1321,18 @@
             ]
         },
         {
+            "name": "Elinap",
+            "url": "http://elinap.pagesperso-orange.fr",
+            "description": "Produits qui permettent l'amélioration du service assuré par les transports publics",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 Rue Thiébaud, 25000 Besançon",
+                    "gps_coordinates": "47.25386/6.01739"
+                }
+            ]
+        },
+        {
             "name": "Eliocity",
             "url": "http://www.xee.com",
             "description": "Solutions Technologiques pour l'Automobile et la Mobilité",
@@ -1413,6 +1425,18 @@
                     "name": "",
                     "postal_address": "Parc Euclide 8 rue Blaise Pascal 78990 Elancourt",
                     "gps_coordinates": "48.79409/1.97746"
+                }
+            ]
+        },
+        {
+            "name": "E-TakesCare",
+            "url": "http://www.e-takescare.com/",
+            "description": "Créateur d'objets connectés pour aider les parents à prendre soin de leurs enfants",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "35 Rue des Chantiers 78000 Versailles",
+                    "gps_coordinates": "48.79595/2.13862"
                 }
             ]
         },
@@ -1841,6 +1865,58 @@
                     "name": "",
                     "postal_address": "",
                     "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "IER",
+            "url": "http://www.ier.com",
+            "description": "Warehouse voice‑activated and light-assisted preparation solutions as well as real-time RFID containers (pallets, trays) monitoring solutions.",
+            "locations": [
+                {
+                    "name": "IER - Headquarters",
+                    "postal_address": "3, rue Salomon de Rothschild 92150 Suresnes",
+                    "gps_coordinates": "48.87331/2.23221"
+                },
+                {
+                    "name": "IER - Production site",
+                    "postal_address": "19, Chemin des Planches 25042 Besançon Cedex",
+                    "gps_coordinates": "47.26708/6.03665"
+                },
+                {
+                    "name": "IER - Production site",
+                    "postal_address": "91 rue Tabuteau 78530 Buc",
+                    "gps_coordinates": "48.76301/2.12349"
+                },
+                {
+                    "name": "IER - South-Eastern agency",
+                    "postal_address": "Immeuble Le Québec 685, Rue Juliette Récamier 69970 Chaponnay",
+                    "gps_coordinates": "45.64856/4.92076"
+                },
+                {
+                    "name": "IER - Western agency",
+                    "postal_address": "1, rue Henri Farman 44980 Sainte-Luce",
+                    "gps_coordinates": "47.27265/-1.46969"
+                },
+                {
+                    "name": "IER - Automatic Systems S.A.S",
+                    "postal_address": "Immeuble Singapour 30 rue du Morvan Zone Silic BP 20518 94623 Rungis Cedex",
+                    "gps_coordinates": "48.74251/2.34936"
+                },
+                {
+                    "name": "IER - Automatic Systems S.A.S",
+                    "postal_address": "Tech’Indus – Bât. C 645, rue Mayor de Montricher 13854 Aix en Provence Cedex 3",
+                    "gps_coordinates": "43.47994/5.38201"
+                },
+                {
+                    "name": "IER - Automatic Systems S.A.S",
+                    "postal_address": "Immeuble Le Québec 685, Rue Juliette Récamier 69970 Chaponnay",
+                    "gps_coordinates": "45.64844/4.92086"
+                },
+                {
+                    "name": "IER - BCA",
+                    "postal_address": "22, rue du 8 mai 1945 95340 Persan",
+                    "gps_coordinates": "49.14370/2.27864"
                 }
             ]
         },
@@ -3976,6 +4052,18 @@
                     "name": "",
                     "postal_address": "8, rue Germain Soufflot 78180 MONTIGNY LE BRETONNEUX",
                     "gps_coordinates": "48.78463/2.04247"
+                }
+            ]
+        },
+        {
+            "name": "WATTS ELECTRONICS",
+            "url": "http://www.wattselectronics.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Z.A. des TOURETTES 43800 ROSIÈRES",
+                    "gps_coordinates": "45.12558/3.97581"
                 }
             ]
         },
