@@ -865,7 +865,7 @@
         },
         {
             "name": "Cityzen Sciences",
-            "url": "http://www.cityzensciences.fr (Lyon)",
+            "url": "http://www.cityzensciences.fr",
             "description": "Smart textiles conception and development",
             "locations": [
                 {
@@ -1088,7 +1088,7 @@
         },
         {
             "name": "Demand Side Instruments",
-            "url": "http://www.dsinstruments.fr (Colombelles, 14)",
+            "url": "http://www.dsinstruments.fr",
             "description": "Demand side management for energy networks",
             "locations": [
                 {
@@ -1148,7 +1148,7 @@
         },
         {
             "name": "DxO Labs SAS",
-            "url": "https://www.dxo.com",
+            "url": "http://www.dxo.com",
             "description": "Products and solutions in digital imaging",
             "locations": [
                 {
@@ -2131,7 +2131,7 @@
         },
         {
             "name": "Iskn",
-            "url": "www.isketchnote.com",
+            "url": "http://www.isketchnote.com",
             "description": "Writing devices",
             "locations": [
                 {
@@ -2364,7 +2364,7 @@
         },
         {
             "name": "Le Las",
-            "url": "http://www.lelas.fr/fr",
+            "url": "http://www.lelas.fr",
             "description": "Critical areas Telecommunications",
             "locations": [
                 {
@@ -2508,7 +2508,7 @@
         },
         {
             "name": "Mobile Devices Ingenierie",
-            "url": "http://www.mobile-devices.com (Villejuif, 94)",
+            "url": "http://www.mobile-devices.com",
             "description": "",
             "locations": [
                 {
@@ -2791,7 +2791,7 @@
         },
         {
             "name": "NXP Semiconductors",
-            "url": "",
+            "url": "http://www.nxp.com",
             "description": "Semiconductors",
             "locations": [
                 {
@@ -3047,7 +3047,7 @@
         },
         {
             "name": "Padways",
-            "url": "http://www.pad-ways.com (Ramonville, 31)",
+            "url": "http://www.pad-ways.com",
             "description": "",
             "locations": [
                 {
@@ -3302,8 +3302,8 @@
         },
         {
             "name": "Schneider Electric",
-            "url": "Electricity distribution, automation management and components for energy management.",
-            "description": "",
+            "url": "http://www.schneider-electric.com",
+            "description": "Electricity distribution, automation management and components for energy management.",
             "locations": [
                 {
                     "name": "",
@@ -3774,7 +3774,7 @@
         },
         {
             "name": "TDM Ingénierie",
-            "url": "http://www.tdm-ing.com/topic/index.html",
+            "url": "http://www.tdm-ing.com",
             "description": "",
             "locations": [
                 {
@@ -3856,7 +3856,7 @@
         },
         {
             "name": "Texas Instruments",
-            "url": "",
+            "url": "http://www.ti.com",
             "description": "",
             "locations": [
                 {
