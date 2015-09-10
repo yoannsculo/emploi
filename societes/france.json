@@ -1249,6 +1249,23 @@
             ]
         },
         {
+            "name": "Energy Pool",
+            "url": "http://www.energy-pool.eu",
+            "description": "Smart energy management",
+            "locations": [
+                {
+                    "name": "Energy Pool - Siège social ",
+                    "postal_address": "Rue du Lac Majeur Bâtiment C - Parc Ouragan - BP 324 73377 Le Bourget du Lac",
+                    "gps_coordinates": "45.64357/5.86823"
+                },
+		{
+                    "name": "Energy Pool - Commercial, IT et International",
+                    "postal_address": "Immeuble Danica – bâtiment A  19 Avenue Georges Pompidou  69486 Lyon cedex 3",
+                    "gps_coordinates": "45.75928/4.86441"
+                }
+            ]
+        },
+        {
             "name": "Environnement S.A",
             "url": "http://www.environnement-sa.com",
             "description": "Continuous environmental pollution analysis systems",
@@ -1576,6 +1593,18 @@
                     "name": "",
                     "postal_address": "4, rue de la Pierre Levée 75011 Paris France",
                     "gps_coordinates": "48.86659/2.37113"
+                }
+            ]
+        },
+        {
+            "name": "HAProxy Technologies",
+            "url": "http://www.haproxy.com",
+            "description": "HAProxy load balancing solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Zac des Metz 3 rue du Petit Robinson 78350 JOUY EN JOSAS",
+                    "gps_coordinates": "48.77960/2.16910"
                 }
             ]
         },
@@ -2598,6 +2627,18 @@
             ]
         },
         {
+            "name": "NOREMAT",
+            "url": "http://www.noremat.fr",
+            "description": "Solutions for the maintenance of roadside verges and upkeep of the landscape.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Dynapôle Ludres-Fléville 166 rue Ampère - BP 60093 54714 Ludres Cedex",
+                    "gps_coordinates": "48.61868/6.18440"
+                }
+            ]
+        },
+        {
             "name": "Novasparks",
             "url": "http://www.novasparks.com",
             "description": "",
@@ -2803,6 +2844,18 @@
                     "name": "",
                     "postal_address": "17 rue de Montreuil 75011 PARIS",
                     "gps_coordinates": "48.85051/2.38484"
+                }
+            ]
+        },
+        {
+            "name": "OSAT",
+            "url": "http://osat.fr",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3, Avenue Didier Daurat 31400 Toulouse",
+                    "gps_coordinates": "43.56325/1.49153"
                 }
             ]
         },
@@ -3250,6 +3303,38 @@
             ]
         },
         {
+            "name": "Silkan",
+            "url": "https://www.silkan.com",
+            "description": "Embedded simulation",
+            "locations": [
+                {
+                    "name": "Silkan Paris - Headquarters",
+                    "postal_address": "Immeuble le Sirius 9 route du Colonel Marcel Moraine 92360 Meudon la Forêt",
+                    "gps_coordinates": "48.79317/2.22007"
+                },
+                {
+                    "name": "Silkan Bièvres",
+                    "postal_address": "Parc Burospace Bâtiment 2bis – Route de Gisy 91571 BIEVRES Cedex",
+                    "gps_coordinates": "48.76753/2.21618"
+                },
+                {
+                    "name": "Silkan Montpellier",
+                    "postal_address": "MIBI 672 rue du Mas de Verchant 34960 Montpellier",
+                    "gps_coordinates": "43.61921/3.91463"
+                },
+                {
+                    "name": "Silkan Aix en Provence",
+                    "postal_address": "2 Europarc Sainte Victoire 13590 Meyreuil",
+                    "gps_coordinates": "43.49292/5.52359"
+                },
+                {
+                    "name": "Silkan Bruyères le Châtel",
+                    "postal_address": "Campus Teratec 2 rue de la Piquetterie 91680 Bruyères le Châtel",
+                    "gps_coordinates": "48.59753/2.19826"
+                }
+            ]
+        },
+        {
             "name": "S.I.S.E.",
             "url": "http://www.sise.fr",
             "description": "Products dedicated to the plastic injection molding industry",
@@ -3405,6 +3490,18 @@
                     "name": "",
                     "postal_address": "81 avenue François Arago 92000 Nanterre - France",
                     "gps_coordinates": "48.89953/2.22153"
+                }
+            ]
+        },
+        {
+            "name": "SOREEL",
+            "url": "http://www.soreel.com",
+            "description": "Electrical wiring systems in the power distribution and industrial process control areas",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "18 rue de la Gâtine, ZAC du Cormier BP 50426 49304 Cholet",
+                    "gps_coordinates": "47.03769/-0.91972"
                 }
             ]
         },
