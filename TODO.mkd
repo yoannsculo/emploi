@@ -122,6 +122,9 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - ST-Ericsson / http://www.stericsson.com
 - Sysgo / http://www.sysgo.com
 - Tea Ebook / http://www.tea-ebook.com
+- IFM / http://www.ifm.com
+- INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
+- THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
