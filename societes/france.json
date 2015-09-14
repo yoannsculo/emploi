@@ -1153,6 +1153,18 @@
             ]
         },
         {
+            "name": "Eco-Compteur",
+            "url": "http://www.instantcounting.com",
+            "description": "People counting systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 Charles Bourseul 22300 Lannion",
+                    "gps_coordinates": "48.75715/-3.46330"
+                }
+            ]
+        },
+        {
             "name": "ECOMETERING",
             "url": "http://www.ecometering-gdfsuez.com",
             "description": "Pilotage intelligent de l’énergie",
