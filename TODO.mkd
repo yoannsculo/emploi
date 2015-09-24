@@ -5,9 +5,13 @@ TODO
 
 ####Locations to get
 
+Schneider Electric
+
 Schneider Electric has more than 40 locations according to http://www.societe.com/societe/schneider-electric-france-421106709.html
 I can't find any information on their corporate website.
 Therefore I only located HQ for now. Too much work on this company and I miss relevant information.
+
+GE
 
 - GE Power Conversion / 1 Rue John Henri Patterson 91300 Massy
 - GE Healthcare / 283 Rue de la Minière 78530 Buc
@@ -125,6 +129,23 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - IFM / http://www.ifm.com
 - INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
 - THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
+
+- Emka / http://www.emka.com / http://www.emka.com/fr_fr/contact/plan-dacces/
+- GlobalSensing Technologies / http://gsensing.eu
+- Microvitae Technologies / http://www.microvitae.com / Siège social : 1480 Avenue d’Arménie, Gardanne 13120, France
+- NanoXplore / http://www.nanoxplore.com / http://www.nanoxplore.com/contact.php
+- Meggitt / http://www.meggitt.com
+- CEA-Leti / http://www-leti.cea.fr /  17 rue des Martyrs 38054 Grenoble cedex 9
+- Xenocs / http://www.xenocs.com
+- Pyxalis / http://pyxalis.com
+- Cordouan Technologies / http://www.cordouan-tech.com/
+- Connecthings / http://www.connecthings.com/
+- Cyleone / http://www.cyleone.fr
+- http://www.spacebel.be/fr/aboutspacebel/sites/
+
+- http://www.parkeon.fr/
+- Ingenico
+- Twiga / http://www.twiga-web.com/
 
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
