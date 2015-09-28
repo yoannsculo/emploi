@@ -131,6 +131,32 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 - http://www.spacebel.be/fr/aboutspacebel/sites/
 
+
+- PrismTech France / http://www.prismtech.com/contact-us / @prismtech
+- NI France / http://france.ni.com / @nifrance
+- EXOTIC SYSTEMS / http://www.exotic-systems.com / @EXOTIC_SYSTEMS
+- éolane / http://www.eolane.com / @EolaneGroup
+- CITC-EuraRFID / http://www.citc-eurarfid.com/ - @eurarfid
+- Deepki - http://www.deepki.com/ - @DeepkiSAS
+- Nomadic Solutions - http://www.nomadicsolutions.biz/ - @NomadicTeam
+- ELA innovation - http://www.ela.fr - @ElaInnovation
+- Percepio - http://percepio.com - @percepio
+- ARBOR-France - http://www.arbor-france.com - @ARBORfr
+- congatec AG France - http://www.congatec.com/fr/ - @congatec_france
+- Monixo - http://www.monixo.com/ - @MonixoSAS
+- Smockeo - https://www.smockeo.com - @Smockeo
+- AGUILA Technologies - http://aguila.fr - @AguilaTech
+- GreenWaves - http://greenwaves-technologies.com - @GreenWavesTech
+- QOWISIO - http://www.qowisio.com - @Qowisio
+- SesameTouch - http://www.sesametouch.com - @SesameTouch
+- Ticatag - http://www.ticatag.com - @ticatag2013
+- LinkyTag - http://www.linkytag.com/ - @LinkyTag
+- Ingelec France - http://www.ingelec.net - @Ingelec_France
+- Linkio - @Linkionet
+- CRESITT INDUSTRIE - http://www.cresitt.com/ - @CRESITT
+- FeetMe - http://www.feetme.fr/ - @Feet_Me
+- EWATTCH - http://www.ewattch.com
+
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
 - http://www.voxtok.com (south of france)
@@ -160,7 +186,10 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 ###Worldwide
 
 - http://www.ubnt.com/unifi-voip/uvp-executive/
-- http://www.acmesystems.it/
+- http://www.acmesystems.it/ - Italy - @DAVE_Embedded
+- http://www.dave.eu/ - Italy
 - http://senic.com/ - Berlin
 - http://getnarrative.com - Sweden
-
+- https://www.toradex.com/ - Switzerland / @Toradex
+- Micrium - http://micrium.com/ - Weston, FL
+- http://www.kaptia.com/ - Spain
