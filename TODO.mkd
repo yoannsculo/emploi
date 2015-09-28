@@ -141,6 +141,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.pilo.cool/
 - FeetMe / http://www.feetme.fr
 - HAPILABS / http://www.hapilabs.com
+- Ubiscale (IoT / Rennes?)
 
 ### French companies ? Or resellers ?
 - BeeWi
