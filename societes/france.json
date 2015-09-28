@@ -88,7 +88,24 @@
                 }
             ]
         },
-
+        {
+            "name": "Agixis",
+            "url": "http://www.agixis.com/",
+            "comment": "SSII ?",
+            "description": "Solutions logicielles critiques et communicantes M2M",
+            "locations": [
+                {
+                    "name": "Agixis - Lyon (Siège)",
+                    "postal_address": "115 boulevard de Stalingrad 691000 Villeurbanne",
+                    "gps_coordinates": "45.77549/4.85964"
+                },
+                {
+                    "name": "Agixis - Grenoble",
+                    "postal_address": "17 rue Colonel Manhes 38600 Fontaines",
+                    "gps_coordinates": "45.20112/5.67501"
+                }
+            ]
+        },
         {
             "name": "Airinov",
             "url": "http://www.airinov.fr",
@@ -876,6 +893,32 @@
             ]
         },
         {
+            "name": "Connecthings",
+            "url": "http://www.connecthings.com",
+            "description": "Contactless mobile services",
+            "twitter": "connecthings",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "54 rue de Paradis 75010 Paris",
+                    "gps_coordinates": "48.87568/2.34921"
+                }
+            ]
+        },
+        {
+            "name": "Cordouan Technologies",
+            "url": "http://www.cordouan-tech.com",
+            "description": "Particles characterization, Electron Microscopy, Sample preparation",
+            "twitter": "CordouanTech",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Cité de la Photonique  11 Avenue Canteranne - 33600 PESSAC",
+                    "gps_coordinates": "44.78542/-0.63264"
+                }
+            ]
+        },
+        {
             "name": "Cortus S.A.S.",
             "url": "http://www.cortus.com",
             "description": "Semiconductor IP company",
@@ -896,6 +939,24 @@
                     "name": "",
                     "postal_address": "5 rue Salomon de Rothschild, 92150 Suresnes",
                     "gps_coordinates": "48.87367/2.23318"
+                }
+            ]
+        },
+        {
+            "name": "Cyleone",
+            "url": "http://www.cyleone.fr",
+            "description": "Data acquisition and management for drones operators",
+            "twitter": "Cyleone1",
+            "locations": [
+                {
+                    "name": "Cyleone - Siège social",
+                    "postal_address": "Cap Omega Rond point B. Franklin - CS 39521 34960 Montpellier Cedex 2",
+                    "gps_coordinates": "43.61862/3.91456"
+                },
+                {
+                    "name": "Cyleone - Site R&D",
+                    "postal_address": "Institut d'Electronique du Sud - Université Montpellier Place Eugène Bataillon 34095 Montpellier Cedex 5",
+                    "gps_coordinates": "43.63214/3.86277"
                 }
             ]
         },
@@ -1153,6 +1214,18 @@
             ]
         },
         {
+            "name": "EcoAdapt",
+            "url": "http://www.eco-adapt.com/",
+            "description": "Solutions d'analyse de l'efficacité énergetique de sites industriels ou tertiaires.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 rue Hippolyte Lebas, 75009 Paris",
+                    "gps_coordinates": "48.87696/2.34107"
+                }
+            ]
+        },
+        {
             "name": "Eco-Compteur",
             "url": "http://www.instantcounting.com",
             "description": "People counting systems",
@@ -1257,6 +1330,23 @@
                     "name": "",
                     "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
                     "gps_coordinates": "45.18752/5.77576"
+                }
+            ]
+        },
+        {
+            "name": "EMKA France",
+            "url": "http://www.emka.com/fr_fr/",
+            "description": "locking systems, hinges and sealings",
+            "locations": [
+                {
+                    "name": "Siège social - production 1",
+                    "postal_address": "Parc d'activité Mégazone Moselle Est 57450 Henriville",
+                    "gps_coordinates": "49.10495/6.84058"
+                },
+                {
+                    "name": "Service commercial et SAV - production 2",
+                    "postal_address": "105 Route des Roches - B.P. 12 41400 Bourré",
+                    "gps_coordinates": "47.35600/1.21785"
                 }
             ]
         },
@@ -1573,6 +1663,23 @@
             ]
         },
         {
+            "name": "GlobalSensing Technologies",
+            "url": "http://gsensing.eu",
+            "description": "pattern recognition and embedded electronic system",
+            "locations": [
+                {
+                    "name": "GST - Marketing & Sales",
+                    "postal_address": "23 rue Paul Bert 92100 Boulogne",
+                    "gps_coordinates": "48.83440/2.23949"
+                },
+                {
+                    "name": "GST - Headquarter Research & Development Technical",
+                    "postal_address": "14 rue Pierre de Coubertin  21000 Dijon",
+                    "gps_coordinates": "47.31111/5.08025"
+                }
+            ]
+        },
+        {
             "name": "Goobie",
             "url": "http://www.goobie.fr",
             "description": "",
@@ -1857,11 +1964,17 @@
             "name": "Ingenico",
             "url": "http://www.ingenico.com",
             "description": "seamless payment",
+            "twitter": "ingenico",
             "locations": [
                 {
-                    "name": "",
+                    "name": "Ingenico Headquarter",
                     "postal_address": "28-32, boulevard de Grenelle 75015 Paris",
-                    "gps_coordinates": "48.85275/2.29024"
+                    "gps_coordinates": "48.85256/2.29024"
+                },
+                {
+                    "name": "Ingenico Healthcare/e-ID",
+                    "postal_address": "River Seine - 25 Quai Gallieni 92158 Suresnes Cedex",
+                    "gps_coordinates": "48.87093/2.23154"
                 }
             ]
         },
@@ -2272,6 +2385,20 @@
             ]
         },
         {
+            "name": "Leti",
+            "url": "http://www-leti.cea.fr",
+            "description": "French research-and-technology organization with activities in energy, IT, healthcare, defence and security",
+            "comment": "Curseur placé à l'entrée du CEA. Pas trouvé la localisation exacte sur le site.",
+            "twitter": "CEA_Leti",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "CEA / Léti 17 rue des Martyrs  38054 Grenoble cedex 9",
+                    "gps_coordinates": "45.2001/5.7069"
+                }
+            ]
+        },
+        {
             "name": "Lima",
             "url": "http://meetlima.com",
             "description": "Data storage solutions",
@@ -2356,6 +2483,35 @@
             ]
         },
         {
+            "name": "Meggitt",
+            "url": "http://www.meggitt.com",
+            "description": "Extreme environment components and smart sub-systems for aerospace, defence and energy markets.",
+            "locations": [
+                {
+                    "name": "Meggitt Sensing Systems - Angoulême",
+                    "postal_address": "8 chemin de l’Etang PO Box 15 F-16730 FLEAC",
+                    "gps_coordinates": "45.68054/0.09080"
+                },
+                {
+                    "name": "Meggitt Sensing Systems - Archamps",
+                    "comment": "Curseur placé sur bâtiment Hera. Manque d'information.",
+                    "postal_address": "196 rue Louis Rustin PO Box 63103 Archamps Technopole  F-74166 Archamps Cedex",
+                    "gps_coordinates": "46.13845/6.11765"
+                },
+                {
+                    "name": "Artus - Avrille",
+                    "postal_address": "37 Chemin du Champ des Martyrs BP 20009 49241 Avrille Cedex",
+                    "gps_coordinates": "47.48944/-0.58234"
+                },
+                {
+                    "name": "Artus TFE - Toulouse",
+                    "comment": "Curseur placé en entrée de zone industrielle. Manque d'information.",
+                    "postal_address": "Actisud ZI du Chapitre 18 rue Jean Perrin 31100 Toulouse",
+                    "gps_coordinates": "43.55379/1.41536"
+                }
+            ]
+        },
+        {
             "name": "Micronics",
             "url": "http://www.micronics.fr/",
             "description": "Electronique de puissance et conversion d’énergie",
@@ -2388,6 +2544,19 @@
                     "name": "",
                     "postal_address": "11-21 rue Hubble - Parc de la Haute Borne - 59650 Villeneuve d'Ascq",
                     "gps_coordinates": "50.60114/3.15386"
+                }
+            ]
+        },
+        {
+            "name": "Microvitae Technologies",
+            "url": "http://www.microvitae.com",
+            "description": "medical equipment",
+            "twitter": "microvitae",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1480 Avenue d’Arménie, Gardanne 13120",
+                    "gps_coordinates": "43.45025/5.44848"
                 }
             ]
         },
@@ -2472,6 +2641,24 @@
                     "name": "",
                     "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
                     "gps_coordinates": "43.56312/1.49186"
+                }
+            ]
+        },
+        {
+            "name": "NanoXplore",
+            "url": "http://www.nanoxplore.com",
+            "description": "large scale programmable logic arrays for FPGA cores",
+            "comment": "Les deux sites n'ont pas été trouvé avec précision. Marqueurs placés en début de Zones Industrielles.",
+            "locations": [
+                {
+                    "name": "NanoXplore - Head office",
+                    "postal_address": "1 route de Gisy, Burospace 41, Hall 24, 91570 Bièvres",
+                    "gps_coordinates": "48.76544/2.21579"
+                },
+                {
+                    "name": "NanoXplore - Montpellier",
+                    "postal_address": "2196 Bd de la Lironde, Hall 6, 34980 Montferrier-le-lez",
+                    "gps_coordinates": "43.65172/3.86361"
                 }
             ]
         },
@@ -2932,6 +3119,55 @@
             ]
         },
         {
+            "name": "Parkeon",
+            "url": "http://www.parkeon.fr/",
+            "description": "Parking and transport solutions",
+            "twitter": "ParkeonCorporat",
+            "locations": [
+                {
+                    "name": "Parkeon - Agence de Paris",
+                    "postal_address": "70 Avenue de la République 92320 CHATILLON",
+                    "gps_coordinates": "48.80171/2.29604"
+                },
+                {
+                    "name": "Parkeon - Agence de Lille",
+                    "postal_address": "66/70 Chemin de la Campagnerie 59700 MARCQ EN BAROEUL",
+                    "gps_coordinates": "50.65289/3.10840"
+                },
+                {
+                    "name": "Parkeon - Agence de Strasbourg",
+                    "comment": "Très gros doute sur l'emplacement du curseur",
+                    "postal_address": "Parc d’Activités de la Porte Sud Rue du Pont Péage Bâtiment D  67118 GEISPOLSHEIM",
+                    "gps_coordinates": "48.52037/7.70008"
+                },
+                {
+                    "name": "Parkeon - Agence de Marseille",
+                    "postal_address": "La Clairière de l’Anjoly Bâtiment F – lot 27  96 Avenue de l’Europe 13127 VITROLLES",
+                    "gps_coordinates": "43.42135/5.26591"
+                },
+                {
+                    "name": "Parkeon - Agence de Nancy",
+                    "postal_address": "18 Allée de la Forêt de la Reine BP 8 54600 VILLERS LES NANCY",
+                    "gps_coordinates": "48.65621/6.12999"
+                },
+                {
+                    "name": "Parkeon - Agence de Besançon",
+                    "postal_address": "Parc Lafayette  6 Rue Isaac Newton 25075 BESANCON",
+                    "gps_coordinates": "47.21207/5.96816"
+                },
+                {
+                    "name": "Parkeon - Agence de Nantes",
+                    "postal_address": "23 rue Jules Verne 44700 ORVAULT",
+                    "gps_coordinates": "47.25198/-1.61694"
+                },
+                {
+                    "name": "Parkeon - Agence de Bordeaux",
+                    "postal_address": "50 avenue Gustave Eiffel 33610 Canéjan",
+                    "gps_coordinates": "44.77671/-0.65973"
+                }
+            ]
+        },
+        {
             "name": "Parrot",
             "url": "http://www.parrot.com",
             "description": "",
@@ -2952,6 +3188,18 @@
                     "name": "",
                     "postal_address": "44 rue Pierre Joseph Proudhon 78800 HOUILLES",
                     "gps_coordinates": "48.93364/2.19997"
+                }
+            ]
+        },
+        {
+            "name": "Pyxalis",
+            "url": "http://pyxalis.com",
+            "description": "Advanced CMOS image sensors",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Zone d'activité Centr’Alp, 170 Rue de Chatagnon 38430 Moirans",
+                    "gps_coordinates": "45.32014/5.59155"
                 }
             ]
         },
@@ -3764,6 +4012,19 @@
             ]
         },
         {
+            "name": "Twiga",
+            "url": "http://www.twiga-web.com",
+            "description": "high definition digital video systems",
+            "twitter": "twigaweb",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "116 route d'Espagne Bâtiment Hélios 6 BAL 507 31100 Toulouse - France",
+                    "gps_coordinates": "43.57095/1.42424"
+                }
+            ]
+        },
+        {
             "name": "UrbanHello",
             "url": "http://www.urbanhello.com",
             "description": "",
@@ -3992,6 +4253,19 @@
                     "name": "",
                     "postal_address": "200 Avenue de Provence 13190 Allauch",
                     "gps_coordinates": "43.33082/5.48502"
+                }
+            ]
+        },
+        {
+            "name": "Xenocs",
+            "url": "http://www.xenocs.com",
+            "description": "Solutions for nanomaterial characterization",
+            "twitter": "xenocsnews",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 rue François Blumet 38360 Sassenage",
+                    "gps_coordinates": "45.21035/5.67546"
                 }
             ]
         },
