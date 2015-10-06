@@ -181,6 +181,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - FeetMe / http://www.feetme.fr
 - HAPILABS / http://www.hapilabs.com
 - Ubiscale (IoT / Rennes?)
+- GRIDPOCKET - http://www.gridpocket.com - Sophia-Antipolis
 
 ### French companies ? Or resellers ?
 - BeeWi
