@@ -4049,9 +4049,10 @@
             ]
         },
         {
-            "name": "Viaccess",
-            "url": "http://www.viaccess.com",
-            "description": "",
+            "name": "Viaccess-Orca",
+            "url": "http://www.viaccess-orca.com/",
+            "description": "TV Everywhere solutions",
+            "twitter" : "ViaccessOrca",
             "locations": [
                 {
                     "name": "",
