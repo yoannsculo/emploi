@@ -44,6 +44,7 @@
             "name": "Advantech",
             "url": "http://www.advantech.com",
             "description": "Embedded and automation products and solutions.",
+            "twitter": "AdvantechEurope",
             "locations": [
                 {
                     "name": "",
@@ -269,6 +270,7 @@
             "name": "Alpwise",
             "url": "http://www.alpwise.com",
             "description": "Wireless solutions: Bluetooth and Bluetooth low energy products.",
+            "twitter": "ALPWISE",
             "locations": [
                 {
                     "name": "",
@@ -2373,6 +2375,7 @@
             "name": "Kalray",
             "url": "http://www.kalray.eu",
             "description": "",
+            "twitter": "Kalray1",
             "locations": [
                 {
                     "name": "",
@@ -2465,6 +2468,7 @@
             "name": "Kolibree",
             "url": "http://www.kolibree.com",
             "description": "connected electric toothbrush",
+            "twitter": "Kolibree",
             "locations": [
                 {
                     "postal_address": "Radioline - 1, rue Garnier 92200 Neuilly Sur Seine",
@@ -3438,7 +3442,7 @@
             "name": "Qowisio",
             "url": "http://www.qowisio.com",
             "description": "low-bandwidth network dedicated to connected services",
-            "twitter": "",
+            "twitter": "Qowisio",
             "locations": [
                 {
                     "name": "Qowisio",
@@ -4419,6 +4423,7 @@
             "name": "WI6Labs",
             "url": "http://www.wi6labs.com",
             "description": "Ultra low power and secured wireless sensors network solution",
+            "twitter": "wi6labs",
             "locations": [
                 {
                     "name": "",
