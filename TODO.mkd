@@ -132,6 +132,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.spacebel.be/fr/aboutspacebel/sites/
 
 
+- ? http://www.capsuletech.com
 - PrismTech France / http://www.prismtech.com/contact-us / @prismtech
 - NI France / http://france.ni.com / @nifrance
 - EXOTIC SYSTEMS / http://www.exotic-systems.com / @EXOTIC_SYSTEMS
@@ -147,41 +148,26 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Smockeo - https://www.smockeo.com - @Smockeo
 - AGUILA Technologies - http://aguila.fr - @AguilaTech
 - GreenWaves - http://greenwaves-technologies.com - @GreenWavesTech
-- QOWISIO - http://www.qowisio.com - @Qowisio
 - SesameTouch - http://www.sesametouch.com - @SesameTouch
 - Ticatag - http://www.ticatag.com - @ticatag2013
 - LinkyTag - http://www.linkytag.com/ - @LinkyTag
 - Ingelec France - http://www.ingelec.net - @Ingelec_France
-- Linkio - @Linkionet
 - CRESITT INDUSTRIE - http://www.cresitt.com/ - @CRESITT
-- FeetMe - http://www.feetme.fr/ - @Feet_Me
-- EWATTCH - http://www.ewattch.com
-- ECOMESURE - www.ecomesure.com - Saclay
-- ROBOSOFT - Toulouse (Montaudran)
-- RTONE - www.rtone.fr - Lyon
-- OVERLINE SYSTEMS - http://www.overline-systems.com/ - Andernos les Bains
-- MACOPHARMA - http://www.macopharma.com/ - TOURCOING
-- AVIWEST - http://www.aviwest.com/ - SAINT GREGOIRE
-- TRONICO - http://www.tronico-alcen.com/fr - Grenoble
-- Canal+ à Paris : direction technique au siège
-- APLUS Système Automation - http://www.aplus-sa.com/ - Saint Michel sur Orge
-- Oceasoft - http://www.oceasoft.fr - 34
+- Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
+- http://www.kontron.com / Kontron Modular Computers S.A.S. / 150 rue Marcelin Berthelot BP 244 - ZI Toulon-Est 83078 Toulon Cedex 9 / http://www.kontron.com @Kontron
 - http://www.urbanpotager.com
 - SER - http://feu.routier.free.fr/signalisation-equipement-route.html
 - http://groupe-minerva.com borne sncf
+- http://www.clairitec.com - @Clairitec
+- http://www.lacroix-electronics.com - @LACROIX_Elec
+- http://www.intent-technologies.eu - @Intentnews
 - Thalescom
-- http://www.esoftthings.com
-- http://www.qowisio.com
-- http://www.deltadore.fr (35)
-- http://ze-watt.com
-- http://enersy.fr
 - ? http://www.capsuletech.com
-- ROBOSOFT - http://www.robosoft.com/ - Bidart (64)
 
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
 - http://www.voxtok.com (south of france)
-- SensorWake / http://sensorwake.com
+- SensorWake / http://sensorwake.com (Nantes)
 - Prizm Corp / http://www.meetprizm.com
 - Phonotonic / http://www.phonotonic.net
 - PKparis / http://www.pkparis.com
@@ -190,6 +176,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - HAPILABS / http://www.hapilabs.com
 - Ubiscale (IoT / Rennes?)
 - GRIDPOCKET - http://www.gridpocket.com - Sophia-Antipolis
+- FeetMe - http://www.feetme.fr/ - @Feet_Me
+- Linkio - @Linkionet - http://linkio.net - Grenoble
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -215,3 +203,4 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - https://www.toradex.com/ - Switzerland / @Toradex
 - Micrium - http://micrium.com/ - Weston, FL
 - http://www.kaptia.com/ - Spain
+- http://www.qilium.com/ - Belgium - @Qilium
