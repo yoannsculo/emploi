@@ -338,6 +338,18 @@
             ]
         },
         {
+            "name": "APLUS Système Automation",
+            "url": "http://www.aplus-sa.com",
+            "description": "Informatique industrielle",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7, rue d'Alembert ZAC de la Noue Rousseau Techniparc 91240 Saint Michel sur Orge",
+                    "gps_coordinates": "48.62108/2.33111"
+                }
+            ]
+        },
+        {
             "name": "Appep",
             "url": "http://www.appep.org",
             "description": "Smart decentralized power management system",
@@ -435,6 +447,19 @@
                     "name": "",
                     "postal_address": "26 Burospace - Route de Gisy 91570 Bièvres",
                     "gps_coordinates": "48.76520/2.21591"
+                }
+            ]
+        },
+        {
+            "name": "AVIWEST",
+            "url": "http://www.aviwest.com",
+            "description": "Video contribution uplink systems for live streaming over bonded 3G/4G cellular networks",
+            "twitter": "Aviwest",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Espace Performance Bâtiment O 35769 Saint-Grégoire Cedex",
+                    "gps_coordinates": "48.15356/-1.69961"
                 }
             ]
         },
@@ -744,6 +769,18 @@
             ]
         },
         {
+            "name": "Canal +",
+            "url": "http://www.canalplus.fr",
+            "description": "Set-top box",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Place Spectacle,92130 Issy-les-Moulineaux",
+                    "gps_coordinates": "48.82742/2.26346"
+                }
+            ]
+        },
+        {
             "name": "CARRI Systems",
             "url": "http://www.carri.fr",
             "description": "High performance computer systems.",
@@ -943,6 +980,19 @@
             ]
         },
         {
+            "name": "CRESITT Industrie",
+            "url": "http://www.cresitt.com",
+            "description": "Aider aux industriels et laboratoires dans leurs développements en électronique communicante et instrumentation",
+            "twitter": "CRESITT",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Pépinière du Parc du Moulin 111 Boulevard Duhamel du Monceau – CS 30638 45166 OLIVET Cedex",
+                    "gps_coordinates": "47.84672/1.92590"
+                }
+            ]
+        },
+        {
             "name": "Cyleone",
             "url": "http://www.cyleone.fr",
             "description": "Data acquisition and management for drones operators",
@@ -1072,6 +1122,58 @@
                     "name": "",
                     "postal_address": "Pépinière d’entreprises de Montaudran 3, avenue Didier Daurat 31400 TOULOUSE",
                     "gps_coordinates": "43.56314/1.49194"
+                }
+            ]
+        },
+        {
+            "name": "Delta Dores",
+            "url": "http://www.deltadore.fr",
+            "description": "Solutions domotiques",
+            "locations": [
+                {
+                    "name": "Delta Dore EMS - Meylan",
+                    "postal_address": "2 Chemin du Vieux Chêne 38240 Meylan",
+                    "gps_coordinates": "45.20700/5.78091"
+                },
+                {
+                    "name": "Delta Dore EMS - Ivry-sur-Seine",
+                    "postal_address": "19 Boulevard Paul Vaillant Couturier 94200 Ivry-sur-Seine",
+                    "gps_coordinates": "48.82027/2.39558"
+                },
+                {
+                    "name": "Delta Dore EMS - Le Puynardon",
+                    "postal_address": "LE PUYNARDON - 85290 MORTAGNE SUR SEVRE",
+                    "gps_coordinates": "46.98419/-0.93578"
+                },
+                {
+                    "name": "Delta Dore - Bonnemain",
+                    "postal_address": "Le Vieux Chêne, 35270 Bonnemain",
+                    "gps_coordinates": "48.46203/-1.76932"
+                },
+                {
+                    "name": "Life Domus",
+                    "postal_address": "15 rue Hergé Parc Technologique de la Haute Borne 59650 VILLENEUVE D'ASCQ",
+                    "gps_coordinates": "50.60501/3.15632"
+                },
+                {
+                    "name": "Delta Dore - Ma m@ison connectée",
+                    "postal_address": "14 Rue de Bertrand 35000 Rennes",
+                    "gps_coordinates": "48.11367/-1.67802"
+                },
+                {
+                    "name": "Delta Dore - Tinténiac - Centre logistique",
+                    "postal_address": "Z.A. la Morandais 35190 Tinténiac",
+                    "gps_coordinates": "48.30221/-1.81669"
+                },
+                {
+                    "name": "Delta Dore - Etrelles",
+                    "postal_address": "ZONE ARTISANALE DE PIQUET - 35370 ETRELLES",
+                    "gps_coordinates": "48.06861/-1.19226"
+                },
+                {
+                    "name": "Delta Dore - Paris",
+                    "postal_address": "11 Rue Roger Bacon 75017 Paris",
+                    "gps_coordinates": "48.88282/2.28968"
                 }
             ]
         },
@@ -1238,6 +1340,19 @@
             ]
         },
         {
+            "name": "ECOMESURE",
+            "url": "http://www.ecomesure.com",
+            "description": "Air quality instrumentation and metrology",
+            "twitter": "ECOMESURE",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 Rue René Razel, 91400 Saclay",
+                    "gps_coordinates": "48.73573/2.16633"
+                }
+            ]
+        },
+        {
             "name": "ECOMETERING",
             "url": "http://www.ecometering-gdfsuez.com",
             "description": "Pilotage intelligent de l’énergie",
@@ -1368,6 +1483,18 @@
             ]
         },
         {
+            "name": "ENERSY",
+            "url": "http://enersy.fr",
+            "description": "Connected thermostats",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Enersy - La Cantine 27, Rue d’Aubuisson,31000, TOULOUSE",
+                    "gps_coordinates": "43.60268/1.45418"
+                }
+            ]
+        },
+        {
             "name": "Environnement S.A",
             "url": "http://www.environnement-sa.com",
             "description": "Continuous environmental pollution analysis systems",
@@ -1424,6 +1551,19 @@
                     "name": "",
                     "postal_address": "196 RUE DE LA ROCHE DE LORZIER PARC CENTR'ALP 38430 MOIRANS ",
                     "gps_coordinates": "45.32076/5.59245"
+                }
+            ]
+        },
+        {
+            "name": "eSoftthings",
+            "url": "http://www.esoftthings.com",
+            "description": "Wireless coms and internet of things.",
+            "twitter": "eSoftThings",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Espace Entreprise Germanium 80 avenue des Buttes de Coësmes 35700 Rennes",
+                    "gps_coordinates": "48.12527/-1.62868"
                 }
             ]
         },
@@ -1508,6 +1648,19 @@
                     "name": "",
                     "postal_address": "7 rue Léonard de VINCI, 92160 Antony",
                     "gps_coordinates": "48.74064/2.31572"
+                }
+            ]
+        },
+        {
+            "name": "EWATTCH",
+            "url": "http://www.ewattch.com",
+            "description": "Gestionnaire d'energie connecté",
+            "twitter": "ewattch",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "15, Rue du Petit Saint-Dié 88100 Saint-Dié-des-Vosges",
+                    "gps_coordinates": "48.28122/6.94863"
                 }
             ]
         },
@@ -2459,6 +2612,18 @@
             ]
         },
         {
+            "name": "Macopharma",
+            "url": "http://www.macopharma.com/",
+            "description": "Infusion, transfusion and biotherapy systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "200 Chaussée Fernand Forest 59200 Tourcoing",
+                    "gps_coordinates": "50.73804/3.15399"
+                }
+            ]
+        },
+        {
             "name": "MAINtag",
             "url": "http://www.maintag.fr",
             "description": "RFID solutions for aerospace",
@@ -2906,6 +3071,19 @@
             ]
         },
         {
+            "name": "OCEASOFT",
+            "url": "http://www.oceasoft.com",
+            "description": "Smart wireless sensors",
+            "twitter": "oceasoft",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "126 Rue Emile Baudot 34000 MONTPELLIER",
+                    "gps_coordinates": "43.61470/3.91011"
+                }
+            ]
+        },
+        {
             "name": "OneAccess",
             "url": "http://www.oneaccess-net.com",
             "description": "",
@@ -3067,6 +3245,23 @@
                     "name": "",
                     "postal_address": "1 rue du Bocage 33200 Bordeaux",
                     "gps_coordinates": "44.849756/-0.601128"
+                }
+            ]
+        },
+        {
+            "name": "Overline Systems",
+            "url": "http://www.overline-systems.com",
+            "description": "Audio intercom, reporter systems and nano in ear equipment",
+            "locations": [
+                {
+                    "name": "Overline Systems - headquarters",
+                    "postal_address": "21 av Sophie Wallerstein 33510 Andernos",
+                    "gps_coordinates": "44.73253/-1.08795"
+                },
+                {
+                    "name": "Overline Paris agency",
+                    "postal_address": "50 av du Président Wilson – Bat 104 93214 La Plaine Saint Denis",
+                    "gps_coordinates": "48.90330/2.35933"
                 }
             ]
         },
@@ -3240,6 +3435,24 @@
             ]
         },
         {
+            "name": "Qowisio",
+            "url": "http://www.qowisio.com",
+            "description": "low-bandwidth network dedicated to connected services",
+            "twitter": "",
+            "locations": [
+                {
+                    "name": "Qowisio",
+                    "postal_address": "Bâtiment Linéo 4 rue Fulton 49000 Angers",
+                    "gps_coordinates": "47.46242/-0.56211"
+                },
+                {
+                    "name": "Qowisio Lab",
+                    "postal_address": "Cité de l'Objet connecté 7 Rue de bon Puits 49480 St Sylvain d'Anjou",
+                    "gps_coordinates": "47.49544/-0.49267"
+                }
+            ]
+        },
+        {
             "name": "Qualcomm",
             "url": "http://www.qualcomm.eu",
             "description": "",
@@ -3320,6 +3533,40 @@
                     "name": "",
                     "postal_address": "2 rue du Gévaudan - ZA Petite Montagne SudLisses 91047 EVRY CEDEX",
                     "gps_coordinates": "48.60915/2.42897"
+                }
+            ]
+        },
+        {
+            "name": "ROBOSOFT",
+            "url": "http://www.robosoft.com",
+            "description": "Mobile robotics",
+            "locations": [
+                {
+                    "name": "Robosoft Bidart",
+                    "postal_address": "45 Allée Théodore Monod, Technopole d’Izarbel, F-64210 Bidart",
+                    "gps_coordinates": "43.44667/-1.55302"
+                },
+                {
+                    "name": "Robosoft Meylan",
+                    "postal_address": "4 bis Chemin des Près, F-38240 Meylan",
+                    "gps_coordinates": "45.21101/5.78833"
+                },
+                {
+                    "name": "Robosoft Toulouse",
+                    "postal_address": "1 rue des Penitents Blancs, BP 71028,  F-31010 Toulouse Cedex 6",
+                    "gps_coordinates": "43.60165/1.44980"
+                }
+            ]
+        },
+        {
+            "name": "Rtone",
+            "url": "http://rtone.fr",
+            "description": "Solutions communicantes Machine-To-Machine",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "120 rue Saint-Cyr, 69009 Lyon",
+                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3491,6 +3738,18 @@
                     "name": "",
                     "postal_address": "Parc Technologique Léonard de Vinci - Rue Léonard de Vinci - CP 8010 LISSES - 91008 EVRY Cedex",
                     "gps_coordinates": "48.59910/2.41532"
+                }
+            ]
+        },
+        {
+            "name": "Semtech France",
+            "url": "http://www.semtech.com",
+            "description": "Supplier of analog and mixed-signal semiconductor products",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technopolis- 3, Avenue du Canada, Courtaboeuf, 91940, France",
+                    "gps_coordinates": "48.68718/2.19484"
                 }
             ]
         },
@@ -4012,6 +4271,23 @@
             ]
         },
         {
+            "name": "TRONICO",
+            "url": "http://www.tronico-alcen.com",
+            "description": "Design and integration of electronic systems",
+            "locations": [
+                {
+                    "name": "Tronico",
+                    "postal_address": "26 rue du Bocage 85660 Saint-Philbert-de-Bouaine France",
+                    "gps_coordinates": "46.98283/-1.52089"
+                },
+                {
+                    "name": "Tronico Grenoble",
+                    "postal_address": "Résidence « Les Reflets du Drac » 34 rue Gustave Eiffel 38000 Grenoble France",
+                    "gps_coordinates": "45.18369/5.70306"
+                }
+            ]
+        },
+        {
             "name": "Twiga",
             "url": "http://www.twiga-web.com",
             "description": "high definition digital video systems",
@@ -4279,6 +4555,18 @@
                     "name": "",
                     "postal_address": "10 Boulevard Maire, 13008 Marseille",
                     "gps_coordinates": "43.24120/5.37480"
+                }
+            ]
+        },
+        {
+            "name": "Ze-Watt",
+            "url": "http://ze-watt.com/",
+            "description": "Bornes de recharge communicantes pour véhicules électriques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 Chemin du Mont Betou 31320 Vieille-Toulouse",
+                    "gps_coordinates": "43.53354/1.43576"
                 }
             ]
         },
