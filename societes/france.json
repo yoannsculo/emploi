@@ -2985,7 +2985,7 @@
         {
             "name": "Open Wide Ingénierie",
             "url": "http://ingenierie.openwide.fr",
-            "description": "",
+            "description": "Open source embedded engineering",
             "locations": [
                 {
                     "name": "",
@@ -2996,6 +2996,11 @@
                     "name": "",
                     "postal_address": "36 rue Jacques Babinet 31100 Toulouse",
                     "gps_coordinates": "43.57474/1.40625"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Actiparc - 155 Cours Berriat - CS 70022 - 38028 Grenoble CEDEX 1",
+                    "gps_coordinates": "45.18817/5.70470"
                 }
             ]
         },
