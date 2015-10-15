@@ -311,6 +311,18 @@
             ]
         },
         {
+            "name": "Baylibre",
+            "url": "https://www.baylibre.com",
+            "description": "Linux embedded : consulting, projects, training",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "753 Avenue de la Colle 06270 Villeneuve-Loubet, France",
+                    "gps_coordinates": "43.668550/7.122001"
+                }
+            ]
+        },
+        {
             "name": "BBright",
             "url": "http://www.bbright.com",
             "description": "",
@@ -1360,6 +1372,18 @@
                     "name": "",
                     "postal_address": "2, place Jules Gévelot 92138 Issy-les-Moulineaux",
                     "gps_coordinates": "48.82162/2.25236"
+                }
+            ]
+        },
+        {
+            "name": "M2M Solution",
+            "url": "http://www.m2msolution.com",
+            "description": "M2M Solutions",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1240 route des Dolines 06560 Valbonne - FRANCE",
+                    "gps_coordinates": "43.625298/7.040826"
                 }
             ]
         },
