@@ -2064,6 +2064,18 @@
             ]
         },
         {
+            "name": "Icalla",
+            "url": "http://www.icalla.fr",
+            "description": "Writing devices",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29 chemin du vieux Chêne 38240 Meylan",
+                    "gps_coordinates": "45.20864/5.79325"
+                }
+            ]
+        },
+	{
             "name": "IER",
             "url": "http://www.ier.com",
             "description": "Warehouse voice‑activated and light-assisted preparation solutions as well as real-time RFID containers (pallets, trays) monitoring solutions.",
