@@ -11,6 +11,10 @@ Schneider Electric has more than 40 locations according to http://www.societe.co
 I can't find any information on their corporate website.
 Therefore I only located HQ for now. Too much work on this company and I miss relevant information.
 
+- 38TEC, au 37 quai Paul Louis Merlin, à Grenoble
+- 38Polytec - 51 Rue des Berges, Grenoble
+- X-Pôle, 71 Avenue des Martyrs, Grenoble
+
 GE
 
 - GE Power Conversion / 1 Rue John Henri Patterson 91300 Massy
@@ -169,11 +173,32 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://ibubble.camera/fr/ / https://twitter.com/iBubbleCamera / Lyon, Rhône-Alpes
 - ? http://www.hidglobal.fr
 - http://www.chronocam.com
-- http://www.vixtechnology.com
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
 - ACS (Affiliated Computer Services)/Filiale de Xerox
 - http://www.paycert.fr/Produits-Securitaires.html
 - http://www.hectronic.com/fr
+- http://www.wezzoo.com/oombrella
+- http://www.stanley-robotics.com
+- ? Bluetens
+- http://www.timescope.co
+- Air Serenity / http://www.air-serenity.com
+- Gablys Locker/ https://www.gablys.com/fr
+- Auxivia / http://auxivia.com
+- Medissimo / https://www.medissimo.fr
+- e-takescare / http://www.e-takescare.com
+- http://www.jagger-lewis.com/
+- http://sensing-labs.com/fr/
+- Aguila Technologies / http://aguila.fr/en/
+- Congatec / Allemagne (fournisseur français : Tokhatec)
+- ? ANOVO ?
+- ? Worldpay
+- http://www.webdyn.com
+- http://www.elster.com
+- MAEC - http://www.groupe-cahors.com/le-groupe-cahors/le-groupe/filiales/francaises/article/maec?lang=fr
+- ITRON - https://www.itron.com/fr/about/Pages/Our-Worldwide-Locations.aspx
+- ? ApisSys
+- NXP Semiconductors et Freescale Semiconductor ne font désormais plus qu’une seule et même société
+- http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
 
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -189,6 +214,10 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - GRIDPOCKET - http://www.gridpocket.com - Sophia-Antipolis
 - FeetMe - http://www.feetme.fr/ - @Feet_Me
 - Linkio - @Linkionet - http://linkio.net - Grenoble
+- Hydrao / http://www.hydrao.fr / Grenoble ?
+- PhiLOCK / http://www.philock.net / Bike connected padlock / @PhiLOCKOfficial
+- Cardiawave
+
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -203,6 +232,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Rename NDS into Cisco
 - Netatmo moved into Issy
 - Lima moved into Paris
+- Dreem changed its name
 
 ###Worldwide
 
