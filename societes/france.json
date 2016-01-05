@@ -388,6 +388,21 @@
             ]
         },
         {
+            "name": "Arcure",
+            "url": "http://www.arcure.net/",
+            "description": "Video detection of pedestrians on work and industrial sites",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "170, rue Raymond Losserand 75014 PARIS",
+                    "gps_coordinates": "48.83009/2.31005"
+                }
+            ]
+        },
+        {
             "name": "Arm",
             "url": "http://www.arm.com",
             "description": "",
@@ -1037,6 +1052,21 @@
             ]
         },
         {
+            "name": "DAMAE Medical",
+            "url": "http://damaemedical.fr",
+            "description": "Imaging process for quick and non-invasive skin cancer detection",
+            "keywords": "",
+            "twitter": "DAMAE_Medical",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "96 bis boulevard Raspail 75006 Paris",
+                    "gps_coordinates": "48.84618/2.32810"
+                }
+            ]
+        },
+        {
             "name": "Data-Pixel",
             "url": "http://www.data-pixel.com",
             "description": "Image-processing based test and measurement equipment",
@@ -1228,6 +1258,21 @@
             ]
         },
         {
+            "name": "Diimotion",
+            "url": "http://diimotion.com",
+            "description": "Direct injection units for sprayers of farmers",
+            "keywords": "",
+            "twitter": "DiimotionSAS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "142 route de la Commanderie 64360 Lacommande",
+                    "gps_coordinates": "43.27703/-0.50884"
+                }
+            ]
+        },
+        {
             "name": "Digigram",
             "url": "http://www.digigram.com",
             "description": "Professional Sound Cards, Audio over IP Codecs, Video over IP Codecs",
@@ -1248,6 +1293,21 @@
                     "name": "",
                     "postal_address": "33 rue du mail 75002 Paris",
                     "gps_coordinates": "48.86731/2.34364"
+                }
+            ]
+        },
+        {
+            "name": "Drone Volt",
+            "url": "http://www.dronevolt.com",
+            "description": "Civil drones",
+            "keywords": "",
+            "twitter": "drone_volt",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14, rue de la Perdrix Lot 201 Paris nord 2 Roissy CGD 93420 Villepinte",
+                    "gps_coordinates": "48.97548/2.50891"
                 }
             ]
         },
@@ -1654,6 +1714,21 @@
             ]
         },
         {
+            "name": "Everysens",
+            "url": "http://everysens.com",
+            "description": "Solutions de Localisation Intelligente en Entreprise",
+            "keywords": "",
+            "twitter": "everysens",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "EuraTechnologies  165, avenue de bretagne 59000 Lille",
+                    "gps_coordinates": "50.63289/3.02054"
+                }
+            ]
+        },
+        {
             "name": "Evigroup",
             "url": "http://www.evi-group.fr",
             "description": "",
@@ -1903,6 +1978,21 @@
                     "name": "",
                     "postal_address": "Zac des Metz 3 rue du Petit Robinson 78350 JOUY EN JOSAS",
                     "gps_coordinates": "48.77960/2.16910"
+                }
+            ]
+        },
+        {
+            "name": "Hareau SAS",
+            "url": "https://www.weenect.com",
+            "description": "GPS tracker for Kids",
+            "keywords": "",
+            "twitter": "weenect",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "101 RUE DE SEVRES 75006 PARIS",
+                    "gps_coordinates": "48.84851/2.32101"
                 }
             ]
         },
@@ -2542,6 +2632,21 @@
             ]
         },
         {
+            "name": "Landis+Gyr S.A.S.",
+            "url": "http://www.landisgyr.fr",
+            "description": "Integrated energy management products and end-to-end metering solutions.",
+            "keywords": "",
+            "twitter": "landisgyr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "77-81 Bd. de la République F-92257 La Garenne Colombes",
+                    "gps_coordinates": "48.90712/2.24159"
+                }
+            ]
+        },
+        {
             "name": "LEA",
             "url": "http://www.lea-networks.fr/",
             "description": "xDSL Splitter, Power Line Carrier (PLC), and Surge Protection systems for the telecommunication industry",
@@ -3067,6 +3172,21 @@
             ]
         },
         {
+            "name": "Novathings",
+            "url": "http://www.novathings.com/",
+            "description": "Connected objects for the protection of digital life",
+            "keywords": "",
+            "twitter": "novathingsfr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "100 impasse des Houillères 13590 Meyreuil",
+                    "gps_coordinates": "43.47149/5.49105"
+                }
+            ]
+        },
+        {
             "name": "NVIDIA",
             "url": "http://www.nvidia.fr",
             "description": "",
@@ -3266,6 +3386,21 @@
                     "name": "",
                     "postal_address": "287 avenue Jean Fourastie 11400 Castelnaudary",
                     "gps_coordinates": "43.30312/1.96560"
+                }
+            ]
+        },
+        {
+            "name": "Orosound",
+            "url": "http://www.orosound.com",
+            "description": "Professional audio #earphones for office workers",
+            "keywords": "",
+            "twitter": "orosound",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "48, rue Amelot 75011 Paris",
+                    "gps_coordinates": "48.85897/2.36848"
                 }
             ]
         },
@@ -4333,6 +4468,36 @@
             ]
         },
         {
+            "name": "TheKeys",
+            "url": "http://www.the-keys.fr",
+            "description": "Connected lock",
+            "keywords": "",
+            "twitter": "TheKeysParis",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "40 rue Chanzy 75011 Paris",
+                    "gps_coordinates": "48.85300/2.38668"
+                }
+            ]
+        },
+        {
+            "name": "Timescope",
+            "url": "http://www.timescope.co",
+            "description": "Borne de réalité virtuelle en libre-service",
+            "keywords": "",
+            "twitter": "timescope",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "87 BOULEVARD SAINT MICHEL 75005 PARIS",
+                    "gps_coordinates": "48.84523/2.33989"
+                }
+            ]
+        },
+        {
             "name": "Trimble",
             "url": "http://www.trimble.com",
             "description": "Advanced positioning solutions",
@@ -4490,6 +4655,18 @@
             ]
         },
         {
+            "name": "Ween",
+            "url": "http://ween.fr/",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 Place de Touraine, 78000 Versailles, France",
+                    "gps_coordinates": "48.80405/2.16233"
+                }
+            ]
+        },
+        {
             "name": "WI6Labs",
             "url": "http://www.wi6labs.com",
             "description": "Ultra low power and secured wireless sensors network solution",
@@ -4561,14 +4738,17 @@
             ]
         },
         {
-            "name": "Ween",
-            "url": "http://ween.fr/",
-            "description": "",
+            "name": "Wildmoka",
+            "url": "http://wildmoka.com/",
+            "description": "Video enrichment solutions",
+            "keywords": "",
+            "twitter": "wildmoka",
+            "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "2 Place de Touraine, 78000 Versailles, France",
-                    "gps_coordinates": "48.80405/2.16233"
+                    "postal_address": "Business Pole 1047 route des Dolines F-06560 Sophia Antipolis",
+                    "gps_coordinates": "43.62711/7.04126"
                 }
             ]
         },
@@ -4642,6 +4822,20 @@
                     "name": "",
                     "postal_address": "7 Chemin du Mont Betou 31320 Vieille-Toulouse",
                     "gps_coordinates": "43.53354/1.43576"
+                }
+            ]
+        },
+        {
+            "name": "Vix Technology France",
+            "url": "http://www.vixtechnology.com",
+            "description": "Provider and integrator of smart access, booking, ticketing, payment and clearing systems",
+            "twitter": "VIX_Technology",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 Bis Rue Alain Savary Parc Temis 25000 BESANCON",
+                    "gps_coordinates": "47.25253/6.00053"
                 }
             ]
         },
