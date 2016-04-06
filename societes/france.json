@@ -799,6 +799,21 @@
             ]
         },
         {
+            "name": "Campbell Scientific",
+            "url": "https://www.campbellsci.fr",
+            "description": "centrales de mesure, systèmes d'acquisition de données, instruments de mesure et de contrôle",
+            "keywords": "",
+            "twitter": "campbellsci_fr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Avenue de la Division Leclerc  92160 ANTONY",
+                    "gps_coordinates": "48.76130/2.29054"
+                }
+            ]
+        },
+        {
             "name": "Canal +",
             "url": "http://www.canalplus.fr",
             "description": "Set-top box",
@@ -831,6 +846,91 @@
                     "name": "",
                     "postal_address": "31, avenue du Général Leclerc - 93500 PANTIN",
                     "gps_coordinates": "48.89524/2.39975"
+                }
+            ]
+        },
+        {
+            "name": "Cementys",
+            "url": "http://www.cementys.com",
+            "description": "optical fiber sensing solutions for integrity monitoring applications",
+            "keywords": "",
+            "twitter": "CementysTweet",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "27 Villa Daviel, 75013 Paris",
+                    "gps_coordinates": "48.82671/2.34608"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9 rue Léon Blum, 91120 Palaiseau",
+                    "gps_coordinates": "48.71173/2.25430"
+                },
+                {
+                    "name": "",
+                    "postal_address": "5 La Fosse Yvon, 50440 Beaumont-Hague",
+                    "gps_coordinates": "49.65854/-1.82034"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Boulevard Jean Moulin, 29200 Brest",
+                    "gps_coordinates": "48.39118/-4.49465"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1330 Avenue Guillibert de la Lauzière, Bâtiment B5, 13856 Aix en Provence",
+                    "gps_coordinates": "43.47817/5.36886"
+                }
+            ]
+        },
+        {
+            "name": "Chauvin Arnoux",
+            "url": "http://www.chauvin-arnoux.com",
+            "description": "portable Test and Measurement instruments",
+            "keywords": "",
+            "twitter": "ChauvinArnouxFr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Chauvin Arnoux / Metrix Paris",
+                    "postal_address": "190, rue Championnet 75876 Paris Cedex 18 Paris",
+                    "gps_coordinates": "48.89449/2.33302"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Lille",
+                    "postal_address": "20, rue du Parc 59110 Lille",
+                    "gps_coordinates": "50.65107/3.06802"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Nantes",
+                    "postal_address": "49, rue Leinster 44240 La Chappelle sur Erdre",
+                    "gps_coordinates": "47.27932/-1.55111"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Nancy",
+                    "postal_address": "100, av du Général Leclerc 54000 Nancy",
+                    "gps_coordinates": "48.68051/6.18162"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Toulouse",
+                    "postal_address": "31, av J.F. Champollion 31100 Toulouse",
+                    "gps_coordinates": "43.54711/1.39489"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Lyon",
+                    "postal_address": "8 av. du Dr Schweitzer 69330 Meyzieu",
+                    "gps_coordinates": "45.76448/5.02820"
+                },
+                {
+                    "name": "Chauvin Arnoux Industrie (Reux)",
+                    "postal_address": "45 route de Saint Eugène 14130 Reux",
+                    "gps_coordinates": "49.2635/0.1420"
+                },
+                {
+                    "name": "Chauvin Arnoux / Metrix Export",
+                    "postal_address": "190, rue Championnet 75876 Paris Cedex 18 Paris",
+                    "gps_coordinates": "48.89451/2.33330"
                 }
             ]
         },
@@ -2092,6 +2192,21 @@
             ]
         },
         {
+            "name": "HUMElab",
+            "url": "http://humelab.com",
+            "description": "touch table and interactive furniture",
+            "keywords": "",
+            "twitter": "HumeLab",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc de la Radio Route de Paris 28100 Dreux",
+                    "gps_coordinates": "48.74903/1.40036"
+                }
+            ]
+        },
+        {
             "name": "HTTV",
             "url": "http://www.httv.fr",
             "description": "",
@@ -2629,6 +2744,21 @@
                     "name": "",
                     "postal_address": "8 impasse du Bourrelier  BP 30004  44801 Saint-Herblain Cedex",
                     "gps_coordinates": "47.22138/-1.64275"
+                }
+            ]
+        },
+        {
+            "name": "LAMOUROUX",
+            "url": "http://www.lamouroux.com/",
+            "description": "electricity, plumbing and heating for professionals and private customers",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1bis route de Canteloup  33750 BEYCHAC ET CAILLAU",
+                    "gps_coordinates": "44.88042/-0.36937"
                 }
             ]
         },
@@ -3431,6 +3561,21 @@
             ]
         },
         {
+            "name": "OSMOS",
+            "url": "http://www.osmos-group.com",
+            "description": "monitoring engineering",
+            "keywords": "",
+            "twitter": "osmosonsite",
+            "comment": "Vont déménager de l'autre côté des champs",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5, rue Alfred de Vigny 75008 Paris",
+                    "gps_coordinates": "48.87871/2.30499"
+                }
+            ]
+        },
+        {
             "name": "Otonomy Aviation",
             "url": "http://www.otonomy-aviation.com/",
             "description": "",
@@ -3565,6 +3710,26 @@
                     "name": "",
                     "postal_address": "174-178, quai de Jemmapes 75010 Paris",
                     "gps_coordinates": "48.87893/2.36774"
+                }
+            ]
+        },
+        {
+            "name": "PowiDian",
+            "url": "http://powidian.com",
+            "description": "Smart Green Energy stations",
+            "keywords": "",
+            "twitter": "PowiDian",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "PowiDian - Siège social",
+                    "postal_address": "10 rue Jean Perrin 37170 Chambray les Tours",
+                    "gps_coordinates": ""
+                },
+                {
+                    "name": "PowiDian - Technique, Ventes, Administration",
+                    "postal_address": "1 Bd Jean Moulin, CS40001, MetaPole, 78996 Elancourt",
+                    "gps_coordinates": ""
                 }
             ]
         },
@@ -4154,6 +4319,21 @@
             ]
         },
         {
+            "name": "SODALEC",
+            "url": "http://www.sodalec.fr/",
+            "description": "conception et fabrication de matériels électroniques pour l’élevage hors sol",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue Alory BP 94236 35742 Pacé Cedex",
+                    "gps_coordinates": "48.14645/-1.76427"
+                }
+            ]
+        },
+        {
             "name": "SODIMAS",
             "url": "http://www.sodimas.com/",
             "description": "Lift manufacturer",
@@ -4203,6 +4383,26 @@
                     "name": "",
                     "postal_address": "81 avenue François Arago 92000 Nanterre - France",
                     "gps_coordinates": "48.89953/2.22153"
+                }
+            ]
+        },
+        {
+            "name": "Solystic",
+            "url": "http://www.solystic.com",
+            "description": "Postal sorting solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "152 Avenue Aristide Briand, 92220 Bagneux",
+                    "gps_coordinates": "48.79666/2.32142"
+                },
+                {
+                    "name": "",
+                    "postal_address": "25, rue de Chôny BP 102 26501 Bourg-lès-Valence CEDEX",
+                    "gps_coordinates": "44.94155/4.89750"
                 }
             ]
         },
@@ -4366,6 +4566,21 @@
             ]
         },
         {
+            "name": "TechwaY",
+            "url": "http://www.techway.fr",
+            "description": "applications de traitement d’image et du signal (FPGA)",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 avenue de Norvège Villebon sur Yvette 91953 COURTABOEUF CEDEX ",
+                    "gps_coordinates": "48.69262/2.21523"
+                }
+            ]
+        },
+        {
             "name": "Telorion",
             "url": "http://www.telorion.com",
             "description": "",
@@ -4374,6 +4589,26 @@
                     "name": "",
                     "postal_address": "62 rue Tiquetonne, 75002 Paris",
                     "gps_coordinates": "48.86486/2.34590"
+                }
+            ]
+        },
+        {
+            "name": "Terradona",
+            "url": "http://terradona.com",
+            "description": "waste sorting",
+            "keywords": "",
+            "twitter": "Terradona",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 rue des Allumettes Les Bureaux de l’Arche 13090 AIX-EN-PROVENCE",
+                    "gps_coordinates": "43.52476/5.44004"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Site Georges Charpak 880 Route de Mimet 13541 GARDANNE",
+                    "gps_coordinates": "43.44500/5.47930"
                 }
             ]
         },
