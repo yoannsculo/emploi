@@ -18,8 +18,10 @@ Cette liste se veut la plus objective possible et a pour seul but de lister de f
 
 ### Licence
 
-Ces données de Yoann Sculo sont mises à disposition selon les termes de la licence
-[Creative Commons autorisant le partage et la modification sous conditions](http://creativecommons.org/licenses/by-sa/3.0)
-(CC BY-SA 3.0) ou au choix, [la version française](http://creativecommons.org/licenses/by-sa/3.0/fr/) (CC BY-SA 3.0 FR)
+Ces données sont mises à disposition selon les termes de la licence
+[Open Database License](http://opendatacommons.org/licenses/odbl/) (ODBL)
 
-www.yoannsculo.fr
+This database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
+Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+See embeddedmap.org
