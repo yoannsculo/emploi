@@ -120,6 +120,31 @@
             ]
         },
         {
+            "name": "AirSerenity",
+            "url": "http://www.air-serenity.com",
+            "description": "air purifier",
+            "keywords": "",
+            "twitter": "AirSerenity_Fr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Air Serenity / HQ",
+                    "postal_address": "Incuballiance – Air Serenity 86, rue de Paris 91400 Orsay",
+                    "gps_coordinates": "48.6954/2.1955"
+                },
+                {
+                    "name": "Air Serenity / Laboratory Ecole Polytechnique / X-Technologies",
+                    "postal_address": "Route de Saclay 91128 Palaiseau",
+                    "gps_coordinates": "48.7206/2.2040"
+                },
+                {
+                    "name": "Air Serenity / Meeting office / Lieu du design",
+                    "postal_address": "74 rue du Faubourg Saint-Antoine 75012 Paris",
+                    "gps_coordinates": "48.85166/2.37411"
+                }
+            ]
+        },
+        {
             "name": "Airtag",
             "url": "http://www.airtag.com",
             "description": "",
@@ -464,6 +489,21 @@
                     "name": "",
                     "postal_address": "26 Burospace - Route de Gisy 91570 Bièvres",
                     "gps_coordinates": "48.76520/2.21591"
+                }
+            ]
+        },
+        {
+            "name": "Auxivia",
+            "url": "http://auxivia.com",
+            "description": "Services intelligents pour améliorer la qualité de prise en charge des personnes âgées en perte d’autonomie ",
+            "keywords": "",
+            "twitter": "Auxivia_IoT",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Agoranov 96 bis Boulevard Raspail 75006 Paris",
+                    "gps_coordinates": "48.84612/2.32799"
                 }
             ]
         },
@@ -838,6 +878,21 @@
             ]
         },
         {
+            "name": "CARTADIS",
+            "url": "http://www.cartadis.com/",
+            "description": "equipments and accessories for the payment office, vending and washing vehicles",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1, Avenue Louison Bobet ZA des Marais 94120 FONTENAY SOUS BOIS",
+                    "gps_coordinates": "48.85004/2.49274"
+                }
+            ]
+        },
+        {
             "name": "CDVI",
             "url": "http://www.cdvi.com/",
             "description": "Access control and locking systems manufacturer",
@@ -943,6 +998,21 @@
                     "name": "Chauvin Arnoux / Enerdis",
                     "postal_address": "16, rue Georges Besse Silic 44 92182 ANTONY Cedex - FRANCE",
                     "gps_coordinates": "48.73014/2.31051"
+                }
+            ]
+        },
+        {
+            "name": "Chronocam",
+            "url": "http://www.chronocam.com",
+            "description": "machine vision sensors and systems for applications in all fields of machine vision",
+            "keywords": "",
+            "twitter": "Chronocam",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "74, rue du Faubourg Saint Antoine 75012 Paris",
+                    "gps_coordinates": "48.85147/2.37396"
                 }
             ]
         },
@@ -1694,6 +1764,111 @@
             ]
         },
         {
+            "name": "éolane",
+            "url": "http://www.eolane.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "EolaneGroup",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "éolane Angers",
+                    "postal_address": "8. Boulevard Détriché 49000 ANGERS",
+                    "gps_coordinates": "47.44501/-0.53421"
+                },
+                {
+                    "name": "éolane Caen",
+                    "postal_address": "Campus Effiscience Bâtiment innovaparc - Hall A1 2 rue Jean Perrin 14460 Colombelles",
+                    "gps_coordinates": "49.18889/-0.30596"
+                },
+                {
+                    "name": "éolane Carquefou",
+                    "postal_address": "11 Boulevard Ampere - Technopolis - 44470 CARQUEFOU",
+                    "gps_coordinates": "47.30341/-1.50414"
+                },
+                {
+                    "name": "éolane Combrée",
+                    "postal_address": "ZA de l'Ombrée Boulevard Jean Baptiste Colbert 49520 COMBREE",
+                    "gps_coordinates": "47.72064/-1.02901"
+                },
+                {
+                    "name": "éolane Douarnenez",
+                    "postal_address": "ZI de Lannugat - 40 route de Lannugat - CS 30013 - 29 177 Douarnenez cedex",
+                    "gps_coordinates": "48.07808/-4.29304"
+                },
+                {
+                    "name": "éolane Epierre",
+                    "postal_address": "ZA Les Remblais - 73220 EPIERRE",
+                    "gps_coordinates": "45.44873/6.29159"
+                },
+                {
+                    "name": "éolane FDO",
+                    "postal_address": "La Fresnay - 49123 LE FRESNE SUR LOIRE",
+                    "gps_coordinates": "47.39987/-0.93637"
+                },
+                {
+                    "name": "éolane Les Ulis",
+                    "postal_address": "29. avenue de la Baltique - 91140 Villebon sur Yvette",
+                    "gps_coordinates": "48.69265/2.21660"
+                },
+                {
+                    "name": "éolane Montbonnot",
+                    "postal_address": "667 rue Aristide Berges Immeuble le Solaris 38330 MONTBONNOT SAINT MARTIN",
+                    "gps_coordinates": "45.22193/5.81866"
+                },
+                {
+                    "name": "éolane Montceau",
+                    "postal_address": "ZA Ste Elisabeth 71304 MONTCEAU LES MINES",
+                    "gps_coordinates": "46.68978/4.36384"
+                },
+                {
+                    "name": "éolane Neuilly-en-Thelle",
+                    "postal_address": "ZI N° 2 12 Avenue de l'Europe 60530 NEUILLY-EN-THELLE",
+                    "gps_coordinates": "49.22720/2.29232"
+                },
+                {
+                    "name": "éolane Roncq",
+                    "postal_address": "Parc du Lion - Allée des trois Lions 59 435 - RONCQ Cedex",
+                    "gps_coordinates": "50.74583/3.13249"
+                },
+                {
+                    "name": "éolane Saint Agrève",
+                    "postal_address": "Zone Artisanale Rascles 07320 ST AGREVE",
+                    "gps_coordinates": "45.0119/4.4090"
+                },
+                {
+                    "name": "éolane Sainte-Savine",
+                    "postal_address": "Z.A Savipol - 6 Rue Altiero Spinelli - 10300 Sainte-Savine",
+                    "gps_coordinates": "48.29375/4.01547"
+                },
+                {
+                    "name": "éolane Vailhauques",
+                    "postal_address": "ZI de Bel Air 34570 VAILHAUQUES",
+                    "gps_coordinates": "43.64352/3.73652"
+                },
+                {
+                    "name": "éolane Valence",
+                    "postal_address": "1 rue Gilles de Roberval CS40161 26906 VALENCE cedex 9",
+                    "gps_coordinates": "44.92185/4.91975"
+                },
+                {
+                    "name": "éolane / Bengale électronique",
+                    "postal_address": "ZI de Bel Air 34570 VAILHAUQUES",
+                    "gps_coordinates": "43.64297/3.73736"
+                },
+                {
+                    "name": "éolane / Nanolane",
+                    "postal_address": "57 Boulevard Demorieux - 72000 Le Mans",
+                    "gps_coordinates": "47.99998/0.19008"
+                },
+                {
+                    "name": "éolane / NC2",
+                    "postal_address": "Parc d'activités des Monts d'Or 5 allée du crêt - BP13 69890 - La Tour-de-Salvagny",
+                    "gps_coordinates": "45.81711/4.72346"
+                }
+            ]
+        },
+        {
             "name": "EOS Innovation",
             "url": "http://www.eos-innovation.eu",
             "description": "mobile surveillance robot",
@@ -1867,6 +2042,21 @@
             ]
         },
         {
+            "name": "EXOTIC SYSTEMS",
+            "url": "http://www.exotic-systems.com",
+            "description": "Conception d'objets connectés",
+            "keywords": "",
+            "twitter": "EXOTIC_SYSTEMS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29 Rue Georges Besse, 63100 Clermont-Ferrand",
+                    "gps_coordinates": "45.78533/3.13997"
+                }
+            ]
+        },
+        {
             "name": "Expway",
             "url": "http://www.expway.com",
             "description": "",
@@ -1891,6 +2081,21 @@
             ]
         },
         {
+            "name": "ffly4u",
+            "url": "http://www.ffly4u.com",
+            "description": "low frequency European locating service for reusable assets based on a new, low cost technology",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 AVENUE DIDIER DAURAT 31400 TOULOUSE",
+                    "gps_coordinates": "43.56291/1.49217"
+                }
+            ]
+        },
+        {
             "name": "Freebox",
             "url": "http://www.free.fr",
             "description": "Set-top box",
@@ -1911,6 +2116,36 @@
                     "name": "",
                     "postal_address": "1B Chemin de la Mestrise BP 50134 09500 Mirepoix",
                     "gps_coordinates": "43.08757/1.87224"
+                }
+            ]
+        },
+        {
+            "name": "fybots",
+            "url": "http://www.fybots.com",
+            "description": "Applied robotics and embedded solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "154 Avenue Joseph Kessel, 78960 Voisins-le-Bretonneux",
+                    "gps_coordinates": "48.76539/2.05897"
+                }
+            ]
+        },
+        {
+            "name": "Gablys",
+            "url": "https://www.gablys.com",
+            "description": "anti-loss & anti-thief system",
+            "keywords": "",
+            "twitter": "GablysDevice",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "45 rue sainte Colombe 33000, Bordeaux",
+                    "gps_coordinates": "44.83731/-0.57126"
                 }
             ]
         },
@@ -2094,6 +2329,21 @@
                     "name": "",
                     "postal_address": "101 RUE DE SEVRES 75006 PARIS",
                     "gps_coordinates": "48.84851/2.32101"
+                }
+            ]
+        },
+        {
+            "name": "Hectronic",
+            "url": "http://www.hectronic.com/fr",
+            "description": "Smart solutions for parking and refuelling",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Hectronic France",
+                    "postal_address": "5 Boulevard de Créteil, 94100 Saint Maur des Fossés",
+                    "gps_coordinates": "48.79910/2.47331"
                 }
             ]
         },
@@ -2573,6 +2823,21 @@
             ]
         },
         {
+            "name": "Jagger & Lewis",
+            "url": "http://www.jagger-lewis.com",
+            "description": "collier connecté pour chien",
+            "keywords": "",
+            "twitter": "jaggerlewis_off",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Euratechnologies - Bâtiment Lafont 165 avenue de Bretagne - 59000 Lille",
+                    "gps_coordinates": "50.63261/3.02031"
+                }
+            ]
+        },
+        {
             "name": "JCDecaux",
             "url": "http://www.jcdecaux.fr",
             "description": "",
@@ -2691,6 +2956,21 @@
                     "name": "",
                     "postal_address": "1 rue Jacqueline Auriol 35235 THORIGNE-FOUILLARD",
                     "gps_coordinates": "48.15261/-1.59087"
+                }
+            ]
+        },
+        {
+            "name": "Klaxoon",
+            "url": "https://klaxoon.com",
+            "description": "Cross-­Device Learning Platform",
+            "keywords": "",
+            "twitter": "KlaxoonFR",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Square René Cassin, 35700 Rennes",
+                    "gps_coordinates": "48.13029/-1.63474"
                 }
             ]
         },
@@ -2876,6 +3156,26 @@
             ]
         },
         {
+            "name": "Lumiplan",
+            "url": "http://lumiplan.com",
+            "description": "Communication solutions in cities, public transportation, sports and leisure facilities and on mountain slopes.",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Lumiplan",
+                    "postal_address": "1 IMPASSE AUGUSTIN FRESNEL 44800 SAINT HERBLAIN",
+                    "gps_coordinates": "47.22724/-1.61840"
+                },
+                {
+                    "name": "Lumiplan / Duhamel",
+                    "postal_address": "2 RUE DE L'INDUSTRIE 38420 DOMENE",
+                    "gps_coordinates": "45.20112/5.82502"
+                }
+            ]
+        },
+        {
             "name": "Lyra Networks",
             "url": "http://www.lyra-network.co.in/",
             "description": "EFT/POS payment gateways",
@@ -2920,6 +3220,21 @@
                     "name": "",
                     "postal_address": "8 rue Edouard Vallerand 94100 Saint-Maur des Fossés - FRANCE",
                     "gps_coordinates": "48.80414/2.48310"
+                }
+            ]
+        },
+        {
+            "name": "Medissimo",
+            "url": "https://www.medissimo.fr",
+            "description": "technological pill boxes",
+            "keywords": "",
+            "twitter": "medissimo",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Technoparc 8, rue Jeanneret 78300 Poissy",
+                    "gps_coordinates": "48.94690/2.06650"
                 }
             ]
         },
@@ -3129,6 +3444,21 @@
             ]
         },
         {
+            "name": "National Instruments France",
+            "url": "http://france.ni.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "nifrance",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue Hennapé 92735 Nanterre CEDEX",
+                    "gps_coordinates": "48.88723/2.21666"
+                }
+            ]
+        },
+        {
             "name": "Navocap",
             "url": "http://www.navocap.com",
             "description": "",
@@ -3276,6 +3606,21 @@
                     "name": "",
                     "postal_address": "838 rue de l'Aiguelongue - 34090 Montpellier",
                     "gps_coordinates": "43.63469/3.87765"
+                }
+            ]
+        },
+        {
+            "name": "nke Watteco",
+            "url": "http://www.nke-watteco.fr",
+            "description": "smart sensor solutions and multiprotocol remote data collection systems",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Rue Gutenberg ZI Kerandré 56700 Hennebont",
+                    "gps_coordinates": "47.79738/-3.28559"
                 }
             ]
         },
@@ -3714,6 +4059,21 @@
             ]
         },
         {
+            "name": "PIQ",
+            "url": "http://www.piq.com",
+            "description": "multisport sensor",
+            "keywords": "",
+            "twitter": "PIQLive",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "40 rue madeleine michelis 92200 Neuilly Sur Seine",
+                    "gps_coordinates": "48.88355/2.27793"
+                }
+            ]
+        },
+        {
             "name": "PowiDian",
             "url": "http://powidian.com",
             "description": "Smart Green Energy stations",
@@ -4013,6 +4373,21 @@
                     "name": "",
                     "postal_address": "35 rue Joseph Monier, 92500 Rueil Malmaison",
                     "gps_coordinates": "48.89130/2.17272"
+                },
+                {
+                    "name": "Schneider Electric / 38TEC",
+                    "postal_address": "37 quai Paul Louis Merlin, 38000 Grenoble",
+                    "gps_coordinates": "45.20295/5.71062"
+                },
+		{
+                    "name": "Schneider Electric / 38Polytec",
+                    "postal_address": "51 Rue des Berges, 38000 Grenoble",
+                    "gps_coordinates": "45.20395/5.70291"
+                },
+		{
+                    "name": "Schneider Electric / X-Pôle",
+                    "postal_address": "71 Avenue des Martyrs, 38000 Grenoble",
+                    "gps_coordinates": "45.20738/5.69850"
                 }
             ]
         },
@@ -4109,6 +4484,21 @@
                     "name": "",
                     "postal_address": "Parc Technopolis- 3, Avenue du Canada, Courtaboeuf, 91940, France",
                     "gps_coordinates": "48.68718/2.19484"
+                }
+            ]
+        },
+        {
+            "name": "Sensing Labs",
+            "url": "http://sensing-labs.com",
+            "description": "Manufacturer of long range wireless sensors",
+            "keywords": "",
+            "twitter": "SENSINGLABS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "CAP OMEGA, rond point Benjamin Franklin 34960 Montpellier cedex 02",
+                    "gps_coordinates": "43.61862/3.91445"
                 }
             ]
         },
