@@ -5,16 +5,6 @@ TODO
 
 ####Locations to get
 
-Schneider Electric
-
-Schneider Electric has more than 40 locations according to http://www.societe.com/societe/schneider-electric-france-421106709.html
-I can't find any information on their corporate website.
-Therefore I only located HQ for now. Too much work on this company and I miss relevant information.
-
-- 38TEC, au 37 quai Paul Louis Merlin, à Grenoble
-- 38Polytec - 51 Rue des Berges, Grenoble
-- X-Pôle, 71 Avenue des Martyrs, Grenoble
-
 GE
 
 - GE Power Conversion / 1 Rue John Henri Patterson 91300 Massy
@@ -134,13 +124,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
 - THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 - http://www.spacebel.be/fr/aboutspacebel/sites/
-
-
 - ? http://www.capsuletech.com
-- PrismTech France / http://www.prismtech.com/contact-us / @prismtech
-- NI France / http://france.ni.com / @nifrance
-- EXOTIC SYSTEMS / http://www.exotic-systems.com / @EXOTIC_SYSTEMS
-- éolane / http://www.eolane.com / @EolaneGroup
 - CITC-EuraRFID / http://www.citc-eurarfid.com/ - @eurarfid
 - Deepki - http://www.deepki.com/ - @DeepkiSAS
 - Nomadic Solutions - http://www.nomadicsolutions.biz/ - @NomadicTeam
@@ -172,22 +156,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.digitsole.com/fr/
 - http://ibubble.camera/fr/ / https://twitter.com/iBubbleCamera / Lyon, Rhône-Alpes
 - ? http://www.hidglobal.fr
-- http://www.chronocam.com
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
 - ACS (Affiliated Computer Services)/Filiale de Xerox
 - http://www.paycert.fr/Produits-Securitaires.html
-- http://www.hectronic.com/fr
 - http://www.wezzoo.com/oombrella
 - http://www.stanley-robotics.com
 - ? Bluetens
-- http://www.timescope.co
-- Air Serenity / http://www.air-serenity.com
-- Gablys Locker/ https://www.gablys.com/fr
-- Auxivia / http://auxivia.com
-- Medissimo / https://www.medissimo.fr
-- e-takescare / http://www.e-takescare.com
-- http://www.jagger-lewis.com/
-- http://sensing-labs.com/fr/
 - Aguila Technologies / http://aguila.fr/en/
 - Congatec / Allemagne (fournisseur français : Tokhatec)
 - ? ANOVO ?
@@ -199,25 +173,13 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - ? ApisSys
 - NXP Semiconductors et Freescale Semiconductor ne font désormais plus qu’une seule et même société
 - http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
-- http://www.piq.com
-- immersit / http://www.immersit.com
-- http://www.nke-watteco.fr
-- FYBOTS
-- KLAXOON
-- http://sidereo.com
-- Wizway Solutions
-- ffly4u / http://www.ffly4u.com
-- CARTADIS / Fontenay-sous-Bois
-- Awox / MONTPELLIER
 - VALEO VEEM /  Créteil
 - SARL CESIGMA,  la garde
 - ACTIA AUTOMOTIVE, Toulouse
-- LUMIPLAN , Domène (38) à proximité de Grenoble.
 - http://www.pixelsurmer.com
 - Stmicroelectronics à Porte d'Orléans
 - OVERLINE SYSTEMS à Andernos les Bains
 - NEAVIA TECHNOLOGIES à SAINT BRIEUC
-- Vigik
 - http://www.neoaxess.com
 - YoGoKo SAS / Rennes / startup
 - ACTIA Télécom / http://www.actiasodielec.com
@@ -248,7 +210,10 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Hydrao / http://www.hydrao.fr / Grenoble ?
 - PhiLOCK / http://www.philock.net / Bike connected padlock / @PhiLOCKOfficial
 - Cardiawave
-
+- Vigik
+- Wizway Solutions
+- immersit / http://www.immersit.com / @immersit
+- PrismTech France / http://www.prismtech.com/contact-us / @prismtech
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -257,6 +222,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 
 - http://www.eridanis.com/ - (#consulting company)
 - MODIS : Expert Linux Embarqué/ ROM Android (H/F)
+- http://sidereo.com
 
 ####Misc
 
