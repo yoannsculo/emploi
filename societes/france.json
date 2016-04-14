@@ -401,6 +401,21 @@
             ]
         },
         {
+            "name": "ARBOR-France",
+            "url": "http://www.arbor-france.com",
+            "description": "computing platforms and solutions for the healthcare, transportation, industrial automation, warehouse management, and digital signage markets",
+            "keywords": "",
+            "twitter": "ARBORfr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "73, rue Louis Rouquier 92300 LEVALLOIS-PERRET",
+                    "gps_coordinates": "48.89160/2.28862"
+                }
+            ]
+        },
+        {
             "name": "Archos",
             "url": "http://www.archos.com",
             "description": "Tablets, Smartphones, Home Automation",
@@ -1654,6 +1669,21 @@
                     "name": "",
                     "postal_address": "3 Impasse de la Planchette, 75003 Paris",
                     "gps_coordinates": "48.86828/2.35576"
+                }
+            ]
+        },
+        {
+            "name": "ELA Innovation S.A",
+            "url": "http://www.ela.fr",
+            "description": "active RFID solutions",
+            "keywords": "",
+            "twitter": "ElaInnovation",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "297, rue Maurice Béjart 34080 Montpellier",
+                    "gps_coordinates": "43.61816/3.82267"
                 }
             ]
         },
@@ -3621,6 +3651,21 @@
                     "name": "",
                     "postal_address": "Rue Gutenberg ZI Kerandré 56700 Hennebont",
                     "gps_coordinates": "47.79738/-3.28559"
+                }
+            ]
+        },
+        {
+            "name": "Nomadic Solutions",
+            "url": "http://www.nomadicsolutions.biz",
+            "description": "sustainable mobility (eco driving), indoor and outdoor location, traceability and non sedentary staff security applications",
+            "keywords": "",
+            "twitter": "NomadicTeam",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1015 rue du Maréchal Juin ZI Vaux le Pénil 77000 MELUN",
+                    "gps_coordinates": "48.53704/2.69181"
                 }
             ]
         },
