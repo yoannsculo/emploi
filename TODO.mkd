@@ -125,12 +125,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 - http://www.spacebel.be/fr/aboutspacebel/sites/
 - ? http://www.capsuletech.com
-- CITC-EuraRFID / http://www.citc-eurarfid.com/ - @eurarfid
-- Deepki - http://www.deepki.com/ - @DeepkiSAS
-- Nomadic Solutions - http://www.nomadicsolutions.biz/ - @NomadicTeam
-- ELA innovation - http://www.ela.fr - @ElaInnovation
-- Percepio - http://percepio.com - @percepio
-- ARBOR-France - http://www.arbor-france.com - @ARBORfr
 - congatec AG France - http://www.congatec.com/fr/ - @congatec_france
 - Monixo - http://www.monixo.com/ - @MonixoSAS
 - Smockeo - https://www.smockeo.com - @Smockeo
@@ -192,6 +186,24 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - ECA / MONTPELLIER
 - http://www.fiamm.com
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
+- Noxant
+- ACA-O
+- C-Way
+- Idosens
+- Argosim
+- Mugen
+- Vocal Apps
+- Actility
+- Gridbee Communications
+- Adveez
+- Drust
+- GreenPriz
+- Tyva Energie
+- WeNow
+- Sentryo
+- Trust Designer
+- Aryballe Technologies
+- Nanolike
 
 ### Companies addresses not found
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -242,3 +254,4 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Micrium - http://micrium.com/ - Weston, FL
 - http://www.kaptia.com/ - Spain
 - http://www.qilium.com/ - Belgium - @Qilium
+- Percepio - http://percepio.com - @percepio / Sweden
