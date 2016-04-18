@@ -4497,9 +4497,10 @@
             ]
         },
         {
-            "name": "Shrader electronics",
+            "name": "Schrader",
             "url": "https://www.schraderinternational.com",
             "description": "Valves, fluid control systems and component manufacturing and assembly. Aftermarket TPMS, air accessory and tire hardware distribution.",
+            "twitter": "schraderintl",
             "locations": [
                 {
                     "name": "",
