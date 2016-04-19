@@ -3621,11 +3621,12 @@
             "name": "Netatmo",
             "url": "http://www.netatmo.com",
             "description": "",
+            "twitter": "netatmo",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "17 route de la reine 92100 Boulogne-Billancourt",
-                    "gps_coordinates": "48.83859/2.24946"
+                    "postal_address": "892 RUE YVES KERMEN - 92100 BOULOGNE BILLANCOURT",
+                    "gps_coordinates": "48.82918/2.23752"
                 }
             ]
         },

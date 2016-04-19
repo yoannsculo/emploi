@@ -235,7 +235,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 ####Misc
 
 - Rename NDS into Cisco
-- Netatmo moved into Issy
 - Lima moved into Paris
 
 ###Worldwide
