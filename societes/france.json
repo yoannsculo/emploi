@@ -1471,18 +1471,6 @@
             ]
         },
         {
-            "name": "Dreem",
-            "url": "http://dreem.com/",
-            "description": "Wearable devices",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "5 rue Scribe 75009 Paris",
-                    "gps_coordinates": "48.87111/2.32961"
-                }
-            ]
-        },
-        {
             "name": "Drone Volt",
             "url": "http://www.dronevolt.com",
             "description": "Civil drones",
@@ -4463,6 +4451,19 @@
                     "name": "",
                     "postal_address": " 27 rue Saturne - ZAC Altaïs - 74650 Chavanod",
                     "gps_coordinates": "45.89259/6.07658"
+                }
+            ]
+        },
+        {
+            "name": "Rythm",
+            "url": "rythm.co",
+            "description": "active wearable to increase the quality of sleep",
+            "twitter": "rythminc",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 rue Scribe 75009 Paris",
+                    "gps_coordinates": "48.87111/2.32961"
                 }
             ]
         },
