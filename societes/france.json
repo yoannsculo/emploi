@@ -2642,6 +2642,21 @@
                 }
             ]
         },
+        {
+            "name": "Idosens",
+            "url": "http://www.idosens.com",
+            "description": "capteur domotique très longue portée",
+            "keywords": "",
+            "twitter": "idosens",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "51 Chemin du Vieux Chêne 38240 MEYLAN",
+                    "gps_coordinates": "45.20831/5.79580"
+                }
+            ]
+        },
 	{
             "name": "IER",
             "url": "http://www.ier.com",
@@ -3106,6 +3121,21 @@
                 {
                     "postal_address": "Radioline - 1, rue Garnier 92200 Neuilly Sur Seine",
                     "gps_coordinates": "48.88566/2.26056"
+                }
+            ]
+        },
+        {
+            "name": "Kontron Modular Computers S.A.S.",
+            "url": "http://www.kontron.com",
+            "description": "embedded computing technology and advisor in IoT",
+            "keywords": "",
+            "twitter": "Kontron",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "150 rue Marcelin Berthelot BP 244 - ZI Toulon-Est 83078 Toulon Cedex 9",
+                    "gps_coordinates": "43.14849/6.04054"
                 }
             ]
         },
