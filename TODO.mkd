@@ -69,7 +69,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.thyssenkrupp-ascenseurs.fr/societe/notre-centre-industriel/
 - http://www.oxhoo.com/corporate/
 - http://fr.agneovo.com/
-- ECA Group / Toulon : http://cadres.apec.fr/offres-emploi-cadres/0_0_17_108437033W__________offre-d-emploi-h-f-ingenieur-e-developpeur-concepteur-experimente.html?xtmc=linux_embarque&xtnp=1&xtcr=18
 - HydrokiT / http://www.hydrokit.com : http://cadres.apec.fr/offres-emploi-cadres/0_1_3_109713029W__________offre-d-emploi-un-responsable-du-pole-electronique-h-f.html?xtmc=embarque&xtnp=2&xtcr=4
 - Schlumberger
 - Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
@@ -109,7 +108,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Continental / http://www.conti-online.com/
 - Dassault Aviation / http://www.dassault-aviation.com
 - EADS / http://www.eads.com
-- ECA / http://www.ecagroup.com
 - Efixo / http://www.efixo.com
 - Montavista / http://www.mvista.com
 - PSA / http://www.psa-peugeot-citroen.com
@@ -183,10 +181,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://corporate.pickup.fr/ ?
 - http://kortex-psi.fr ?
 - http://www.via-design.fr
-- ECA / MONTPELLIER
 - http://www.fiamm.com
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
-- Noxant
 - ACA-O
 - C-Way
 - Idosens

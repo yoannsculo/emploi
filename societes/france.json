@@ -1588,6 +1588,99 @@
             ]
         },
         {
+            "name": "ECA Group",
+            "url": "http://www.ecagroup.com",
+            "description": "robotics, automatic control systems, simulators and industrial processes for missions in hostile or restricted environments",
+            "keywords": "",
+            "twitter": "ECA_Group",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "ECA S.A",
+                    "description": "Holding company",
+                    "postal_address": "Z.I. Toulon Est - 262, rue des frères Lumière - 83130 La Garde",
+                    "gps_coordinates": "43.14143/6.03366"
+                },
+                {
+                    "name": "ECA CNAi / Toulouse",
+                    "description": "Industrial engineering for aeronautics",
+                    "postal_address": "ZAC de Saint Martin du Touch 6 impasse Alice Guy - CS 53063 31025 Toulouse Cedex 3",
+                    "gps_coordinates": "43.60023/1.36411"
+                },
+                {
+                    "name": "ECA CNAi / Montoir",
+                    "description": "Industrial engineering for aeronautics",
+                    "postal_address": "Parc d'activités de la Guerche 301 Avenue des frères Lumière 44250 Saint Brévin les Pins",
+                    "gps_coordinates": "47.23511/-2.15176"
+                },
+                {
+                    "name": "ECA DRONE",
+                    "description": "Drone services: operation, rental, maintenance",
+                    "postal_address": "Z.I. Toulon Est - 262, rue des frères Lumière - 83130 La Garde",
+                    "gps_coordinates": "43.14150/6.03388"
+                },
+                {
+                    "name": "ECA DYNAMICS",
+                    "description": "Humanoid Robotics & Engineering for Defence and Security",
+                    "postal_address": "Z.I. Toulon Est - 262, rue des frères Lumière - 83130 La Garde",
+                    "gps_coordinates": "43.14132/6.03377"
+                },
+                {
+                    "name": "ECA EN",
+                    "description": "Power electronics, control of electric motors, command-control and driving systems, electric rotating machines",
+                    "postal_address": "Zac des hauts de Couëron 24, rue Jan Palach 44220 Coueron",
+                    "gps_coordinates": "47.23511/-1.66819"
+                },
+                {
+                    "name": "EN MOTEURS",
+                    "postal_address": "Zac des Hauts de Couëron 24 bis rue Jan Palach 44220 Couëron Cedex",
+                    "gps_coordinates": "47.23524/-1.66837"
+                },
+                {
+                    "name": "ECA FAROS",
+                    "description": "Simulators for land transport and aeronautics",
+                    "postal_address": "Rue Blaise Pascal - Parc Pégase 22300 Lannion",
+                    "gps_coordinates": "48.75901/-3.47336"
+                },
+                {
+                    "name": "ECA RSM",
+                    "description": "Robotics & Integrated Systems Worldwide sales & marketing (except Asia Pacific and France)",
+                    "postal_address": "Z.I. Toulon Est - 262, rue des frères Lumière - 83130 La Garde",
+                    "gps_coordinates": "43.14143/6.03408"
+                },
+                {
+                    "name": "ECA ROBOTICS / Toulon",
+                    "description": "Robotics and Complex Systems Engineering for Defence, Security and Civilian applications; Underwater equipment.",
+                    "postal_address": "Z.I. Toulon Est - 262, rue des frères Lumière - 83130 La Garde",
+                    "gps_coordinates": "43.14153/6.03390"
+                },
+                {
+                    "name": "ECA ROBOTICS / Paris",
+                    "description": "Robotics and Complex Systems Engineering for Defence, Security and Civilian applications; Underwater equipment.",
+                    "postal_address": "Domaine Technologique de Saclay 4 rue Razel 91892 ORSAY Cedex",
+                    "gps_coordinates": "48.73604/2.16551"
+                },
+                {
+                    "name": "ECA ROBOTICS / Montpellier",
+                    "description": "Robotics and Complex Systems Engineering for Defence, Security and Civilian applications; Underwater equipment.",
+                    "postal_address": "501 rue de la Croix de Lavit - BP 4403 34197 Montpellier Cedex 5",
+                    "gps_coordinates": "43.63911/3.84035"
+                },
+                {
+                    "name": "ECA ROBOTICS / Brest",
+                    "description": "Robotics and Complex Systems Engineering for Defence, Security and Civilian applications; Underwater equipment.",
+                    "postal_address": "220, rue Pierre Rivoalon 29200 Brest",
+                    "gps_coordinates": "48.36449/-4.54731"
+                },
+                {
+                    "name": "ECA SINTERS",
+                    "description": "Embedded equipment, test and maintenance resources, services for aeronautics",
+                    "postal_address": "ZAC de Saint Martin du Touch 6 impasse Alice Guy - CS 53063 31025 Toulouse Cedex 3",
+                    "gps_coordinates": "43.60039/1.36417"
+                }
+            ]
+        },
+        {
             "name": "EcoAdapt",
             "url": "http://www.eco-adapt.com/",
             "description": "Solutions d'analyse de l'efficacité énergetique de sites industriels ou tertiaires.",
@@ -3705,6 +3798,21 @@
                     "name": "",
                     "postal_address": "100 impasse des Houillères 13590 Meyreuil",
                     "gps_coordinates": "43.47149/5.49105"
+                }
+            ]
+        },
+        {
+            "name": "Noxant",
+            "url": "http://www.noxant.com",
+            "description": "Compact High performance Thermal Cameras, Infrared, Vision, Optronics",
+            "keywords": "",
+            "twitter": "noxant",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7, rue de la Croix Martre 91120 Palaiseau",
+                    "gps_coordinates": "48.72048/2.26039"
                 }
             ]
         },
