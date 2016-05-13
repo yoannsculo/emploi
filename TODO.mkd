@@ -200,8 +200,22 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Trust Designer
 - Aryballe Technologies
 - Nanolike
+- https://smockeo.com
+- http://www.momit.com/index.html
+- http://bixi.io/
+- https://www.zembro.com/fr-FR
+- http://getsnail.com/fr
+- http://www.hi-goji.com/
+- https://www.enovap.com/fr
+- http://www.astone-technology.com
+- Samsung Paris 10eme - https://www.artik.io/
+- http://www.bioo.tech/
+- myBrain Technologies / Melomind
+- http://www.societeberthelot.com
+- http://www.bodet.com
 
-### Companies addresses not found
+
+### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
 - http://www.voxtok.com (south of france)
 - Prizm Corp / http://www.meetprizm.com
@@ -241,10 +255,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.ubnt.com/unifi-voip/uvp-executive/
 - http://www.acmesystems.it/ - Italy - @DAVE_Embedded
 - http://www.dave.eu/ - Italy
+
 - http://senic.com/ - Berlin
-- http://getnarrative.com - Sweden
-- https://www.toradex.com/ - Switzerland / @Toradex
+
 - Micrium - http://micrium.com/ - Weston, FL
+
 - http://www.kaptia.com/ - Spain
-- http://www.qilium.com/ - Belgium - @Qilium
+
+- http://getnarrative.com - Sweden
 - Percepio - http://percepio.com - @percepio / Sweden
