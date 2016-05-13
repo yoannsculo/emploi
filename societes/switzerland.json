@@ -1,0 +1,49 @@
+{
+    "country": {
+        "name": "Switzerland",
+        "iso": "CHE"
+    },
+    "companies": [
+        {
+            "name": "senseFly",
+            "url": "https://www.sensefly.com",
+            "description": "Aerial imaging drones for professional applications",
+            "twitter": "sensefly",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Route de Genève 38 (Z.I. Châtelard Sud) 1033 Cheseaux-Lausanne",
+                    "gps_coordinates": "46.57748/6.59027"
+                }
+            ]
+        },
+        {
+            "name": "Toradex",
+            "url": "https://www.toradex.com",
+            "description": "embedded computer module hardware and software",
+            "twitter": "Toradex",
+            "locations": [
+                {
+                    "name": "Toradex AG",
+                    "postal_address": "Altsagenstrasse 5 6048 Horw",
+                    "gps_coordinates": "47.01076/8.30604"
+                },
+                {
+                    "name": "Toradex Services GmbH",
+                    "postal_address": "Altsagenstrasse 5 6048 Horw",
+                    "gps_coordinates": "47.01066/8.30621"
+                },
+                {
+                    "name": "Toradex Trading GmbH",
+                    "postal_address": "Montanastrasse 7 6052 Hergiswil",
+                    "gps_coordinates": "46.98969/8.30807"
+                },
+                {
+                    "name": "Toradex / Montadex GmbH",
+                    "postal_address": "Montanastrasse 7 6052 Hergiswil",
+                    "gps_coordinates": "46.98955/8.30808"
+                }
+            ]
+        }
+    ]
+}
