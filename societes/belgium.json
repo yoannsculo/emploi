@@ -40,7 +40,20 @@
                 }
             ]
         }
-
-
+        {
+            "name": "Qilium",
+            "url": "http://www.qilium.com",
+            "description": "SmartCard Operating systems",
+            "keywords": "",
+            "twitter": "Qilium",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2, Rue des Foudriers B-7822 Ghislenghien",
+                    "gps_coordinates": "50.66303/3.86941"
+                }
+            ]
+        }
     ]
 }
