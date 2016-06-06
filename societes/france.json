@@ -78,6 +78,26 @@
             ]
         },
         {
+            "name": "Actility",
+            "url": "http://www.actility.com",
+            "description": "Internet of Things and M2M service platform",
+            "keywords": "",
+            "twitter": "actility",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Actility Paris",
+                    "postal_address": "65-67, rue de la Victoire 75009, Paris",
+                    "gps_coordinates": "48.87514/2.33369"
+                },
+                {
+                    "name": "Actility Lannion",
+                    "postal_address": "4 rue Andre Marie Ampère BP 30225 22300 Lannion",
+                    "gps_coordinates": "48.75575/-3.46553"
+                }
+            ]
+        },
+        {
             "name": "Agence nationale de la sécurité des systèmes d’information",
             "url": "http://www.ssi.gouv.fr/",
             "description": "",
@@ -104,6 +124,21 @@
                     "name": "Agixis - Grenoble",
                     "postal_address": "17 rue Colonel Manhes 38600 Fontaines",
                     "gps_coordinates": "45.20112/5.67501"
+                }
+            ]
+        },
+        {
+            "name": "AGUILA Technologies",
+            "url": "http://aguila.fr",
+            "description": "Internet of things. Connected devices.",
+            "keywords": "",
+            "twitter": "AguilaTech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Technopole Izarbel 2 Terrasses Claude Shannon 64210 BIDART",
+                    "gps_coordinates": "43.44750/-1.55448"
                 }
             ]
         },
@@ -467,6 +502,21 @@
             ]
         },
         {
+            "name": "Aryballe Technologies",
+            "url": "http://aryballe-technologies.com/",
+            "description": "universal sensors",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 rue des Martyrs, CEA/LETI, Grenoble",
+                    "gps_coordinates": "45.1946/5.7052"
+                }
+            ]
+        },
+        {
             "name": "Ask",
             "url": "http://www.ask-rfid.com",
             "description": "Smartcard with and without contact",
@@ -794,6 +844,51 @@
             ]
         },
         {
+            "name": "Bluemint Labs",
+            "url": "http://bixi.io",
+            "description": "Touch-Free Companion",
+            "keywords": "",
+            "twitter": "GetBixi",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12, Rue Jules Horowitz, 38000, Grenoble",
+                    "gps_coordinates": "45.20455/5.69416"
+                }
+            ]
+        },
+        {
+            "name": "Bodet",
+            "url": "http://www.bodet.com",
+            "description": "time, attendance management and time measurement solutions",
+            "keywords": "",
+            "twitter": "Bodet",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Bodet / headquarter",
+                    "postal_address": "72 avenue Général de Gaulle 49340 Trémentines",
+                    "gps_coordinates": "47.12221/-0.78881"
+                },
+                {
+                    "name": "Bodet / Factory",
+                    "postal_address": "B.P. 1 49340 TRÉMENTINES",
+                    "gps_coordinates": "47.12626/-0.78413"
+                },
+                {
+                    "name": "Bodet Software",
+                    "postal_address": "Boulevard du Cormier CS 40211 49302 Cholet Cedex",
+                    "gps_coordinates": "47.03787/-0.91558"
+                },
+                {
+                    "name": "Bodet-Osys",
+                    "postal_address": "TECHNOPOLIS Bât N rue Louis de Broglie 53810 Changé-les-Laval",
+                    "gps_coordinates": "48.09035/-0.75426"
+                }
+            ]
+        },
+        {
             "name": "Bookeen",
             "url": "http://www.bookeen.com/fr",
             "description": "E-readers",
@@ -838,6 +933,46 @@
                     "name": "",
                     "postal_address": "616 avenue de l’Europe - BP 8771203 LE CREUSOT cedex FRANCE",
                     "gps_coordinates": "46.80797/4.42168"
+                }
+            ]
+        },
+        {
+            "name": "Groupe CAHORS",
+            "url": "http://www.groupe-cahors.com",
+            "description": "",
+            "keywords": "Linky",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Groupe CAHORS / CRDE",
+                    "postal_address": "ZI des Grands Camps - BP 9 - 46090 MERCUES",
+                    "gps_coordinates": "44.50526/1.38739"
+                },
+                {
+                    "name": "Groupe CAHORS / MAEC Siège Social",
+                    "postal_address": "ZI de Regourd - CS 90149 - 46003 CAHORS CEDEX 9",
+                    "gps_coordinates": "44.46958/1.42872"
+                },
+                {
+                    "name": "Groupe CAHORS / MAEC Libercourt",
+                    "postal_address": "ZI Les Portes du Nord - 62820 LIBERCOURT",
+                    "gps_coordinates": "50.49183/2.99981"
+                },
+                {
+                    "name": "Groupe CAHORS / Lacaze Energies",
+                    "postal_address": "Zone industrielle – BP 2 46120 LEYME",
+                    "gps_coordinates": "44.78070/1.89488"
+                },
+                {
+                    "name": "Groupe CAHORS / Pommier",
+                    "postal_address": "33 avenue du Général Leclerc - CS 80316 - 65200 BAGNERES DE BIGORRE CEDEX",
+                    "gps_coordinates": "43.07342/0.14317"
+                },
+                {
+                    "name": "Groupe CAHORS / Transfix",
+                    "postal_address": "836, Route Départementale 97 - Lieu-dit : « La Chaberte » - 83130 LA GARDE",
+                    "gps_coordinates": "43.14824/6.03082"
                 }
             ]
         },
@@ -951,6 +1086,21 @@
                     "name": "",
                     "postal_address": "1330 Avenue Guillibert de la Lauzière, Bâtiment B5, 13856 Aix en Provence",
                     "gps_coordinates": "43.47817/5.36886"
+                }
+            ]
+        },
+        {
+            "name": "CG Automation",
+            "url": "http://www.cgglobal.com",
+            "description": "équipements et solutions pour les réseaux électriques",
+            "keywords": "Linky",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "22 – Rue Jean Pierre Timbaud 38600 Fontaine",
+                    "gps_coordinates": "45.19293/5.67472"
                 }
             ]
         },
@@ -1133,6 +1283,21 @@
             ]
         },
         {
+            "name": "COBJECT SAS",
+            "url": "https://smockeo.com/",
+            "description": "Détecteur de fumée connecté",
+            "keywords": "",
+            "twitter": "Smockeo",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Route de Guewenheim 68520 BURNHAUPT LE HAUT",
+                    "gps_coordinates": "47.74107/7.13750"
+                }
+            ]
+        },
+        {
             "name": "COGELEC",
             "url": "http://www.cogelec.fr",
             "description": "Design, manufacture and marketing of telephone intercom and access control solutions.",
@@ -1216,6 +1381,21 @@
                     "name": "",
                     "postal_address": "Pépinière du Parc du Moulin 111 Boulevard Duhamel du Monceau – CS 30638 45166 OLIVET Cedex",
                     "gps_coordinates": "47.84672/1.92590"
+                }
+            ]
+        },
+        {
+            "name": "C-way",
+            "url": "https://hellocway.com",
+            "description": "Objets connectés pour bébés/enfants",
+            "keywords": "",
+            "twitter": "Cway_official",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "36 B RUE ERNEST RENAN 92130 ISSY LES MOULINEAUX",
+                    "gps_coordinates": "48.82810/2.28096"
                 }
             ]
         },
@@ -1467,6 +1647,21 @@
                     "name": "",
                     "postal_address": "82/84 Allée Galilée (INOVALLEE) 38330 Montbonnot",
                     "gps_coordinates": "45.21806/5.81321"
+                }
+            ]
+        },
+        {
+            "name": "Digitsole",
+            "url": "http://www.digitsole.com",
+            "description": "Smartshoes",
+            "keywords": "",
+            "twitter": "Digitsole",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13 RUE HERE 54000 Nancy",
+                    "gps_coordinates": "48.69378/6.18307"
                 }
             ]
         },
@@ -1805,6 +2000,36 @@
             ]
         },
         {
+            "name": "Elster",
+            "url": "http://www.elster.com",
+            "description": "Intelligent metering & communications solutions engineered for electricity, gas & water utilities in the traditional & smart grid markets.",
+            "keywords": "Linky",
+            "twitter": "Elster_Global",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Elster S.A.S.",
+                    "postal_address": "12 rue des Campanules ZAC du Mandinet 77185 Lognes",
+                    "gps_coordinates": "48.83206/2.63683"
+                },
+                {
+                    "name": "Elster Solutions S.A.S.",
+                    "postal_address": "1, allée de Bruxelles 80200 Estrées Deniécourt",
+                    "gps_coordinates": "49.87415/2.83164"
+                },
+                {
+                    "name": "Elster Water Metering S.A.S / Croissy Beaubourg",
+                    "postal_address": "Les Espaces Multiservices 9 56, bld de Courcerin 77183 Croissy Beaubourg",
+                    "gps_coordinates": "48.82379/2.63374"
+                },
+                {
+                    "name": "Elster Water Metering S.A.S / Pérols",
+                    "postal_address": "120, impasse Jean Baptiste Say Espace Concorde Bât. B 34470 Pérols",
+                    "gps_coordinates": "43.58047/3.93884"
+                }
+            ]
+        },
+        {
             "name": "Em-Sys",
             "url": "http://www.em-sys.fr",
             "description": "Digital Multimedia Application Development Services",
@@ -1859,6 +2084,21 @@
                     "name": "",
                     "postal_address": "Enersy - La Cantine 27, Rue d’Aubuisson,31000, TOULOUSE",
                     "gps_coordinates": "43.60268/1.45418"
+                }
+            ]
+        },
+        {
+            "name": "Enovap",
+            "url": "https://www.enovap.com",
+            "description": "Vaping Material",
+            "keywords": "",
+            "twitter": "meetenovap",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "37 quai de grenelle 75015 Paris",
+                    "gps_coordinates": "48.85202/2.28606"
                 }
             ]
         },
@@ -2381,6 +2621,21 @@
             ]
         },
         {
+            "name": "Goji",
+            "url": "http://hi-goji.com",
+            "description": "daily personal assistant",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "445, Avenue du Séquoia, 44300 Nantes",
+                    "gps_coordinates": "47.25445/-1.54304"
+                }
+            ]
+        },
+        {
             "name": "Goobie",
             "url": "http://www.goobie.fr",
             "description": "",
@@ -2413,6 +2668,21 @@
                     "name": "",
                     "postal_address": "4, rue de la Pierre Levée 75011 Paris France",
                     "gps_coordinates": "48.86659/2.37113"
+                }
+            ]
+        },
+        {
+            "name": "Gridbee Communications",
+            "url": "http://www.gridbeecom.com",
+            "description": "wireless communication solution for smart objects in disturbed and tough environments",
+            "keywords": "",
+            "twitter": "Gridbee",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZI Les Bois de Grasse 7 avenue Michel Chevalier 06130 GRASSE",
+                    "gps_coordinates": "43.62542/6.93739"
                 }
             ]
         },
@@ -2949,6 +3219,61 @@
             ]
         },
         {
+            "name": "Itron",
+            "url": "https://www.itron.com",
+            "description": "Technology and services company dedicated to the resourceful use of energy and water",
+            "keywords": "Linky",
+            "twitter": "Itron",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Itron France",
+                    "postal_address": "Z.I. du Bernais - BP23 1 Avenue des Temps Modernes 86361 Chasseneuil-du-Poitou",
+                    "gps_coordinates": "46.65638/0.36831"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "9 Rue Ampere 71000 Mâcon",
+                    "gps_coordinates": "46.29269/4.80387"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "11 Boulevard Pasteur 67500 Haguenau",
+                    "gps_coordinates": "48.82040/7.78484"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "BP 327 Rue Chrétien de Troyes ZAC Val de Murigny 51061 Reims Cedex",
+                    "gps_coordinates": "49.21192/4.01622"
+                },
+                {
+                    "name": "Itron / Asaïs S.A.S.",
+                    "postal_address": "39, 41 rue de l'Université 93160 Noisy le Grand",
+                    "gps_coordinates": "48.83770/2.55906"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "Z.I Champ Dolin - Parc Technoland 1 Allée de Toscane - CS 50046 69808 SAINT PRIEST CEDEX",
+                    "gps_coordinates": "45.70640/4.96183"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "15 avenue du Maréchal Juin CS 35002 91301 Massy Cedex",
+                    "gps_coordinates": "48.72024/2.28284"
+                },
+                {
+                    "name": "Itron Holding France",
+                    "postal_address": "52 Rue Camille Desmoulins 92130 Issy les Moulineaux",
+                    "gps_coordinates": "48.83077/2.26596"
+                },
+                {
+                    "name": "Itron France",
+                    "postal_address": "165/167 rue Michel Carré 95815 Argenteuil Cedex",
+                    "gps_coordinates": "48.92959/2.23084"
+                }
+            ]
+        },
+        {
             "name": "Jagger & Lewis",
             "url": "http://www.jagger-lewis.com",
             "description": "collier connecté pour chien",
@@ -3082,6 +3407,21 @@
                     "name": "",
                     "postal_address": "1 rue Jacqueline Auriol 35235 THORIGNE-FOUILLARD",
                     "gps_coordinates": "48.15261/-1.59087"
+                }
+            ]
+        },
+        {
+            "name": "Keysight Technologies",
+            "url": "http://www.keysight.com",
+            "description": "Electronic measurement",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technopolis - Bâtiment Olympe, 3 avenue du Canada, 91940 Les Ulis",
+                    "gps_coordinates": "48.68702/2.19561"
                 }
             ]
         },
@@ -3790,6 +4130,21 @@
                     "name": "",
                     "postal_address": "Dynapôle Ludres-Fléville 166 rue Ampère - BP 60093 54714 Ludres Cedex",
                     "gps_coordinates": "48.61868/6.18440"
+                }
+            ]
+        },
+        {
+            "name": "Notilo+ SAS",
+            "url": "http://ibubble.camera",
+            "description": "autonomous underwater camera",
+            "keywords": "",
+            "twitter": "iBubbleCamera",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 Avenue Doyen Louis Weil 38000 Grenoble",
+                    "gps_coordinates": "45.19194/5.71287"
                 }
             ]
         },
@@ -5022,6 +5377,21 @@
             ]
 	},
         {
+            "name": "Stanley Robotics",
+            "url": "http://www.stanley-robotics.com",
+            "description": "parking solutions",
+            "keywords": "",
+            "twitter": "StanleyRobotics",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Agoranov, 96bis Boulevard Raspail, 75006 Paris",
+                    "gps_coordinates": "48.84616/2.32812"
+                }
+            ]
+        },
+        {
             "name": "Stantum",
             "url": "http://edu.stantum.com/",
             "description": "",
@@ -5651,6 +6021,21 @@
                     "name": "",
                     "postal_address": "7 Chemin du Mont Betou 31320 Vieille-Toulouse",
                     "gps_coordinates": "43.53354/1.43576"
+                }
+            ]
+        },
+        {
+            "name": "ve-hotech",
+            "url": "ve-hotech.com",
+            "description": "NAS grand public",
+            "keywords": "",
+            "twitter": "vehotech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 rue Joseph Fourier 49070 Beaucouzé",
+                    "gps_coordinates": "47.47285/-0.60976"
                 }
             ]
         },
