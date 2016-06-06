@@ -144,24 +144,15 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Thalescom
 - ? http://www.capsuletech.com
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
-- http://hellocway.com/fr/
-- http://www.digitsole.com/fr/
-- http://ibubble.camera/fr/ / https://twitter.com/iBubbleCamera / Lyon, Rhône-Alpes
-- ? http://www.hidglobal.fr
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
 - ACS (Affiliated Computer Services)/Filiale de Xerox
 - http://www.paycert.fr/Produits-Securitaires.html
 - http://www.wezzoo.com/oombrella
-- http://www.stanley-robotics.com
 - ? Bluetens
-- Aguila Technologies / http://aguila.fr/en/
 - Congatec / Allemagne (fournisseur français : Tokhatec)
 - ? ANOVO ?
 - ? Worldpay
 - http://www.webdyn.com
-- http://www.elster.com
-- MAEC - http://www.groupe-cahors.com/le-groupe-cahors/le-groupe/filiales/francaises/article/maec?lang=fr
-- ITRON - https://www.itron.com/fr/about/Pages/Our-Worldwide-Locations.aspx
 - ? ApisSys
 - NXP Semiconductors et Freescale Semiconductor ne font désormais plus qu’une seule et même société
 - http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
@@ -189,8 +180,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Argosim
 - Mugen
 - Vocal Apps
-- Actility
-- Gridbee Communications
 - Adveez
 - Drust
 - GreenPriz
@@ -198,22 +187,13 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - WeNow
 - Sentryo
 - Trust Designer
-- Aryballe Technologies
 - Nanolike
-- https://smockeo.com
-- http://www.momit.com/index.html
-- http://bixi.io/
-- https://www.zembro.com/fr-FR
-- http://getsnail.com/fr
-- http://www.hi-goji.com/
-- https://www.enovap.com/fr
+
 - http://www.astone-technology.com
+
 - Samsung Paris 10eme - https://www.artik.io/
-- http://www.bioo.tech/
 - myBrain Technologies / Melomind
 - http://www.societeberthelot.com
-- http://www.bodet.com
-
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -235,6 +215,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Wizway Solutions
 - immersit / http://www.immersit.com / @immersit
 - PrismTech France / http://www.prismtech.com/contact-us / @prismtech
+- Leka - http://leka.io/fr
+- http://www.bioo.tech
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -258,9 +240,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 
 - http://senic.com/ - Berlin
 
+- https://www.zembro.com - Belgium ?
+
 - Micrium - http://micrium.com/ - Weston, FL
 
 - http://www.kaptia.com/ - Spain
+- http://www.momit.com/index.html - Spain ?
 
 - http://getnarrative.com - Sweden
 - Percepio - http://percepio.com - @percepio / Sweden
+
+- HID Global - https://www.hidglobal.com / @HIDGlobal / "secure identity solutions"
