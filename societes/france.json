@@ -41,6 +41,21 @@
             ]
         },
         {
+            "name": "ACAO",
+            "url": "http://www.aca-o.com/",
+            "description": "service for the workspace environment quality",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "195 rue de Classun, ZA de Peyres 40800 Aire sur l'Adour",
+                    "gps_coordinates": "43.71509/-0.26752"
+                }
+            ]
+        },
+        {
             "name": "Advantech",
             "url": "http://www.advantech.com",
             "description": "Embedded and automation products and solutions.",
@@ -50,6 +65,21 @@
                     "name": "",
                     "postal_address": "1 Bld Charles de Gaulle Noblet hall C - 92700 Colombes",
                     "gps_coordinates": "48.90898/2.23581"
+                }
+            ]
+        },
+        {
+            "name": "Adveez",
+            "url": "http://www.adveez.fr",
+            "description": "Systèmes antifugue, capteur de chutes, contrôle d'accès mains-libres, suivi de biens et de personnes",
+            "keywords": "",
+            "twitter": "AdveezFR",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment 6 12 Rue Michel Labrousse 31100 Toulouse",
+                    "gps_coordinates": "43.56896/1.38915"
                 }
             ]
         },
@@ -525,6 +555,21 @@
                     "name": "",
                     "postal_address": "2260 route des Crêtes, BP337, 06906 Sophia Antipolis",
                     "gps_coordinates": "43.625884/7.047818"
+                }
+            ]
+        },
+        {
+            "name": "Astone Technology",
+            "url": "http://www.astone-technology.com/",
+            "description": "electronic solutions for embedded products",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "41/43 rue Périer - 92120 Montrouge",
+                    "gps_coordinates": "48.81409/2.31585"
                 }
             ]
         },
@@ -1681,6 +1726,21 @@
             ]
         },
         {
+            "name": "Drust",
+            "url": "http://drust.io",
+            "description": "Connected car",
+            "keywords": "",
+            "twitter": "drust_io",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "96 BIS boulevard Raspail 75006 Paris",
+                    "gps_coordinates": "48.84616/2.32800"
+                }
+            ]
+        },
+        {
             "name": "Dualo",
             "url": "http://dualo.org",
             "description": "Music instruments manufacturer",
@@ -2432,6 +2492,26 @@
             ]
         },
         {
+            "name": "Fiamm",
+            "url": "http://www.fiamm.com",
+            "description": "Starter Batteries, Mobility Batteries, Horns, Industrial Batteries, Antennas, Energy Storage and Oled",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Astrom Fiamm Safety",
+                    "postal_address": "35 Rue Pasteur, 83210 La Farlède",
+                    "gps_coordinates": "43.15266/6.04748"
+                },
+                {
+                    "name": "FIAMM France Sarl",
+                    "postal_address": "12 Rue Augustin Fresnel 78410 Aubergenville",
+                    "gps_coordinates": "48.96628/1.84842"
+                }
+            ]
+        },
+        {
             "name": "ffly4u",
             "url": "http://www.ffly4u.com",
             "description": "low frequency European locating service for reusable assets based on a new, low cost technology",
@@ -2668,6 +2748,21 @@
                     "name": "",
                     "postal_address": "4, rue de la Pierre Levée 75011 Paris France",
                     "gps_coordinates": "48.86659/2.37113"
+                }
+            ]
+        },
+        {
+            "name": "GreenPriz",
+            "url": "http://www.greenpriz.com/",
+            "description": "Suivi et pilotage des consommations d'électricité",
+            "keywords": "",
+            "twitter": "GreenPriz",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "549, Bd Pierre Sauvaigo GreenTech Bât.1 06480 La Colle sur Loup",
+                    "gps_coordinates": "43.68239/7.11748"
                 }
             ]
         },
@@ -3858,6 +3953,21 @@
             ]
         },
         {
+            "name": "Mugen",
+            "url": "http://www.mugen-sas.com",
+            "description": "software suite making the interaction with connected objects and environments easier",
+            "keywords": "",
+            "twitter": "MugenSAS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "25 Rue Marcel Issartier, 33700 Mérignac",
+                    "gps_coordinates": "44.84004/-0.71630"
+                }
+            ]
+        },
+        {
             "name": "Myfox",
             "url": "http://www.getmyfox.com",
             "description": "Smart home security systems",
@@ -3891,6 +4001,21 @@
                     "name": "",
                     "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
                     "gps_coordinates": "43.56312/1.49186"
+                }
+            ]
+        },
+        {
+            "name": "NANOLIKE SAS",
+            "url": "http://www.nanolike.com",
+            "description": "nanotechnology nanoparticles nanosensors",
+            "keywords": "",
+            "twitter": "Nanolike",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 avenue de l’Europe Parc technologique du Canal 31520 RAMONVILLE SAINT-AGNE",
+                    "gps_coordinates": "43.55071/1.48822"
                 }
             ]
         },
@@ -4601,6 +4726,26 @@
             ]
         },
         {
+            "name": "PIXEL SUR MER",
+            "url": "http://www.pixelsurmer.com",
+            "description": "electronic, electrical and computer equipments for skippers, racing teams, boaters and sea professionals",
+            "keywords": "",
+            "twitter": "Pixelsurmer",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "43, rue Kérampéré 29200 Brest",
+                    "gps_coordinates": "48.39628/-4.44906"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment Le Kerguelen 3ème Etage 7 rue Lt de Vaisseau Bourely 56100 Lorient",
+                    "gps_coordinates": "47.73252/-3.37343"
+                }
+            ]
+        },
+        {
             "name": "PowiDian",
             "url": "http://powidian.com",
             "description": "Smart Green Energy stations",
@@ -5055,6 +5200,21 @@
                     "name": "",
                     "postal_address": "2 rue Alfred Kastler 44300 Nantes",
                     "gps_coordinates": "47.28215/-1.51991"
+                }
+            ]
+        },
+        {
+            "name": "Sentryo",
+            "url": "https://www.sentryo.net",
+            "description": "cybersecurity and situation awareness solutions dedicated to industrial networks and the Internet of Things",
+            "keywords": "",
+            "twitter": "sentryo",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "66, Boulevard Niels Bohr, CS 52132 69603 Lyon ­ Villeurbanne Cedex",
+                    "gps_coordinates": "45.78643/4.88068"
                 }
             ]
         },
@@ -5725,6 +5885,21 @@
             ]
         },
         {
+            "name": "Trust Designer",
+            "url": "http://www.trustdesigner.com",
+            "description": "biometrics & secure iot",
+            "keywords": "",
+            "twitter": "Trust_Designer",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Euratechnologies 165 avenue de Bretagne 59000 LILLE",
+                    "gps_coordinates": "50.63289/3.01997"
+                }
+            ]
+        },
+        {
             "name": "Twiga",
             "url": "http://www.twiga-web.com",
             "description": "high definition digital video systems",
@@ -5734,6 +5909,21 @@
                     "name": "",
                     "postal_address": "116 route d'Espagne Bâtiment Hélios 6 BAL 507 31100 Toulouse - France",
                     "gps_coordinates": "43.57095/1.42424"
+                }
+            ]
+        },
+        {
+            "name": "Tyva Energie",
+            "url": "http://www.tyva-energie.com",
+            "description": "Concepteur de batteries écologiques sur mesure",
+            "keywords": "",
+            "twitter": "Tyva_Energie",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "188 Avenue Ferdinand Janvier 07100 Annonay",
+                    "gps_coordinates": "45.26668/4.66311"
                 }
             ]
         },
@@ -5862,6 +6052,21 @@
                     "name": "",
                     "postal_address": "2 Place de Touraine, 78000 Versailles, France",
                     "gps_coordinates": "48.80405/2.16233"
+                }
+            ]
+        },
+        {
+            "name": "WeNow",
+            "url": "https://www.wenow.com",
+            "description": "smart solutions cars",
+            "keywords": "",
+            "twitter": "wenow_official",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "49-53 AVENUE DES CHAMPS ELYSEES 75008 PARIS",
+                    "gps_coordinates": "48.87005/2.30565"
                 }
             ]
         },
@@ -6036,6 +6241,21 @@
                     "name": "",
                     "postal_address": "4 rue Joseph Fourier 49070 Beaucouzé",
                     "gps_coordinates": "47.47285/-0.60976"
+                }
+            ]
+        },
+        {
+            "name": "Vocal Apps",
+            "url": "https://www.vocal-apps.com/",
+            "description": "Vocal assistants for the internet of things",
+            "keywords": "",
+            "twitter": "vocal_apps",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 Boulevard Poissonnière 75002 Paris",
+                    "gps_coordinates": "48.87094/2.34466"
                 }
             ]
         },
