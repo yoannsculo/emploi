@@ -159,7 +159,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - VALEO VEEM /  Créteil
 - SARL CESIGMA,  la garde
 - ACTIA AUTOMOTIVE, Toulouse
-- http://www.pixelsurmer.com
 - Stmicroelectronics à Porte d'Orléans
 - OVERLINE SYSTEMS à Andernos les Bains
 - NEAVIA TECHNOLOGIES à SAINT BRIEUC
@@ -171,32 +170,18 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Microchip Technology
 - http://corporate.pickup.fr/ ?
 - http://kortex-psi.fr ?
-- http://www.via-design.fr
-- http://www.fiamm.com
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
-- ACA-O
-- C-Way
-- Idosens
-- Argosim
-- Mugen
-- Vocal Apps
-- Adveez
-- Drust
-- GreenPriz
-- Tyva Energie
-- WeNow
-- Sentryo
-- Trust Designer
-- Nanolike
 - https://www.infineon.com
 - Kawantech / http://www.kawantech.com
 - http://www.pixium-vision.com
-
-- http://www.astone-technology.com
-
+- gopro - Paris
+- gopro - Francin
 - Samsung Paris 10eme - https://www.artik.io/
 - myBrain Technologies / Melomind
 - http://www.societeberthelot.com
+
+- airbus - les mureaux
+- veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
