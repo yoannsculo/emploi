@@ -316,18 +316,6 @@
             ]
         },
         {
-            "name": "SoftBank Robotics Europe",
-            "url": "https://www.ald.softbankrobotics.com",
-            "description": "Robots",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "43, rue du Colonel Pierre Avia 75015 Paris",
-                    "gps_coordinates": "48.82856/2.27400"
-                }
-            ]
-        },
-        {
             "name": "Alpes DEIS",
             "url": "http://www.alpes-deis.fr",
             "description": "Electronic board design & manufacturing",
@@ -5452,6 +5440,50 @@
             ]
         },
         {
+            "name": "SoftAtHome",
+            "url": "http://www.softathome.com",
+            "description": "Set-top box & home gateway",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "81 avenue François Arago 92000 Nanterre - France",
+                    "gps_coordinates": "48.89953/2.22153"
+                }
+            ]
+        },
+        {
+            "name": "SoftBank Robotics Europe",
+            "url": "https://www.ald.softbankrobotics.com",
+            "description": "Robots",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "43, rue du Colonel Pierre Avia 75015 Paris",
+                    "gps_coordinates": "48.82856/2.27400"
+                }
+            ]
+        },
+        {
+            "name": "Solystic",
+            "url": "http://www.solystic.com",
+            "description": "Postal sorting solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "152 Avenue Aristide Briand, 92220 Bagneux",
+                    "gps_coordinates": "48.79666/2.32142"
+                },
+                {
+                    "name": "",
+                    "postal_address": "25, rue de Chôny BP 102 26501 Bourg-lès-Valence CEDEX",
+                    "gps_coordinates": "44.94155/4.89750"
+                }
+            ]
+        },
+        {
             "name": "Somfy",
             "url": "http://www.somfy.com",
             "description": "Automatic control of openings and closures in homes and buildings",
@@ -5478,38 +5510,6 @@
                 }
 
 
-            ]
-        },
-        {
-            "name": "SoftAtHome",
-            "url": "http://www.softathome.com",
-            "description": "Set-top box & home gateway",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "81 avenue François Arago 92000 Nanterre - France",
-                    "gps_coordinates": "48.89953/2.22153"
-                }
-            ]
-        },
-        {
-            "name": "Solystic",
-            "url": "http://www.solystic.com",
-            "description": "Postal sorting solutions",
-            "keywords": "",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "152 Avenue Aristide Briand, 92220 Bagneux",
-                    "gps_coordinates": "48.79666/2.32142"
-                },
-                {
-                    "name": "",
-                    "postal_address": "25, rue de Chôny BP 102 26501 Bourg-lès-Valence CEDEX",
-                    "gps_coordinates": "44.94155/4.89750"
-                }
             ]
         },
         {
