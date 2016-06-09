@@ -5226,12 +5226,18 @@
         {
             "name": "Sigfox",
             "url": "http://www.sigfox.com",
-            "description": "",
+            "description": "global IoT connectivity solution",
+            "twitter": "sigfox",
             "locations": [
                 {
                     "name": "",
                     "postal_address": "Bâtiment E-volution 425, rue Jean Rostand 31670 Labège FRANCE",
                     "gps_coordinates": "43.54366/1.51111"
+                },
+                {
+                    "name": "",
+                    "postal_address": "3 Rue de Londres, 75009 Paris",
+                    "gps_coordinates": "48.87664/2.33055"
                 }
             ]
         },
