@@ -4744,12 +4744,12 @@
                 {
                     "name": "PowiDian - Siège social",
                     "postal_address": "10 rue Jean Perrin 37170 Chambray les Tours",
-                    "gps_coordinates": ""
+                    "gps_coordinates": "47.34540/0.72592"
                 },
                 {
                     "name": "PowiDian - Technique, Ventes, Administration",
                     "postal_address": "1 Bd Jean Moulin, CS40001, MetaPole, 78996 Elancourt",
-                    "gps_coordinates": ""
+                    "gps_coordinates": "48.79804/1.97200"
                 }
             ]
         },
@@ -4945,7 +4945,7 @@
                 {
                     "name": "",
                     "postal_address": "120 rue Saint-Cyr, 69009 Lyon",
-                    "gps_coordinates": ""
+                    "gps_coordinates": "45.78819/4.80865"
                 }
             ]
         },
