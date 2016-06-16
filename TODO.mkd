@@ -3,28 +3,6 @@ TODO
 
 ###France
 
-####Locations to get
-
-GE
-
-- GE Power Conversion / 1 Rue John Henri Patterson 91300 Massy
-- GE Healthcare / 283 Rue de la Minière 78530 Buc
-- GE Energy / Belfort
-- GE Oil&Gas / Creusot
-- GE Oil&Gas - Measurement & Control / Condé-sur-Noireau
-- GE Oil&Gas / Fougerolles
-- GE Transportation / Paris La Defense
-- GE Energy Management - Power Conversion / Paris
-- GE Energy Management - Digital Energy
-- GE Energy Management - Industrial Solutions
-- GE Energy Management - Intelligent Platforms
-
-- Embedded System Integrator in Grenoble - https://www.linkedin.com/jobs2/view/12070072
-
-####Candidates to the list
-
-###France
-
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
 - Atlantic - http://www.atlantic.fr/
@@ -179,9 +157,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Samsung Paris 10eme - https://www.artik.io/
 - myBrain Technologies / Melomind
 - http://www.societeberthelot.com
-
 - airbus - les mureaux
 - veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
+- http://www.teqoya.com @teqoya
+- http://www.hagergroup.com / http://www.hagergroup.com/en/company/1024-143.htm#locations
+- http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
+- General Electric ouvrira un site à Nantes en 2017
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
