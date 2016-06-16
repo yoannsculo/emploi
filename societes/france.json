@@ -2636,6 +2636,121 @@
             ]
         },
         {
+            "name": "General Electric",
+            "url": "http://www.ge.com/fr/",
+            "description": "",
+            "keywords": "",
+            "twitter": "GE_France",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "GE Offshore Wind",
+                    "postal_address": "4 Rue Thomas Edison, 44600 Saint-Nazaire",
+                    "gps_coordinates": "47.2930/-2.2923"
+                },
+                {
+                    "name": "GE Oil & Gas",
+                    "postal_address": "3 Rue Saint-Pierre, 14110 Condé-sur-Noireau",
+                    "gps_coordinates": "48.84944/-0.54698"
+                },
+                {
+                    "name": "GE Power Conversion",
+                    "postal_address": "18 Avenue du Québec, 91140 Villebon-sur-Yvette",
+                    "gps_coordinates": "48.69069/2.21842"
+                },
+                {
+                    "name": "GE Healthcare",
+                    "postal_address": "283 Rue de la Minière, 78530 Buc",
+                    "gps_coordinates": "48.76761/2.12490"
+                },
+                {
+                    "name": "GE Healthcare",
+                    "postal_address": "24 Avenue Europe, 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.77924/2.21423"
+                },
+                {
+                    "name": "GE Power",
+                    "postal_address": "141 Rue Rateau, 93120 La Courneuve",
+                    "gps_coordinates": "48.92527/2.41163"
+                },
+                {
+                    "name": "GE Digital",
+                    "postal_address": "16-18 Rue du Quatre Septembre 75002 Paris",
+                    "gps_coordinates": "48.86980/2.33638"
+                },
+                {
+                    "name": "GE",
+                    "postal_address": "23 Rue Delarivière Lefoullon, 92800 Puteaux",
+                    "gps_coordinates": "48.88781/2.24422"
+                },
+                {
+                    "name": "GE",
+                    "postal_address": "Boulogne-Billancourt",
+                    "gps_coordinates": "48.82876/2.23140"
+                },
+                {
+                    "name": "GE Grid Solutions & GE Power",
+                    "postal_address": "1 Rue John Henry Patterson 91300 Massy",
+                    "gps_coordinates": "48.72643/2.26741"
+                },
+                {
+                    "name": "GE Oil & Gas",
+                    "postal_address": "Avenue des Chavannes 70220 Fougerolles",
+                    "gps_coordinates": "47.88836/6.39852"
+                },
+                {
+                    "name": "GE Power Conversion",
+                    "postal_address": "Chemin de la Rompure, 54250 Champigneulles",
+                    "gps_coordinates": "48.7445/6.1609"
+                },
+                {
+                    "name": "GE Automation & Controls",
+                    "postal_address": "418 Rue Denis Papin, 54710 Ludres",
+                    "gps_coordinates": "48.6122/6.1828"
+                },
+                {
+                    "name": "GE Power & GE Power Conversion & GE Renewable Energy",
+                    "postal_address": "20 Avenue Maréchal Juin, 90000 Belfort",
+                    "gps_coordinates": "47.64400/6.84161"
+                },
+                {
+                    "name": "GE Oil & Gas",
+                    "postal_address": "480 L'Avenue Gustave Eiffel, 71200 Le Creusot",
+                    "gps_coordinates": "46.7985/4.4362"
+                },
+                {
+                    "name": "GE Oil & Gas",
+                    "postal_address": "655 Allée des Parcs, 69800 Saint-Priest",
+                    "gps_coordinates": "45.71035/4.93000"
+                },
+                {
+                    "name": "GE Oil & Gas",
+                    "postal_address": "130 Rue Léon Blum, 69100 Villeurbanne",
+                    "gps_coordinates": "45.76032/4.90295"
+                },
+                {
+                    "name": "GE Grid Solutions",
+                    "postal_address": "1 Rue Paul Doumer, 73100 Aix-les-Bains",
+                    "gps_coordinates": "45.6778/5.9068"
+                },
+                {
+                    "name": "GE Hydro",
+                    "postal_address": "82 Avenue Léon Blum, 38100 Grenoble",
+                    "gps_coordinates": "45.16533/5.71507"
+                },
+                {
+                    "name": "GE Grid Solutions",
+                    "postal_address": "81 Rue Euclide, 34000 Montpellier",
+                    "gps_coordinates": "43.62010/3.90988"
+                },
+                {
+                    "name": "GE Onshore Wind",
+                    "postal_address": "Toulouse",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
             "name": "GEOTRACEUR",
             "url": "http://www.geotraceur.fr",
             "description": "Solutions de géolocalisation",
