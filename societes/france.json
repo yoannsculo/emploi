@@ -3547,6 +3547,21 @@
             ]
         },
         {
+            "name": "Kawantech",
+            "url": "http://www.kawantech.com",
+            "description": "smart public lighting",
+            "keywords": "",
+            "twitter": "Kawantech1",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Calliope Rue Jean-Bart 31670 LABEGE INNOPOLE",
+                    "gps_coordinates": "43.54277/1.50682"
+                }
+            ]
+        },
+        {
             "name": "KORTEX Point of Sales & Industry",
             "url": "http://www.kortex-psi.fr",
             "description": "Access solutions and broadband networks",
@@ -4067,6 +4082,21 @@
                     "name": "",
                     "postal_address": "25 Rue Marcel Issartier, 33700 Mérignac",
                     "gps_coordinates": "44.84004/-0.71630"
+                }
+            ]
+        },
+        {
+            "name": "myBrain Technologies",
+            "url": "http://melomind.com",
+            "description": "relaxation headset",
+            "keywords": "",
+            "twitter": "mybraintech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "96 BIS boulevard Raspail 75006 Paris",
+                    "gps_coordinates": "48.84614/2.32809"
                 }
             ]
         },
@@ -4845,6 +4875,21 @@
                     "name": "",
                     "postal_address": "Bâtiment Le Kerguelen 3ème Etage 7 rue Lt de Vaisseau Bourely 56100 Lorient",
                     "gps_coordinates": "47.73252/-3.37343"
+                }
+            ]
+        },
+        {
+            "name": "Pixium Vision",
+            "url": "http://www.pixium-vision.com",
+            "description": "bionic vision",
+            "keywords": "",
+            "twitter": "PixiumVision",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "74 rue du Faubourg Saint-Antoine 75012 Paris",
+                    "gps_coordinates": "48.85118/2.37375"
                 }
             ]
         },
