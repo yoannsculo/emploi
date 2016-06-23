@@ -394,6 +394,21 @@
             ]
         },
         {
+            "name": "Analog Way",
+            "url": "http://www.analogway.fr",
+            "description": "designer and manufacturer specialized in computer & video signal processing and distribution solutions.",
+            "keywords": "",
+            "twitter": "Analog_Way",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2-4 rue Georges Besse 92160 Antony",
+                    "gps_coordinates": "48.73122/2.31287"
+                }
+            ]
+        },
+        {
             "name": "Anaveo",
             "url": "http://www.anaveo.com",
             "description": "Video surveillance systems",
@@ -2885,6 +2900,111 @@
             ]
         },
         {
+            "name": "Hager Group",
+            "url": "http://www.hagergroup.com/",
+            "description": "solutions and services for electrical installations in residential, commercial and industrial buildings",
+            "keywords": "",
+            "twitter": "hagergroup",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "153 boulevard Haussmann 75008 Paris",
+                    "gps_coordinates": "48.87505/2.31055"
+                },
+                {
+                    "name": "",
+                    "postal_address": "ZAC de la Bretèque - Arche 3, Allée de l'Arc-en-Ciel, 76230 Bois Guillaume",
+                    "gps_coordinates": "49.47806/1.10476"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Edonia - Bât G, Rue de la Terre Victoria, 35760 Saint Grégoire",
+                    "gps_coordinates": "48.15236/-1.69839"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc tertiaire du Vieux Moulin, 2 rue du Tyrol, 44240 La Chapelle sur Erdre",
+                    "gps_coordinates": "47.27608/-1.54990"
+                },
+                {
+                    "name": "",
+                    "postal_address": "11 rue Pablo Neruda , ZI Haut Madère 33140 Villenave d'Ornon",
+                    "gps_coordinates": "44.78569/-0.58151"
+                },
+                {
+                    "name": "",
+                    "postal_address": "10 Allée Aristide Maillol, ZAC des Ramassiers, 31773 Colomiers",
+                    "gps_coordinates": "43.59530/1.35428"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Technopole Griffon, 511 Route de la SEDS, 13127 Vitrolles",
+                    "gps_coordinates": "43.42989/5.27287"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Buropolis - Les Bouillides, 1240 Route des Dolines, 6560 Valbonne",
+                    "gps_coordinates": "43.62510/7.04082"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Actimart, 7, Allée du Pérou, 38610 Gières",
+                    "gps_coordinates": "45.19094/5.77939"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Rue du Pré de l'Horme 38926 Crolles cedex",
+                    "gps_coordinates": "45.26903/5.88870"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc technologique de Lyon, 4 Place Berthe Morisot, 69800 Saint Priest",
+                    "gps_coordinates": "45.71654/4.93156"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc technologique, 6 rue Marcel Dassault, 21000 Dijon",
+                    "gps_coordinates": "47.35727/5.04216"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Rue Marguerite Yourcenar, 21000 Dijon",
+                    "gps_coordinates": "47.35193/5.05742"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc d'activités Nancy Brabois, 20 Allée de la Forêt de la Reine, 54500 Vandoeuvre les Nancy",
+                    "gps_coordinates": "48.65625/6.12930"
+                },
+                {
+                    "name": "",
+                    "postal_address": "132 Boulevard d'Europe, B.P. 78 67212 Obernai",
+                    "gps_coordinates": "48.47302/7.49916"
+                },
+                {
+                    "name": "",
+                    "postal_address": "43, route de Rohrwiller, 67240 Bischwiller",
+                    "gps_coordinates": "48.76552/7.87145"
+                },
+                {
+                    "name": "",
+                    "postal_address": "45 rue du moulin, 67400 Illkirch Graffenstaden",
+                    "gps_coordinates": "48.53611/7.72092"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2 rue du Verdon, 67100 Strasbourg",
+                    "gps_coordinates": "48.55120/7.73836"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Synergie Park, 10 Rue Louis Neel, 59260 Lezennes",
+                    "gps_coordinates": "50.60216/3.13417"
+                }
+            ]
+        },
+        {
             "name": "HAProxy Technologies",
             "url": "http://www.haproxy.com",
             "description": "HAProxy load balancing solutions",
@@ -4514,6 +4634,26 @@
                     "name": "",
                     "postal_address": "126 Rue Emile Baudot 34000 MONTPELLIER",
                     "gps_coordinates": "43.61470/3.91011"
+                }
+            ]
+        },
+        {
+            "name": "OMWAVE",
+            "url": "http://www.omwave.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "34 bis rue d'Estienne d'Orves 92120 Montrouge",
+                    "gps_coordinates": "48.81529/2.32204"
+                },
+                {
+                    "name": "",
+                    "postal_address": "55, rue des jacobins 14000 Caen",
+                    "gps_coordinates": "49.17889/-0.36003"
                 }
             ]
         },
