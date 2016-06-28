@@ -156,10 +156,11 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.societeberthelot.com
 - airbus - les mureaux
 - veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
-- http://www.teqoya.com @teqoya
-- http://www.hagergroup.com / http://www.hagergroup.com/en/company/1024-143.htm#locations
 - http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
 - General Electric ouvrira un site à Nantes en 2017
+- InvenSense / Grenoble
+- http://www.elmleblanc.fr/
+- http://www.eisox.com/
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -183,6 +184,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - PrismTech France / http://www.prismtech.com/contact-us / @prismtech
 - Leka - http://leka.io/fr
 - http://www.bioo.tech
+- http://www.teqoya.com @teqoya / smart solutions to purify and monitor air quality at home
 
 ### French companies ? Or resellers ?
 - BeeWi
