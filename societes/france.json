@@ -3934,6 +3934,18 @@
             ]
         },
         {
+            "name": "Logilin",
+            "url": "http://www.logilin.fr",
+            "description": "Formations et ingénierie sur Linux embarqué",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14 avenue du bois Guillaume, 91000 Évry",
+                    "gps_coordinates": "48.6378/2.4218"
+                }
+            ]
+        },
+        {
             "name": "Lotsys",
             "url": "http://www.lotsys.com/",
             "description": "Customized solutions for gaming",
