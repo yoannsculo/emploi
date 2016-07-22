@@ -5762,11 +5762,12 @@
             "name": "SoftAtHome",
             "url": "http://www.softathome.com",
             "description": "Set-top box & home gateway",
+            "twitter": "SoftAtHome",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "81 avenue François Arago 92000 Nanterre - France",
-                    "gps_coordinates": "48.89953/2.22153"
+                    "postal_address": "9 rue du débarcadère 92700 Colombes",
+                    "gps_coordinates": "48.90847/2.23426"
                 }
             ]
         },
