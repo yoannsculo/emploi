@@ -2509,6 +2509,18 @@
                 }
             ]
         },
+	{
+            "name": "FERCHAU AVIATION",
+            "url": "https://www.ferchau.com/aviation/",
+            "description": "Aeronautique",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
         {
             "name": "Fiamm",
             "url": "http://www.fiamm.com",
