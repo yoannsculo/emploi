@@ -1713,6 +1713,21 @@
                 }
             ]
         },
+	{
+            "name": "DMIC",
+            "url": "http://www.dmic.fr",
+            "description": "Professional services for tracking equipments with GPS, Galileo over LoRa and GPRS",
+            "keywords": "LoRa, GPS, Galileo, GSM, GPRS, LTE-M",
+            "twitter": "dmiciot",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 route de Cénac, Aérocampus Aquitaine, 33360 Lastresne",
+                    "gps_coordinates": "44.77973/-0.49128"
+                }
+            ]
+        },	    
         {
             "name": "Drone Volt",
             "url": "http://www.dronevolt.com",
