@@ -409,6 +409,18 @@
             ]
         },
         {
+            "name": "Amplitude Systèmes",
+            "url": "http://www.amplitude-systemes.com",
+            "description": "Ultrafast solid-state lasers",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Avenue de Canteranne, 33600 PESSAC",
+                    "gps_coordinates": "44.785929/-0.632146"
+                }
+            ]
+        },
+        {
             "name": "Anaveo",
             "url": "http://www.anaveo.com",
             "description": "Video surveillance systems",
