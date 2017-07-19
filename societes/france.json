@@ -6477,9 +6477,11 @@
             ]
         },
         {
-            "name": "Withings",
-            "url": "http://www.withings.fr",
-            "description": "",
+            "name": "Nokia Technologies France",
+            "url": "https://health.nokia.com",
+            "description": "connected health devices",
+            "twitter": "NokiaHealthFR",
+            "comment": "Ex Withings",
             "locations": [
                 {
                     "name": "",
