@@ -53,6 +53,51 @@
             ]
         },
         {
+            "name": "Abbott",
+            "url": "http://www.abbott.com/",
+            "description": "health care",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Abbott France",
+                    "postal_address": "3 Place Gustave Eiffel  94518 Rungis Cedex",
+                    "gps_coordinates": "48.74824/2.35454"
+                },
+                {
+                    "name": "Abbott Vascular",
+                    "postal_address": "3, place Gustave Eiffel – BP 60213  94518 Rungis Cedex",
+                    "gps_coordinates": "48.74831/2.35472"
+                },
+                {
+                    "name": "Abbott Diagnostic, Molecular, Point of Care",
+                    "postal_address": "12, rue de la Couture BP 50203  94518 Rungis Cedex",
+                    "gps_coordinates": "48.74577/2.35172"
+                },
+                {
+                    "name": "Abbott Diabetes Care",
+                    "postal_address": "12 rue de la Couture BP 20235  94528 Rungis Cedex",
+                    "gps_coordinates": "48.74597/2.35176"
+                }
+            ]
+        },
+        {
+            "name": "Acal BFi France S.A.S",
+            "url": "http://www.acalbfi.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4, Allée du Cantal - ZI La Petite Montagne Sud - CE1834 Lisses - 91018 EVRY Cedex",
+                    "gps_coordinates": "48.61190/2.42671"
+                }
+            ]
+        },
+        {
             "name": "ACAO",
             "url": "http://www.aca-o.com/",
             "description": "service for the workspace environment quality",
@@ -64,6 +109,21 @@
                     "name": "",
                     "postal_address": "195 rue de Classun, ZA de Peyres 40800 Aire sur l'Adour",
                     "gps_coordinates": "43.71509/-0.26752"
+                }
+            ]
+        },
+        {
+            "name": "Adacore",
+            "url": "http://www.adacore.com",
+            "description": "commercial software solutions for Ada",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "46 rue d’Amsterdam 75009 Paris",
+                    "gps_coordinates": "48.87858/2.32705"
                 }
             ]
         },
@@ -1370,6 +1430,21 @@
             ]
         },
         {
+            "name": "Concierge",
+            "url": "https://concierge.eu",
+            "description": "",
+            "keywords": "",
+            "twitter": "concierge_home",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "86 avenue de la République 59113 Seclin",
+                    "gps_coordinates": "50.54674/3.04490"
+                }
+            ]
+        },
+        {
             "name": "Connecthings",
             "url": "http://www.connecthings.com",
             "description": "Contactless mobile services",
@@ -1379,6 +1454,21 @@
                     "name": "",
                     "postal_address": "54 rue de Paradis 75010 Paris",
                     "gps_coordinates": "48.87568/2.34921"
+                }
+            ]
+        },
+        {
+            "name": "Connit",
+            "url": "http://www.connit.com",
+            "description": "industrial IoT",
+            "keywords": "",
+            "twitter": "Connit_IoT",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "231 rue Pierre et Marie Curie 31670 – Labège",
+                    "gps_coordinates": "43.54578/1.51404"
                 }
             ]
         },
@@ -2346,6 +2436,21 @@
             ]
         },
         {
+            "name": "Ereca",
+            "url": "http://ereca.fr",
+            "description": "products and systems for signal transmission over optical fiber",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "75, rue d'Orgemont, 95210 St-Gratien",
+                    "gps_coordinates": "48.96448/2.27656"
+                }
+            ]
+        },
+        {
             "name": "eROCCA",
             "url": "http://www.erocca.com",
             "description": "",
@@ -2565,6 +2670,26 @@
                     "name": "",
                     "postal_address": "3 AVENUE DIDIER DAURAT 31400 TOULOUSE",
                     "gps_coordinates": "43.56291/1.49217"
+                }
+            ]
+        },
+        {
+            "name": "Flex-Sense",
+            "url": "https://flex-sense.com",
+            "description": "réseau de télémétrie sans fil",
+            "keywords": "",
+            "twitter": "FlexSenseSAS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "123 Boulevard Louis BLANC  F-85000 LA ROCHE-SUR-YON",
+                    "gps_coordinates": "46.67410/-1.43534"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 rue Jean TORLAIS – 17000 LA ROCHELLE",
+                    "gps_coordinates": "46.14954/-1.20492"
                 }
             ]
         },
@@ -2881,6 +3006,21 @@
                     "name": "",
                     "postal_address": " 23 Avenue Louis Breguet 78140 Vélizy-Villacoublay",
                     "gps_coordinates": "48.78112/2.18391"
+                }
+            ]
+        },
+        {
+            "name": "GoPro Technology France SAS",
+            "url": "https://fr.gopro.com/",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "15, rue Rouget de Lisle 92130 Issy-les-Moulineaux",
+                    "gps_coordinates": "48.82894/2.26499"
                 }
             ]
         },
@@ -3379,6 +3519,21 @@
             ]
         },
         {
+            "name": "Innov Plus",
+            "url": "http://www.innov-plus.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "mytoucango",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment 503 Centre universitaire d'Orsay 91400 Orsay",
+                    "gps_coordinates": "48.70656/2.17456"
+                }
+            ]
+        },
+        {
             "name": "INSIDE Secure",
             "url": "http://www.insidesecure.com",
             "description": "Embedded security systems",
@@ -3703,6 +3858,31 @@
                     "gps_coordinates": "45.21638/5.81382"
                 }
 
+            ]
+        },
+        {
+            "name": "Kapsch",
+            "url": "http://www.kapsch.net",
+            "description": "",
+            "keywords": "",
+            "twitter": "kapschnet",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Kapsch CarrierCom",
+                    "postal_address": "Bâtiment Themis - Bâtiment 4 - 1, rue Jean-Pierre Timbaud, 78180 Montigny le Bretonneux",
+                    "gps_coordinates": "48.79505/2.03675"
+                },
+                {
+                    "name": "Kapsch TrafficCom",
+                    "postal_address": "Site de Immontigny - 1 Rue Jean Pierre Timbaud 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.79505/2.03675"
+                },
+                {
+                    "name": "Kapsch TrafficCom - Administrative Office",
+                    "postal_address": "30/32 Boulevard de Sébastopol 75004 Paris",
+                    "gps_coordinates": "48.86112/2.34989"
+                }
             ]
         },
         {
@@ -4369,6 +4549,26 @@
             ]
         },
         {
+            "name": "Navya",
+            "url": "http://navya.tech/",
+            "description": "autonomous, driverless and electric transport vehicles",
+            "keywords": "",
+            "twitter": "navyatech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue des italiens 75009 paris",
+                    "gps_coordinates": "48.87181/2.33564"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 rue du dr fleury-pierre papillon 69100 villeurbanne",
+                    "gps_coordinates": "45.76449/4.88321"
+                }
+            ]
+        },
+        {
             "name": "Navocap",
             "url": "http://www.navocap.com",
             "description": "",
@@ -5031,6 +5231,21 @@
                     "name": "",
                     "postal_address": "174-178, quai de Jemmapes 75010 Paris",
                     "gps_coordinates": "48.87893/2.36774"
+                }
+            ]
+        },
+        {
+            "name": "Physidia",
+            "url": "http://www.physidia.fr",
+            "description": "hemodialysis",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "39, boulevard de la Romanerie 49124 Saint-Barthélémy d’Anjou",
+                    "gps_coordinates": "47.48527/-0.51018"
                 }
             ]
         },
@@ -6200,6 +6415,21 @@
             ]
         },
         {
+            "name": "Theraclion",
+            "url": "http://www.theraclion.fr",
+            "description": "high-tech therapeutic ultrasound equipment",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "102, rue Etienne Dolet 92240 Malakoff",
+                    "gps_coordinates": "48.81319/2.30092"
+                }
+            ]
+        },
+        {
             "name": "Timescope",
             "url": "http://www.timescope.co",
             "description": "Borne de réalité virtuelle en libre-service",
@@ -6287,6 +6517,21 @@
             ]
         },
         {
+            "name": "UAVIA",
+            "url": "http://uavia.eu/",
+            "description": "cloud-controlled drones",
+            "keywords": "",
+            "twitter": "UaviaDrones",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9 Rue Charles Fourier, 91000 Évry",
+                    "gps_coordinates": "48.62509/2.44362"
+                }
+            ]
+        },
+        {
             "name": "UrbanHello",
             "url": "http://www.urbanhello.com",
             "description": "Child clock and baby monitor",
@@ -6295,6 +6540,26 @@
                     "name": "",
                     "postal_address": "13 rue St Antoine 75004 Paris FRANCE",
                     "gps_coordinates": "48.85334/2.36678"
+                }
+            ]
+        },
+        {
+            "name": "Vector",
+            "url": "https://vector.com",
+            "description": "automobile electronics",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "168, Boulevard Camélinat 92240 Malakoff",
+                    "gps_coordinates": "48.81210/2.29916"
+                },
+                {
+                    "name": "",
+                    "postal_address": "42, Avenue du General de Croutte 31100 Toulouse",
+                    "gps_coordinates": "43.56621/1.38541"
                 }
             ]
         },
