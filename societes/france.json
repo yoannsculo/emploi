@@ -1136,6 +1136,21 @@
             ]
         },
         {
+            "name": "CapsuleTech",
+            "url": "http://www.capsuletech.com",
+            "description": "connected health",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "76-78 avenue de France CS21416 75644 Paris Cedex 13",
+                    "gps_coordinates": "48.82835/2.37936"
+                }
+            ]
+        },
+        {
             "name": "CARRI Systems",
             "url": "http://www.carri.fr",
             "description": "High performance computer systems.",
@@ -1144,6 +1159,21 @@
                     "name": "",
                     "postal_address": "36 avenue de Bobigny 93130 Noisy-le-sec",
                     "gps_coordinates": "48.89412/2.44871"
+                }
+            ]
+        },
+        {
+            "name": "Carmat",
+            "url": "https://www.carmatsa.com",
+            "description": "artificial organs",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "36, avenue de l’Europe CS 40533 - Immeuble l’Etendard 78941 Vélizy Villacoublay CEDEX",
+                    "gps_coordinates": "48.77961/2.21071"
                 }
             ]
         },
@@ -2694,6 +2724,21 @@
             ]
         },
         {
+            "name": "Focal",
+            "url": "https://www.focal.com",
+            "description": "High-End acoustic loudspeakers and drivers for Car Audio",
+            "keywords": "",
+            "twitter": "FocalOfficial",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "108 rue de l’Avenir 42353 La Talaudière",
+                    "gps_coordinates": "45.46174/4.42461"
+                }
+            ]
+        },
+        {
             "name": "Freebox",
             "url": "http://www.free.fr",
             "description": "Set-top box",
@@ -3901,6 +3946,21 @@
             ]
         },
         {
+            "name": "KOPP FRANCE",
+            "url": "http://www.koppfrance.com",
+            "description": "Protection de sites sensibles et gouvernementaux",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17, rue de la poterie 93200 Saint-Denis",
+                    "gps_coordinates": "48.94464/2.34640"
+                }
+            ]
+        },
+        {
             "name": "KORTEX Point of Sales & Industry",
             "url": "http://www.kortex-psi.fr",
             "description": "Access solutions and broadband networks",
@@ -4280,6 +4340,21 @@
                     "name": "",
                     "postal_address": "Technoparc 8, rue Jeanneret 78300 Poissy",
                     "gps_coordinates": "48.94690/2.06650"
+                }
+            ]
+        },
+        {
+            "name": "Medtech S.A.",
+            "url": "http://www.medtech.fr",
+            "description": "medical robotics",
+            "keywords": "",
+            "twitter": "MedtechSurgical",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZAC Eurêka 900, rue du Mas de Verchant 34000 Montpellier",
+                    "gps_coordinates": "43.61883/3.91819"
                 }
             ]
         },
@@ -5109,6 +5184,26 @@
             ]
         },
         {
+            "name": "Overkiz",
+            "url": "https://www.overkiz.com",
+            "description": "IoT solutions for smart homes and buildings",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "55, rue de la Boétie 75008 Paris",
+                    "gps_coordinates": "48.87325/2.31294"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Variation A Allée de la Mandallaz 74370 Epagny Metz-Tessy",
+                    "gps_coordinates": "45.93498/6.11654"
+                }
+            ]
+        },
+        {
             "name": "Overline Systems",
             "url": "http://www.overline-systems.com",
             "description": "Audio intercom, reporter systems and nano in ear equipment",
@@ -5328,6 +5423,21 @@
                     "name": "",
                     "postal_address": "44 rue Pierre Joseph Proudhon 78800 HOUILLES",
                     "gps_coordinates": "48.93364/2.19997"
+                }
+            ]
+        },
+        {
+            "name": "ProbaYes",
+            "url": "http://www.probayes.com",
+            "description": "Data Science services",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "180, Avenue de l'Europe - Inovallée 38330 Montbonnot",
+                    "gps_coordinates": "45.21395/5.80583"
                 }
             ]
         },
@@ -6098,7 +6208,7 @@
                 }
             ]
         },
-	{
+        {
             "name": "Squadrone system",
             "url": "http://squadrone-system.com",
             "description": "Auto following systems for drones",
@@ -6109,7 +6219,22 @@
                     "gps_coordinates": "45.1904754/5.7121659"
                 }
             ]
-	},
+        },
+        {
+            "name": "Stago",
+            "url": "http://www.stago.fr",
+            "description": "In-Vitro Diagnostics industry",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 allée Thérésa 92600 Asnières sur Seine",
+                    "gps_coordinates": "48.91679/2.31779"
+                }
+            ]
+        },
         {
             "name": "Stanley Robotics",
             "url": "http://www.stanley-robotics.com",
