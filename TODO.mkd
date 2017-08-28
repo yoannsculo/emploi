@@ -118,7 +118,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://groupe-minerva.com borne sncf
 - http://www.clairitec.com - @Clairitec
 - http://www.lacroix-electronics.com - @LACROIX_Elec
-- http://www.intent-technologies.eu - @Intentnews
 - Thalescom
 - ? http://www.capsuletech.com
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
@@ -150,48 +149,30 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://corporate.pickup.fr/ ?
 - http://kortex-psi.fr ?
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
-- https://www.infineon.com
-- gopro - Paris
-- gopro - Francin
 - Samsung Paris 10eme - https://www.artik.io/
 - http://www.societeberthelot.com
 - airbus - les mureaux
 - veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
 - http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
 - General Electric ouvrira un site à Nantes en 2017
-- InvenSense / Grenoble
 - http://www.elmleblanc.fr/
 - http://www.eisox.com/
 - Valeo à Créteil
-- Axiohm ? (imprimantes tickets de caisse)
-- Lafon Technologies / http://www.lafon.fr/
 - http://primo1d.com
-- eDevice ?
 - http://www.get-emy.com/
 - http://www.mylight-systems.com
 - Magneti marelli France / Châtellerault - 86
-- Connecthings
-- Comutitres
 - SIEMENS SAS a Châtillon
-- Murata Electronics ?
-- Renesas Electronics Corporation ?
 - ACAL-BFI France
-- http://diimotion.com
 - Bouygues Telecom - 13 Avenue du Maréchal Juin - 93260 Meudon
-- http://www.eos-imaging.com
-- http://www.echosens.com/fr
 - Renault Sport
 - Renault Truck
 - Renault Defense
 - Orange (Colombes) pour les STB
 - Orange Châtillon ??? Quel site là bas ?
-- Systra ?
 - http://www.kapsch.net/fr/ ? - Sick
 - Adeneo a changé de nom pour Witekio - http://www.lembarque.com/adeneo-embedded-devient-witekio-et-se-positionne-comme-integrateur-de-systemes-logiciels_005270
 - Il y a un siemens France à Châtillon - @Siemens_France c’est 8 sites industriels & 11 centres de R&D dont #LeHavre #Toulouse #Châtillon #Haguenau #Grenoble https://t.co/pyphNcdz5x
-- http://www.silabs.com
-- http://www.abbott.com
-- https://www.sowee.fr
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -216,6 +197,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Leka - http://leka.io/fr
 - http://www.bioo.tech
 - http://www.teqoya.com @teqoya / smart solutions to purify and monitor air quality at home
+- https://www.sowee.fr
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -225,6 +207,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.eridanis.com/ - (#consulting company)
 - MODIS : Expert Linux Embarqué/ ROM Android (H/F)
 - http://sidereo.com
+- https://www.systra.com (Transport)
 
 ####Misc
 

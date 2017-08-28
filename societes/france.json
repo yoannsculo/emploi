@@ -826,6 +826,21 @@
             ]
         },
         {
+            "name": "Axiohm",
+            "url": "http://www.axiohm.com",
+            "description": "Thermal printing solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "PARC D'AFFAIRES NOVEOS 10 AVENUE DESCARTES 92350 LE PLESSIS-ROBINSON",
+                    "gps_coordinates": "48.77747/2.24485"
+                }
+            ]
+        },
+        {
             "name": "Axode",
             "url": "http://www.axode.com",
             "description": "Global Solutions for securing document production",
@@ -1460,6 +1475,21 @@
             ]
         },
         {
+            "name": "Comutitres",
+            "url": "http://www.comutitres.fr",
+            "description": "Gestion des titres de transport télébillettique Navigo en Ile de France",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "21 Boulevard Haussmann – 75009 PARIS",
+                    "gps_coordinates": "48.87260/2.33402"
+                }
+            ]
+        },
+        {
             "name": "Concierge",
             "url": "https://concierge.eu",
             "description": "",
@@ -2074,6 +2104,21 @@
             ]
         },
         {
+            "name": "Echosens",
+            "url": "http://www.echosenscorporate.com",
+            "description": "non-invasive diagnostics for use in hepatology",
+            "keywords": "",
+            "twitter": "Echosens",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "30 Place d'Italie 75013 Paris",
+                    "gps_coordinates": "48.83051/2.35566"
+                }
+            ]
+        },
+        {
             "name": "EcoAdapt",
             "url": "http://www.eco-adapt.com/",
             "description": "Solutions d'analyse de l'efficacité énergetique de sites industriels ou tertiaires.",
@@ -2119,6 +2164,21 @@
                     "name": "",
                     "postal_address": "11, place des Vosges – La Défense 5 - 92061 LA DEFENSE CEDEX",
                     "gps_coordinates": "48.89195/2.24742"
+                }
+            ]
+        },
+        {
+            "name": "eDevice",
+            "url": "http://www.edevice.com",
+            "description": "telehealth connectivity",
+            "keywords": "",
+            "twitter": "eDevice",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Cadéra Sud, Bât. P2 - 1er étage Avenue Ariane - 33700 Mérignac",
+                    "gps_coordinates": "44.83317/-0.67971"
                 }
             ]
         },
@@ -2426,6 +2486,21 @@
                     "name": "éolane / NC2",
                     "postal_address": "Parc d'activités des Monts d'Or 5 allée du crêt - BP13 69890 - La Tour-de-Salvagny",
                     "gps_coordinates": "45.81711/4.72346"
+                }
+            ]
+        },
+        {
+            "name": "EOS imaging",
+            "url": "http://www.eos-imaging.com",
+            "description": "global medical device company",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 rue Mercoeur, 75011 Paris",
+                    "gps_coordinates": "48.85725/2.38404"
                 }
             ]
         },
@@ -3534,6 +3609,36 @@
             ]
         },
         {
+            "name": "Infineon",
+            "url": "https://www.infineon.com/",
+            "description": "semiconductor manufacturer",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "BUROLINES 2 2ter Rue Marcel DORET 31700 Blagnac",
+                    "gps_coordinates": "43.63292/1.38003"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Avenue du château de Jouques 399 13420 Gémenos",
+                    "gps_coordinates": "43.28044/5.61463"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Les Jardins de l'entreprise BP 17 13610 Le Puy Sainte Réparade",
+                    "gps_coordinates": "43.66428/5.42381"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Boulevard Ornano 39-47 93527 Saint-Denis",
+                    "gps_coordinates": "48.91637/2.34467"
+                }
+            ]
+        },
+        {
             "name": "Infotron",
             "url": "http://www.infotron.fr",
             "description": "Drones",
@@ -3688,6 +3793,21 @@
                     "name": "",
                     "postal_address": "425 rue Jean Rostand 31670 Labège",
                     "gps_coordinates": "43.54365/1.51111"
+                }
+            ]
+        },
+        {
+            "name": "InvenSense",
+            "url": "https://www.invensense.com",
+            "description": "MEMS sensor platforms",
+            "keywords": "",
+            "twitter": "InvenSense",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "22, Avenue Doyen Louis Weil Le Doyen, 8e etage 38000 Grenoble",
+                    "gps_coordinates": "45.19294/5.71282"
                 }
             ]
         },
@@ -4121,6 +4241,36 @@
             ]
         },
         {
+            "name": "Lafon Technologies",
+            "url": "http://www.lafon.fr/",
+            "description": "Downstream oil equipment, energy management, distribution and storage solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Lafon Technologies",
+                    "postal_address": "44 Av. Lucien-Victor Meunier 33530 BASSENS",
+                    "gps_coordinates": "44.89976/-0.52226"
+                },
+                {
+                    "name": "Lafon Technologies - Usine de Faye l'Abbesse",
+                    "postal_address": "Route du Bois de la Dame - 79350 FAYE L'ABBESSE",
+                    "gps_coordinates": "46.83277/-0.35408"
+                },
+                {
+                    "name": "Lafon Technologies - Usine de Périgny",
+                    "postal_address": "35, avenue Louis Lumière ZI 17184 PERIGNY - CEDEX",
+                    "gps_coordinates": "46.16335/-1.10868"
+                },
+                {
+                    "name": "UKIA",
+                    "postal_address": "44 Avenue Lucien Victor Meunier 33530 BASSENS",
+                    "gps_coordinates": "44.89932/-0.52236"
+                }
+            ]
+        },
+        {
             "name": "LAMOUROUX",
             "url": "http://www.lamouroux.com/",
             "description": "electricity, plumbing and heating for professionals and private customers",
@@ -4508,6 +4658,21 @@
                     "name": "",
                     "postal_address": "25 Rue Marcel Issartier, 33700 Mérignac",
                     "gps_coordinates": "44.84004/-0.71630"
+                }
+            ]
+        },
+        {
+            "name": "Murata Integrated Passive Solutions S.A.",
+            "url": "http://www.ipdia.com",
+            "description": "Silicon passive components",
+            "keywords": "",
+            "twitter": "MurataEurope",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue de la Girafe, 14000 Caen",
+                    "gps_coordinates": "49.20359/-0.36328"
                 }
             ]
         },
@@ -5593,6 +5758,21 @@
             ]
         },
         {
+            "name": "Renesas Electronics",
+            "url": "https://www.renesas.com",
+            "description": "microcontrollers and semiconductor solutions",
+            "keywords": "",
+            "twitter": "Renesas_Europe",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6, avenue Morane Saulnier 78140 Vélizy",
+                    "gps_coordinates": "48.78158/2.21141"
+                }
+            ]
+        },
+        {
             "name": "ROBOSOFT",
             "url": "http://www.robosoft.com",
             "description": "Mobile robotics",
@@ -5954,6 +6134,21 @@
                     "name": "",
                     "postal_address": "Parc de la Plaine 35 avenue Marcel Dassault BP 5867 31506 Toulouse Cedex 5",
                     "gps_coordinates": "43.58090/1.49447"
+                }
+            ]
+        },
+        {
+            "name": "Silicon Labs",
+            "url": "https://www.silabs.com",
+            "description": "Semiconductors",
+            "keywords": "",
+            "twitter": "siliconlabs",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le Montreal 19 Bis avenue du Quebec Villebon sur Yvette, Les Ulis cedex 8 91951",
+                    "gps_coordinates": "48.69083/2.21646"
                 }
             ]
         },
