@@ -4229,14 +4229,89 @@
             ]
         },
         {
-            "name": "Lacroix Signalisation",
-            "url": "http://www.lacroix-signalisation.com",
+            "name": "Lacroix City",
+            "url": "http://www.lacroix-city.com",
             "description": "Road signs, street furniture and traffic management solutions",
             "locations": [
                 {
                     "name": "",
                     "postal_address": "8 impasse du Bourrelier  BP 30004  44801 Saint-Herblain Cedex",
                     "gps_coordinates": "47.22138/-1.64275"
+                },
+                {
+                    "name": "",
+                    "postal_address": "ZI 1re avenue - 11e rue BP 420 06516 Carros Cedex",
+                    "gps_coordinates": "43.79293/7.20570"
+                },
+                {
+                    "name": "",
+                    "postal_address": "4 rue Philippe Lebon 69747 Genas Cedex",
+                    "gps_coordinates": "45.71158/4.99276"
+                }
+            ]
+        },
+        {
+            "name": "LACROIX Electronics",
+            "url": "http://www.lacroix-electronics.com/",
+            "description": "electronic features for the automotive, household goods, aviation and medical industries",
+            "keywords": "",
+            "twitter": "LACROIX_Elec",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 Rue du Plessis 35770 Vern-sur-Seiche",
+                    "gps_coordinates": "48.05731/-1.60124"
+                },
+                {
+                    "name": "",
+                    "postal_address": "21 Avenue du Bon Air  CS11502 49115 St-Pierre-Montlimart cedex",
+                    "gps_coordinates": "47.26423/-1.03020"
+                },
+                {
+                    "name": "",
+                    "postal_address": "7 rue Giotto 31520 Ramonville St Agne",
+                    "gps_coordinates": "43.55244/1.48406"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Parc Sud Galaxie - Le Calypso 6 rue des Méridiens 38130 ECHIROLLE",
+                    "gps_coordinates": "45.14928/5.72558"
+                },
+                {
+                    "name": "",
+                    "postal_address": "50 Rue du Président Sadate 29337 Quimper",
+                    "gps_coordinates": "47.97763/-4.09646"
+                }
+            ]
+        },
+        {
+            "name": "LACROIX Group",
+            "url": "http://www.lacroix-group.com",
+            "description": "electronic innovation, water & energy networks, traffic and street lighting management, smart cities. ",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8, impasse du Bourrelier BP 30004 44801 Saint-Herblain cedex",
+                    "gps_coordinates": ""
+                }
+            ]
+        },
+        {
+            "name": "LACROIX Sofrel",
+            "url": "http://www.lacroix-sofrel.com/",
+            "description": "management of water and energy infrastructure",
+            "keywords": "",
+            "twitter": "LACROIXSofrelEn",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 Rue du Plessis 35770 Vern-sur-Seiche",
+                    "gps_coordinates": "48.05736/-1.60176"
                 }
             ]
         },
