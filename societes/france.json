@@ -1412,6 +1412,21 @@
             ]
         },
         {
+            "name": "Clairitec",
+            "url": "http://www.clairitec.com",
+            "description": "Human Machine Interface",
+            "keywords": "",
+            "twitter": "Clairitec",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 avenue Becquerel, 33700 Mérignac",
+                    "gps_coordinates": "44.83705/-0.68975"
+                }
+            ]
+        },
+        {
             "name": "CLEODE",
             "url": "http://www.cleode.fr",
             "description": "Manufacture of industrial-process control equipment",
@@ -3184,6 +3199,21 @@
             ]
         },
         {
+            "name": "GreenWaves",
+            "url": "http://greenwaves-technologies.com",
+            "description": "IoT processors",
+            "keywords": "",
+            "twitter": "GreenWavesTech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Pépinière Bergès, av. des Papeteries, office #6, 38190 Villard-Bonnot",
+                    "gps_coordinates": "45.23436/5.88722"
+                }
+            ]
+        },
+        {
             "name": "Gridbee Communications",
             "url": "http://www.gridbeecom.com",
             "description": "wireless communication solution for smart objects in disturbed and tough environments",
@@ -4674,6 +4704,21 @@
             ]
         },
         {
+            "name": "MINERVA Groupe",
+            "url": "http://groupe-minerva.com",
+            "description": "industrial equipments for Energy, Railways and Defence applications",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Z.I. Les Saulniers  37800 SAINTE MAURE DE TOURAINE",
+                    "gps_coordinates": "47.09890/0.60971"
+                }
+            ]
+        },
+        {
             "name": "Mobile Devices Ingenierie",
             "url": "http://www.mobile-devices.com",
             "description": "",
@@ -5635,6 +5680,21 @@
             ]
         },
         {
+            "name": "Plume Labs",
+            "url": "https://plumelabs.com",
+            "description": "smart, mobile air quality tracker",
+            "keywords": "",
+            "twitter": "Plume_Labs",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11B Rue Bachaumont, 75002 Paris",
+                    "gps_coordinates": "48.86595/2.34539"
+                }
+            ]
+        },
+        {
             "name": "PowiDian",
             "url": "http://powidian.com",
             "description": "Smart Green Energy stations",
@@ -6586,6 +6646,26 @@
             ]
         },
         {
+            "name": "Sysgo",
+            "url": "https://www.sysgo.com",
+            "description": "Hypervisor based OS technology",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Le Montréal 54 route de Sartrouville F-78230 Le Pecq",
+                    "gps_coordinates": "48.90234/2.11573"
+                },
+                {
+                    "name": "",
+                    "postal_address": "37 RUE DE LA BOURSE - 69002 LYON",
+                    "gps_coordinates": "45.76468/4.83702"
+                }
+            ]
+        },
+        {
             "name": "SysPlug",
             "url": "http://sysplug.fr",
             "description": "",
@@ -6821,6 +6901,21 @@
                     "name": "",
                     "postal_address": "102, rue Etienne Dolet 92240 Malakoff",
                     "gps_coordinates": "48.81319/2.30092"
+                }
+            ]
+        },
+        {
+            "name": "Ticatag",
+            "url": "http://www.ticatag.com",
+            "description": "Location Based Solutions for the #IoT market",
+            "keywords": "",
+            "twitter": "ticatag2013",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 rue Louis de Broglie 22300 Lannion",
+                    "gps_coordinates": "48.75931/-3.46104"
                 }
             ]
         },

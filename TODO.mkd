@@ -53,7 +53,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Airbus Defense & Space
 - Synox Group (SoFleet)
 - Assystem
-- BodyCap/Lacroix Electronics
 - Squoring Technologies
 ? Protecteam / http://www.protecteam.fr/
 ? Protel / http://www.protelsecurite.com
@@ -94,7 +93,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Schneider Electric / http://www.schneider-electric.com
 - Soitec / http://www.soitec.com
 - ST-Ericsson / http://www.stericsson.com
-- Sysgo / http://www.sysgo.com
 - Tea Ebook / http://www.tea-ebook.com
 - IFM / http://www.ifm.com
 - INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
@@ -104,22 +102,11 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - congatec AG France - http://www.congatec.com/fr/ - @congatec_france
 - Monixo - http://www.monixo.com/ - @MonixoSAS
 - Smockeo - https://www.smockeo.com - @Smockeo
-- AGUILA Technologies - http://aguila.fr - @AguilaTech
-- GreenWaves - http://greenwaves-technologies.com - @GreenWavesTech
-- SesameTouch - http://www.sesametouch.com - @SesameTouch
-- Ticatag - http://www.ticatag.com - @ticatag2013
-- LinkyTag - http://www.linkytag.com/ - @LinkyTag
-- Ingelec France - http://www.ingelec.net - @Ingelec_France
-- CRESITT INDUSTRIE - http://www.cresitt.com/ - @CRESITT
 - Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
 - http://www.kontron.com / Kontron Modular Computers S.A.S. / 150 rue Marcelin Berthelot BP 244 - ZI Toulon-Est 83078 Toulon Cedex 9 / http://www.kontron.com @Kontron
 - http://www.urbanpotager.com
 - SER - http://feu.routier.free.fr/signalisation-equipement-route.html
-- http://groupe-minerva.com borne sncf
-- http://www.clairitec.com - @Clairitec
-- http://www.lacroix-electronics.com - @LACROIX_Elec
 - Thalescom
-- ? http://www.capsuletech.com
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
 - ACS (Affiliated Computer Services)/Filiale de Xerox
