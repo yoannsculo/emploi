@@ -103,7 +103,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Monixo - http://www.monixo.com/ - @MonixoSAS
 - Smockeo - https://www.smockeo.com - @Smockeo
 - Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
-- http://www.kontron.com / Kontron Modular Computers S.A.S. / 150 rue Marcelin Berthelot BP 244 - ZI Toulon-Est 83078 Toulon Cedex 9 / http://www.kontron.com @Kontron
 - http://www.urbanpotager.com
 - SER - http://feu.routier.free.fr/signalisation-equipement-route.html
 - Thalescom
@@ -142,8 +141,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
 - http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
 - General Electric ouvrira un site à Nantes en 2017
-- http://www.elmleblanc.fr/
-- http://www.eisox.com/
+- http://www.elmleblanc.fr//
 - Valeo à Créteil
 - http://primo1d.com
 - http://www.get-emy.com/
@@ -158,8 +156,9 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Orange (Colombes) pour les STB
 - Orange Châtillon ??? Quel site là bas ?
 - http://www.kapsch.net/fr/ ? - Sick
-- Adeneo a changé de nom pour Witekio - http://www.lembarque.com/adeneo-embedded-devient-witekio-et-se-positionne-comme-integrateur-de-systemes-logiciels_005270
 - Il y a un siemens France à Châtillon - @Siemens_France c’est 8 sites industriels & 11 centres de R&D dont #LeHavre #Toulouse #Châtillon #Haguenau #Grenoble https://t.co/pyphNcdz5x
+- https://shadow.tech
+
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -195,6 +194,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - MODIS : Expert Linux Embarqué/ ROM Android (H/F)
 - http://sidereo.com
 - https://www.systra.com (Transport)
+- Systerel
+- Smile ECS (Embedded & Connected Systems) 
 
 ####Misc
 

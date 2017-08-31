@@ -1112,6 +1112,21 @@
             ]
         },
         {
+            "name": "CAILabs",
+            "url": "http://www.cailabs.com/",
+            "description": "optical beam shaping",
+            "keywords": "",
+            "twitter": "Cailabs",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "38 boulevard Albert 1er 35200 Rennes",
+                    "gps_coordinates": "48.08860/-1.68001"
+                }
+            ]
+        },
+        {
             "name": "Calao Systems",
             "url": "http://www.calao-systems.com",
             "description": "Embedded and secure computers, smart gateways.",
@@ -1849,6 +1864,21 @@
             ]
         },
         {
+            "name": "Diabeloop",
+            "url": "http://www.diabeloop.fr/",
+            "description": "Artificial pancreas",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "155 Cours Berriat 38000 Grenoble",
+                    "gps_coordinates": "45.18873/5.70457"
+                }
+            ]
+        },
+        {
             "name": "Diimotion",
             "url": "http://diimotion.com",
             "description": "Direct injection units for sprayers of farmers",
@@ -2235,6 +2265,21 @@
                     "name": "",
                     "postal_address": "3 Impasse de la Planchette, 75003 Paris",
                     "gps_coordinates": "48.86828/2.35576"
+                }
+            ]
+        },
+        {
+            "name": "Eisox",
+            "url": "https://www.eisox.fr",
+            "description": "Thermostat connecté",
+            "keywords": "",
+            "twitter": "EisoxCompany",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 Boulevard Jean Jeanneteau, 49100 Angers",
+                    "gps_coordinates": "47.49330/-0.55124"
                 }
             ]
         },
@@ -5242,6 +5287,21 @@
             ]
         },
         {
+            "name": "Objenious",
+            "url": "http://objenious.com",
+            "description": "Internet des Objets",
+            "keywords": "LoRa",
+            "twitter": "objenious",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20 rue Troyon 92310 Sèvres",
+                    "gps_coordinates": "48.82584/2.22663"
+                }
+            ]
+        },
+        {
             "name": "OCEASOFT",
             "url": "http://www.oceasoft.com",
             "description": "Smart wireless sensors",
@@ -6384,6 +6444,21 @@
             ]
         },
         {
+            "name": "Smarto",
+            "url": "http://smarto.fr",
+            "description": "L'ingénierie des objets communicants et intelligents",
+            "keywords": "",
+            "twitter": "ContactSmarto",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le River Seine 25, quai Gallieni 92150 Suresnes",
+                    "gps_coordinates": "48.87093/2.23166"
+                }
+            ]
+        },
+        {
             "name": "Smartware",
             "url": "http://www.smartware.fr",
             "description": "Contactless secure elements (Smartcard, NFC microSD, M2M)",
@@ -7238,6 +7313,26 @@
             ]
         },
         {
+            "name": "Witekio",
+            "url": "https://witekio.com",
+            "description": "Software System Integrator",
+            "keywords": "",
+            "twitter": "Witekio_int",
+            "comment": "Ex Adeneo Embedded",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4, rue Emile Baudot 91120 Palaiseau",
+                    "gps_coordinates": "48.71975/2.26257"
+                },
+                {
+                    "name": "",
+                    "postal_address": "4, chemin du Ruisseau  69134 Ecully",
+                    "gps_coordinates": "45.77036/4.78509"
+                }
+            ]
+        },
+        {
             "name": "Nokia Technologies France",
             "url": "https://health.nokia.com",
             "description": "connected health devices",
@@ -7248,6 +7343,21 @@
                     "name": "",
                     "postal_address": "2 rue Maurice Hartmann, 92130 ISSY LES MOULINEAUX",
                     "gps_coordinates": "48.827632/2.283566"
+                }
+            ]
+        },
+        {
+            "name": "Wavely",
+            "url": "http://wavely.fr",
+            "description": "Capteurs acoustiques",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "165 avenue de Bretagne 59000 LILLE",
+                    "gps_coordinates": "50.63333/3.01953"
                 }
             ]
         },
