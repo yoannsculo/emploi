@@ -4972,12 +4972,13 @@
         {
             "name": "Netgem",
             "url": "http://www.netgem.com",
-            "description": "",
+            "description": "TelcoTV",
+            "twitter": "Netgem",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "27, rue d'Orléans 92200 Neuilly sur Seine",
-                    "gps_coordinates": "48.88296/2.27311"
+                    "postal_address": "10 Avenue de l'Arche 92400 Courbevoie",
+                    "gps_coordinates": "48.89552/2.23894"
                 }
             ]
         },
