@@ -1930,8 +1930,13 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "96 BIS boulevard Raspail 75006 Paris",
-                    "gps_coordinates": "48.84616/2.32800"
+                    "postal_address": "43 RUE DU FAUBOURG SAINT ANTOINE - 75011 PARIS",
+                    "gps_coordinates": "48.85244/2.37234"
+                },
+                {
+                    "name": "",
+                    "postal_address": "231 RUE PIERRE ET MARIE CURIE - 31670 LABEGE",
+                    "gps_coordinates": "43.54547/1.51377"
                 }
             ]
         },
