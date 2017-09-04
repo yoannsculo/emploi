@@ -113,6 +113,23 @@
             ]
         },
         {
+            "name": "Actris",
+            "url": "https://www.actris.com",
+            "description": "Ingénierie informatique et électronique",
+            "locations": [
+                {
+                    "name": "Actris",
+                    "postal_address": "24 Rue Victor Grignard, 29490 Guipavas",
+                    "gps_coordinates": "48.426466/-4.451503"
+                },
+                {
+                    "name": "Actris",
+                    "postal_address": "3 place Verrazzano, 69009 Lyon",
+                    "gps_coordinates": "45.787299/4.813159"
+                }
+             ]
+        },
+        {
             "name": "Adacore",
             "url": "http://www.adacore.com",
             "description": "commercial software solutions for Ada",
@@ -3964,18 +3981,6 @@
             ]
         },
         {
-            "name": "IS2T",
-            "url": "http://www.is2t.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
-                    "gps_coordinates": "47.25263/-1.51155"
-                }
-            ]
-        },
-        {
             "name": "Itron",
             "url": "https://www.itron.com",
             "description": "Technology and services company dedicated to the resourceful use of energy and water",
@@ -4703,6 +4708,28 @@
                     "gps_coordinates": "43.55379/1.41536"
                 }
             ]
+        },
+        {
+            "name": "Microej",
+            "url": "http://www.microej.com/",
+            "description": "Solutions pour l'embarqué et l'IOT",
+            "locations": [
+		{
+                    "name": "Microej",
+                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
+                    "gps_coordinates": "47.25263/-1.51155"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "5 avenue Carnot, 91300 Massy",
+                    "gps_coordinates": "48.729338/2.268240"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "51 traverse de la Gouffonne, 13009 Marseille",
+                    "gps_coordinates": "43.249713/5.408445"
+		}
+	    ]
         },
         {
             "name": "Micronics",
@@ -6770,6 +6797,28 @@
                     "name": "",
                     "postal_address": "C.E.E.I 21 rue de Loigny la Bataille 28000 CHARTRESC.E.E.I 21 rue de Loigny la Bataille 28000 CHARTRES",
                     "gps_coordinates": "48.43580/1.48742"
+                }
+            ]
+        },
+        {
+            "name": "Systerel",
+            "url": "http://www.systerel.fr/",
+            "description": "Solutions temps réel sécurisées",
+            "locations": [
+                {
+                    "name": "Systerel Aix-en-Provence",
+                    "postal_address": "Les Portes de l’Arbois Bâtiment A 1090 rue René Descartes, 13100 Aix-en-Provence",
+                    "gps_coordinates": "43.495394/5.346733"
+                },
+                {
+                    "name": "Systerel Paris",
+                    "postal_address": "3 rue Danton, 92240 Malakoff",
+                    "gps_coordinates" "48.822543/2.301099"
+                },
+                {
+                    "name": "Systerel Toulouse",
+                    "postal_address": "La Maison des Lois 2 impasse Michel Labrousse, 31036 Toulouse",
+                    "gps_coordinates" "43.56829/1.39113"
                 }
             ]
         },
