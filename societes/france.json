@@ -4445,18 +4445,6 @@
             ]
         },
         {
-            "name": "IS2T",
-            "url": "http://www.is2t.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
-                    "gps_coordinates": "47.25263/-1.51155"
-                }
-            ]
-        },
-        {
             "name" : "Itekube" ,
             "url" : "http://www.itekube.com" ,
             "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
@@ -5256,6 +5244,28 @@
                     "gps_coordinates": "43.55379/1.41536"
                 }
             ]
+        },
+        {
+            "name": "Microej",
+            "url": "http://www.microej.com/",
+            "description": "Solutions pour l'embarqué et l'IOT",
+            "locations": [
+		{
+                    "name": "Microej",
+                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
+                    "gps_coordinates": "47.25263/-1.51155"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "5 avenue Carnot, 91300 Massy",
+                    "gps_coordinates": "48.729338/2.268240"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "51 traverse de la Gouffonne, 13009 Marseille",
+                    "gps_coordinates": "43.249713/5.408445"
+		}
+	    ]
         },
         {
             "name": "Micronics",
