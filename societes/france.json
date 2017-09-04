@@ -7557,6 +7557,18 @@
             ]
         },
         {
+            "name": "VRV Pod",
+            "url": "http://vrvprod.fr",
+            "description": "vous ne regardez plus l'événement, vous êtes dans l'événement",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 rue Léopold Sédar Senghor, Bâtiment Erable, 14460 Colombelles",
+                    "gps_coordinates": "49.1882665/-0.3096618"
+                }
+            ]
+        },
+        {
             "name": "Zodiac Aérospace",
             "url": "http://www.zodiacaerospace.com",
             "description": "",
