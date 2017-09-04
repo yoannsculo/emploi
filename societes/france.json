@@ -4539,6 +4539,21 @@
             ]
         },
         {
+            "name": "Japet Medical Devices",
+            "url": "http://japet.eu",
+            "description": "Japet Medical Devices develops the first exoskeleton to relieve back pain patients while allowing them to retrain their bodies",
+            "keywords": "medical",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue du Professeur Laguesse - 59000 Lille",
+                    "gps_coordinates": "50.60844/3.03869"
+                }
+            ]
+        },
+        {
             "name": "JCDecaux",
             "url": "http://www.jcdecaux.fr",
             "description": "",
