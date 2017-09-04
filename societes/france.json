@@ -5450,6 +5450,18 @@
                 }
             ]
         },
+	{
+            "name": "Open Mind innovation",
+            "url": "https://omind.me",
+            "description": "Nous développons des neurotechnologies pour stimuler la plasticité cérébrale.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Avenue de la Côte de Nacre, 14033 Caen",
+                    "gps_coordinates": "49.205324,-0.3598187"
+                }
+            ]
+        },
         {
             "name": "Open Wide Ingénierie",
             "url": "http://ingenierie.openwide.fr",
