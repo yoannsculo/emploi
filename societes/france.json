@@ -9670,6 +9670,18 @@
             ]
         },
         {
+            "name" : "Siatech" ,
+            "url" :  "http://www.siatech.fr" ,
+            "description" :  "The first hand free wireless controler designed for industrial applications." ,
+            "locations" : [
+                {
+                    "name" : "",
+                    "postal_address" : "73 rue martinville, 76000 Rouen, FRANCE" ,
+                    "gps_coordinates" : "49.4386825/1.1001491"
+                }
+            ]
+        },
+        {
             "name": "Smokio",
             "url": "http://www.smokio.com",
             "description": "Smart wireless vaporizer",
