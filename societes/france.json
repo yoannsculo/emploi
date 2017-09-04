@@ -853,6 +853,18 @@
             ]
         },
         {
+            "name": "Aykow",
+            "url": "http://www.aykow.fr",
+            "description": "Préservation de l’environnement et des Hommes, nous avons conçu et apporté des innovations notables pour proposer des instruments de détection de la radioactivité ne présentant aucun danger pour la nature ni pour l’homme.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 rue Pierre Girard 14000 CAEN FRANCE",
+                    "gps_coordinates": "49.1759153/-0.3556703"
+                }
+            ]
+        },
+        {
             "name": "Balyo",
             "url": "http://www.balyo.com",
             "description": "Robotic solutions for the automated transport of pallets",
