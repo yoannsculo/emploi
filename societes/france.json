@@ -3988,6 +3988,18 @@
             ]
         },
         {
+            "name" : "Itekube" ,
+            "url" : "http://www.itekube.com" ,
+            "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
+            "locations" : [
+                {
+                    "name" : "",
+                    "postal_address" : "ESPACE FRESNEL Immeuble Res Publica 9 rue Raymonde Bail, 14000 Caen, France" ,
+                    "gps_coordinates" : "49.16326/-0.35594"
+                }
+            ]
+        },
+        {
             "name": "Itron",
             "url": "https://www.itron.com",
             "description": "Technology and services company dedicated to the resourceful use of energy and water",
