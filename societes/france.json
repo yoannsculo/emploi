@@ -8998,6 +8998,18 @@
             ]
         },
         {
+            "name": "S2f network",
+            "url": "http://www.s2fnetwork.fr",
+            "description": "S2F network propose des offres très innovantes et sur-mesure adaptées aux environnements complexes et exigeants",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "27 rue Gabriel Péri, 76600 LE HAVRE, FRANCE",
+                    "gps_coordinates": "49.494164/0.118047"
+                }
+            ]
+        },
+        {
             "name": "Sabatier Géolocalisation",
             "url": "http://geolocalisation-sabatier.fr",
             "description": "On-board computer programs",
