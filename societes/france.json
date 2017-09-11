@@ -1995,18 +1995,6 @@
             ]
         },
         {
-            "name": "e-device",
-            "url": "http://www.edevice.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Parc Cadéra Sud, Bât. P2 - Avenue Ariane - 33700 Mérignac",
-                    "gps_coordinates": "44.833141/-0.679489"
-                }
-            ]
-        },
-        {
             "name": "e2v",
             "url": "http://www.e2v.com",
             "description": "RF Power, Semiconductor and Imaging technologies",
