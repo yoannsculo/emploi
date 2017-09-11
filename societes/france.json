@@ -2691,6 +2691,18 @@
             ]
         },
         {
+            "name": "Elocky",
+            "url": "https://elocky.com",
+            "description": "Serrure connectée bluetooth smartlock",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "213 Cours Victor Hugo, 33130 Bègles",
+                    "gps_coordinates": "44.80546/-0.55986"
+                }
+            ]
+        },
+        {
             "name": "Elster",
             "url": "http://www.elster.com",
             "description": "Intelligent metering & communications solutions engineered for electricity, gas & water utilities in the traditional & smart grid markets.",
