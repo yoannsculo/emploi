@@ -6837,6 +6837,21 @@
             ]
         },
         {
+            "name": "Telecom Design",
+            "url": "http://www.telecom-design.com",
+            "description": "Internet of Things global enabler",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2, bis rue Nully de Harcourt, 33610 Canéjan",
+                    "gps_coordinates": "44.77258/-0.65017"
+                }
+            ]
+        },
+        {
             "name": "Telorion",
             "url": "http://www.telorion.com",
             "description": "",
