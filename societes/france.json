@@ -4250,6 +4250,20 @@
             ]
         },
         {
+            "name": "Innovatis Systems",
+            "url": "http://www.innovatis-systems.fr",
+            "description": "Bureau d'étude en électronique et informatique",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Site Montesquieu, 8 Rue Isaac Newton, 33600 Martillac",
+                    "gps_coordinates": "44.70760/-0.58497"
+                }
+            ]
+        },
+        {
             "name": "INSIDE Secure",
             "url": "http://www.insidesecure.com",
             "description": "Embedded security systems",
