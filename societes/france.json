@@ -6665,18 +6665,6 @@
             ]
         },
         {
-            "name": "Stantum",
-            "url": "http://edu.stantum.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "107 Cours Balguerie Stuttenberg 33300 Bordeaux",
-                    "gps_coordinates": "44.859128/-0.565747"
-                }
-            ]
-        },
-        {
             "name": "Stereolabs",
             "url": "http://www.stereolabs.com/",
             "description": "Stereoscopic 3D video processing solutions",
