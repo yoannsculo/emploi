@@ -1995,18 +1995,6 @@
             ]
         },
         {
-            "name": "e-device",
-            "url": "http://www.edevice.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Parc Cadéra Sud, Bât. P2 - Avenue Ariane - 33700 Mérignac",
-                    "gps_coordinates": "44.833141/-0.679489"
-                }
-            ]
-        },
-        {
             "name": "e2v",
             "url": "http://www.e2v.com",
             "description": "RF Power, Semiconductor and Imaging technologies",
@@ -2331,6 +2319,18 @@
                     "name": "",
                     "postal_address": "Parc de l'innovation 1 rue de Menin 59520 Marquette-Lez-Lille",
                     "gps_coordinates": "50.67817/3.08204"
+                }
+            ]
+        },
+        {
+            "name": "Elocky",
+            "url": "https://elocky.com",
+            "description": "Serrure connectée bluetooth smartlock",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "213 Cours Victor Hugo, 33130 Bègles",
+                    "gps_coordinates": "44.80546/-0.55986"
                 }
             ]
         },
@@ -2666,18 +2666,6 @@
                     "name": "",
                     "postal_address": "35 Rue des Chantiers 78000 Versailles",
                     "gps_coordinates": "48.79595/2.13862"
-                }
-            ]
-        },
-        {
-            "name": "Eukrea Electromatique",
-            "url": "http://www.eukrea.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "74 avenue Jean Jaurès 33 600 PESSAC",
-                    "gps_coordinates": "44.80858/-0.62428"
                 }
             ]
         },
@@ -3760,6 +3748,20 @@
                     "name": "",
                     "postal_address": "Bâtiment 503 Centre universitaire d'Orsay 91400 Orsay",
                     "gps_coordinates": "48.70656/2.17456"
+                }
+            ]
+        },
+        {
+            "name": "Innovatis Systems",
+            "url": "http://www.innovatis-systems.fr",
+            "description": "Bureau d'étude en électronique et informatique",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Site Montesquieu, 8 Rue Isaac Newton, 33600 Martillac",
+                    "gps_coordinates": "44.70760/-0.58497"
                 }
             ]
         },
@@ -6677,18 +6679,6 @@
             ]
         },
         {
-            "name": "Stantum",
-            "url": "http://edu.stantum.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "107 Cours Balguerie Stuttenberg 33300 Bordeaux",
-                    "gps_coordinates": "44.859128/-0.565747"
-                }
-            ]
-        },
-        {
             "name": "Stereolabs",
             "url": "http://www.stereolabs.com/",
             "description": "Stereoscopic 3D video processing solutions",
@@ -6843,6 +6833,21 @@
                     "name": "",
                     "postal_address": "19 avenue de Norvège Villebon sur Yvette 91953 COURTABOEUF CEDEX ",
                     "gps_coordinates": "48.69262/2.21523"
+                }
+            ]
+        },
+        {
+            "name": "Telecom Design",
+            "url": "http://www.telecom-design.com",
+            "description": "Internet of Things global enabler",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2, bis rue Nully de Harcourt, 33610 Canéjan",
+                    "gps_coordinates": "44.77258/-0.65017"
                 }
             ]
         },
