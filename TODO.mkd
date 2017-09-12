@@ -158,7 +158,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.kapsch.net/fr/ ? - Sick
 - Il y a un siemens France à Châtillon - @Siemens_France c’est 8 sites industriels & 11 centres de R&D dont #LeHavre #Toulouse #Châtillon #Haguenau #Grenoble https://t.co/pyphNcdz5x
 - https://shadow.tech
-- https://www.numworks.com/
+- GE Healthcare
+- http://www.opteya.com/ ?
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -197,6 +198,11 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Systerel
 - Smile ECS (Embedded & Connected Systems) 
 
+### Closed companies (to specify in a new field)
+
+- Modulowatt
+- Airtag
+
 ####Misc
 
 - Rename NDS into Cisco
@@ -221,5 +227,9 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Percepio - http://percepio.com - @percepio / Sweden
 
 - http://www.ekiosa.eu/34265/About-us - The Netherlands
+
+#### USA
+
+- https://boundarydevices.com
 
 - HID Global - https://www.hidglobal.com / @HIDGlobal / "secure identity solutions"
