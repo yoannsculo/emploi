@@ -212,6 +212,21 @@
             ]
         },
         {
+            "name": "Agilack",
+            "url": "http://www.agilack.fr",
+            "description": "Bureau d'études électronique et informatique",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 avenue Jules Verne, 44230 Saint Sébastien sur loire",
+                    "gps_coordinates": "47.21050/-1.48639"
+                }
+            ]
+        },
+        {
             "name": "Agixis",
             "url": "http://www.agixis.com/",
             "comment": "SSII ?",
@@ -1411,6 +1426,26 @@
                     "name": "",
                     "postal_address": "26-40 rue d'Oradour-sur-Glane - 75015 Paris",
                     "gps_coordinates": "48.83100/2.28284"
+                }
+            ]
+        },
+        {
+            "name": "Citel",
+            "url": "http://www.citel.fr/",
+            "description": "protection of electrical equipment, data, and fixed and mobile telephony as well as for photovoltaic installations against transient overvoltages",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue Troyon 92316 Sèvres CEDEX",
+                    "gps_coordinates": "48.82660/2.22444"
+                },
+                {
+                    "name": "",
+                    "postal_address": "3, impasse de la Blanchisserie BP 56 51052 Reims CEDEX",
+                    "gps_coordinates": "49.24050/4.03497"
                 }
             ]
         },
@@ -2841,6 +2876,26 @@
             ]
         },
         {
+            "name": "Finsecur",
+            "url": "https://www.finsecur.com/",
+            "description": "conception, fabrication, et maintenance de Systèmes de Sécurité Incendie",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "62 rue Ernest Renan  92000 NANTERRE",
+                    "gps_coordinates": "48.89548/2.18696"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9 allée des Ginkgos 69500 BRON",
+                    "gps_coordinates": "45.73917/4.93207"
+                }
+            ]
+        },
+        {
             "name": "ffly4u",
             "url": "http://www.ffly4u.com",
             "description": "low frequency European locating service for reusable assets based on a new, low cost technology",
@@ -4111,6 +4166,21 @@
             ]
         },
         {
+            "name": "Kaertech",
+            "url": "http://www.kaertech.com",
+            "description": "usine d'objets connectés",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 RUE GARNIER - 92200 NEUILLY SUR SEINE",
+                    "gps_coordinates": "48.88556/2.26052"
+                }
+            ]
+        },
+        {
             "name": "Kalray",
             "url": "http://www.kalray.eu",
             "description": "Many-core Processors, Multi-core, Parallel computing, Embedded, Super Computing",
@@ -4654,6 +4724,36 @@
                     "name": "",
                     "postal_address": "8 rue Edouard Vallerand 94100 Saint-Maur des Fossés - FRANCE",
                     "gps_coordinates": "48.80414/2.48310"
+                }
+            ]
+        },
+        {
+            "name": "Makehitec",
+            "url": "https://makehitec.com/",
+            "description": "industrial software, embedded and critical software and mobile apps.",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 rue Georges Millandy Meudon La Forêt",
+                    "gps_coordinates": "48.78478/2.23083"
+                }
+            ]
+        },
+        {
+            "name": "Mauna Kea Technologies",
+            "url": "http://www.maunakeatech.com",
+            "description": "real time digital in vivo cellular visualization",
+            "keywords": "",
+            "twitter": "maunakeatech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9, rue d’Enghien 75010 Paris",
+                    "gps_coordinates": "48.87164/2.35246"
                 }
             ]
         },
@@ -5782,6 +5882,21 @@
             ]
         },
         {
+            "name": "Pixinov",
+            "url": "http://pixinov.com",
+            "description": "custom systems development and production",
+            "keywords": "",
+            "twitter": "pixinov",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "23 rue Alfred Nobel 77420 Champs-sur-Marne",
+                    "gps_coordinates": "48.83795/2.59014"
+                }
+            ]
+        },
+        {
             "name": "Pixium Vision",
             "url": "http://www.pixium-vision.com",
             "description": "bionic vision",
@@ -6417,6 +6532,21 @@
             ]
         },
         {
+            "name": "Siligence",
+            "url": "http://www.siligence-sas.fr/",
+            "description": "product development, manufacturing, shipment and after-sales",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "59 rue l'ancienne Mairie 92100 Boulogne Billancourt",
+                    "gps_coordinates": "48.83617/2.23458"
+                }
+            ]
+        },
+        {
             "name": "Silkan",
             "url": "https://www.silkan.com",
             "description": "Embedded simulation",
@@ -6691,6 +6821,21 @@
                     "name": "",
                     "postal_address": "18 rue de la Gâtine, ZAC du Cormier BP 50426 49304 Cholet",
                     "gps_coordinates": "47.03769/-0.91972"
+                }
+            ]
+        },
+        {
+            "name": "Spectracom",
+            "url": "https://spectracom.com/",
+            "description": "Global Positioning, Navigation, Timing",
+            "keywords": "",
+            "twitter": "SpectracomNews",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technopolis - Bat. Sigma 3, Avenue du Canada 91974 Les Ulis Cedex",
+                    "gps_coordinates": "48.68713/2.19482"
                 }
             ]
         },
