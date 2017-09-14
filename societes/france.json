@@ -1874,6 +1874,18 @@
             ]
         },
         {
+            "name": "Cryptovia",
+            "url": "http://cryptovia.com",
+            "description": "Cryptographic libraries for embedded systems",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 RUE CARDINAL PAUL GOUYON 35000 RENNES FRANCE",
+                    "gps_coordinates": "48.1172641/-1.6904887"
+                }
+            ]
+        },
+        {
             "name": "C-way",
             "url": "https://hellocway.com",
             "description": "Objets connectés pour bébés/enfants",
