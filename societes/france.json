@@ -10942,6 +10942,18 @@
             ]
         },
         {
+            "name": "Ubiscale",
+            "url": "http://ubiscale.com",
+            "description": "Technology Enabler for Geolocated IoT",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 avenue de Bellefontaine, 35510 Cesson Sévigné – France",
+                    "gps_coordinates": "48.1280311/-1.6302628"
+                }
+            ]
+        },
+        {
             "name": "UrbanHello",
             "url": "http://www.urbanhello.com",
             "description": "Child clock and baby monitor",
