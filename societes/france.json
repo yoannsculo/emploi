@@ -950,6 +950,18 @@
             ]
         },
         {
+            "name": "BAHealthcare",
+            "url": "http://www.bahealthcare.eu",
+            "description": "The mobility brought to Healthcare",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9, route de Chavagne, 35310 Mordelles, France",
+                    "gps_coordinates": "48.0706072/-1.8388045"
+                }
+            ]
+        },
+        {
             "name": "Balyo",
             "url": "http://www.balyo.com",
             "description": "Robotic solutions for the automated transport of pallets",
