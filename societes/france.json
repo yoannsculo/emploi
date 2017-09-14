@@ -2070,6 +2070,21 @@
             ]
         },
         {
+            "name": "Diafir",
+            "url": "http://www.diafir.com/",
+            "description": "Innovative Diagnostic Solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Lorans, 26J Avenue Chardonnet, 35000 Rennes, France",
+                    "gps_coordinates": "48.1085771/-1.6386771"
+                }
+            ]
+        },
+        {
             "name": "Diimotion",
             "url": "http://diimotion.com",
             "description": "Direct injection units for sprayers of farmers",
