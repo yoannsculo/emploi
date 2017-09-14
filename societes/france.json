@@ -5331,6 +5331,18 @@
             ]
         },
         {
+            "name": "Nemeus",
+            "url": "https://www.nemeus.fr",
+            "description": "LONG RANGE WIRELESS SOLUTION",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "36 rue des Landelles 35510 Cesson-Sévigné Bretagne – France",
+                    "gps_coordinates": "48.0997792/-1.6241606"
+                }
+            ]
+        },
+        {
             "name": "Neotion",
             "url": "http://www.neotion.com",
             "description": "Conditional Access Modules dedicated to Pay TV Operators",
