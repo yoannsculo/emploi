@@ -7451,6 +7451,22 @@
                 }
             ]
         },
+        {
+            "name": "Tibot",
+            "url": "http://www.tibot.fr",
+            "description": "TIBOT invente le robot d'assistance pour l'aviculture",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 Rue des Prés Mêlés, 35230 Saint-Erblon",
+                    "gps_coordinates": "48.015762/-1.6637197"
+                }
+            ]
+        },
+        {
             "name": "Ticatag",
             "url": "http://www.ticatag.com",
             "description": "Location Based Solutions for the #IoT market",
