@@ -1068,9 +1068,129 @@
             "description": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "32 Avenue Michelet, 93400 Saint-Ouen",
-                    "gps_coordinates": "48.91192/2.34244"
+                    "name": "Bosch Automotive Service Solutions",
+                    "postal_address": "Immeuble Cerium  21-23, Rue du Petit Albi  95800 Cergy",
+                    "gps_coordinates": "49.05491/2.03456"
+                },
+                {
+                    "name": "Bosch Rexroth SAS",
+                    "postal_address": "Avenue de la Trentaine  77500 Chelles",
+                    "gps_coordinates": "48.86958/2.60103"
+                },
+                {
+                    "name": "Bosch - e.l.m. leblanc",
+                    "postal_address": "124 RUE DE STALINGRAD - 93700 DRANCY",
+                    "gps_coordinates": "48.91663/2.42516"
+                },
+                {
+                    "name": "Bosch Centre de Service SAS",
+                    "postal_address": "Tour du Val de Rosselle  2, rue de Metz 57800 Freyming-Merlebach",
+                    "gps_coordinates": "49.14272/6.81230"
+                },
+                {
+                    "name": "Bosch Thermotechnologie SAS",
+                    "postal_address": "4, rue Wilhelm Schaeffler 67501 Haguenau",
+                    "gps_coordinates": "48.82661/7.76593"
+                },
+                {
+                    "name": "Bosch Packaging Services SARL",
+                    "postal_address": "31, route de la Wantzenau 67800 Hoenheim",
+                    "gps_coordinates": "48.63321/7.76772"
+                },
+                {
+                    "name": "Bosch Centre d’essais",
+                    "postal_address": "Route départementale 1044 02190 Juvincourt-et-Damary",
+                    "gps_coordinates": "49.4192/3.8824"
+                },
+                {
+                    "name": "Bosch Automotive Service Solutions",
+                    "postal_address": "Avenue Pierre Gilles de Gennes  72400 La Ferté-Bernard",
+                    "gps_coordinates": "48.16309/0.63741"
+                },
+                {
+                    "name": "Bosch - Gaggenau Industrie S.A",
+                    "postal_address": "Rue Beaudelaire  67640 Lipsheim",
+                    "gps_coordinates": "48.49556/7.67301"
+                },
+                {
+                    "name": "Robert Bosch Automotive Steering Marignier SAS",
+                    "postal_address": "326, impasse des Cèdres  74970 Marignier",
+                    "gps_coordinates": "46.08872/6.50023"
+                },
+                {
+                    "name": "Bosch",
+                    "postal_address": "Europarc Sainte Victoire Bâtiment 4 Route de Valbrillant  13590 Meyreuil",
+                    "gps_coordinates": "43.49216/5.52338"
+                },
+                {
+                    "name": "Robert Bosch France SAS",
+                    "postal_address": "15, rue Charles de Coulomb 14125 Mondeville",
+                    "gps_coordinates": "49.16458/-0.31269"
+                },
+                {
+                    "name": "Robert Bosch France SAS",
+                    "postal_address": "176, route de Lyon  03400 Yzeure",
+                    "gps_coordinates": "46.53957/3.34645"
+                },
+                {
+                    "name": "Bosch - Holger Christiansen France SAS",
+                    "postal_address": "ZAC des Aulnaies 550, rue de la Juine  45160 Olivet",
+                    "gps_coordinates": "47.84773/1.91551"
+                },
+                {
+                    "name": "Robert Bosch France SAS",
+                    "postal_address": "Parc d’activités de Cantaranne - BP 3212 12032 Rodez Cedex 9",
+                    "gps_coordinates": "44.36032/2.60021"
+                },
+                {
+                    "name": "Bosch Rexroth SAS",
+                    "postal_address": "19, Rue Martin Luther King  38400 Saint-Martin-d’Hères",
+                    "gps_coordinates": "45.17669/5.75979"
+                },
+                {
+                    "name": "Robert Bosch France SAS",
+                    "postal_address": "32, avenue Michelet 93404 Saint-Ouen",
+                    "gps_coordinates": "48.91168/2.34267"
+                },
+                {
+                    "name": "BSH Electroménager",
+                    "postal_address": "26, avenue Michelet",
+                    "gps_coordinates": "48.91156/2.34391"
+                },
+                {
+                    "name": "Bosch Thermotechnologie SAS",
+                    "postal_address": "16, rue des Ecoles  29410 Saint-Thégonnec",
+                    "gps_coordinates": "48.51691/-3.93993"
+                },
+                {
+                    "name": "Bosch Visiontec",
+                    "postal_address": "1047 Route des Dolines 25 Allée Pierre Ziller  06901 VALBONNE SOPHIA ANTIPOLIS",
+                    "gps_coordinates": "43.62714/7.04115"
+                },
+                {
+                    "name": "Centre logistique BSH Electroménager",
+                    "postal_address": "4 rue Auguste Perdonnet  77220 Tournan en Brie",
+                    "gps_coordinates": "48.73860/2.78410"
+                },
+                {
+                    "name": "Robert Bosch Automotive Steering Vendôme SAS",
+                    "postal_address": "2, route de Blois  41100 Vendôme",
+                    "gps_coordinates": "47.7761/1.0799"
+                },
+                {
+                    "name": "Robert Bosch France SAS",
+                    "postal_address": "41-47, boulevard Marcel Sembat  69200 Vénissieux",
+                    "gps_coordinates": "45.71426/4.88155"
+                },
+                {
+                    "name": "Bosch Rexroth SAS",
+                    "postal_address": "91, boulevard Irène Joliot Curie  69634 Vénissieux",
+                    "gps_coordinates": "45.71231/4.88252"
+                },
+                {
+                    "name": "Bosch - sia Abrasives France",
+                    "postal_address": "22, avenue des Nations  93240 Villepinte",
+                    "gps_coordinates": "48.97280/2.50972"
                 }
             ]
         },
