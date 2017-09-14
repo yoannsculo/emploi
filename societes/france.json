@@ -2896,6 +2896,21 @@
             ]
         },
         {
+            "name": "Fizimed",
+            "url": "http://www.get-emy.com",
+            "description": "sonde connectée contre les fuites urinaires",
+            "keywords": "",
+            "twitter": "Emy_GetControl",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Rue de l'Académie, 67000 Strasbourg",
+                    "gps_coordinates": "48.58180/7.76092"
+                }
+            ]
+        },
+        {
             "name": "ffly4u",
             "url": "http://www.ffly4u.com",
             "description": "low frequency European locating service for reusable assets based on a new, low cost technology",
@@ -4999,6 +5014,21 @@
             ]
         },
         {
+            "name": "MyLight Systems",
+            "url": "https://www.mylight-systems.com/",
+            "description": "fabricant de systèmes intelligents d’autoconsommation solaire",
+            "keywords": "",
+            "twitter": "mylight_systems",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "290 Rue Ferdinand Perrier, 69800 Saint-Priest",
+                    "gps_coordinates": "45.70495/4.98813"
+                }
+            ]
+        },
+        {
             "name": "Myriad Group",
             "url": "http://www.myriadgroup.com",
             "description": "",
@@ -5955,6 +5985,21 @@
                     "name": "",
                     "postal_address": "44 rue Pierre Joseph Proudhon 78800 HOUILLES",
                     "gps_coordinates": "48.93364/2.19997"
+                }
+            ]
+        },
+        {
+            "name": "PRIMO1D",
+            "url": "http://www.primo1d.com",
+            "description": "Internet of Things ",
+            "keywords": "",
+            "twitter": "Primo1DSAS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "c/o MINATEC Entreprises – BHT  7, parvis Louis Néel  F- 38040 Grenoble Cedex 9",
+                    "gps_coordinates": "45.19516/5.71006"
                 }
             ]
         },
