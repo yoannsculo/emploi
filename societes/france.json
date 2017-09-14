@@ -7562,6 +7562,20 @@
             ]
         },
         {
+            "name": "Therenva",
+            "url": "http://www.therenva.com",
+            "description": "Share medical innovation",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue Henri Le Guilloux, 35000 Rennes France",
+                    "gps_coordinates": "48.118622/-1.6940837"
+                }
+            ]
+        },
             "name": "Ticatag",
             "url": "http://www.ticatag.com",
             "description": "Location Based Solutions for the #IoT market",
