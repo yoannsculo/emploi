@@ -3630,6 +3630,21 @@
             ]
         },
         {
+            "name": "Gwagenn",
+            "url": "http://www.gwagenn.com/",
+            "description": "Beyond the waves",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Pépinière Odyssée – Parc Atalante, 7 allée Métis – Bâtiment B n°13, 35400 Saint-Malo",
+                    "gps_coordinates": "48.6228371/-1.9879282"
+                }
+            ]
+        },
+        {
             "name": "Hager Group",
             "url": "http://www.hagergroup.com/",
             "description": "solutions and services for electrical installations in residential, commercial and industrial buildings",
