@@ -622,6 +622,21 @@
             ]
         },
         {
+            "name": "A.R.P. SIGNAL",
+            "url": "http://www.arpsignal.com/",
+            "description": "Signalisation et Equipement de la Route",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "166, Allée Saint Brisson 51120 SEZANNE",
+                    "gps_coordinates": "48.72636/3.72187"
+                }
+            ]
+        },
+        {
             "name": "Aryballe Technologies",
             "url": "http://aryballe-technologies.com/",
             "description": "universal sensors",
@@ -1072,6 +1087,21 @@
                     "name": "",
                     "postal_address": "24 rue du Faubourg Saint Jacques 75014 Paris",
                     "gps_coordinates": "48.83746/2.33852"
+                }
+            ]
+        },
+        {
+            "name": "Birota",
+            "url": "",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 RUE DU QUATRE SEPTEMBRE - 92170 VANVES",
+                    "gps_coordinates": "48.82670/2.28615"
                 }
             ]
         },
@@ -1648,6 +1678,21 @@
                     "name": "",
                     "postal_address": "3, impasse de la Blanchisserie BP 56 51052 Reims CEDEX",
                     "gps_coordinates": "49.24050/4.03497"
+                }
+            ]
+        },
+        {
+            "name": "Citilog",
+            "url": "http://www.citilog.com",
+            "description": "video-based monitoring and surveillance products to the transportation market",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19/21, rue du 8 mai 1945 94110 Arcueil",
+                    "gps_coordinates": "48.80113/2.32890"
                 }
             ]
         },
@@ -2441,6 +2486,21 @@
                     "name": "",
                     "postal_address": "30 Place d'Italie 75013 Paris",
                     "gps_coordinates": "48.83051/2.35566"
+                }
+            ]
+        },
+        {
+            "name": "ECI Signalisation",
+            "url": "http://www.eci-signalisation.fr",
+            "description": "signalisation tricolore à led",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 chemin saint Marc 45500 Saint Gondon",
+                    "gps_coordinates": "47.69240/2.55353"
                 }
             ]
         },
@@ -3626,6 +3686,21 @@
                     "name": "",
                     "postal_address": "ZI Les Bois de Grasse 7 avenue Michel Chevalier 06130 GRASSE",
                     "gps_coordinates": "43.62542/6.93739"
+                }
+            ]
+        },
+        {
+            "name": "GROLLEAU",
+            "url": "http://www.grolleau.fr",
+            "description": "solutions d’enveloppes métalliques intégrées",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Rue du Moulin de la Buie 49310 Montilliers",
+                    "gps_coordinates": "47.18871/-0.51259"
                 }
             ]
         },
@@ -6689,6 +6764,21 @@
                     "name": "",
                     "postal_address": "Les portes de la Défense - Hall A, 15/55 boulevard Charles de Gaulle, 92700 Colombes, France",
                     "gps_coordinates": "48.910234/2.234476"
+                }
+            ]
+        },
+        {
+            "name": "S.E.R.",
+            "url": "http://ser2.lomme.free.fr",
+            "description": "Signalisation et Equipement de la Route",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "30 bis rue Charles st Venant - 59160 LOMME",
+                    "gps_coordinates": "50.63493/3.00576"
                 }
             ]
         },
