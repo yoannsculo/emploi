@@ -3057,6 +3057,31 @@
             ]
         },
         {
+            "name": "EVESA",
+            "url": "http://www.evesa.fr",
+            "description": "éclairage public et signalisation lumineuse",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7, rue Antoine Bourdelle 75015 PARIS",
+                    "gps_coordinates": "48.84290/2.31923"
+                },
+                {
+                    "name": "",
+                    "postal_address": "189, rue d’Aubervilliers 75018 PARIS",
+                    "gps_coordinates": "48.89655/2.36884"
+                },
+                {
+                    "name": "",
+                    "postal_address": "33, rue Maurice Gunsbourg 94200 Ivry-sur-Seine",
+                    "gps_coordinates": "48.81098/2.40497"
+                }
+            ]
+        },
+        {
             "name": "Evigroup",
             "url": "http://www.evi-group.fr",
             "description": "",
@@ -6324,6 +6349,21 @@
                     "name": "",
                     "postal_address": "11B Rue Bachaumont, 75002 Paris",
                     "gps_coordinates": "48.86595/2.34539"
+                }
+            ]
+        },
+        {
+            "name": "POLYVELEC",
+            "url": "http://polyvelec.com/",
+            "description": "contrôleurs de carrefours et signalisation",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "133, Ave Bellevue 06700 SAINT LAURENT DU VAR",
+                    "gps_coordinates": "43.66349/7.19263"
                 }
             ]
         },
