@@ -841,6 +841,76 @@
             ]
         },
         {
+            "name": "Aximum",
+            "url": "http://solutions.aximum.fr",
+            "description": "Conception, développement et fabrication de produits et procédés destinés à la sécurité et à la gestion de trafic",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Aximum - Usine de Tourcoing",
+                    "postal_address": "278 Chaussée Fernand Forest  59200 Tourcoing",
+                    "gps_coordinates": "50.73743/3.15153"
+                },
+                {
+                    "name": "Aximum - GES - Siège Social - Etablissement Ile-de-France Nord",
+                    "postal_address": "41 rue des Peupliers  92000 Nanterre",
+                    "gps_coordinates": "48.91209/2.21223"
+                },
+                {
+                    "name": "Aximum - GES - Etablissement Atlantique",
+                    "postal_address": "17 avenue Roger Lapébie  33140 Villenave d'Ornon",
+                    "gps_coordinates": "44.78361/-0.59164"
+                },
+                {
+                    "name": "Aximum - GES - Etablissement Rhin, Rhône-Alpes",
+                    "postal_address": "17 rue Ampère  69680 Chassieu",
+                    "gps_coordinates": "45.73111/4.97500"
+                },
+                {
+                    "name": "Aximum - GES - Etablissement Midi-Méditerrané / PRODUITS ÉLECTRONIQUES - AGENCE SUD",
+                    "postal_address": "ZI du Salaison - 340 avenue des Bigos - BP 90008  34741 Vendargues",
+                    "gps_coordinates": "43.65382/3.95730"
+                },
+                {
+                    "name": "AXIMUM PRODUITS ÉLECTRONIQUES - AGENCE NORD",
+                    "postal_address": "6 rue de Pinçonlieu  60000 Beauvais",
+                    "gps_coordinates": "49.44059/2.10892"
+                },
+                {
+                    "name": "AXIMUM PRODUITS ÉLECTRONIQUES - AGENCE NORD",
+                    "postal_address": "Route de Sainte Etienne de Montluc 44220 Coueron",
+                    "gps_coordinates": "47.24510/-1.70464"
+                },
+                {
+                    "name": "AXIUM - SES NOUVELLE",
+                    "postal_address": "7 rue Frédéric Chopin  37310 Chambourg-sur-Indre",
+                    "gps_coordinates": "47.1758/1.0060"
+                },
+                {
+                    "name": "TECHNOLOGIES NOUVELLES ILE-DE-FRANCE",
+                    "postal_address": "29 rue des Peupliers  92000 Nanterre",
+                    "gps_coordinates": "48.91308/2.21313"
+                },
+                {
+                    "name": "TECHNOLOGIES NOUVELLES NORD",
+                    "postal_address": "6, avenue des Hauts Grigneux BP8 – 76420 BIHOREL",
+                    "gps_coordinates": "49.46671/1.13968"
+                },
+                {
+                    "name": "TECHNOLOGIES NOUVELLES SUD",
+                    "postal_address": "5, rue Ampère 69 680 CHASSIEU",
+                    "gps_coordinates": "45.73179/4.97237"
+                },
+                {
+                    "name": "TECHNOLOGIES NOUVELLES OUEST",
+                    "postal_address": "Espace Louis de Broglie, Bat A 5 rue Louis de Broglie 22300 LANNION",
+                    "gps_coordinates": "48.75830/-3.45742"
+                }
+            ]
+        },
+        {
             "name": "Axiohm",
             "url": "http://www.axiohm.com",
             "description": "Thermal printing solutions",
@@ -2948,6 +3018,46 @@
                     "name": "",
                     "postal_address": "44 Rue la Fayette, 75009 Paris",
                     "gps_coordinates": "48.87471/2.33995"
+                }
+            ]
+        },
+        {
+            "name": "FARECO",
+            "url": "http://fareco-fayat.com",
+            "description": "travaux publics, du bâtiment, de la construction métallique, de l’industrie des équipements routiers, de la chaudronnerie, et des réseaux d’énergie.",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "FARECO - Agence Nord et Est",
+                    "postal_address": "96 bis, rue des Fauvettes 59200 TOURCOING",
+                    "gps_coordinates": "50.72385/3.18078"
+                },
+                {
+                    "name": "FARECO - Siège Social",
+                    "postal_address": "250 Avenue des grésillons, 92601 ASNIÈRES Cedex",
+                    "gps_coordinates": "48.91848/2.31131"
+                },
+                {
+                    "name": "FARECO - Agence Grand Ouest",
+                    "postal_address": "Immeuble Le 31 31, Rue du Chemin Rouge 44300 Nantes",
+                    "gps_coordinates": "47.25184/-1.51094"
+                },
+                {
+                    "name": "FARECO - Agence Rhones-Alpes",
+                    "postal_address": "2, chemin du génie 69200 VENISSIEUX",
+                    "gps_coordinates": "45.71505/4.85987"
+                },
+                {
+                    "name": "FARECO - Agence Sud Ouest",
+                    "postal_address": "20, rue Hermès 31520 Ramonville-Saint-Agnes",
+                    "gps_coordinates": "43.54925/1.48616"
+                },
+                {
+                    "name": "FARECO - Agence Sud",
+                    "postal_address": "8, parc technologique de la sainte Victoire LE CANET 13590 MEYREUIL",
+                    "gps_coordinates": "43.49238/5.52274"
                 }
             ]
         },
@@ -6462,6 +6572,21 @@
                     "name": "Schneider Electric / X-Pôle",
                     "postal_address": "71 Avenue des Martyrs, 38000 Grenoble",
                     "gps_coordinates": "45.20738/5.69850"
+                }
+            ]
+        },
+        {
+            "name": "SEA Signalisation",
+            "url": "http://www.sea-signalisation.fr/",
+            "description": "équipements dédiés à la sécurité, la gestion et l’optimisation des carrefours à feux tricolores",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20-22, rue Pierre Mendès BP 231 69515 VAULX-EN-VELIN Cedex",
+                    "gps_coordinates": "45.77810/4.93418"
                 }
             ]
         },
