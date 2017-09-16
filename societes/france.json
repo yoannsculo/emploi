@@ -2552,6 +2552,21 @@
             ]
         },
         {
+            "name": "Copeeks",
+            "url": "http://copeeks.fr/",
+            "description": "Monitorez vos productions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Technopole Anticipa - 4 Rue Andrée Marie Ampère, 22300 Lannion",
+                    "gps_coordinates": "48.7474747/-3.4782408"
+                }
+            ]
+        },
+        {
             "name": "Cordouan Technologies",
             "url": "http://www.cordouan-tech.com",
             "description": "Particles characterization, Electron Microscopy, Sample preparation",
@@ -7294,6 +7309,18 @@
             ]
         },
         {
+            "name": "Monabee",
+            "url": "http://www.monabee.fr",
+            "description": "Monabee est une entreprise innovante de gestion et d’optimisation de l’énergie, 100% Française.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 avenue de Montlouis 69410 Champagne au Mont d'Or",
+                    "gps_coordinates": "45.7816276/4.8110982"
+                }
+            ]
+        },
+        {
             "name": "Mooltibox",
             "url": "http://www.mooltibox.fr",
             "description": "",
@@ -8052,6 +8079,18 @@
                     "name": "",
                     "postal_address": "10-12 avenue de l'Europe 78140 Vélizy-Villacoublay",
                     "gps_coordinates": "48.78195/2.21771"
+                }
+            ]
+        },
+        {
+            "name": "Oficoncept",
+            "url": "https://www.oficoncept.com/fr",
+            "description": "Objet flottant intelligent",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7, rue Commandant Malbert 29200 BREST",
+                    "gps_coordinates": "48.3815979/-4.4907485"
                 }
             ]
         },
