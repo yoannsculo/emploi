@@ -125,6 +125,23 @@
             ]
         },
         {
+            "name": "Actris",
+            "url": "https://www.actris.com",
+            "description": "Ingénierie informatique et électronique",
+            "locations": [
+                {
+                    "name": "Actris",
+                    "postal_address": "24 Rue Victor Grignard, 29490 Guipavas",
+                    "gps_coordinates": "48.426466/-4.451503"
+                },
+                {
+                    "name": "Actris",
+                    "postal_address": "3 place Verrazzano, 69009 Lyon",
+                    "gps_coordinates": "45.787299/4.813159"
+                }
+             ]
+        },
+        {
             "name": "Adacore",
             "url": "http://www.adacore.com",
             "description": "commercial software solutions for Ada",
@@ -2343,18 +2360,6 @@
             ]
         },
         {
-            "name": "e-device",
-            "url": "http://www.edevice.com/",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Parc Cadéra Sud, Bât. P2 - Avenue Ariane - 33700 Mérignac",
-                    "gps_coordinates": "44.833141/-0.679489"
-                }
-            ]
-        },
-        {
             "name": "e2v",
             "url": "http://www.e2v.com",
             "description": "RF Power, Semiconductor and Imaging technologies",
@@ -2698,6 +2703,18 @@
             ]
         },
         {
+            "name": "Elocky",
+            "url": "https://elocky.com",
+            "description": "Serrure connectée bluetooth smartlock",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "213 Cours Victor Hugo, 33130 Bègles",
+                    "gps_coordinates": "44.80546/-0.55986"
+                }
+            ]
+        },
+        {
             "name": "Elster",
             "url": "http://www.elster.com",
             "description": "Intelligent metering & communications solutions engineered for electricity, gas & water utilities in the traditional & smart grid markets.",
@@ -3033,18 +3050,6 @@
             ]
         },
         {
-            "name": "Eukrea Electromatique",
-            "url": "http://www.eukrea.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "74 avenue Jean Jaurès 33 600 PESSAC",
-                    "gps_coordinates": "44.80858/-0.62428"
-                }
-            ]
-        },
-        {
             "name": "Eurotech France S.A.S.",
             "url": "http://www.eurotech.com",
             "description": "",
@@ -3080,6 +3085,31 @@
                     "name": "",
                     "postal_address": "EuraTechnologies  165, avenue de bretagne 59000 Lille",
                     "gps_coordinates": "50.63289/3.02054"
+                }
+            ]
+        },
+        {
+            "name": "EVESA",
+            "url": "http://www.evesa.fr",
+            "description": "éclairage public et signalisation lumineuse",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7, rue Antoine Bourdelle 75015 PARIS",
+                    "gps_coordinates": "48.84290/2.31923"
+                },
+                {
+                    "name": "",
+                    "postal_address": "189, rue d’Aubervilliers 75018 PARIS",
+                    "gps_coordinates": "48.89655/2.36884"
+                },
+                {
+                    "name": "",
+                    "postal_address": "33, rue Maurice Gunsbourg 94200 Ivry-sur-Seine",
+                    "gps_coordinates": "48.81098/2.40497"
                 }
             ]
         },
@@ -4232,6 +4262,20 @@
             ]
         },
         {
+            "name": "Innovatis Systems",
+            "url": "http://www.innovatis-systems.fr",
+            "description": "Bureau d'étude en électronique et informatique",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Site Montesquieu, 8 Rue Isaac Newton, 33600 Martillac",
+                    "gps_coordinates": "44.70760/-0.58497"
+                }
+            ]
+        },
+        {
             "name": "INSIDE Secure",
             "url": "http://www.insidesecure.com",
             "description": "Embedded security systems",
@@ -4432,18 +4476,6 @@
             ]
         },
         {
-            "name": "IS2T",
-            "url": "http://www.is2t.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
-                    "gps_coordinates": "47.25263/-1.51155"
-                }
-            ]
-        },
-        {
             "name" : "Itekube" ,
             "url" : "http://www.itekube.com" ,
             "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
@@ -4522,6 +4554,21 @@
                     "name": "",
                     "postal_address": "Euratechnologies - Bâtiment Lafont 165 avenue de Bretagne - 59000 Lille",
                     "gps_coordinates": "50.63261/3.02031"
+                }
+            ]
+        },
+        {
+            "name": "Japet Medical Devices",
+            "url": "http://japet.eu",
+            "description": "Japet Medical Devices develops the first exoskeleton to relieve back pain patients while allowing them to retrain their bodies",
+            "keywords": "medical",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue du Professeur Laguesse - 59000 Lille",
+                    "gps_coordinates": "50.60844/3.03869"
                 }
             ]
         },
@@ -5252,6 +5299,28 @@
                     "gps_coordinates": "43.55379/1.41536"
                 }
             ]
+        },
+        {
+            "name": "Microej",
+            "url": "http://www.microej.com/",
+            "description": "Solutions pour l'embarqué et l'IOT",
+            "locations": [
+		{
+                    "name": "Microej",
+                    "postal_address": "11 Rue du Chemin Rouge, 44300 Nantes",
+                    "gps_coordinates": "47.25263/-1.51155"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "5 avenue Carnot, 91300 Massy",
+                    "gps_coordinates": "48.729338/2.268240"
+		},
+		{
+		    "name": "Microej",
+                    "postal_address": "51 traverse de la Gouffonne, 13009 Marseille",
+                    "gps_coordinates": "43.249713/5.408445"
+		}
+	    ]
         },
         {
             "name": "Micronics",
@@ -6432,6 +6501,21 @@
             ]
         },
         {
+            "name": "POLYVELEC",
+            "url": "http://polyvelec.com/",
+            "description": "contrôleurs de carrefours et signalisation",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "133, Ave Bellevue 06700 SAINT LAURENT DU VAR",
+                    "gps_coordinates": "43.66349/7.19263"
+                }
+            ]
+        },
+        {
             "name": "PowiDian",
             "url": "http://powidian.com",
             "description": "Smart Green Energy stations",
@@ -6900,7 +6984,7 @@
         },
         {
             "name": "Seven-hugs",
-            "url": "http://www.seven-hugs.com/",
+            "url": "https://sevenhugs.com/",
             "description": "Sleep monitor",
             "locations": [
                 {
@@ -7553,6 +7637,28 @@
             ]
         },
         {
+            "name": "Systerel",
+            "url": "http://www.systerel.fr/",
+            "description": "Solutions temps réel sécurisées",
+            "locations": [
+                {
+                    "name": "Systerel Aix-en-Provence",
+                    "postal_address": "Les Portes de l’Arbois Bâtiment A 1090 rue René Descartes, 13100 Aix-en-Provence",
+                    "gps_coordinates": "43.495394/5.346733"
+                },
+                {
+                    "name": "Systerel Paris",
+                    "postal_address": "3 rue Danton, 92240 Malakoff",
+                    "gps_coordinates": "48.822543/2.301099"
+                },
+                {
+                    "name": "Systerel Toulouse",
+                    "postal_address": "La Maison des Lois 2 impasse Michel Labrousse, 31036 Toulouse",
+                    "gps_coordinates": "43.56829/1.39113"
+                }
+            ]
+        },
+        {
             "name": "Taztag",
             "url": "http://www.taztag.com",
             "description": "",
@@ -7622,6 +7728,21 @@
                     "name": "",
                     "postal_address": "19 avenue de Norvège Villebon sur Yvette 91953 COURTABOEUF CEDEX ",
                     "gps_coordinates": "48.69262/2.21523"
+                }
+            ]
+        },
+        {
+            "name": "Telecom Design",
+            "url": "http://www.telecom-design.com",
+            "description": "Internet of Things global enabler",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2, bis rue Nully de Harcourt, 33610 Canéjan",
+                    "gps_coordinates": "44.77258/-0.65017"
                 }
             ]
         },
