@@ -681,6 +681,21 @@
             ]
         },
         {
+            "name": "ASCOREL",
+            "url": "http://www.ascorel.com",
+            "description": "développement, installation et maintenance de systèmes électroniques embarqués",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZI de Montplaisir - BP 10044 357 rue du Champ de courses 38783 Pont-Evêque Cedex",
+                    "gps_coordinates": "45.52591/4.92427"
+                }
+            ]
+        },
+        {
             "name": "Ask",
             "url": "http://www.ask-rfid.com",
             "description": "Smartcard with and without contact",
@@ -5834,6 +5849,31 @@
             ]
         },
         {
+            "name": "Noralsy",
+            "url": "http://www.noralsy.com/",
+            "description": "Contrôle d'accès",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16, rue Lavoisier zone industrielle 94437 Chennevières/Marne Cedex",
+                    "gps_coordinates": "48.79325/2.54636"
+                },
+                {
+                    "name": "",
+                    "postal_address": "16A Boulevard de Reuilly 75012 Paris",
+                    "gps_coordinates": "48.83877/2.39156"
+                },
+                {
+                    "name": "",
+                    "postal_address": "101, Boulevard Joliot Curie Bâtiment B 69200 Venissieux",
+                    "gps_coordinates": "45.71146/4.88269"
+                }
+            ]
+        },
+        {
             "name": "NOREMAT",
             "url": "http://www.noremat.fr",
             "description": "Solutions for the maintenance of roadside verges and upkeep of the landscape.",
@@ -7482,6 +7522,21 @@
                     "name": "",
                     "postal_address": "Parc Technopolis - Bat. Sigma 3, Avenue du Canada 91974 Les Ulis Cedex",
                     "gps_coordinates": "48.68713/2.19482"
+                }
+            ]
+        },
+        {
+            "name": "Sprinte",
+            "url": "https://www.sprinte.eu",
+            "description": "fabricant de matériel pour ascenseurs",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Z.I. Les Illons 07250 - Le Pouzin",
+                    "gps_coordinates": "44.74102/4.75339"
                 }
             ]
         },
