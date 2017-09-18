@@ -1720,6 +1720,20 @@
             ]
         },
         {
+            "name": "Chromatotec",
+            "url": "www.chromatotec.com/",
+            "description": "Expert in gas analys",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "15 Rue d’Artiguelongue - Saint-Antoine, France",
+                    "gps_coordinates": "45.0196862/-0.4324188"
+                }
+            ]
+        },
+        {
             "name": "Chronocam",
             "url": "http://www.chronocam.com",
             "description": "machine vision sensors and systems for applications in all fields of machine vision",
@@ -1858,6 +1872,26 @@
                     "name": "",
                     "postal_address": "3 RUE THOMAS EDISON - 22300 LANNION",
                     "gps_coordinates": "48.75996/-3.47127"
+                }
+            ]
+        },
+        {
+            "name": "Climax technology",
+            "url": "http://climax-technology.com",
+            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
+                    "gps_coordinates": "44.8540024/-0.5768703"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
+                    "gps_coordinates": "44.8090969/-0.7651735"
                 }
             ]
         },
@@ -4268,6 +4302,18 @@
                     "name": "",
                     "postal_address": "Immeuble Prine, 110 rue des Poissonniers - 75018 Paris, France",
                     "gps_coordinates": "48.89369/2.35425"
+                }
+            ]
+        },
+        {
+            "name": "IIDRE automate",
+            "url": "http://iidre.com/IIDRE/fr/accueil/",
+            "description": "IINEO-GEO, la solution de géolocalisation  intérieure précise et absolue.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "25, rue Marcel Issartier, 33 700 Mérignac, France",
+                    "gps_coordinates": "44.8387476/-0.7189305"
                 }
             ]
         },
@@ -8289,6 +8335,18 @@
                     "name": "",
                     "postal_address": "La Garde, Route de Paris, 44300 Nantes, France",
                     "gps_coordinates": "47.2547872/-1.5129804"
+                }
+            ]
+        },
+        {
+            "name": "Ventec",
+            "url": "https://ventec-ibms.com/fr/",
+            "description": "Spécialisée dans l’intelligence des systèmes embarqués",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac, France",
+                    "gps_coordinates": "44.836892/-0.68973"
                 }
             ]
         },
