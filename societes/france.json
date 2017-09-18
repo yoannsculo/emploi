@@ -6535,6 +6535,18 @@
             ]
         },
         {
+            "name": "Percko",
+            "url": "http://www.percko.com",
+            "description": "Percko improve your posture and fight back pain with the utmost efficiency",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "24 avenue Marceau, 75008, Paris",
+                    "gps_coordinates": "48.8667335/2.2999417"
+                }
+            ]
+        },
+        {
             "name": "Physidia",
             "url": "http://www.physidia.fr",
             "description": "hemodialysis",
