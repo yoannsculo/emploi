@@ -2425,6 +2425,26 @@
             ]
         },
         {
+            "name": "Climax technology",
+            "url": "http://climax-technology.com",
+            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
+                    "gps_coordinates": "44.8540024/-0.5768703"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
+                    "gps_coordinates": "44.8090969/-0.7651735"
+                }
+            ]
+        },
+        {
             "name": "CNB Electronique",
             "url": "http://www.cnb-electronique.com",
             "description": "",
@@ -11238,6 +11258,18 @@
                     "name": "",
                     "postal_address": "La Garde, Route de Paris, 44300 Nantes, France",
                     "gps_coordinates": "47.2547872/-1.5129804"
+                }
+            ]
+        },
+        {
+            "name": "Ventec",
+            "url": "https://ventec-ibms.com/fr/",
+            "description": "Spécialisée dans l’intelligence des systèmes embarqués",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac, France",
+                    "gps_coordinates": "44.836892/-0.68973"
                 }
             ]
         },
