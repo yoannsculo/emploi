@@ -41,6 +41,18 @@
             ]
         },
         {
+            "name": "42factory",
+            "url": "http://42factory.com/fr/",
+            "description": "Understand Your Environment",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue Julien Videment, 44000 Nantes",
+                    "gps_coordinates": "47.2077591/-1.5664495"
+                }
+            ]
+        },
+        {
             "name": "4MTEC",
             "url": "http://www.4mtec.com",
             "description": "",
@@ -6441,6 +6453,30 @@
             ]
         },
         {
+            "name": "Kinematiq",
+            "url": "https://www.kinematiq.net",
+            "description": "Robotique et fabrication numérique",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 rue des filets 44400 Rezé France",
+                    "gps_coordinates": "47.1956858/-1.5706102"
+                }
+            ]
+        },
+        {
+            "name": "Kiwatch",
+            "url": "https://www.kiwatch.com",
+            "description": "La vidéosurveillance connectée à votre smartphone",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le Mail, 44700 Orvault",
+                    "gps_coordinates": "47.2710222/-1.6139538"
+                }
+            ]
+        },
+        {
             "name": "Klaxoon",
             "url": "https://klaxoon.com",
             "description": "Cross-­Device Learning Platform",
@@ -7525,6 +7561,21 @@
                     "name": "",
                     "postal_address": "30 rue Jan Palach 44220 Couëron",
                     "gps_coordinates": "47.23601/-1.67073"
+                }
+            ]
+        },
+        {
+            "name": "Natéo santé",
+            "url": "https://nateosantepro.com",
+            "description": "Expert en qualité d'air",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc d'Activité du Pont Béranger 2, Rue Gustave Eiffel, 44680 Saint-Hilaire-de-Chaléons",
+                    "gps_coordinates": "47.1298978/-1.8317931"
                 }
             ]
         },
@@ -8669,6 +8720,20 @@
             ]
         },
         {
+            "name": "Pixiel group",
+            "url": "https://www.pixiel-group.com",
+            "description": "Beyond the limit",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 RUE GUTENBERG - 44340 BOUGUENAIS - FRANCE",
+                    "gps_coordinates": "47.1744241/-1.6180842"
+                }
+            ]
+        },
+        {
             "name": "Pixinov",
             "url": "http://pixinov.com",
             "description": "custom systems development and production",
@@ -9557,6 +9622,18 @@
             ]
         },
         {
+            "name" : "Siatech" ,
+            "url" :  "http://www.siatech.fr" ,
+            "description" :  "The first hand free wireless controler designed for industrial applications." ,
+            "locations" : [
+                {
+                    "name" : "",
+                    "postal_address" : "73 rue martinville, 76000 Rouen, FRANCE" ,
+                    "gps_coordinates" : "49.4386825/1.1001491"
+                }
+            ]
+        },
+        {
             "name": "Sierra Wireless",
             "url": "http://www.sierrawireless.com",
             "description": "Modules, gateways and cloud services for M2M",
@@ -9823,18 +9900,6 @@
             ]
         },
         {
-            "name" : "Siatech" ,
-            "url" :  "http://www.siatech.fr" ,
-            "description" :  "The first hand free wireless controler designed for industrial applications." ,
-            "locations" : [
-                {
-                    "name" : "",
-                    "postal_address" : "73 rue martinville, 76000 Rouen, FRANCE" ,
-                    "gps_coordinates" : "49.4386825/1.1001491"
-                }
-            ]
-        },
-        {
             "name": "Smokio",
             "url": "http://www.smokio.com",
             "description": "Smart wireless vaporizer",
@@ -9843,6 +9908,18 @@
                     "name": "",
                     "postal_address": "6 rue d'Alexandrie, 75002 Paris",
                     "gps_coordinates": "48.86816/2.35093"
+                }
+            ]
+        },
+        {
+            "name": "SMT Performances",
+            "url": "http://www.smtperformances.fr/",
+            "description": "Redécouvrez votre moto",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "37 B Avenue de la Côte d'Or, 44300 Nantes",
+                    "gps_coordinates": "47.2444133/-1.5706174"
                 }
             ]
         },
@@ -10095,6 +10172,18 @@
                     "name": "",
                     "postal_address": "52 boulevard Voltaire, 75011 Paris",
                     "gps_coordinates": "48.86303/2.37077"
+                }
+            ]
+        },
+        {
+            "name": "Sterblue",
+            "url": "http://www.sterblue.com/",
+            "description": "Sterblue develops inspection solutions for power lines, onshore and offshore wind turbines.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 rue Alfred Kastler, CS 40617, 44306 Nantes",
+                    "gps_coordinates": "47.2811319/-1.5227273"
                 }
             ]
         },
@@ -11137,6 +11226,18 @@
                     "name": "",
                     "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac",
                     "gps_coordinates": "44.836892/-0.68973"
+                }
+            ]
+        },
+        {
+            "name": "Velco bike",
+            "url": "http://velco.bike/fr/",
+            "description": "Faites de votre vélo un vélo intelligent",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "La Garde, Route de Paris, 44300 Nantes, France",
+                    "gps_coordinates": "47.2547872/-1.5129804"
                 }
             ]
         },
