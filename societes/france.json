@@ -7371,14 +7371,17 @@
             ]
         },
         {
-            "name": "S.I.S.E.",
-            "url": "http://www.sise.fr",
+            "name": "SISE SAS",
+            "url": "http://www.sise-plastics.com/",
             "description": "Products dedicated to the plastic injection molding industry",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Parc Industriel Sud - Groissiat 01100 OYONNAX France",
-                    "gps_coordinates": "46.23221/5.61718"
+                    "postal_address": "Voie Romaine, 01100 Oyonnax",
+                    "gps_coordinates": "46.2323/5.6171"
                 }
             ]
         },
