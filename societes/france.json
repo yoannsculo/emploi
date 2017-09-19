@@ -125,6 +125,61 @@
             ]
         },
         {
+            "name": "Actia",
+            "url": "http://actia.com",
+            "description": "design and manufacture electronics for system management in the Automotive and Telecommunications fields",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "ACTIA PCS",
+                    "postal_address": "14, rue Charles Martigny 94700 Maisons-Alfort",
+                    "gps_coordinates": "48.79053/2.43617"
+                },
+                {
+                    "name": "ACTIA Lucé",
+                    "postal_address": "5 Rue de la Taye 28110 Lucé",
+                    "gps_coordinates": "48.42862/1.45027"
+                },
+                {
+                    "name": "ACTIA Telecom (Bretagne)",
+                    "postal_address": "2 rue Amiral Bérenger 35800 - Dinard",
+                    "gps_coordinates": "48.61522/-2.07084"
+                },
+                {
+                    "name": "ACTIA 3E",
+                    "postal_address": "Savoie Technolac BP 282 Le Bourget du Lac 73375 cedex",
+                    "gps_coordinates": "45.64410/5.86789"
+                },
+                {
+                    "name": "ACTIA Telecom (Aveyron)",
+                    "postal_address": "Route de Mayres - CS 40312 St GEORGES DE LUZENCON 12103 MILLAU Cedex",
+                    "gps_coordinates": "44.06900/2.98958"
+                },
+                {
+                    "name": "ACTIA Colomiers (Manufacturing site)",
+                    "postal_address": "10 avenue E. Serres BP 60112 Colomiers (Toulouse) 31772 cedex",
+                    "gps_coordinates": "43.61295/1.35332"
+                },
+                {
+                    "name": "ACTIA Group",
+                    "postal_address": "5 rue Jorge Semprun BP 74215 - Toulouse 31432 cedex 4",
+                    "gps_coordinates": "43.55213/1.45915"
+                },
+                {
+                    "name": "ACTIA Telecom (Provence)",
+                    "postal_address": "CD 14 - La Confrérie - B.P. 22 13610 LE PUY Ste REPARADE",
+                    "gps_coordinates": "43.66260/5.42287"
+                },
+                {
+                    "name": "ACTIA Telecom (Provence)",
+                    "postal_address": "ZI St Joseph - CS 30018 23 Traverse des Métiers 04107 MANOSQUE Cedex",
+                    "gps_coordinates": "43.82256/5.79879"
+                }
+            ]
+        },
+        {
             "name": "Actris",
             "url": "https://www.actris.com",
             "description": "Ingénierie informatique et électronique",
@@ -608,6 +663,21 @@
                     "name": "",
                     "postal_address": "12, rue Ampère 91430 Igny",
                     "gps_coordinates": "48.72963/2.23505"
+                }
+            ]
+        },
+        {
+            "name": "ARCLAN",
+            "url": "http://www.arclan.eu",
+            "description": "solutions de sécurité sur-mesure",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Actimart II - Lot n°9 1140 rue Ampère - BP 70180 13795 Aix-en-Provence Cedex 3",
+                    "gps_coordinates": "43.48487/5.37850"
                 }
             ]
         },
@@ -4558,6 +4628,21 @@
             ]
         },
         {
+            "name": "Ixxi",
+            "url": "http://www.ixxi-mobility.com",
+            "description": "développement de services d’aide à la mobilité",
+            "keywords": "",
+            "twitter": "Ixxi_Mobility",
+            "comment": "Filiale de la RATP",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Maille Nord 2 8, avenue Montaigne 93160 Noisy-le-Grand",
+                    "gps_coordinates": "48.84218/2.54353"
+                }
+            ]
+        },
+        {
             "name": "Jagger & Lewis",
             "url": "http://www.jagger-lewis.com",
             "description": "collier connecté pour chien",
@@ -6074,6 +6159,21 @@
             ]
         },
         {
+            "name": "Ondilo",
+            "url": "https://ondilo.com/",
+            "description": "îlot connecté",
+            "keywords": "",
+            "twitter": "IcoByOndilo",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 AVENUE DE L EUROPE - 13760 SAINT CANNAT",
+                    "gps_coordinates": "43.61183/5.32443"
+                }
+            ]
+        },
+        {
             "name": "OneAccess",
             "url": "http://www.oneaccess-net.com",
             "description": "",
@@ -6941,6 +7041,21 @@
                     "name": "Schneider Electric / X-Pôle",
                     "postal_address": "71 Avenue des Martyrs, 38000 Grenoble",
                     "gps_coordinates": "45.20738/5.69850"
+                }
+            ]
+        },
+        {
+            "name": "SEAGNAL",
+            "url": "http://www.seagnal.fr",
+            "description": "électronique, informatique et traitement de signal",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Espace Beethoven Bâtiment B1, 1er Étage 1200 route des Lucioles 06560, VALBONNE",
+                    "gps_coordinates": "43.61738/7.05780"
                 }
             ]
         },
