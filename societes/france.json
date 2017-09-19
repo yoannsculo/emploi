@@ -5741,12 +5741,15 @@
         {
             "name": "Navocap",
             "url": "http://www.navocap.com",
-            "description": "",
+            "description": "fourniture de données en temps réel",
+            "keywords": "",
+            "twitter": "Navocap",
+            "comment": "",
             "locations": [
                 {
                     "name": "",
                     "postal_address": "11 rue de Savoie 31330 Merville",
-                    "gps_coordinates": "43.72142/1.32597"
+                    "gps_coordinates": "43.72116/1.32632"
                 }
             ]
         },
