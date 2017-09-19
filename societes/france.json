@@ -6824,18 +6824,6 @@
             ]
         },
         {
-            "name": "Splitted-Desktop Systems (Quietty)",
-            "url": "http://www.quietty.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Bâtiment Aristote  Parc des Algorithmes Route de l'Orme des Merisiers 91190 ST AUBIN",
-                    "gps_coordinates": "48.70996/2.15187"
-                }
-            ]
-        },
-        {
             "name": "ReaDIYmate",
             "url": "http://www.readiymate.com",
             "description": "",
@@ -7640,6 +7628,19 @@
                     "name": "",
                     "postal_address": "Parc Technopolis - Bat. Sigma 3, Avenue du Canada 91974 Les Ulis Cedex",
                     "gps_coordinates": "48.68713/2.19482"
+                }
+            ]
+        },
+        {
+            "name": "Splitted-Desktop Systems",
+            "url": "http://www.splitted-desktop.com",
+            "description": "",
+            "comment": "ex Quietty",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment Aristote  Parc des Algorithmes Route de l'Orme des Merisiers 91190 ST AUBIN",
+                    "gps_coordinates": "48.70996/2.15187"
                 }
             ]
         },
