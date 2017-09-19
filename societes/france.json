@@ -149,6 +149,18 @@
             ]
         },
         {
+            "name": "ABC Smartcard",
+            "url": "http://www.shop-smartcard.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9 Boulevard du Grand Camp, 13016 Marseille, France",
+                    "gps_coordinates": "43.3622336/5.3368664"
+                }
+            ]
+        },
+        {
             "name": "Acal BFi France S.A.S",
             "url": "http://www.acalbfi.com",
             "description": "",
@@ -3541,6 +3553,18 @@
             ]
         },
         {
+            "name": "Editag",
+            "url": "http://www.editag.eu",
+            "description": "Booster de processus industriel",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13590 Route de Valbrillant, Meyreuil, France",
+                    "gps_coordinates": "43.4884288/5.5081316"
+                }
+            ]
+        },
+        {
             "name": "Eikeo",
             "url": "http://www.eikeo.com",
             "description": "Video signage, Industrial IT and electronics and wireless networks",
@@ -4382,6 +4406,18 @@
                     "name": "",
                     "postal_address": "59 Avenue Victor Hugo 75116 Paris",
                     "gps_coordinates": "48.87082/2.28849"
+                }
+            ]
+        },
+        {
+            "name": "Eydi Technology",
+            "url": "http://www.eydi.fr",
+            "description": "Innovation & Protection",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 Boulevard des Ventadouiro, 13300 Salon-de-Provence, France",
+                    "gps_coordinates": "43.6269581/5.0944042"
                 }
             ]
         },
@@ -5319,6 +5355,18 @@
                     "name": "",
                     "postal_address": "20 Rue du tour de l'eau, 38400 Saint Martin d'Hères",
                     "gps_coordinates": "45.18697/5.77563"
+                }
+            ]
+        },
+        {
+            "name": "Handisco",
+            "url": "https://handisco.com",
+            "description": "Votre guide au bout des doigts",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "La PAPinière, bâtiment Prêt à Partir, Route de Nancy,54840 Gondreville, France",
+                    "gps_coordinates": "48.6899094/6.0044383"
                 }
             ]
         },
@@ -7740,6 +7788,18 @@
             ]
         },
         {
+            "name": "Neowave",
+            "url": "http://www.neowave.fr/FR/index.html",
+            "description": "Authentification forte et transactions sécurisées",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1480 Avenue d'Arménie, 13120 Gardanne, France",
+                    "gps_coordinates": "43.4507698/5.4459204"
+                }
+            ]
+        },
+        {
             "name": "Netgem",
             "url": "http://www.netgem.com",
             "description": "TelcoTV",
@@ -8962,6 +9022,21 @@
             ]
         },
         {
+            "name": "Protect Hunt",
+            "url": "https://www.protect-hunt.com",
+            "description": "Une chasse plus responsable",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "186 Boulevard Pasteur, Saint-Victoret, France",
+                    "gps_coordinates": "43.4168803/5.2433374"
+                }
+            ]
+        },
+        {
             "name": "Pyxalis",
             "url": "http://pyxalis.com",
             "description": "Advanced CMOS image sensors",
@@ -9511,6 +9586,18 @@
                     "name": "",
                     "postal_address": "Parc Technologique Léonard de Vinci - Rue Léonard de Vinci - CP 8010 LISSES - 91008 EVRY Cedex",
                     "gps_coordinates": "48.59910/2.41532"
+                }
+            ]
+        },
+        {
+            "name": "Selerys",
+            "url": "https://selerys.fr",
+            "description": "LA RÉFÉRENCE EN TERMES DE DÉTECTION DU RISQUE ORAGEUX FINE ÉCHELLE ET TEMPS RÉEL DEPUIS 10 ANS.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "880 Avenue de Mimet, Gardanne, France",
+                    "gps_coordinates": "43.4456874/5.4777308"
                 }
             ]
         },
@@ -10150,6 +10237,20 @@
                     "name": "",
                     "postal_address": "Z.I. Les Illons 07250 - Le Pouzin",
                     "gps_coordinates": "44.74102/4.75339"
+                }
+            ]
+        },
+        {
+            "name": "Spicetronic",
+            "url": "http://www.spicetronic.com",
+            "description": "La précision électronique au service de l'innovation",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Avenue Louis Philibert, Aix-en-Provence, France",
+                    "gps_coordinates": "43.4914694/5.3282646"
                 }
             ]
         },
@@ -11102,6 +11203,18 @@
             ]
         },
         {
+            "name": "Unistellar",
+            "url": "http://www.unistellaroptics.com/en/",
+            "description": "FINALLY YOU’LL SEE",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "100, Impasse de Houllières, 13590 Meyreuil, France",
+                    "gps_coordinates": "43.4714787/5.4888976"
+                }
+            ]
+        },
+        {
             "name": "UrbanHello",
             "url": "http://www.urbanhello.com",
             "description": "Child clock and baby monitor",
@@ -11647,6 +11760,21 @@
             "name": "WitMonki",
             "url": "http://www.witmonki.com",
             "description": "WitMonki est une startup française dans le domaine de la e-santé",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "565 Avenue du Prado, 13008 Marseille, France",
+                    "gps_coordinates": "43.2626685/5.3747874"
+                }
+            ]
+        },
+        {
+            "name": "WitMonki",
+            "url": "http://www.witmonki.com",
+            "description": "WitMonki est une startup française dans le domaine de la e‑santé",
             "keywords": "",
             "twitter": "",
             "comment": "",
