@@ -6360,6 +6360,18 @@
             ]
         },
 	{
+            "name": "OnTrack",
+            "url": "http://www.ontracks.co/",
+            "description": "onTracks est une solution d’orientation connectée, qui permet de suivre un itinéraire sans avoir à regarder une carte ou un GPS.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "121 Boulevard Périer, 13008 Marseille, France",
+                    "gps_coordinates": "43.2782644/5.3769679"
+                }
+            ]
+        },
+	{
             "name": "Open Mind innovation",
             "url": "https://omind.me",
             "description": "Nous développons des neurotechnologies pour stimuler la plasticité cérébrale.",
@@ -7912,6 +7924,18 @@
             ]
         },
         {
+            "name": "Swap assist",
+            "url": "http://www.swap-assist.fr",
+            "description": "Un porte-clefs GPS pour Alzheimer",
+            "locations": [
+                {
+                    "name": "",
+         /          "postal_address": "880 Route de Mimet, 13120 Gardanne, France",
+                    "gps_coordinates": "43.4456874/5.4777308"
+                }
+            ]
+        },
+        {
             "name": "Synopsys",
             "url": "http://www.synopsys.com",
             "description": "Microelectronic",
@@ -8236,6 +8260,20 @@
                     "name": "",
                     "postal_address": "2 rue Henri Le Guilloux, 35000 Rennes France",
                     "gps_coordinates": "48.118622/-1.6940837"
+                }
+            ]
+        },
+        {
+            "name": "Think&Go",
+            "url": "http://thinkandgo-nfc.com",
+            "description": "Think&Go revolutionizes Consumer Journeys using Screens and contactless objects leveraging NFC or BLE technologies",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 Route de Valbrillant, Meyreuil, France",
+                    "gps_coordinates": "43.4933801/5.5203919"
                 }
             ]
         },
