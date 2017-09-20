@@ -90,7 +90,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Safran / http://www.safran-group.com
 - SFR / http://www.sfr.com
 - Schneider Electric / http://www.schneider-electric.com
-- Soitec / http://www.soitec.com
 - ST-Ericsson / http://www.stericsson.com
 - Tea Ebook / http://www.tea-ebook.com
 - IFM / http://www.ifm.com
@@ -100,10 +99,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - ? http://www.capsuletech.com
 - congatec AG France - http://www.congatec.com/fr/ - @congatec_france
 - Monixo - http://www.monixo.com/ - @MonixoSAS
-- Smockeo - https://www.smockeo.com - @Smockeo
 - Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
 - http://www.urbanpotager.com
-- SER - http://feu.routier.free.fr/signalisation-equipement-route.html
 - Thalescom
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
@@ -121,18 +118,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
 - VALEO VEEM /  Créteil
 - SARL CESIGMA,  la garde
-- ACTIA AUTOMOTIVE, Toulouse
-- Stmicroelectronics à Porte d'Orléans
 - OVERLINE SYSTEMS à Andernos les Bains
 - NEAVIA TECHNOLOGIES à SAINT BRIEUC
 - http://www.neoaxess.com
 - YoGoKo SAS / Rennes / startup
-- ACTIA Télécom / http://www.actiasodielec.com
 - Continental Rambouillet
 - M3 SYSTEMS à LAVERNOSE-LACASSE
 - Microchip Technology
 - http://corporate.pickup.fr/ ?
-- http://kortex-psi.fr ?
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
 - Samsung Paris 10eme - https://www.artik.io/
 - http://www.societeberthelot.com
@@ -155,6 +148,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - https://shadow.tech
 - GE Healthcare
 - http://www.opteya.com/ ?
+- http://www.lafrenchtech.com/
+
+
+
+### Vérifié Apec
+
+
+
 
 ### Companies addresses not found / Startups ?
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
@@ -190,7 +191,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - MODIS : Expert Linux Embarqué/ ROM Android (H/F)
 - http://sidereo.com
 - https://www.systra.com (Transport)
-- Systerel
 - Smile ECS (Embedded & Connected Systems) 
 
 ### Closed companies (to specify in a new field)
@@ -222,6 +222,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Percepio - http://percepio.com - @percepio / Sweden
 
 - http://www.ekiosa.eu/34265/About-us - The Netherlands
+
+#### GB
+
+- McLaren Applied Technologies - https://careers.mclaren.com/go/Applied-Technologies/723801/?_ga=2.94645148.1441886032.1505736870-1579230392.1505736870
+  London, GB / Woking, GB
+  http://www.mclaren.com/appliedtechnologies/
 
 #### USA
 
