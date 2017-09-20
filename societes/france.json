@@ -7903,12 +7903,40 @@
         {
             "name": "STMicroelectronics",
             "url": "http://www.st.com",
-            "description": "",
+            "description": "semiconductor manufacturer",
+            "keywords": "",
+            "twitter": "ST_World",
+            "comment": "",
             "locations": [
                 {
                     "name": "STMicroelectronics Grenoble",
                     "postal_address": "12 RUE JULES HOROWITZ 38000 GRENOBLE",
                     "gps_coordinates": "45.20452/5.69585"
+                },
+                {
+                    "name": "STMicroelectronics Crolles",
+                    "postal_address": "850 RUE JEAN MONNET 38920 CROLLES",
+                    "gps_coordinates": "45.26930/5.88072"
+                },
+                {
+                    "name": "STMicroelectronics Paris",
+                    "postal_address": "29 BOULEVARD ROMAIN ROLLAND 92120 MONTROUGE",
+                    "gps_coordinates": "48.81969/2.32461"
+                },
+                {
+                    "name": "STMicroelectronics Rousset",
+                    "postal_address": "ZONE INDUSTRIELLE DE PEYNIER ROUSSET, AVENUE CELESTIN COQ, 13790 ROUSSET",
+                    "gps_coordinates": "43.47416/5.60504"
+                },
+                {
+                    "name": "STMicroelectronics Sophia Antipolis",
+                    "postal_address": "635 Route des Lucioles, 06560 Valbonne",
+                    "gps_coordinates": "43.61872/7.05157"
+                },
+                {
+                    "name": "STMicroelectronics Tours",
+                    "postal_address": "10 RUE THALES DE MILET, 37000 TOURS",
+                    "gps_coordinates": "47.42927/0.68562"
                 }
             ]
         },
