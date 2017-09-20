@@ -1670,6 +1670,21 @@
             ]
         },
         {
+            "name": "Chanel",
+            "url": "http://www.chanel.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 Rue du Cheval Blanc, 93500 Pantin",
+                    "gps_coordinates": "48.89618/2.41422"
+                }
+            ]
+        },
+        {
             "name": "Chauvin Arnoux",
             "url": "http://www.chauvin-arnoux.com",
             "description": "portable Test and Measurement instruments",
@@ -3483,6 +3498,21 @@
                     "name": "",
                     "postal_address": "1 rue Jean TORLAIS – 17000 LA ROCHELLE",
                     "gps_coordinates": "46.14954/-1.20492"
+                }
+            ]
+        },
+        {
+            "name": "Fludia",
+            "url": "https://www.fludia.com",
+            "description": "mesure et analyse des consommations d’énergie sur tous types de bâtiments",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 ter rue Honoré d’Estienne d’Orves 4ème Étage 92150 SURESNES",
+                    "gps_coordinates": "48.87297/2.22673"
                 }
             ]
         },
@@ -7713,6 +7743,21 @@
                     "name": "",
                     "postal_address": "43, rue du Colonel Pierre Avia 75015 Paris",
                     "gps_coordinates": "48.82856/2.27400"
+                }
+            ]
+        },
+        {
+            "name": "Soitec",
+            "url": "https://www.soitec.com",
+            "description": "semiconductor materials",
+            "keywords": "",
+            "twitter": "soitec_fr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technologique des Fontaines Chemin des Franques 38190 Bernin",
+                    "gps_coordinates": "45.26285/5.87814"
                 }
             ]
         },
