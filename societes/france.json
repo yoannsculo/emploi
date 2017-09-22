@@ -4709,6 +4709,18 @@
             ]
         },
         {
+            "name": "Ironova",
+            "url": "https://www.ironova.com",
+            "description": "La capture émotionnelle arrive sous la forme d’un bracelet",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "45 Rue Frédéric Joliot Curie, Marseille, France",
+                    "gps_coordinates": "43.3439196/5.4329399"
+                }
+            ]
+        },
+        {
             "name": "Iskn",
             "url": "http://www.isketchnote.com",
             "description": "Writing devices",
