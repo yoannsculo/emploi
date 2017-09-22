@@ -1608,6 +1608,18 @@
             ]
         },
         {
+            "name": "CATIE",
+            "url": "http://www.catie.fr/",
+            "description": "Centre Aquitain des Technologies de l'Information et Electroniques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Avenue du Dr Albert Schweitzer, 33400 Talence",
+                    "gps_coordinates": "44.80613/-0.60754"
+                }
+            ]
+        },
+        {
             "name": "CDVI",
             "url": "http://www.cdvi.com/",
             "description": "Access control and locking systems manufacturer",
@@ -1666,6 +1678,21 @@
                     "name": "",
                     "postal_address": "22 – Rue Jean Pierre Timbaud 38600 Fontaine",
                     "gps_coordinates": "45.19293/5.67472"
+                }
+            ]
+        },
+        {
+            "name": "Chanel",
+            "url": "http://www.chanel.com",
+            "description": "",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 Rue du Cheval Blanc, 93500 Pantin",
+                    "gps_coordinates": "48.89618/2.41422"
                 }
             ]
         },
@@ -3487,6 +3514,21 @@
             ]
         },
         {
+            "name": "Fludia",
+            "url": "https://www.fludia.com",
+            "description": "mesure et analyse des consommations d’énergie sur tous types de bâtiments",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 ter rue Honoré d’Estienne d’Orves 4ème Étage 92150 SURESNES",
+                    "gps_coordinates": "48.87297/2.22673"
+                }
+            ]
+        },
+        {
             "name": "Focal",
             "url": "https://www.focal.com",
             "description": "High-End acoustic loudspeakers and drivers for Car Audio",
@@ -4899,6 +4941,7 @@
         {
             "name": "KORTEX Point of Sales & Industry",
             "url": "http://www.kortex-psi.fr",
+            "twitter": "KORTEX_PSI",
             "description": "Access solutions and broadband networks",
             "locations": [
                 {
@@ -5652,6 +5695,18 @@
                     "name": "",
                     "postal_address": "25 Rue Marcel Issartier, 33700 Mérignac",
                     "gps_coordinates": "44.84004/-0.71630"
+                }
+            ]
+        },
+        {
+            "name": "Muquans",
+            "url": "https://www.muquans.com/",
+            "description": "Precision Quantum Sensors",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue François Mitterrand, 33405 Talence",
+                    "gps_coordinates": "44.80430/-0.60468"
                 }
             ]
         },
@@ -7716,6 +7771,21 @@
             ]
         },
         {
+            "name": "Soitec",
+            "url": "https://www.soitec.com",
+            "description": "semiconductor materials",
+            "keywords": "",
+            "twitter": "soitec_fr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc Technologique des Fontaines Chemin des Franques 38190 Bernin",
+                    "gps_coordinates": "45.26285/5.87814"
+                }
+            ]
+        },
+        {
             "name": "Solystic",
             "url": "http://www.solystic.com",
             "description": "Postal sorting solutions",
@@ -7796,6 +7866,7 @@
             "url": "http://www.spicetronic.com",
             "description": "La précision électronique au service de l'innovation",
             "keywords": "",
+            "comment": "",
             "locations": [
                 {
                     "name": "",
@@ -7901,12 +7972,52 @@
         {
             "name": "STMicroelectronics",
             "url": "http://www.st.com",
-            "description": "",
+            "description": "semiconductor manufacturer",
+            "keywords": "",
+            "twitter": "ST_World",
+            "comment": "",
             "locations": [
                 {
                     "name": "STMicroelectronics Grenoble",
                     "postal_address": "12 RUE JULES HOROWITZ 38000 GRENOBLE",
                     "gps_coordinates": "45.20452/5.69585"
+                },
+                {
+                    "name": "STMicroelectronics Crolles",
+                    "postal_address": "850 RUE JEAN MONNET 38920 CROLLES",
+                    "gps_coordinates": "45.26930/5.88072"
+                },
+                {
+                    "name": "STMicroelectronics Paris",
+                    "postal_address": "29 BOULEVARD ROMAIN ROLLAND 92120 MONTROUGE",
+                    "gps_coordinates": "48.81969/2.32461"
+                },
+                {
+                    "name": "STMicroelectronics Rousset",
+                    "postal_address": "ZONE INDUSTRIELLE DE PEYNIER ROUSSET, AVENUE CELESTIN COQ, 13790 ROUSSET",
+                    "gps_coordinates": "43.47416/5.60504"
+                },
+                {
+                    "name": "STMicroelectronics Sophia Antipolis",
+                    "postal_address": "635 Route des Lucioles, 06560 Valbonne",
+                    "gps_coordinates": "43.61872/7.05157"
+                },
+                {
+                    "name": "STMicroelectronics Tours",
+                    "postal_address": "10 RUE THALES DE MILET, 37000 TOURS",
+                    "gps_coordinates": "47.42927/0.68562"
+                }
+            ]
+        },
+        {
+            "name": "Sunna design",
+            "url": "http://sunna-design.fr/",
+            "description": "L'éclairage public solaire intelligent",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 Rue du Commandant Charcot, 33290 Blanquefort",
+                    "gps_coordinates": "44.92303/-0.61752"
                 }
             ]
         },
@@ -8417,6 +8528,18 @@
                     "name": "",
                     "postal_address": "1 avenue de Bellefontaine, 35510 Cesson Sévigné – France",
                     "gps_coordinates": "48.1280311/-1.6302628"
+                }
+            ]
+        },
+        {
+            "name": "Ubi Solutions",
+            "url": "http://www.ubisolutions.net",
+            "description": "Spécialiste de l’intégration de solutions de traçabilité innovantes basées sur les technologies RFID/Mobilité/Cloud/M2M/Auto ID",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9 allée des Barbanniers, 92230 Gennevilliers – France",
+                    "gps_coordinates": "48.9369649/2.3042728"
                 }
             ]
         },
