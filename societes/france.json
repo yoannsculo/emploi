@@ -5977,6 +5977,18 @@
             ]
         },
         {
+            "name": "Newsteo",
+            "url": "https://www.newsteo.com/",
+            "description": "Wireless Monitoring",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "93 Avenue des Sorbiers, 13600 La Ciotat, France",
+                    "gps_coordinates": "43.2048922/5.596535"
+                }
+            ]
+        },
+        {
             "name": "Nexter",
             "url": "http://www.nexter-group.fr/",
             "description": "French government-owned weapons manufacturer",
