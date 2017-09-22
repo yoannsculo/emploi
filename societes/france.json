@@ -7998,6 +7998,18 @@
             ]
         },
         {
+            "name": "Sunna design",
+            "url": "http://sunna-design.fr/",
+            "description": "L'éclairage public solaire intelligent",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 Rue du Commandant Charcot, 33290 Blanquefort",
+                    "gps_coordinates": "44.92303/-0.61752"
+                }
+            ]
+        },
+        {
             "name": "Sunpartner Technologies",
             "url": "http://sunpartnertechnologies.com/",
             "description": "Photovoltaic solutions",
