@@ -1526,6 +1526,18 @@
             ]
         },
         {
+            "name": "CATIE",
+            "url": "http://www.catie.fr/",
+            "description": "Centre Aquitain des Technologies de l'Information et Electroniques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Avenue du Dr Albert Schweitzer, 33400 Talence",
+                    "gps_coordinates": "44.80613/-0.60754"
+                }
+            ]
+        },
+        {
             "name": "CDVI",
             "url": "http://www.cdvi.com/",
             "description": "Access control and locking systems manufacturer",
@@ -5477,6 +5489,18 @@
             ]
         },
         {
+            "name": "Muquans",
+            "url": "https://www.muquans.com/",
+            "description": "Precision Quantum Sensors",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue François Mitterrand, 33405 Talence",
+                    "gps_coordinates": "44.80430/-0.60468"
+                }
+            ]
+        },
+        {
             "name": "Murata Integrated Passive Solutions S.A.",
             "url": "http://www.ipdia.com",
             "description": "Silicon passive components",
@@ -7619,6 +7643,18 @@
             ]
         },
         {
+            "name": "Sunna design",
+            "url": "http://sunna-design.fr/",
+            "description": "L'éclairage public solaire intelligent",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 Rue du Commandant Charcot, 33290 Blanquefort",
+                    "gps_coordinates": "44.92303/-0.61752"
+                }
+            ]
+        },
+        {
             "name": "Sunpartner Technologies",
             "url": "http://sunpartnertechnologies.com/",
             "description": "Photovoltaic solutions",
@@ -8155,6 +8191,18 @@
                     "name": "",
                     "postal_address": "La Garde, Route de Paris, 44300 Nantes, France",
                     "gps_coordinates": "47.2547872/-1.5129804"
+                }
+            ]
+        },
+        {
+            "name": "Ventec",
+            "url": "https://ventec-ibms.com/fr/",
+            "description": "Développement des systèmes de Gestion de Batteries intelligents",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac",
+                    "gps_coordinates": "44.83703/-0.68974"
                 }
             ]
         },
