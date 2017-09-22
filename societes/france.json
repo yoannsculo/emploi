@@ -5271,6 +5271,18 @@
             ]
         },
         {
+            "name": "Leds-chat",
+            "url": "http://www.leds-chat.com/index.html",
+            "description": "LED's CHAT : La Première Dalle LED Intelligente Et Connectée",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "37 Rue Guibal, Marseille, France",
+                    "gps_coordinates": "43.308604/5.3866941"
+                }
+            ]
+        },
+        {
             "name": "Legrand",
             "url": "http://www.legrand.fr",
             "description": "",
