@@ -1608,6 +1608,18 @@
             ]
         },
         {
+            "name": "CATIE",
+            "url": "http://www.catie.fr/",
+            "description": "Centre Aquitain des Technologies de l'Information et Electroniques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Avenue du Dr Albert Schweitzer, 33400 Talence",
+                    "gps_coordinates": "44.80613/-0.60754"
+                }
+            ]
+        },
+        {
             "name": "CDVI",
             "url": "http://www.cdvi.com/",
             "description": "Access control and locking systems manufacturer",
