@@ -8532,6 +8532,18 @@
             ]
         },
         {
+            "name": "Ubi Solutions",
+            "url": "http://www.ubisolutions.net",
+            "description": "Spécialiste de l’intégration de solutions de traçabilité innovantes basées sur les technologies RFID/Mobilité/Cloud/M2M/Auto ID",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "9 allée des Barbanniers, 92230 Gennevilliers – France",
+                    "gps_coordinates": "48.9369649/2.3042728"
+                }
+            ]
+        },
+        {
             "name": "Unistellar",
             "url": "http://www.unistellaroptics.com/en/",
             "description": "FINALLY YOU’LL SEE",
