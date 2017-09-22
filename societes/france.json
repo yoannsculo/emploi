@@ -8588,6 +8588,18 @@
             ]
         },
         {
+            "name": "Ventec",
+            "url": "https://ventec-ibms.com/fr/",
+            "description": "Développement des systèmes de Gestion de Batteries intelligents",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac",
+                    "gps_coordinates": "44.83703/-0.68974"
+                }
+            ]
+        },
+        {
             "name": "Viaccess-Orca",
             "url": "http://www.viaccess-orca.com/",
             "description": "TV Everywhere solutions",
