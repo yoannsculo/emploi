@@ -5699,6 +5699,18 @@
             ]
         },
         {
+            "name": "Muquans",
+            "url": "https://www.muquans.com/",
+            "description": "Precision Quantum Sensors",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue François Mitterrand, 33405 Talence",
+                    "gps_coordinates": "44.80430/-0.60468"
+                }
+            ]
+        },
+        {
             "name": "Murata Integrated Passive Solutions S.A.",
             "url": "http://www.ipdia.com",
             "description": "Silicon passive components",
