@@ -511,6 +511,18 @@
             ]
         },
 	{
+            "name": "ALPhANOV",
+            "url": "http://www.alphanov.com/",
+            "description": "Centre Technologique Optique et Lasers",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue François Mitterrand, 33405 Talence",
+                    "gps_coordinates": "44.80430/-0.60468"
+                }
+            ]
+        },
+	{
             "name": "Altimet",
             "url": "http://www.altimet.fr",
             "description": "Surface Metrology products manufacturer",
@@ -3304,6 +3316,18 @@
                     "name": "",
                     "postal_address": "7 rue Léonard de VINCI, 92160 Antony",
                     "gps_coordinates": "48.74064/2.31572"
+                }
+            ]
+        },
+	{
+            "name": "Evtronic",
+            "url": "http://evtronic-industries.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "34 Rue Denis Papin, 33850 Léognan",
+                    "gps_coordinates": "44.74192/-0.61268"
                 }
             ]
         },
@@ -6825,6 +6849,18 @@
                     "name": "",
                     "postal_address": "11B Rue Bachaumont, 75002 Paris",
                     "gps_coordinates": "48.86595/2.34539"
+                }
+            ]
+        },
+	{
+            "name": "Poietis",
+            "url": "http://www.poietis.com/",
+            "description": "Société de biotechnologie spécialisée dans la Bio-impression Laser de tissus vivants",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "27 allée Charles Darwin, 33600 Pessac",
+                    "gps_coordinates": "44.81067/-0.67437"
                 }
             ]
         },
