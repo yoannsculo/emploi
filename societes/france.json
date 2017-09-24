@@ -1566,6 +1566,21 @@
             ]
         },
         {
+            "name": "Captiv SAS",
+            "url": "https://www.misterhector.com/",
+            "description": "cube connecté",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "18 rue du taillis, 44880, Sautron, France",
+                    "gps_coordinates": "47.2624756/-1.668795"
+                }
+            ]
+        },
+        {
             "name": "CARRI Systems",
             "url": "http://www.carri.fr",
             "description": "High performance computer systems.",
@@ -5329,6 +5344,19 @@
                     "name": "",
                     "postal_address": "CEA / Léti 17 rue des Martyrs  38054 Grenoble cedex 9",
                     "gps_coordinates": "45.2001/5.7069"
+                }
+            ]
+        },
+        {
+            "name": "Life-plus",
+            "url": "http://lifeplus.io/index.html",
+            "description": "La solution de prévention de la fragilisation pour les jeunes de plus de 65 ans.",
+            "comment": "Entreprise dans un incubateur, adresse correspondant à cet incubateur",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "96bis Boulevard Raspail, 75006 Paris",
+                    "gps_coordinates": "48.8457229/2.3261216"
                 }
             ]
         },
