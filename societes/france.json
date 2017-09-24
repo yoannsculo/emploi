@@ -2163,6 +2163,20 @@
             ]
         },
         {
+            "name": "CXR",
+            "url": "http://www.cxr.com",
+            "description": "SMART SOLUTIONS FOR SMART NETWORKS",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Rue de l'Ornette, 28410 Abondant, France",
+                    "gps_coordinates": "48.7766909/1.4413039"
+                }
+            ]
+        },
+        {
             "name": "Cyleone",
             "url": "http://www.cyleone.fr",
             "description": "Data acquisition and management for drones operators",
