@@ -3061,6 +3061,23 @@
             ]
         },
         {
+            "name": "EMKA France",
+            "url": "http://www.emka.com/fr_fr/",
+            "description": "locking systems, hinges and sealings",
+            "locations": [
+                {
+                    "name": "Siège social - production 1",
+                    "postal_address": "Parc d'activité Mégazone Moselle Est 57450 Henriville",
+                    "gps_coordinates": "49.10495/6.84058"
+                },
+                {
+                    "name": "Service commercial et SAV - production 2",
+                    "postal_address": "105 Route des Roches - B.P. 12 41400 Bourré",
+                    "gps_coordinates": "47.35600/1.21785"
+                }
+            ]
+        },
+        {
             "name": "Em-Sys",
             "url": "http://www.em-sys.fr",
             "description": "Digital Multimedia Application Development Services",
@@ -3084,23 +3101,6 @@
                     "name": "",
                     "postal_address": "165 avenue de Bretagne 59000 Lille",
                     "gps_coordinates": "50.63321/3.01961"
-                }
-            ]
-        },
-        {
-            "name": "EMKA France",
-            "url": "http://www.emka.com/fr_fr/",
-            "description": "locking systems, hinges and sealings",
-            "locations": [
-                {
-                    "name": "Siège social - production 1",
-                    "postal_address": "Parc d'activité Mégazone Moselle Est 57450 Henriville",
-                    "gps_coordinates": "49.10495/6.84058"
-                },
-                {
-                    "name": "Service commercial et SAV - production 2",
-                    "postal_address": "105 Route des Roches - B.P. 12 41400 Bourré",
-                    "gps_coordinates": "47.35600/1.21785"
                 }
             ]
         },
