@@ -3534,8 +3534,18 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Parc Euclide 8 rue Blaise Pascal 78990 Elancourt",
-                    "gps_coordinates": "48.79409/1.97746"
+                    "postal_address": "15 Place Georges Pompidou 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.78410/2.04185"
+                },
+                {
+                    "name": "",
+                    "postal_address": "679 Av Julien Lefèbvre Twins1 06270 Villeneuve Loubet",
+                    "gps_coordinates": ""
+                },
+                {
+                    "name": "",
+                    "postal_address": "9, Rue Michel Labrousse Park Avenue – EMERAUDE 1 31100 Toulouse",
+                    "gps_coordinates": ""
                 }
             ]
         },
