@@ -499,6 +499,26 @@
             ]
         },
         {
+            "name": "ALCIOM",
+            "url": "http://alciom.com",
+            "description": "cabinet d'expertise, de conseil, d'études amont et de recherche sous contrat en électronique",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue des vignes 78220 Viroflay",
+                    "gps_coordinates": "48.80626/2.16489"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1, rue Gabriel Péri 31000 TOULOUSE",
+                    "gps_coordinates": "43.60563/1.44976"
+                }
+            ]
+        },
+        {
             "name": "Alpes DEIS",
             "url": "http://www.alpes-deis.fr",
             "description": "Electronic board design & manufacturing",
@@ -507,6 +527,18 @@
                     "name": "",
                     "postal_address": "300, Rue des Techniques - 74970 Marignier",
                     "gps_coordinates": "46.07655/6.50398"
+                }
+            ]
+        },
+	{
+            "name": "ALPhANOV",
+            "url": "http://www.alphanov.com/",
+            "description": "Centre Technologique Optique et Lasers",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Rue François Mitterrand, 33405 Talence",
+                    "gps_coordinates": "44.80430/-0.60468"
                 }
             ]
         },
@@ -616,6 +648,62 @@
             ]
         },
         {
+            "name": "ANSYS",
+            "url": "http://www.ansys.com",
+            "description": "engineering simulation",
+            "keywords": "",
+            "twitter": "ANSYS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "15 place Georges Pompidou 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.78408/2.04187"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9 rue Michel Labrousse Park Avenue - BAT Emeraude 1 31100 Toulouse",
+                    "comment": "Esterel Technologies",
+                    "gps_coordinates": "43.56794/1.38797"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Einstein 11 avenue Albert Einstein 69100 Villeurbanne",
+                    "gps_coordinates": "45.78264/4.87976"
+                }
+            ]
+        },
+        {
+            "name": "Anywaves",
+            "url": "http://www.anywaves.eu",
+            "description": "Antennes pour petits porteurs : CubeSats et drones",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10 avenue de l'Europe - 31520 Ramonville Saint-Agne",
+                    "gps_coordinates": "43.55097/1.48833"
+                }
+            ]
+        },
+        {
+            "name": "Apitrak",
+            "url": "https://www.apitrak.com",
+            "description": "solution de géolocalisation de matériel médical",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29, chemin du vieux chêne 38240, Meylan",
+                    "gps_coordinates": "45.20851/5.79331"
+                }
+            ]
+        },
+        {
             "name": "APLUS Système Automation",
             "url": "http://www.aplus-sa.com",
             "description": "Informatique industrielle",
@@ -694,6 +782,21 @@
             ]
         },
         {
+            "name": "AREPLUS Robotics",
+            "url": "http://ar-plus.com",
+            "description": "HMI makers for robotic camera control for Broadcast",
+            "keywords": "AREPLUS",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "313, rue de Bretagne 53000 Laval",
+                    "gps_coordinates": "48.06852/-0.79832"
+                }
+            ]
+        },
+        {
             "name": "Arcure",
             "url": "http://www.arcure.net/",
             "description": "Video detection of pedestrians on work and industrial sites",
@@ -752,7 +855,7 @@
             "url": "http://aryballe-technologies.com/",
             "description": "universal sensors",
             "keywords": "",
-            "twitter": "",
+            "twitter": "aryballe",
             "comment": "",
             "locations": [
                 {
@@ -1139,6 +1242,21 @@
             ]
         },
         {
+            "name": "BEE-BEE AUTOMOTIVE",
+            "url": "http://www.beebee.eu/",
+            "description": "Voiture électrique",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "77 rue de l'Etat 88160 - Ramonchamp",
+                    "gps_coordinates": "47.88129/6.75156"
+                }
+            ]
+        },
+        {
             "name": "Bertin Technologies",
             "url": "http://www.bertin.fr",
             "description": "",
@@ -1259,6 +1377,21 @@
             ]
         },
         {
+            "name": "Boa Concept",
+            "url": "http://www.boa-concept.com",
+            "description": "solutions de convoyage sur mesure pour la gestion d'entrepôts",
+            "keywords": "",
+            "twitter": "BoaConcept",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "22, rue de Méons F 42000 Saint-Étienne",
+                    "gps_coordinates": "45.46220/4.41585"
+                }
+            ]
+        },
+        {
             "name": "Bodet",
             "url": "http://www.bodet.com",
             "description": "time, attendance management and time measurement solutions",
@@ -1285,6 +1418,21 @@
                     "name": "Bodet-Osys",
                     "postal_address": "TECHNOPOLIS Bât N rue Louis de Broglie 53810 Changé-les-Laval",
                     "gps_coordinates": "48.09035/-0.75426"
+                }
+            ]
+        },
+        {
+            "name": "BodyCap",
+            "url": "http://www.bodycap-medical.com",
+            "description": "Medical Sensor development",
+            "keywords": "",
+            "twitter": "BodyCap",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue de la girafe 14000 Caen",
+                    "gps_coordinates": "49.20344/-0.36338"
                 }
             ]
         },
@@ -1989,6 +2137,21 @@
             ]
         },
         {
+            "name": "CODESNA",
+            "url": "http://www.codesna.com",
+            "description": "Solutions d’évaluation des déséquilibres physiologiques provoqués, entre autres, par les émotions négatives et par le stress",
+            "keywords": "",
+            "twitter": "codesna",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1, Bd Maurice Slama  Immeuble Premium  06000 Nice",
+                    "gps_coordinates": "43.68364/7.20243"
+                }
+            ]
+        },
+        {
             "name": "COGELEC",
             "url": "http://www.cogelec.fr",
             "description": "Design, manufacture and marketing of telephone intercom and access control solutions.",
@@ -2099,6 +2262,21 @@
             ]
         },
         {
+            "name": "Cosmo Connected",
+            "url": "http://cosmoconnected.com",
+            "description": "Feu de Freinage Connecté",
+            "keywords": "",
+            "twitter": "CosmoConnected",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 rue Duret, 75116 Paris",
+                    "gps_coordinates": "48.87395/2.28569"
+                }
+            ]
+        },
+        {
             "name": "Coyote",
             "url": "http://www.moncoyote.com",
             "description": "Real-time GPS speed camera alert system",
@@ -2132,6 +2310,21 @@
                     "name": "",
                     "postal_address": "Pépinière du Parc du Moulin 111 Boulevard Duhamel du Monceau – CS 30638 45166 OLIVET Cedex",
                     "gps_coordinates": "47.84672/1.92590"
+                }
+            ]
+        },
+        {
+            "name": "Crosscall",
+            "url": "http://crosscall.com",
+            "description": "Des mobiles et smartphones étanches, résistants, avec une grande autonomie",
+            "keywords": "",
+            "twitter": "crosscallmobile",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "655 RUE PIERRE SIMON LAPLACE - 13290 AIX EN PROVENCE ",
+                    "gps_coordinates": "43.47715/5.37916"
                 }
             ]
         },
@@ -2488,6 +2681,21 @@
             ]
         },
         {
+            "name": "Donecle",
+            "url": "https://www.donecle.com/",
+            "description": "Lightning fast inspections UAV",
+            "keywords": "",
+            "twitter": "Donecle",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "231 Rue Pierre et Marie Curie 31670 Labège",
+                    "gps_coordinates": "43.54547/1.51415"
+                }
+            ]
+        },
+        {
             "name": "Drone Volt",
             "url": "http://www.dronevolt.com",
             "description": "Civil drones",
@@ -2755,7 +2963,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "4 Rue René Razel, 91400 Saclay",
+                    "postal_address": "Domaine Technologique de Saclay Immeuble Hermès 4, rue René Razel 91400 Saclay",
                     "gps_coordinates": "48.73573/2.16633"
                 }
             ]
@@ -2769,6 +2977,26 @@
                     "name": "",
                     "postal_address": "11, place des Vosges – La Défense 5 - 92061 LA DEFENSE CEDEX",
                     "gps_coordinates": "48.89195/2.24742"
+                }
+            ]
+        },
+        {
+            "name": "ECRIN Systems",
+            "url": "http://www.ecrin.com/",
+            "description": "Rugged and industrial computers for embedded market",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "143, rue Louis Neel Parc Technologique du Pré Roux 38920 Crolles",
+                    "gps_coordinates": "45.26707/5.88920"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2/12 Rue du Chemin des Femmes Immeuble l’Odyssée – Bât D 3ème étage 91300 Massy",
+                    "gps_coordinates": "48.72692/2.26576"
                 }
             ]
         },
@@ -2878,6 +3106,21 @@
             ]
         },
         {
+            "name": "eLichens",
+            "url": "http://www.elichens.com",
+            "description": "Services et solutions de mesure hyper-locale de la qualité de l'air",
+            "keywords": "",
+            "twitter": "eLichensEN",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "32 RUE GUSTAVE EIFFEL 38000 GRENOBLE",
+                    "gps_coordinates": "45.18416/5.70313"
+                }
+            ]
+        },
+        {
             "name": "Elinap",
             "url": "http://elinap.pagesperso-orange.fr",
             "description": "Produits qui permettent l'amélioration du service assuré par les transports publics",
@@ -2944,18 +3187,6 @@
             ]
         },
         {
-            "name": "Em-Sys",
-            "url": "http://www.em-sys.fr",
-            "description": "Digital Multimedia Application Development Services",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
-                    "gps_coordinates": "45.18752/5.77576"
-                }
-            ]
-        },
-        {
             "name": "EMKA France",
             "url": "http://www.emka.com/fr_fr/",
             "description": "locking systems, hinges and sealings",
@@ -2969,6 +3200,63 @@
                     "name": "Service commercial et SAV - production 2",
                     "postal_address": "105 Route des Roches - B.P. 12 41400 Bourré",
                     "gps_coordinates": "47.35600/1.21785"
+                }
+            ]
+        },
+        {
+            "name": "Em-Sys",
+            "url": "http://www.em-sys.fr",
+            "description": "Digital Multimedia Application Development Services",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
+                    "gps_coordinates": "45.18752/5.77576"
+                }
+            ]
+        },
+        {
+            "name": "Equisense",
+            "url": "http://www.equisense.com",
+            "description": "objets connectés pour les sports équestres",
+            "keywords": "",
+            "twitter": "EquisenseApp",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "165 avenue de Bretagne 59000 Lille",
+                    "gps_coordinates": "50.63321/3.01961"
+                }
+            ]
+        },
+        {
+            "name": "EMS PROTO",
+            "url": "https://www.emsproto.com",
+            "description": "Prototypage rapide de carte électronique",
+            "keywords": "",
+            "twitter": "EmsProto",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 allée Isaac Newton 33650 Martillac",
+                    "gps_coordinates": "44.70763/-0.58483"
+                }
+            ]
+        },
+        {
+            "name": "Enerbee",
+            "url": "http://www.enerbee.fr",
+            "description": "génération d’énergie à partir d’une large gamme de mouvements",
+            "keywords": "",
+            "twitter": "EnerBee_Harvest",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 parvis Louis Néel CS 20050 38040 Grenoble Cedex 9",
+                    "gps_coordinates": "45.19534/5.70992"
                 }
             ]
         },
@@ -2998,6 +3286,21 @@
                     "name": "",
                     "postal_address": "Enersy - La Cantine 27, Rue d’Aubuisson,31000, TOULOUSE",
                     "gps_coordinates": "43.60268/1.45418"
+                }
+            ]
+        },
+        {
+            "name": "Enogia",
+            "url": "http://www.enogia.com/",
+            "description": "heat to power conversion systems",
+            "keywords": "",
+            "twitter": "Enogia_ORC",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 Avenue Paul héroult 13015 Marseille",
+                    "gps_coordinates": "43.34057/5.36909"
                 }
             ]
         },
@@ -3231,8 +3534,18 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Parc Euclide 8 rue Blaise Pascal 78990 Elancourt",
-                    "gps_coordinates": "48.79409/1.97746"
+                    "postal_address": "15 Place Georges Pompidou 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.78410/2.04185"
+                },
+                {
+                    "name": "",
+                    "postal_address": "679 Av Julien Lefèbvre Twins1 06270 Villeneuve Loubet",
+                    "gps_coordinates": ""
+                },
+                {
+                    "name": "",
+                    "postal_address": "9, Rue Michel Labrousse Park Avenue – EMERAUDE 1 31100 Toulouse",
+                    "gps_coordinates": ""
                 }
             ]
         },
@@ -3269,6 +3582,21 @@
                     "name": "",
                     "postal_address": "Minatec Entreprises BHT - Bâtiment 52 - 7, Parvis Louis Néel - 38040 GRENOBLE CEDEX 9",
                     "gps_coordinates": "45.19595/5.70921"
+                }
+            ]
+        },
+        {
+            "name": "EVEON",
+            "url": "http://www.eveon.eu",
+            "description": "Smart devices for medical treatment",
+            "keywords": "",
+            "twitter": "EVEON_SAS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "345, rue Lavoisier 38330 Montbonnot-Saint-Martin",
+                    "gps_coordinates": "45.21781/5.81281"
                 }
             ]
         },
@@ -3336,6 +3664,18 @@
                 }
             ]
         },
+	{
+            "name": "Evtronic",
+            "url": "http://evtronic-industries.com",
+            "description": "Bornes de charge pour véhicules électriques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "34 Rue Denis Papin, 33850 Léognan",
+                    "gps_coordinates": "44.74192/-0.61268"
+                }
+            ]
+        },
         {
             "name": "EWATTCH",
             "url": "http://www.ewattch.com",
@@ -3346,6 +3686,21 @@
                     "name": "",
                     "postal_address": "15, Rue du Petit Saint-Dié 88100 Saint-Dié-des-Vosges",
                     "gps_coordinates": "48.28122/6.94863"
+                }
+            ]
+        },
+        {
+            "name": "Exagan",
+            "url": "http://www.exagan.com",
+            "description": "GaN power-device solution",
+            "keywords": "",
+            "twitter": "Exagan",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "c/o Minatec Entreprises - BHT 7 parvis Louis Néel 38040 Grenoble Cedex 9 ",
+                    "gps_coordinates": "45.19504/5.70836"
                 }
             ]
         },
@@ -3385,6 +3740,21 @@
                     "name": "",
                     "postal_address": "19 Boulevard des Ventadouiro, 13300 Salon-de-Provence, France",
                     "gps_coordinates": "43.6269581/5.0944042"
+                }
+            ]
+        },
+        {
+            "name": "Famoco",
+            "url": "https://www.famoco.com/",
+            "description": "Android transactional devices",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "59 Avenue Victor Hugo 75116 Paris",
+                    "gps_coordinates": "48.87082/2.28849"
                 }
             ]
         },
@@ -3440,6 +3810,21 @@
                 }
             ]
         },
+        {
+            "name": "Fenotek",
+            "url": "http://fenotek.shop",
+            "description": "IoT smarthome",
+            "keywords": "",
+            "twitter": "fenotek",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "15 quai de Rive Neuve - 13007 Marseille",
+                    "gps_coordinates": "43.29293/5.37079"
+                }
+            ]
+        },
 	{
             "name": "FERCHAU AVIATION",
             "url": "https://www.ferchau.com/aviation/",
@@ -3469,6 +3854,21 @@
                     "name": "FIAMM France Sarl",
                     "postal_address": "12 Rue Augustin Fresnel 78410 Aubergenville",
                     "gps_coordinates": "48.96628/1.84842"
+                }
+            ]
+        },
+        {
+            "name": "FineHeart",
+            "url": "http://www.fine-heart.com/",
+            "description": "creating innovative technologies in the cardiovascular space",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Plateforme Technologique d’Innovation Biomédicale, Hôpital Xavier Arnozan, Avenue du Haut Lévêque, 33600 Pessac",
+                    "gps_coordinates": "44.79727/-0.65980"
                 }
             ]
         },
@@ -3569,6 +3969,31 @@
                     "name": "",
                     "postal_address": "108 rue de l’Avenir 42353 La Talaudière",
                     "gps_coordinates": "45.46174/4.42461"
+                }
+            ]
+        },
+        {
+            "name": "Forssea Robotics",
+            "url": "http://www.forssea-robotics.fr",
+            "description": "underwater intelligent vehicle that interacts with submerged systems",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "130 rue de Lourmel , 75015 Paris",
+                    "gps_coordinates": "48.84162/2.28488"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9, avenue de l’Europe, 34830 Clapiers",
+                    "gps_coordinates": "43.66077/3.90104"
+                },
+                {
+                    "name": "",
+                    "postal_address": "11 rue Joseph Montgolfier, 34110 Frontignan",
+                    "gps_coordinates": "43.43442/3.70599"
                 }
             ]
         },
@@ -4120,6 +4545,21 @@
             ]
         },
         {
+            "name": "HAP2U",
+            "url": "http://www.hap2u.net/",
+            "description": "haptic feedback screens",
+            "keywords": "hap2_u",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20 Rue du tour de l'eau, 38400 Saint Martin d'Hères",
+                    "gps_coordinates": "45.18697/5.77563"
+                }
+            ]
+        },
+        {
             "name": "HAProxy Technologies",
             "url": "http://www.haproxy.com",
             "description": "HAProxy load balancing solutions",
@@ -4433,6 +4873,21 @@
                     "name": "",
                     "postal_address": "25, rue Marcel Issartier, 33 700 Mérignac, France",
                     "gps_coordinates": "44.8387476/-0.7189305"
+                }
+            ]
+        },
+        {
+            "name": "Ineo-Sense",
+            "url": "http://www.ineo-sense.com",
+            "description": "Industrial wireless sensor solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Bâtiment Ellipsis Porte 12 125 Rue De L'Hostellerie 30900 Nimes",
+                    "gps_coordinates": "43.81341/4.34492"
                 }
             ]
         },
@@ -4993,6 +5448,21 @@
             ]
         },
         {
+            "name": "KRONO-SAFE",
+            "url": "http://www.krono-safe.com",
+            "description": "real-time embedded applications",
+            "keywords": "",
+            "twitter": "KRONO_SAFE",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "86 rue de Paris, 91400 Orsay",
+                    "gps_coordinates": "48.69549/2.19620"
+                }
+            ]
+        },
+        {
             "name": "Kuantic",
             "url": "http://www.kuantic.com",
             "description": "Machine to machine",
@@ -5518,6 +5988,26 @@
             ]
         },
         {
+            "name": "Matooma",
+            "url": "https://www.matooma.com",
+            "description": "gestion et communication des objets connectés par carte SIM",
+            "keywords": "",
+            "twitter": "MatoomaM2M",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZAC de l'Aéroport Montpellier Méditerranée Entrée 2 SIS - 2630 Avenue Georges Frêche 34470 Pérols",
+                    "gps_coordinates": "43.57845/3.93653"
+                },
+                {
+                    "name": "",
+                    "postal_address": "44 bis rue Pasquier 75008 Paris",
+                    "gps_coordinates": "48.87489/2.32399"
+                }
+            ]
+        },
+        {
             "name": "Mauna Kea Technologies",
             "url": "http://www.maunakeatech.com",
             "description": "real time digital in vivo cellular visualization",
@@ -5734,6 +6224,21 @@
                     "name": "",
                     "postal_address": "10 rue de Penthièvre 75008 Paris",
                     "gps_coordinates": "48.87305/2.31661"
+                }
+            ]
+        },
+        {
+            "name": "Morphosense",
+            "url": "http://morphosense.com",
+            "description": "Mesure de la déformation 3D et des vibrations 3 axes",
+            "keywords": "",
+            "twitter": "morphosense",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 allée Lac de Garde Savoie Technolac BP60278 73375 LE BOURGET DU LAC CEDEX",
+                    "gps_coordinates": "45.64697/5.86845"
                 }
             ]
         },
@@ -5989,6 +6494,21 @@
                     "name": "",
                     "postal_address": "36 rue des Landelles 35510 Cesson-Sévigné Bretagne – France",
                     "gps_coordinates": "48.0997792/-1.6241606"
+                }
+            ]
+        },
+        {
+            "name": "NeoMore",
+            "url": "http://www.neomore.com/",
+            "description": "Spécialiste des Outils temps-réel, des Cartes et des PC Industriels",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "NeoMore Parc d'Affaires Le Vivier 5 rue de la Plaine 78860 Saint Nom La Bretèche",
+                    "gps_coordinates": "48.79838/1.95421"
                 }
             ]
         },
@@ -6892,6 +7412,41 @@
             ]
         },
         {
+            "name": "PKparis",
+            "url": "https://www.pkparis.com",
+            "description": "Objets Connectés Premium et Nomades",
+            "keywords": "",
+            "twitter": "PKparispress",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14 AVENUE DE L OPERA 75001 PARIS",
+                    "gps_coordinates": "48.86530/2.33488"
+                },
+                {
+                    "name": "",
+                    "postal_address": "11 RUE CARNOT - 94270 LE KREMLIN BICETRE",
+                    "gps_coordinates": "48.80943/2.36484"
+                }
+            ]
+        },
+        {
+            "name": "PLDA",
+            "url": "https://www.plda.com",
+            "description": "PCI and PCI Express IP",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "805 Avenue J.R.G.G. de la Lauziere 13290 Aix-les-Milles",
+                    "gps_coordinates": "43.48108/5.36644"
+                }
+            ]
+        },
+        {
             "name": "Plume Labs",
             "url": "https://plumelabs.com",
             "description": "smart, mobile air quality tracker",
@@ -6903,6 +7458,18 @@
                     "name": "",
                     "postal_address": "11B Rue Bachaumont, 75002 Paris",
                     "gps_coordinates": "48.86595/2.34539"
+                }
+            ]
+        },
+	{
+            "name": "Poietis",
+            "url": "http://www.poietis.com/",
+            "description": "Société de biotechnologie spécialisée dans la Bio-impression Laser de tissus vivants",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "27 allée Charles Darwin, 33600 Pessac",
+                    "gps_coordinates": "44.81067/-0.67437"
                 }
             ]
         },
@@ -7287,6 +7854,21 @@
             ]
         },
         {
+            "name": "Scallog",
+            "url": "http://www.scallog.com",
+            "description": "Logistics - Startup - Mobile robots",
+            "keywords": "",
+            "twitter": "Scallog",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "105 Rue Raymond Barbet 92000 Nanterre",
+                    "gps_coordinates": "48.89525/2.20299"
+                }
+            ]
+        },
+        {
             "name": "Schneider Electric",
             "url": "http://www.schneider-electric.com",
             "description": "Electricity distribution, automation management and components for energy management.",
@@ -7468,6 +8050,21 @@
             ]
         },
         {
+            "name": "Sencrop",
+            "url": "http://www.sencrop.com/",
+            "description": "station agro-météo connectée",
+            "keywords": "",
+            "twitter": "sencrop",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Euratechnologies 165 Avenue de Bretagne 59000 Lille",
+                    "gps_coordinates": "50.63283/3.02101"
+                }
+            ]
+        },
+        {
             "name": "Sensing Labs",
             "url": "http://sensing-labs.com",
             "description": "Manufacturer of long range wireless sensors",
@@ -7610,6 +8207,21 @@
                     "name": "",
                     "postal_address": "Le Montreal 19 Bis avenue du Quebec Villebon sur Yvette, Les Ulis cedex 8 91951",
                     "gps_coordinates": "48.69083/2.21646"
+                }
+            ]
+        },
+        {
+            "name": "Silicon Mobility",
+            "url": "https://www.silicon-mobility.com/",
+            "description": "flexible, real-time, safe and open control solutions for the automotive industry",
+            "keywords": "",
+            "twitter": "SiMobility",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "535 route des Lucioles  Les Aqueducs  Bâtiment 2  06560 Valbonne",
+                    "gps_coordinates": "43.61758/7.05017"
                 }
             ]
         },
@@ -8048,6 +8660,21 @@
             ]
         },
         {
+            "name": "Stimio",
+            "url": "http://stimio.fr",
+            "description": "STIMIO accompagne ses clients dans l’adoption de l’IoT, du PoC à l’industrialisation",
+            "keywords": "",
+            "twitter": "iot_stimio",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Avenue Jean Rouxel, 44470 Carquefou",
+                    "gps_coordinates": "47.29889/-1.50154"
+                }
+            ]
+        },
+        {
             "name": "STMicroelectronics",
             "url": "http://www.st.com",
             "description": "semiconductor manufacturer",
@@ -8137,6 +8764,36 @@
                     "name": "",
                     "postal_address": "400 Avenue de Roumanille 06410 Sophia Antipolis, France",
                     "gps_coordinates": "43.622232/7.074947"
+                }
+            ]
+        },
+        {
+            "name": "Syntony GNSS",
+            "url": "http://syntony-gnss.com",
+            "description": "Software based Location and Navigation Systems",
+            "keywords": "",
+            "twitter": "Syntony_GNSS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Colombe Parc A1, 5 Bd Jean-Auguste Ingres, 31170 Colomiers",
+                    "gps_coordinates": "43.59727/1.35119"
+                }
+            ]
+        },
+        {
+            "name": "SYSAXES",
+            "url": "http://www.sysaxes.com/",
+            "description": "Robotics",
+            "keywords": "",
+            "twitter": "SYSAXES",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Zone Industrielle Technoland 69, Rue du Breuil 25460 ETUPES",
+                    "gps_coordinates": "47.51373/6.86714"
                 }
             ]
         },
@@ -8339,6 +8996,21 @@
             ]
         },
         {
+            "name": "Texplained",
+            "url": "https://www.texplained.com/",
+            "description": "Experts in microchip/IC reverse engineering - Auditors of IC security - Providers of hardware counter-measures",
+            "keywords": "",
+            "twitter": "Texplained_RE",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Arep Center  1, traverse des Brucs  06560 Valbonne - Sophia Antipolis",
+                    "gps_coordinates": "43.62737/7.05286"
+                }
+            ]
+        },
+        {
             "name": "Thalès Alenia Space",
             "url": "https://www.thalesgroup.com/fr/thales-alenia-space",
             "description": "",
@@ -8496,6 +9168,21 @@
             ]
         },
         {
+            "name": "Tiempo Secure",
+            "url": "http://www.tiempo-secure.com",
+            "description": "high end secure microcontroller",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "110 rue Blaise Pascal Bâtiment Viseo – Inovallée 38330 Montbonnot Saint Martin",
+                    "gps_coordinates": "45.21294/5.80892"
+                }
+            ]
+        },
+        {
             "name": "Timescope",
             "url": "http://www.timescope.co",
             "description": "Borne de réalité virtuelle en libre-service",
@@ -8551,6 +9238,21 @@
                     "name": "",
                     "postal_address": "Euratechnologies 165 avenue de Bretagne 59000 LILLE",
                     "gps_coordinates": "50.63289/3.01997"
+                }
+            ]
+        },
+        {
+            "name": "TRUSTED OBJECTS",
+            "url": "http://www.trusted-objects.com",
+            "description": "Secure IoT",
+            "keywords": "",
+            "twitter": "Trusted_Objects",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Europarc de Pichaury - Bât. B8 1330 rue Guillibert de la Lauzière 13290 AIX-EN-PROVENCE",
+                    "gps_coordinates": "43.47787/5.36823"
                 }
             ]
         },
@@ -8646,6 +9348,21 @@
             ]
         },
         {
+            "name": "UWINLOC",
+            "url": "http://uwinloc.com/",
+            "description": "precise asset tracking",
+            "keywords": "",
+            "twitter": "Uwinloc",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "57 avenue Jean Monnet 31770 Colomiers",
+                    "gps_coordinates": "43.63042/1.34324"
+                }
+            ]
+        },
+        {
             "name": "Vector",
             "url": "https://vector.com",
             "description": "automobile electronics",
@@ -8696,7 +9413,7 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac, France",
+                    "postal_address": "11 Avenue Henri Becquerel, 33700 Mérignac",
                     "gps_coordinates": "44.836892/-0.68973"
                 }
             ]
@@ -8736,6 +9453,7 @@
             "name": "Visiomed",
             "url": "http://www.visiomed-lab.com/",
             "description": "Smart connected devices for health and wellbeing",
+            "twitter": "visiomed_fr",
             "locations": [
                 {
                     "name": "",
@@ -9084,6 +9802,56 @@
                     "name": "",
                     "postal_address": "8 rue Léopold Sédar Senghor, Bâtiment Erable, 14460 Colombelles",
                     "gps_coordinates": "49.1882665/-0.3096618"
+                }
+            ]
+        },
+        {
+            "name": "Wyres",
+            "url": "http://wyres.eu/",
+            "description": "high performing IoT geolocation solution",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 RUE AMPERE 38000 GRENOBLE",
+                    "gps_coordinates": "45.18524/5.70527"
+                }
+            ]
+        },
+        {
+            "name": "Z#BRE",
+            "url": "https://zbre.io/",
+            "description": "IoT platform",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "24 Rue Jacques Ibert 92300 Levallois Perret",
+                    "gps_coordinates": "48.88839/2.28890"
+                }
+            ]
+        },
+        {
+            "name": "Zebra",
+            "url": "https://www.zebra.com",
+            "description": "marking and printing technologies, including RFID and real-time location solutions",
+            "keywords": "",
+            "twitter": "ZebraTechnology",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Espace Copernic 405 avenue Galilée Aix-en-Provence",
+                    "gps_coordinates": "43.48772/5.34138"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Immeuble Les Thales Parc les Algorithmes St. Aubin",
+                    "gps_coordinates": "48.70790/2.15100"
                 }
             ]
         },
