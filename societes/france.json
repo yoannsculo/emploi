@@ -1256,6 +1256,18 @@
                 }
             ]
         },
+	{
+            "name": "BeTomorrow",
+            "url": "http://www.betomorrow.com",
+            "description": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Rue Lafayette, 33000 Bordeaux",
+                    "gps_coordinates": "44.84352/-0.57134"
+                }
+            ]
+        },
         {
             "name": "Bertin Technologies",
             "url": "http://www.bertin.fr",
@@ -3511,6 +3523,18 @@
                     "name": "",
                     "postal_address": "196 RUE DE LA ROCHE DE LORZIER PARC CENTR'ALP 38430 MOIRANS ",
                     "gps_coordinates": "45.32076/5.59245"
+                }
+            ]
+        },
+	{
+            "name": "ES Laser",
+            "url": "http://www.eslaser.com/",
+            "description": "Conception, fabrication et intégration de laser industriel",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "101 Chemin de Bel air, 33850 Léognan",
+                    "gps_coordinates": "44.74116/-0.61090"
                 }
             ]
         },
@@ -7550,6 +7574,18 @@
                 }
             ]
         },
+	{
+            "name": "Proditec",
+            "url": "http://proditec.com/",
+            "description": "The leading manufacturer of automatic tablet inspection",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Rue Eugène Chevreul, 33600 Pessac",
+                    "gps_coordinates": "44.77799/-0.66446"
+                }
+            ]
+        },
         {
             "name": "Protect Hunt",
             "url": "https://www.protect-hunt.com",
@@ -7821,6 +7857,18 @@
                     "name": "",
                     "postal_address": "ZI les Milles - 1140, rue Ampère Centre Actimart - Bâtiment 1B - BP 13000 13791 Aix en Provence Cedex 3",
                     "gps_coordinates": "43.4867/5.3791"
+                }
+            ]
+        },
+	{
+            "name": "SAFT",
+            "url": "https://www.saftbatteries.com",
+            "description": "Spécialiste dans la conception, la fabrication et la commercialisation de piles techniques et d'accumulateurs électriques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "111 Boulevard Alfred Daney, 33074 Bordeaux",
+                    "gps_coordinates": "44.86846/-0.56997"
                 }
             ]
         },
