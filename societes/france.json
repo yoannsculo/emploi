@@ -8814,6 +8814,18 @@
             ]
         },
         {
+            "name": "Partnering Robotics",
+            "url": "https://partnering-robotics.com/",
+            "description": "Fabricants de robots",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4, rue du lendemain - 95800 Cergy, France",
+                    "gps_coordinates": "49.0495712/2.0108847"
+                }
+            ]
+        },
+        {
             "name": "Percko",
             "url": "http://www.percko.com",
             "description": "Percko improve your posture and fight back pain with the utmost efficiency",
