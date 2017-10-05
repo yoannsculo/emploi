@@ -5826,6 +5826,18 @@
             ]
         },
         {
+            "name": "IMEX-CGI",
+            "url": "http://www.imex-cgi.fr",
+            "description": "Bureau d'études et fabricant de lampadaires solaires et éoliennes",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "300 Rue Pierre Rivoalon, 29200 Brest, France",
+                    "gps_coordinates": "48.3636828/-4.54985"
+                }
+            ]
+        },
+        {
             "name": "Ineo-Sense",
             "url": "http://www.ineo-sense.com",
             "description": "Industrial wireless sensor solutions",
