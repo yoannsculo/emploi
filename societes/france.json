@@ -2413,6 +2413,18 @@
             ]
         },
         {
+            "name": "Cityrama",
+            "url": "http://www.cityrama.biz",
+            "description": "Smart Data for Smart City",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "49 Rue de Bitche 92400 Courbevoie, France",
+                    "gps_coordinates": "48.8959405/2.2446555"
+                }
+            ]
+        },
+        {
             "name": "Cityzen Sciences",
             "url": "http://www.cityzensciences.fr",
             "description": "Smart textiles conception and development",
