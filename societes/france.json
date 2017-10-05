@@ -10799,6 +10799,20 @@
             ]
         },
         {
+            "name": "Tera Groupe",
+            "url": "http://groupe-tera.com",
+            "description": "Pollution solution",
+            "keywords": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "296, AVENUE GEORGES VACHER, 13790 ROUSSET, France",
+                    "gps_coordinates": "43.4704557/5.6141935"
+                }
+            ]
+        },
+        {
             "name": "Terradona",
             "url": "http://terradona.com",
             "description": "waste sorting",
