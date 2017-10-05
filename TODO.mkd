@@ -5,6 +5,48 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
+- www.acksys.fr
+- http://www.traxxs.net/fr
+- http://www.environnement-sa.fr
+- http://www.france-air.com
+- http://geo4cast.ai
+- https://partnering-robotics.com
+- https://www.rincent-air.fr
+- http://www.vaisala.fr
+- http://www.medianesysteme.com/
+- https://www.vips-sa.com/
+- http://www.rubisoft.fr
+- http://www.millidrop.com
+- https://www.ixblue.com
+- https://www.adeunis.com
+- http://www.tekin.fr/
+- http://www.clapsens.com/
+- http://www.internetoftrust.com
+- https://www.antfield.fr
+- http://www.ackl.io
+- https://www.air-lynx.com
+- http://izitron.com/
+- https://seamlesswaves.com/
+- http://www.simpulse-sdr.com/
+- http://bag-era.fr
+- Monixo - http://www.monixo.com/ - @MonixoSAS
+- http://www.gulplug.com
+- http://www.bluetens.com/fr/
+- http://www.anovo.com
+- https://www.yogoko.com / YoGoKo SAS / Rennes / startup
+- Local Motio - https://www.getlocalmotion.com
+- eProvenance - http://www.eprovenance.com/
+- HydrokiT / http://www.hydrokit.com
+- http://www.green-creative.fr/
+- https://www.prynt.co
+- http://www.bluetek.fr
+- http://www.arelis.com
+- http://www.webdyn.com
+- http://www.neoaxess.com
+- http://www.ondeosystems.com - Ondeo Systems (Le Pecq - vérifié Linux embarqué)
+
+
+
 - Atlantic - http://www.atlantic.fr/
 - Elnec - http://www.elnec.com/
 - Eurocave - http://www.eurocave.com
@@ -20,15 +62,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Rowenta - http://www.rowenta.com
 - Seb - http://www.seb.fr/
 - http://www.fanucrobotics.com/ - https://www.google.fr/maps/@48.60707,2.428692,3a,52.1y,245.56h,84.78t/data=!3m4!1e1!3m2!1sVA0ZfRMjxwzgPIqBc1wDTg!2e0
-- http://www.tekin.fr
-- http://www.arelis.com/
-- http://www.graniou.com/
-- http://www.hexadome.com/fr
-- http://www.ledpowerfrance.fr/
 - http://thomson-broadcast.com/
-- http://www.pryntcases.com/
-- http://www.selftech.pt/
-- http://www.green-creative.fr/ 
 - Dav / Valéo, Dura, G Cartier electronique, L'electricfil, LEM, NSI, Peugeot motocycles, Pinguely, PSA, Renault, Rockwell, Serdi, Soubitez, Striebel, Teleflex, Chongqing Teleflex Automotive (China) etc ...
 - 3M, Alcatel / Vaccum Technology, Amphenol / Socapex, Arnoul, Ascom / Néopost, ASSA ABLOY, CEA, EDF, Essilor, Flunch, France Telecom, Leroy Sommer, Metrix/ Chauvin Arnoux, Navic, Orange, Parker, Schneider / Merlin, Gérin, Secap, Sensorex, SKF, SNR, Somfy, Thales, Thiriet, Renault Truck etc ... 
 - MBDA (Plessis Robinson)
@@ -37,17 +71,13 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - PEUGEOT CITROEN AUTOMOBILE SA
 - Fare - Pithiviers (Loiret) / Groupe DEF
 - SIEMENS SAS / Chatillon
-- Niwa / http://getniwa.com/
 - Technifor/Gravotech Group - http://www.gravotech.com/ - http://www.technifor.fr (http://www.directemploi.com/offre/1960427/ingenieur-de-developpement-c-c-embarque-h-f)
 - http://amd-group.fr
 - http://atelec-electronic.com
 - http://e2-cad.com/
-- http://cadres.apec.fr/offres-emploi-cadres/0_0_19_107756441W__________offre-d-emploi-developpeur-informatique-industrielle-h-f.html?xtmc=embarque&xtnp=1&xtcr=20
-- http://cadres.apec.fr/offres-emploi-cadres/0_0_14_107768093W__________offre-d-emploi-ingenieur-electronicien-h-f.html?xtmc=embarque&xtnp=1&xtcr=15
 - http://www.thyssenkrupp-ascenseurs.fr/societe/notre-centre-industriel/
 - http://www.oxhoo.com/corporate/
 - http://fr.agneovo.com/
-- HydrokiT / http://www.hydrokit.com : http://cadres.apec.fr/offres-emploi-cadres/0_1_3_109713029W__________offre-d-emploi-un-responsable-du-pole-electronique-h-f.html?xtmc=embarque&xtnp=2&xtcr=4
 - Schlumberger
 - Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
 - Airbus Defense & Space
@@ -62,11 +92,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Safran Morpho - Osny (45 mn de la Défense) ou à Aix en Provence (13) - https://www.linkedin.com/jobs2/view/12043773?trk=job_view_similar_jobs
 - Canon Research Centre / 48.13282/-1.62586
 - BroadSoft ?
-- https://www.poppy-project.org / INRIA Bordeaux Sud Ouest 200 Avenue de la Vieille Tour 33405 Talence Cedex
 - Renault,Guyancourt
 - Thales Cergy (95)
-- Local Motio - https://www.getlocalmotion.com
-- eProvenance - http://www.eprovenance.com/
 - Gigaset - http://www.gigaset.com/fr_FR/gigaset/mentions-legales.html
 - Oralb - http://www.oralb.fr/fr-FR/details-des-produits/brosse-a-dents-electrique-oral-b-pro-7000-blanche-smartseries
 - CEMI - http://www.cemifrance.fr
@@ -96,11 +123,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
 - THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 - http://www.spacebel.be/fr/aboutspacebel/sites/
-- ? http://www.capsuletech.com
 - congatec AG France - http://www.congatec.com/fr/ - @congatec_france
-- Monixo - http://www.monixo.com/ - @MonixoSAS
 - Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
-- http://www.urbanpotager.com
 - Thalescom
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
@@ -108,11 +132,8 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Xerox (asnière sur seine)
 - http://www.paycert.fr/Produits-Securitaires.html
 - http://www.wezzoo.com/oombrella
-- ? Bluetens
 - Congatec / Allemagne (fournisseur français : Tokhatec)
-- ? ANOVO ?
 - ? Worldpay
-- http://www.webdyn.com
 - ? ApisSys
 - NXP Semiconductors et Freescale Semiconductor ne font désormais plus qu’une seule et même société
 - http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
@@ -120,15 +141,12 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - SARL CESIGMA,  la garde
 - OVERLINE SYSTEMS à Andernos les Bains
 - NEAVIA TECHNOLOGIES à SAINT BRIEUC
-- http://www.neoaxess.com
-- YoGoKo SAS / Rennes / startup
 - Continental Rambouillet
 - M3 SYSTEMS à LAVERNOSE-LACASSE
 - Microchip Technology
 - http://corporate.pickup.fr/ ?
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
 - Samsung Paris 10eme - https://www.artik.io/
-- http://www.societeberthelot.com
 - airbus - les mureaux
 - veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
 - http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
@@ -143,14 +161,35 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Renault Defense
 - Orange (Colombes) pour les STB
 - Orange Châtillon ??? Quel site là bas ?
-- http://www.kapsch.net/fr/ ? - Sick
 - Il y a un siemens France à Châtillon - @Siemens_France c’est 8 sites industriels & 11 centres de R&D dont #LeHavre #Toulouse #Châtillon #Haguenau #Grenoble https://t.co/pyphNcdz5x
 - https://shadow.tech
 - GE Healthcare
 - http://www.opteya.com/ ?
 - http://www.lafrenchtech.com/
+- Renault Software Labs à Toulouse
+
+### Embedded ?
+
+- http://www.upmem.com
+- http://www.urbanpotager.com
+- Niwa / http://getniwa.com/
+
+### TODO
 
 
+
+### Divers
+
+- Réordonner BLEUJOUR
+- GreenMe (ex-ACA-O) ?
+
+### Est-ce vraiment de l'embarqué ?
+
+- http://www.intent-technologies.eu
+
+### Vu par hasard sur la carte
+
+- Motorola / NXP ? - Immeuble Les Thales Parc les Algorithmes St. Aubin
 
 ### Vérifié Apec
 
@@ -158,15 +197,13 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 
 
 ### Companies addresses not found / Startups ?
+
 - Blue Solutions - https://www.blue-solutions.com (Paris ?)
 - http://www.voxtok.com (south of france)
 - Prizm Corp / http://www.meetprizm.com
 - Phonotonic / http://www.phonotonic.net
-- PKparis / http://www.pkparis.com
 - http://www.pilo.cool/
 - FeetMe / http://www.feetme.fr
-- HAPILABS / http://www.hapilabs.com
-- Ubiscale (IoT / Rennes?)
 - GRIDPOCKET - http://www.gridpocket.com - Sophia-Antipolis
 - FeetMe - http://www.feetme.fr/ - @Feet_Me
 - Linkio - @Linkionet - http://linkio.net - Grenoble
@@ -181,6 +218,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.bioo.tech
 - http://www.teqoya.com @teqoya / smart solutions to purify and monitor air quality at home
 - https://www.sowee.fr
+- http://www.vegidair.co
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -206,22 +244,40 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 ###Worldwide
 
 - http://www.ubnt.com/unifi-voip/uvp-executive/
+
+- http://www.ekiosa.eu/34265/About-us - The Netherlands
+
+#### Italy
+
 - http://www.acmesystems.it/ - Italy - @DAVE_Embedded
 - http://www.dave.eu/ - Italy
 
+#### Germany
+
 - http://senic.com/ - Berlin
+
+### BELGIUM
 
 - https://www.zembro.com - Belgium ?
 
-- Micrium - http://micrium.com/ - Weston, FL
+#### SPAIN
 
-- http://www.kaptia.com/ - Spain
+- http://www.kaptia.com/
 - http://www.momit.com/index.html - Spain ?
+
+#### SWEDEN
 
 - http://getnarrative.com - Sweden
 - Percepio - http://percepio.com - @percepio / Sweden
+- Spotify
 
-- http://www.ekiosa.eu/34265/About-us - The Netherlands
+#### Portugal
+
+- http://www.selftech.pt/
+
+#### China
+
+- https://airvisual.com
 
 #### GB
 
@@ -232,5 +288,5 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 #### USA
 
 - https://boundarydevices.com
-
+- Micrium - http://micrium.com/ - Weston, FL
 - HID Global - https://www.hidglobal.com / @HIDGlobal / "secure identity solutions"
