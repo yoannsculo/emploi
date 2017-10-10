@@ -3367,6 +3367,11 @@
                     "name": "",
                     "postal_address": "111 bd Robespierre - BP 84513 - 78304 Poissy Cedex",
                     "gps_coordinates": "48.93470/2.05672"
+                },
+                {
+                    "name": "",
+                    "postal_address": "230 ALLEE THEODORE MONOD - 64210 BIDART",
+                    "gps_coordinates": "43.44510/-1.55295"
                 }
             ]
         },
