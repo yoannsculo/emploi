@@ -137,6 +137,21 @@
             ]
         },
         {
+            "name": "Acksys",
+            "url": "http://www.acksys.fr/",
+            "description": "SOLUTIONS DE COMMUNICATION WLAN/LAN/SÉRIE",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZA du Val Joyeux 10 rue des Entrepreneurs 78450 Villepreux",
+                    "gps_coordinates": "48.81737/2.00742"
+                }
+            ]
+        },
+        {
             "name": "Actia",
             "url": "http://actia.com",
             "description": "design and manufacture electronics for system management in the Automotive and Telecommunications fields",
@@ -3352,6 +3367,11 @@
                     "name": "",
                     "postal_address": "111 bd Robespierre - BP 84513 - 78304 Poissy Cedex",
                     "gps_coordinates": "48.93470/2.05672"
+                },
+                {
+                    "name": "",
+                    "postal_address": "230 ALLEE THEODORE MONOD - 64210 BIDART",
+                    "gps_coordinates": "43.44510/-1.55295"
                 }
             ]
         },
@@ -4030,6 +4050,21 @@
                     "name": "",
                     "postal_address": "11 rue Joseph Montgolfier, 34110 Frontignan",
                     "gps_coordinates": "43.43442/3.70599"
+                }
+            ]
+        },
+        {
+            "name": "FRANCE AIR",
+            "url": "http://www.france-air.com/",
+            "description": "concepteur de système de traitement de l'air, de chauffage, d'eau chaude sanitaire",
+            "keywords": "",
+            "twitter": "FranceAirHVAC",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "RUE DES BARRONIERES - 01700 BEYNOST",
+                    "gps_coordinates": "45.83128/5.00789"
                 }
             ]
         },
@@ -4909,6 +4944,21 @@
                     "name": "",
                     "postal_address": "25, rue Marcel Issartier, 33 700 Mérignac, France",
                     "gps_coordinates": "44.8387476/-0.7189305"
+                }
+            ]
+        },
+        {
+            "name": "Ilyu",
+            "url": "https://shapeheart.com",
+            "description": "heart rate monitoring armband",
+            "keywords": "",
+            "twitter": "Shapeheart_",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12 rue Simon le Franc 75004 Paris",
+                    "gps_coordinates": "48.86023/2.35347"
                 }
             ]
         },
@@ -9296,6 +9346,21 @@
             ]
         },
         {
+            "name": "TRAXxs",
+            "url": "http://www.traxxs.net",
+            "description": "Technologie pour chaussures",
+            "keywords": "",
+            "twitter": "traxxsinside",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1047 ROUTE DES DOLINES 06560 VALBONNE",
+                    "gps_coordinates": "43.62720/7.04121"
+                }
+            ]
+        },
+        {
             "name": "Trimble",
             "url": "http://www.trimble.com",
             "description": "Advanced positioning solutions",
@@ -9457,6 +9522,21 @@
                     "name": "",
                     "postal_address": "57 avenue Jean Monnet 31770 Colomiers",
                     "gps_coordinates": "43.63042/1.34324"
+                }
+            ]
+        },
+        {
+            "name": "Uzer",
+            "url": "https://www.uzer.eu/",
+            "description": "Smart home barcode scanner",
+            "keywords": "",
+            "twitter": "uzerofficial",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 RUE DES PETITS CHAMPS 75001 PARIS",
+                    "gps_coordinates": "48.86615/2.33907"
                 }
             ]
         },

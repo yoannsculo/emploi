@@ -5,10 +5,6 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-- www.acksys.fr
-- http://www.traxxs.net/fr
-- http://www.environnement-sa.fr
-- http://www.france-air.com
 - http://geo4cast.ai
 - https://partnering-robotics.com
 - https://www.rincent-air.fr
