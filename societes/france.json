@@ -6941,6 +6941,11 @@
                     "name": "",
                     "postal_address": "4 rue du port aux Vins 92150 Suresnes",
                     "gps_coordinates": "48.87007/2.23086"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2 Esplanade Anton Philips, 14000 Caen",
+                    "gps_coordinates": "49.1869401/-0.3106232"
                 }
             ]
         },
