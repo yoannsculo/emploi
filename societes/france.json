@@ -4382,6 +4382,24 @@
             ]
         },
         {
+            "name": "Excent",
+            "url": "http://www.excent.fr",
+            "description": "Concepteur Intégrateur de solutions Industrielles",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 Rue de Belle-Île,35760 Saint-Grégoire, France",
+                    "gps_coordinates": "48.1592249/-1.6919207"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 Rue Charles Lindbergh, 44340 Bouguenais, France",
+                    "gps_coordinates": "47.1568186/-1.5986406"
+                }
+            ]
+        },
+        {
             "name": "EXOTIC SYSTEMS",
             "url": "http://www.exotic-systems.com",
             "description": "Conception d'objets connectés",
