@@ -7218,6 +7218,33 @@
             ]
         },
         {
+            "name": "Orange Labs",
+            "url": "https://orange.fr",
+            "description": "Centre R&D d'Orange",
+            "locations": [
+                {
+                    "postal_address": "42 Rue des Coutures, 14000 Caen, France",
+                    "gps_coordinates": "49.1795623/-0.3943942"
+                },
+                {
+                    "postal_address": "4 Rue du Clos Courtel, 35510 Cesson-Sévigné, France",
+                    "gps_coordinates": "48.1263148/-1.6297875"
+                },
+                {
+                    "postal_address": "2 Avenue Pierre Marzin, 22300 Lannion, France",
+                    "gps_coordinates": "48.7542852/-3.4601531"
+                },
+                {
+                    "postal_address": "28 Chemin du Vieux Chêne, 38240 Meylan, France",
+                    "gps_coordinates": "45.2096343/5.7913948"
+                },
+                {
+                    "postal_address": "905 Rue Albert Einstein, 06560 Valbonne, France",
+                    "gps_coordinates": "43.6164615/7.0527088"
+                }
+            ]
+        },
+        {
             "name": "Ordissimo",
             "url": "http://www.ordissimo.com",
             "description": "",
