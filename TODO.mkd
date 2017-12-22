@@ -5,6 +5,7 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
+<<<<<<< HEAD
 Embarqué déjà vérifié (à placer)
 ---------------------------
 - SUEZ Eau France à Croissy
@@ -86,6 +87,30 @@ A analyser
 - http://www.dibotics.com/
 - http://www.swap-assist.fr
 - http://www.aei-wisycom-france.com/index.html
+- http://www.dibotics.com/
+- http://www.swap-assist.fr
+- http://www.agrivolta.fr/
+- https://cosmoconnected.com/
+- http://zephyr.solar/
+- https://www.li-mithra.fr/
+- http://www.stanley-robotics.fr/
+- http://www.vitirover.com/fr/
+- https://www.ecojoko.com/ - 19 rue Béranger, 75003 Paris
+- https://www.dracula-technologies.com
+- http://www.kazeko.fr/
+- http://www.ekolis-eu.com
+- http://mirsense.com/
+- https://www.wiliot.com/
+- https://www.airnodes.com/
+- http://www.eco-compteur.com/fr/
+- http://www.ercogener.com/
+- Azur Drones
+- http://geo4cast.ai
+- https://partnering-robotics.com
+- https://www.rincent-air.fr
+- http://www.vaisala.fr
+- http://www.medianesysteme.com/
+- https://www.vips-sa.com/
 - http://www.rubisoft.fr
 - http://www.millidrop.com
 - https://www.ixblue.com
