@@ -5,6 +5,25 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
+- Renommer Aldebaran Robotics en Softbank Robotics
+- http://www.dibotics.com/
+- http://www.swap-assist.fr
+- http://www.agrivolta.fr/
+- https://cosmoconnected.com/
+- http://zephyr.solar/
+- https://www.li-mithra.fr/
+- http://www.stanley-robotics.fr/
+- http://www.vitirover.com/fr/
+- https://www.ecojoko.com/ - 19 rue Béranger, 75003 Paris
+- https://www.dracula-technologies.com
+- http://www.kazeko.fr/
+- http://www.ekolis-eu.com
+- http://mirsense.com/
+- https://www.wiliot.com/
+- https://www.airnodes.com/
+- http://www.eco-compteur.com/fr/
+- http://www.ercogener.com/
+- Azur Drones
 - http://geo4cast.ai
 - https://partnering-robotics.com
 - https://www.rincent-air.fr
@@ -215,6 +234,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.teqoya.com @teqoya / smart solutions to purify and monitor air quality at home
 - https://www.sowee.fr
 - http://www.vegidair.co
+- Isymap / BAGNOLS-SUR-CÈZE
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -251,6 +271,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 #### Germany
 
 - http://senic.com/ - Berlin
+- Segger
 
 ### BELGIUM
 
@@ -267,6 +288,10 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Percepio - http://percepio.com - @percepio / Sweden
 - Spotify
 
+### Finland
+
+- Wirepas
+
 #### Portugal
 
 - http://www.selftech.pt/
@@ -280,9 +305,14 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - McLaren Applied Technologies - https://careers.mclaren.com/go/Applied-Technologies/723801/?_ga=2.94645148.1441886032.1505736870-1579230392.1505736870
   London, GB / Woking, GB
   http://www.mclaren.com/appliedtechnologies/
+- Telit
 
 #### USA
 
 - https://boundarydevices.com
 - Micrium - http://micrium.com/ - Weston, FL
 - HID Global - https://www.hidglobal.com / @HIDGlobal / "secure identity solutions"
+
+#### LIECHTENSTEIN
+
+- http://medixsysteme.li/en-en/
