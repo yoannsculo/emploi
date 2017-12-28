@@ -6452,12 +6452,12 @@
         {
             "name": "Naïo-Technologies",
             "url": "http://www.naio-technologies.com",
-            "description": "",
+            "description": "robots autonomes pour l'agriculture",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
-                    "gps_coordinates": "43.56312/1.49186"
+                    "postal_address": "235 rue de la Montagne Noire 31750 Escalquens",
+                    "gps_coordinates": "43.5192920/1.5357950"
                 }
             ]
         },
