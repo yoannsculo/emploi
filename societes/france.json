@@ -8745,6 +8745,23 @@
             ]
         },
         {
+            "name": "OVH",
+            "url": "https://www.ovh.com/fr/",
+            "description": "Fournisseur mondial de cloud hyperévolutif",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 Rue Kellermann, 59100 Roubaix",
+                    "gps_coordinates": "50.6937185/3.1908792"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Rue Mstislav Rostropovitch, 75017 Paris",
+                    "gps_coordinates": "48.8893662/2.3111784"
+                }
+            ]
+        },
+        {
             "name": "Oxylane",
             "url": "http://www.oxylane.com",
             "description": "",
