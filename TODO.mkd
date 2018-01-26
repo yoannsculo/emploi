@@ -5,6 +5,26 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
+
+- https://klaxoon.com/fr (Rennes)
+- http://www.kickmaker.fr
+- Echosens
+- Métronome Technologie - http://www.metronome.audio/index.php
+- http://driv-eco.com
+- https://buzz-esante.fr/2018-innovations-sante-part-1/
+- https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
+
+- BIZE ELECTRONIQUE / Soudure et assemblage / http://www.doubs.org/industrie/fiche-industrie-bize-electronique,236.html
+
+- http://www.parifex.com/
+- https://www.la-croix.com/amp/1200905077?__twitter_impression=true
+- https://www.getadok.com/
+- http://www.green-creative.com
+- https://www.lemondeinformatique.fr/actualites/lire-ces-2018-les-start-ups-de-la-french-tech-dans-les-starting-blocks-70412.html
+- https://www.wedemain.fr/CES-de-Las-Vegas-Cinq-inventions-francaises-qui-pourraient-changer-notre-maison_a3137.html
+- https://buzz-esante.fr/la-e-sante-en-force-au-ces-2018/
+- http://lancey.fr/fr/
+- http://velco.bike/fr/
 - Renommer Aldebaran Robotics en Softbank Robotics
 - http://www.dibotics.com/
 - http://www.swap-assist.fr
@@ -267,6 +287,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 
 - http://www.acmesystems.it/ - Italy - @DAVE_Embedded
 - http://www.dave.eu/ - Italy
+- https://www.aesys.com
 
 #### Germany
 
