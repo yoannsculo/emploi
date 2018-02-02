@@ -5,7 +5,9 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-
+- ajouter Renault et Technocentre
+- renommer Free Electrons en Bootlin
+- Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
 - https://klaxoon.com/fr (Rennes)
 - http://www.kickmaker.fr
 - Echosens
