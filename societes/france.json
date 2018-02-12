@@ -371,6 +371,18 @@
             ]
         },
         {
+            "name": "Airbus Sodern",
+            "url": "http://www.sodern.com/",
+            "description": "Ariane Group",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20 Avenue Descartes, 94450 Limeil-Brévannes",
+                    "gps_coordinates": "48.7405821/2.4844417"
+                }
+            ]
+        },
+        {
             "name": "Airinov",
             "url": "http://www.airinov.fr",
             "description": "Automated aerial cartography",
