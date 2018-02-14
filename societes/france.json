@@ -1489,6 +1489,31 @@
             ]
         },
         {
+            "name": "Bootlin",
+            "url": "https://bootlin.com",
+            "description": "Embedded Linux Experts - Android, Kernel, drivers, real-time and embedded Linux development, consulting and training.",
+            "keywords": "Embedded, Linux, Android, Kernel, drivers, consulting, training",
+            "twitter": "bootlincom",
+            "comment": "formerly Free Electrons",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "136 avenue Marechal Foch 84100 Orange",
+                    "gps_coordinates": "44.13292/4.81344"
+                },
+                {
+                    "name": "",
+                    "postal_address": "25 Boulevard Victor Hugo 31770 Colomiers",
+                    "gps_coordinates": "43.61379/1.30771"
+                },
+                {
+                    "name": "",
+                    "postal_address": "12 Avenue des Saules 69600 Oullins",
+                    "gps_coordinates": "45.71425/4.81820"
+                }
+            ]
+        },
+        {
             "name": "Bosch",
             "url": "http://www.bosch.fr",
             "description": "",
@@ -3008,6 +3033,21 @@
             ]
         },
         {
+            "name": "Ecojoko",
+            "url": "https://www.ecojoko.com/",
+            "description": "L'assistant d'économie d'énergie pour économiser 25 % d'énergie à la maison",
+            "keywords": "écologie, environnement, startup, IA, greentech, economiedenergie, énergie",
+            "twitter": "Ecojoko",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 rue Béranger, 75003 Paris",
+                    "gps_coordinates": "48.86639/2.36340"
+                }
+            ]
+        },
+        {
             "name": "ECOMESURE",
             "url": "http://www.ecomesure.com",
             "description": "Air quality instrumentation and metrology",
@@ -3264,6 +3304,21 @@
                     "name": "",
                     "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
                     "gps_coordinates": "45.18752/5.77576"
+                }
+            ]
+        },
+        {
+            "name": "Enerdis - Chauvin Arnoux Energy",
+            "url": "http://www.enerdis.com",
+            "description": "équipements fixes de mesure, de contrôle et de supervision des réseaux électriques et systèmes énergétiques",
+            "keywords": "",
+            "twitter": "ChauvinArnouxFr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16 rue Georges Besse 92182 Antony",
+                    "gps_coordinates": "48.73015/2.31056"
                 }
             ]
         },
