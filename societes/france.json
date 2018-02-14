@@ -373,7 +373,8 @@
         {
             "name": "Airbus Sodern",
             "url": "http://www.sodern.com/",
-            "description": "Ariane Group",
+            "description": "star trackers and neutron systems",
+            "comment": "Ariane Group",
             "locations": [
                 {
                     "name": "",
