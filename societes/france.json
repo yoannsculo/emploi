@@ -435,6 +435,7 @@
             "name": "Alcatel-Lucent",
             "url": "http://www.alcatel-lucent.com",
             "description": "",
+            "comment": "Appartient à Nokia, sous le nom Nokia Networks",
             "locations": [
 		{
                     "name": "",
@@ -468,7 +469,7 @@
                 },
 		{
                     "name": "",
-                    "postal_address": "Route de Villejust 91620 Nozay",
+                    "postal_address": "7, Route de Villejust 91620 Nozay",
                     "gps_coordinates": "48.66746/2.23801"
                 },
 		{
