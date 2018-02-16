@@ -6281,7 +6281,7 @@
             "name": "Mauna Kea Technologies",
             "url": "http://www.maunakeatech.com",
             "description": "real time digital in vivo cellular visualization",
-            "keywords": "",
+            "keywords": "medical",
             "twitter": "maunakeatech",
             "comment": "",
             "locations": [
@@ -8837,6 +8837,7 @@
             "name": "SoftBank Robotics Europe",
             "url": "https://www.ald.softbankrobotics.com",
             "description": "Robots",
+            "comment": "formerly Aldebaran Robotics",
             "locations": [
                 {
                     "name": "",
