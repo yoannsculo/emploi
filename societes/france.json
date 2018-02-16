@@ -65,6 +65,21 @@
             ]
         },
         {
+            "name": "7Next",
+            "url": "http://7next.fr/",
+            "description": "connected pocket scanner",
+            "keywords": "startup",
+            "twitter": "pupscan",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "141 RUE ST DOMINIQUE - 75007 PARIS",
+                    "gps_coordinates": "48.85799/2.30138"
+                }
+            ]
+        },
+        {
             "name": "Abbott",
             "url": "http://www.abbott.com/",
             "description": "health care",
@@ -2774,6 +2789,26 @@
             ]
         },
         {
+            "name": "DRIVECO",
+            "url": "http://driv-eco.com",
+            "description": "station de recharge pour véhicules électriques à l’énergie 100% solaire",
+            "keywords": "énergie",
+            "twitter": "DRIV_ECO",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc technologique d'Erbajolo 20200 Bastia",
+                    "gps_coordinates": "42.66373/9.43367"
+                },
+                {
+                    "name": "",
+                    "postal_address": "10, place de Catalogne 75014 Paris",
+                    "gps_coordinates": "48.83701/2.31898"
+                }
+            ]
+        },
+        {
             "name": "Drone Volt",
             "url": "http://www.dronevolt.com",
             "description": "Civil drones",
@@ -3871,6 +3906,21 @@
                     "name": "",
                     "postal_address": "44 Rue la Fayette, 75009 Paris",
                     "gps_coordinates": "48.87471/2.33995"
+                }
+            ]
+        },
+        {
+            "name": "E-XTEQ EUROPE",
+            "url": "https://e-xteq.com/",
+            "description": "créateur de solutions innovantes spécialisées dans l'univers de la charge et du diagnostic des batteries automobiles",
+            "keywords": "startup",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 RUE DE LA VALLEE DE YART - 78640 SAINT GERMAIN DE LA GRANGE",
+                    "gps_coordinates": "48.83688/1.90470"
                 }
             ]
         },
@@ -5713,6 +5763,26 @@
             ]
         },
         {
+            "name": "Kickmaker",
+            "url": "http://www.kickmaker.fr",
+            "description": "Industrialization services Community",
+            "keywords": "startup",
+            "twitter": "kickmaker_com",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Station F - 55, boulevard Vincent Auriol 75013 Paris",
+                    "gps_coordinates": "48.83410/2.37112"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Bel Air Camp : 11 Avenue du Bel air, 69100 Villeurbanne",
+                    "gps_coordinates": "45.75645/4.91269"
+                }
+            ]
+        },
+        {
             "name": "Kinematiq",
             "url": "https://www.kinematiq.net",
             "description": "Robotique et fabrication numérique",
@@ -6042,6 +6112,21 @@
             ]
         },
         {
+            "name": "LivaNova",
+            "url": "http://www.livanova.sorin.com",
+            "description": "Gestion du rythme cardiaque, Chirurgie cardiaque et Neuromodulation",
+            "keywords": "medical, Pacemaker, Défibrillateurs",
+            "twitter": "",
+            "comment": "formerly Sorin Group",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 Avenue REAUMUR - 92140 CLAMART",
+                    "gps_coordinates": "48.77885/2.23884"
+                }
+            ]
+        },
+        {
             "name": "Logilin",
             "url": "http://www.logilin.fr",
             "description": "Formations et ingénierie sur Linux embarqué",
@@ -6275,6 +6360,21 @@
                     "comment": "Curseur placé en entrée de zone industrielle. Manque d'information.",
                     "postal_address": "Actisud ZI du Chapitre 18 rue Jean Perrin 31100 Toulouse",
                     "gps_coordinates": "43.55379/1.41536"
+                }
+            ]
+        },
+        {
+            "name": "Métronome Technologie",
+            "url": "http://www.metronome.audio/index.php",
+            "description": "enceintes acoustiques, amplificateurs et lecteurs CD",
+            "keywords": "audio",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Z.A. Garrigue longue F-81600 MONTANS",
+                    "gps_coordinates": "43.84231/1.84552"
                 }
             ]
         },
@@ -7475,6 +7575,21 @@
                     "name": "",
                     "postal_address": "10 Avenue de l'Europe 31520 Ramonville",
                     "gps_coordinates": "43.55098/1.48834"
+                }
+            ]
+        },
+        {
+            "name": "PARIFEX",
+            "url": "http://www.parifex.com",
+            "description": "",
+            "keywords": "traffic, radars",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue des Vignes 78220 Viroflay",
+                    "gps_coordinates": "48.80626/2.16490"
                 }
             ]
         },
