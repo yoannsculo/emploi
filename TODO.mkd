@@ -5,20 +5,16 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
+- Ajouter site de Toulouse à OMWAVE
 - ajouter Renault et Technocentre
-- renommer Free Electrons en Bootlin
 - Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
-- https://klaxoon.com/fr (Rennes)
-- http://www.kickmaker.fr
-- Echosens
-- Métronome Technologie - http://www.metronome.audio/index.php
-- http://driv-eco.com
 - https://buzz-esante.fr/2018-innovations-sante-part-1/
 - https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
+- http://www.energysquare.co/
+- Sysmic - www.sysmic.org
 
 - BIZE ELECTRONIQUE / Soudure et assemblage / http://www.doubs.org/industrie/fiche-industrie-bize-electronique,236.html
 
-- http://www.parifex.com/
 - https://www.la-croix.com/amp/1200905077?__twitter_impression=true
 - https://www.getadok.com/
 - http://www.green-creative.com
@@ -36,7 +32,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - https://www.li-mithra.fr/
 - http://www.stanley-robotics.fr/
 - http://www.vitirover.com/fr/
-- https://www.ecojoko.com/ - 19 rue Béranger, 75003 Paris
 - https://www.dracula-technologies.com
 - http://www.kazeko.fr/
 - http://www.ekolis-eu.com
