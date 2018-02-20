@@ -65,6 +65,21 @@
             ]
         },
         {
+            "name": "7Next",
+            "url": "http://7next.fr/",
+            "description": "connected pocket scanner",
+            "keywords": "startup",
+            "twitter": "pupscan",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "141 RUE ST DOMINIQUE - 75007 PARIS",
+                    "gps_coordinates": "48.85799/2.30138"
+                }
+            ]
+        },
+        {
             "name": "Abbott",
             "url": "http://www.abbott.com/",
             "description": "health care",
@@ -373,7 +388,8 @@
         {
             "name": "Airbus Sodern",
             "url": "http://www.sodern.com/",
-            "description": "Ariane Group",
+            "description": "star trackers and neutron systems",
+            "comment": "Ariane Group",
             "locations": [
                 {
                     "name": "",
@@ -435,6 +451,7 @@
             "name": "Alcatel-Lucent",
             "url": "http://www.alcatel-lucent.com",
             "description": "",
+            "comment": "Appartient à Nokia, sous le nom Nokia Networks",
             "locations": [
 		{
                     "name": "",
@@ -468,7 +485,7 @@
                 },
 		{
                     "name": "",
-                    "postal_address": "Route de Villejust 91620 Nozay",
+                    "postal_address": "7, Route de Villejust 91620 Nozay",
                     "gps_coordinates": "48.66746/2.23801"
                 },
 		{
@@ -828,13 +845,13 @@
             "url": "http://www.arcure.net/",
             "description": "Video detection of pedestrians on work and industrial sites",
             "keywords": "",
-            "twitter": "",
+            "twitter": "Blaxtair",
             "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "170, rue Raymond Losserand 75014 PARIS",
-                    "gps_coordinates": "48.83009/2.31005"
+                    "postal_address": "14 RUE SCANDICCI - 93500 PANTIN",
+                    "gps_coordinates": "48.89188/2.39882"
                 }
             ]
         },
@@ -1484,6 +1501,31 @@
                     "name": "",
                     "postal_address": "27 Rue de la Vistule, 75013 Paris",
                     "gps_coordinates": "48.82281/2.35887"
+                }
+            ]
+        },
+        {
+            "name": "Bootlin",
+            "url": "https://bootlin.com",
+            "description": "Embedded Linux Experts - Android, Kernel, drivers, real-time and embedded Linux development, consulting and training.",
+            "keywords": "Embedded, Linux, Android, Kernel, drivers, consulting, training",
+            "twitter": "bootlincom",
+            "comment": "formerly Free Electrons",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "136 avenue Marechal Foch 84100 Orange",
+                    "gps_coordinates": "44.13292/4.81344"
+                },
+                {
+                    "name": "",
+                    "postal_address": "25 Boulevard Victor Hugo 31770 Colomiers",
+                    "gps_coordinates": "43.61379/1.30771"
+                },
+                {
+                    "name": "",
+                    "postal_address": "12 Avenue des Saules 69600 Oullins",
+                    "gps_coordinates": "45.71425/4.81820"
                 }
             ]
         },
@@ -2347,7 +2389,7 @@
                 {
                     "name": "",
                     "postal_address": "38 Rue Bobby Sands, 44800 Saint-Herblain",
-                    "gps_coordinates": "47.235742/-1.660139,15"
+                    "gps_coordinates": "47.235742/-1.660139"
                 }
             ]
         },
@@ -2747,6 +2789,26 @@
             ]
         },
         {
+            "name": "DRIVECO",
+            "url": "http://driv-eco.com",
+            "description": "station de recharge pour véhicules électriques à l’énergie 100% solaire",
+            "keywords": "énergie",
+            "twitter": "DRIV_ECO",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc technologique d'Erbajolo 20200 Bastia",
+                    "gps_coordinates": "42.66373/9.43367"
+                },
+                {
+                    "name": "",
+                    "postal_address": "10, place de Catalogne 75014 Paris",
+                    "gps_coordinates": "48.83701/2.31898"
+                }
+            ]
+        },
+        {
             "name": "Drone Volt",
             "url": "http://www.dronevolt.com",
             "description": "Civil drones",
@@ -2956,7 +3018,7 @@
             "name": "Echosens",
             "url": "http://www.echosenscorporate.com",
             "description": "non-invasive diagnostics for use in hepatology",
-            "keywords": "",
+            "keywords": "medical",
             "twitter": "Echosens",
             "comment": "",
             "locations": [
@@ -3003,6 +3065,21 @@
                     "name": "",
                     "postal_address": "4 Charles Bourseul 22300 Lannion",
                     "gps_coordinates": "48.75715/-3.46330"
+                }
+            ]
+        },
+        {
+            "name": "Ecojoko",
+            "url": "https://www.ecojoko.com/",
+            "description": "L'assistant d'économie d'énergie pour économiser 25 % d'énergie à la maison",
+            "keywords": "écologie, environnement, startup, IA, greentech, economiedenergie, énergie",
+            "twitter": "Ecojoko",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 rue Béranger, 75003 Paris",
+                    "gps_coordinates": "48.86639/2.36340"
                 }
             ]
         },
@@ -3263,6 +3340,21 @@
                     "name": "",
                     "postal_address": "ZAC de Champ Roman 27, rue de la tour de l’eau 38400 Saint Martin d’Hères",
                     "gps_coordinates": "45.18752/5.77576"
+                }
+            ]
+        },
+        {
+            "name": "Enerdis - Chauvin Arnoux Energy",
+            "url": "http://www.enerdis.com",
+            "description": "équipements fixes de mesure, de contrôle et de supervision des réseaux électriques et systèmes énergétiques",
+            "keywords": "",
+            "twitter": "ChauvinArnouxFr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16 rue Georges Besse 92182 Antony",
+                    "gps_coordinates": "48.73015/2.31056"
                 }
             ]
         },
@@ -3814,6 +3906,21 @@
                     "name": "",
                     "postal_address": "44 Rue la Fayette, 75009 Paris",
                     "gps_coordinates": "48.87471/2.33995"
+                }
+            ]
+        },
+        {
+            "name": "E-XTEQ EUROPE",
+            "url": "https://e-xteq.com/",
+            "description": "créateur de solutions innovantes spécialisées dans l'univers de la charge et du diagnostic des batteries automobiles",
+            "keywords": "startup",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 RUE DE LA VALLEE DE YART - 78640 SAINT GERMAIN DE LA GRANGE",
+                    "gps_coordinates": "48.83688/1.90470"
                 }
             ]
         },
@@ -4904,7 +5011,7 @@
 	{
             "name": "IER",
             "url": "http://www.ier.com",
-            "description": "Warehouse voice‑activated and light-assisted preparation solutions as well as real-time RFID containers (pallets, trays) monitoring solutions.",
+            "description": "Warehouse voice-activated and light-assisted preparation solutions as well as real-time RFID containers (pallets, trays) monitoring solutions.",
             "locations": [
                 {
                     "name": "IER - Headquarters",
@@ -5656,6 +5763,26 @@
             ]
         },
         {
+            "name": "Kickmaker",
+            "url": "http://www.kickmaker.fr",
+            "description": "Industrialization services Community",
+            "keywords": "startup",
+            "twitter": "kickmaker_com",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Station F - 55, boulevard Vincent Auriol 75013 Paris",
+                    "gps_coordinates": "48.83410/2.37112"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Bel Air Camp : 11 Avenue du Bel air, 69100 Villeurbanne",
+                    "gps_coordinates": "45.75645/4.91269"
+                }
+            ]
+        },
+        {
             "name": "Kinematiq",
             "url": "https://www.kinematiq.net",
             "description": "Robotique et fabrication numérique",
@@ -5857,7 +5984,7 @@
                 },
                 {
                     "name": "Lafon Technologies - Usine de Périgny",
-                    "postal_address": "35, avenue Louis Lumière ZI 17184 PERIGNY - CEDEX",
+                    "postal_address": "35, avenue Louis Lumière ZI 17184 PERIGNY - CEDEX",
                     "gps_coordinates": "46.16335/-1.10868"
                 },
                 {
@@ -5979,8 +6106,23 @@
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "17 route de la reine, 92100 Boulogne-Billancourt",
-                    "gps_coordinates": "48.83868/2.24948"
+                    "postal_address": "77 BD HAUSSMANN - 75008 PARIS",
+                    "gps_coordinates": "48.87423/2.32221"
+                }
+            ]
+        },
+        {
+            "name": "LivaNova",
+            "url": "http://www.livanova.sorin.com",
+            "description": "Gestion du rythme cardiaque, Chirurgie cardiaque et Neuromodulation",
+            "keywords": "medical, Pacemaker, Défibrillateurs",
+            "twitter": "",
+            "comment": "formerly Sorin Group",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 Avenue REAUMUR - 92140 CLAMART",
+                    "gps_coordinates": "48.77885/2.23884"
                 }
             ]
         },
@@ -6139,7 +6281,7 @@
             "name": "Mauna Kea Technologies",
             "url": "http://www.maunakeatech.com",
             "description": "real time digital in vivo cellular visualization",
-            "keywords": "",
+            "keywords": "medical",
             "twitter": "maunakeatech",
             "comment": "",
             "locations": [
@@ -6218,6 +6360,21 @@
                     "comment": "Curseur placé en entrée de zone industrielle. Manque d'information.",
                     "postal_address": "Actisud ZI du Chapitre 18 rue Jean Perrin 31100 Toulouse",
                     "gps_coordinates": "43.55379/1.41536"
+                }
+            ]
+        },
+        {
+            "name": "Métronome Technologie",
+            "url": "http://www.metronome.audio/index.php",
+            "description": "enceintes acoustiques, amplificateurs et lecteurs CD",
+            "keywords": "audio",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Z.A. Garrigue longue F-81600 MONTANS",
+                    "gps_coordinates": "43.84231/1.84552"
                 }
             ]
         },
@@ -7418,6 +7575,21 @@
                     "name": "",
                     "postal_address": "10 Avenue de l'Europe 31520 Ramonville",
                     "gps_coordinates": "43.55098/1.48834"
+                }
+            ]
+        },
+        {
+            "name": "PARIFEX",
+            "url": "http://www.parifex.com",
+            "description": "",
+            "keywords": "traffic, radars",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 rue des Vignes 78220 Viroflay",
+                    "gps_coordinates": "48.80626/2.16490"
                 }
             ]
         },
@@ -8665,6 +8837,7 @@
             "name": "SoftBank Robotics Europe",
             "url": "https://www.ald.softbankrobotics.com",
             "description": "Robots",
+            "comment": "formerly Aldebaran Robotics",
             "locations": [
                 {
                     "name": "",
@@ -9894,7 +10067,7 @@
         {
             "name": "WitMonki",
             "url": "http://www.witmonki.com",
-            "description": "WitMonki est une startup française dans le domaine de la e‑santé",
+            "description": "WitMonki est une startup française dans le domaine de la e-santé",
             "keywords": "",
             "twitter": "",
             "comment": "",
