@@ -8296,6 +8296,21 @@
             ]
         },
         {
+            "name": "Sea Owl",
+            "url": "http://www.seaowlgroup.com/",
+            "description": "Armateur dans le secteur des énergies",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16 Rue Rivay, 92300 Levallois-Perret",
+                    "gps_coordinates": "48.892237/2.2895093"
+                }
+            ]
+        },
+        {
             "name": "SEA Signalisation",
             "url": "http://www.sea-signalisation.fr/",
             "description": "équipements dédiés à la sécurité, la gestion et l’optimisation des carrefours à feux tricolores",
