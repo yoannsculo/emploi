@@ -4769,6 +4769,21 @@
             ]
         },
         {
+            "name": "Forsee Power",
+            "url": "http://www.forseepower.com/",
+            "description": "Innovative battery systems",
+            "keywords": "industrie",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 boulevard Hippolyte Marquès, Paris",
+                    "gps_coordinates": "48.8190379/2.3711463"
+                }
+            ]
+        },
+        {
             "name": "FRANCE AIR",
             "url": "http://www.france-air.com/",
             "description": "concepteur de système de traitement de l'air, de chauffage, d'eau chaude sanitaire",
