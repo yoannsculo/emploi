@@ -7408,9 +7408,9 @@
         {
             "name": "OMWAVE",
             "url": "http://www.omwave.com",
-            "description": "",
-            "keywords": "",
-            "twitter": "",
+            "description": "IoT agency",
+            "keywords": "iot, Objets connectés, Services connectés",
+            "twitter": "Moinecourt",
             "comment": "",
             "locations": [
                 {
@@ -7422,6 +7422,11 @@
                     "name": "",
                     "postal_address": "55, rue des jacobins 14000 Caen",
                     "gps_coordinates": "49.17889/-0.36003"
+                },
+                {
+                    "name": "",
+                    "postal_address": "4 Impasse de l’Hers ZAC Des violettes 31240 L'UNION",
+                    "gps_coordinates": "43.66204/1.46100"
                 }
             ]
         },
