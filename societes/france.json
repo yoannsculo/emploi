@@ -9234,14 +9234,14 @@
             "name": "Stanley Robotics",
             "url": "http://www.stanley-robotics.com",
             "description": "parking solutions",
-            "keywords": "",
+            "keywords": "parking, robot, voiturier, robotique",
             "twitter": "StanleyRobotics",
             "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Agoranov, 96bis Boulevard Raspail, 75006 Paris",
-                    "gps_coordinates": "48.84616/2.32812"
+                    "postal_address": "52 boulevard Voltaire, 75011 Paris",
+                    "gps_coordinates": "48.86303/2.37077"
                 }
             ]
         },
