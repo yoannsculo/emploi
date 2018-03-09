@@ -371,6 +371,36 @@
             ]
         },
         {
+            "name": "Agricool",
+            "url": "https://agricool.co",
+            "description": "Production de fruits et légumes en containers",
+            "keywords": "startup, agriculture, culture, fraise",
+            "twitter": "_agricool",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "139 rue rateau, 93120 La Courneuve",
+                    "gps_coordinates": "48.92536/2.40875"
+                }
+            ]
+        },
+        {
+            "name": "Agrivolta",
+            "url": "http://www.agrivolta.fr/",
+            "description": "ombrières intelligentes",
+            "keywords": "startup, agriculture, culture, agricole, ombre, solaire",
+            "twitter": "agrivolta",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Domaine du Petit Arbois Avenue Louis Philibert 13100 Aix-en-Provence",
+                    "gps_coordinates": "43.49166/5.33061"
+                }
+            ]
+        },
+        {
             "name": "AGUILA Technologies",
             "url": "http://aguila.fr",
             "description": "Internet of things. Connected devices.",
@@ -407,6 +437,21 @@
                     "name": "",
                     "postal_address": "48 Rue René Clair, 75018 Paris, France",
                     "gps_coordinates": "48.89384/2.35371"
+                }
+            ]
+        },
+        {
+            "name": "AirNodes",
+            "url": "https://www.airnodes.com/",
+            "description": "solutions connectées sur-mesure à destination des professionnels",
+            "keywords": "startup, iot, internet des objets",
+            "twitter": "AirNodes",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "178 route de Cran-Gevrier 74650 Chavanod",
+                    "gps_coordinates": "45.89475/6.08047"
                 }
             ]
         },
@@ -1234,6 +1279,21 @@
                     "name": "",
                     "postal_address": "12 rue Pierre Girard 14000 CAEN FRANCE",
                     "gps_coordinates": "49.1759153/-0.3556703"
+                }
+            ]
+        },
+        {
+            "name": "Azur Drones",
+            "url": "https://www.azurdrones.com/fr/",
+            "description": "Opérateur de drones",
+            "keywords": "drones, thermographie, topographie, inspection, vidéosurveillance",
+            "twitter": "AzurDrones",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "98 Avenue du Général Leclerc 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83117/2.23495"
                 }
             ]
         },
@@ -2789,6 +2849,21 @@
             ]
         },
         {
+            "name": "Dracula Technologies",
+            "url": "https://www.dracula-technologies.com",
+            "description": "fabrication de cellules solaires photovoltaïques organiques",
+            "keywords": "solaire, photovoltaïque",
+            "twitter": "DraculaTech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4, rue Georges Auric 26000 Valence",
+                    "gps_coordinates": "44.93714/4.93073"
+                }
+            ]
+        },
+        {
             "name": "DRIVECO",
             "url": "http://driv-eco.com",
             "description": "station de recharge pour véhicules électriques à l’énergie 100% solaire",
@@ -3207,6 +3282,21 @@
             ]
         },
         {
+            "name": "Ekolis",
+            "url": "http://www.ekolis-eu.com/",
+            "description": "Expert de l'informatique embarquée pour semi-remorques",
+            "keywords": "IoT, objetconnecte, transporteurs, SemiRemorques, Traçabilité, telematique",
+            "twitter": "ekolis35",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Parc d’Activité de Beaujardin Bâtiment Redhae 35410 CHATEAUGIRON",
+                    "gps_coordinates": "48.05622/-1.50939"
+                }
+            ]
+        },
+        {
             "name": "ELA Innovation S.A",
             "url": "http://www.ela.fr",
             "description": "active RFID solutions",
@@ -3620,6 +3710,26 @@
                     "name": "",
                     "postal_address": "80, rue des haies 75020 Paris",
                     "gps_coordinates": "48.85482/2.40359"
+                }
+            ]
+        },
+        {
+            "name": "Ercogener",
+            "url": "http://www.ercogener.com/",
+            "description": "Systèmes communicants et intelligents",
+            "keywords": "iot, objets connectés",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Rue du Docteur Weiss - Z.I. de Chacé F-49400 SAUMUR",
+                    "gps_coordinates": "47.21232/-0.06010"
+                },
+                {
+                    "name": "",
+                    "postal_address": "4, Rue des Ajoncs - ZI F-49070 BEAUCOUZE",
+                    "gps_coordinates": "47.46431/-0.62944"
                 }
             ]
         },
@@ -4226,6 +4336,44 @@
                     "name": "",
                     "postal_address": "1B Chemin de la Mestrise BP 50134 09500 Mirepoix",
                     "gps_coordinates": "43.08757/1.87224"
+                }
+            ]
+        },
+        {
+            "name": "FUJIFILM France",
+            "url": "https://www.fujifilm.eu/fr",
+            "description": "Appareils photo numériques, consommables photographiques, supports informatiques, imagerie médicale",
+            "keywords": "medical",
+            "twitter": "fujifilmfrance",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "description": "Digital Cameras, Instant cameras, Photographic films, Chemicals and Paper, Digital Printers, Minilab Systems, Optical products",
+                    "comment": "",
+                    "postal_address": "5 avenue des CHAUMES - CS 40760 MONTIGNY 78066 SAINT QUENTIN EN YVELINES CEDEX",
+                    "gps_coordinates": "48.77870/2.02389"
+                },
+                {
+                    "name": "",
+                    "description": "Graphic Systems, Ink and Printing Materials",
+                    "comment": "",
+                    "postal_address": "Parc d'activités Gustave Eiffel - 13 avenue Gutenberg CS 20065 BUSSY SAINT GEORGES - 77607 MARNE LA VALLEE - Cedex 03",
+                    "gps_coordinates": "48.83240/2.73211"
+                },
+                {
+                    "name": "",
+                    "description": "Medical Systems, Mammography, Radiology, IT solutions ",
+                    "comment": "Site d’Asnières. Comprend aussi FUJIFILM Recording Media GmbH qui s'occupe de Sale of magnetic products",
+                    "postal_address": "Immeuble Objectif II – 2, rue Louis Armand 92607 ASNIERES CEDEX",
+                    "gps_coordinates": "48.91584/2.31071"
+                },
+                {
+                    "name": "",
+                    "description": "Endoscopic Systems",
+                    "comment": "Site de Montigny - SAV Endoscopie",
+                    "postal_address": "43, avenue des 3 Peuples - CS 80728 – 78066 ST QUENTIN-EN-YVELINES",
+                    "gps_coordinates": "48.77858/2.02540"
                 }
             ]
         },
@@ -5724,6 +5872,21 @@
             ]
         },
         {
+            "name": "Kazeko",
+            "url": "http://www.kazeko.fr/",
+            "description": "conception et réalisation d’objets autonomes, communiquant sans fil en toute sécurité.",
+            "keywords": "startup, objets connectés, sécurité",
+            "twitter": "kazeko_fr",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "30 RUE ANDRE THEURIET, 37000 TOURS",
+                    "gps_coordinates": "47.38350/0.69857"
+                }
+            ]
+        },
+        {
             "name": "Keecker",
             "url": "http://www.keecker.com",
             "description": "Connected robot for home entertainment and more",
@@ -5874,6 +6037,21 @@
                     "name": "",
                     "postal_address": "17, rue Ampère - 91349 Massy Cedex",
                     "gps_coordinates": "48.72052/2.27071"
+                }
+            ]
+        },
+        {
+            "name": "L-ACOUSTICS",
+            "url": "http://www.l-acoustics.com",
+            "description": "systèmes de sonorisation (théâtres, clubs, opéras, centres de conventions, arènes sportives et parcs d’attractions)",
+            "keywords": "audio, sonorisation, son",
+            "twitter": "L_ACOUSTICS",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13, Rue Levacher Cintrat - 91460 Marcoussis",
+                    "gps_coordinates": "48.66379/2.20904"
                 }
             ]
         },
@@ -6108,6 +6286,21 @@
                     "name": "",
                     "postal_address": "77 BD HAUSSMANN - 75008 PARIS",
                     "gps_coordinates": "48.87423/2.32221"
+                }
+            ]
+        },
+        {
+            "name": "Li-Mithra",
+            "url": "https://www.li-mithra.fr/",
+            "description": "Panneaux photovoltaïques et thermiques",
+            "keywords": "solaire, thermique, photovoltaïque",
+            "twitter": "LiMithra",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5, impasse du stade F88390 Uxegney",
+                    "gps_coordinates": "48.18826/6.37010"
                 }
             ]
         },
@@ -6461,6 +6654,28 @@
                     "name": "",
                     "postal_address": "Z.I. Les Saulniers  37800 SAINTE MAURE DE TOURAINE",
                     "gps_coordinates": "47.09890/0.60971"
+                }
+            ]
+        },
+        {
+            "name": "mirSense",
+            "url": "http://mirsense.com/",
+            "description": "supplier of off-the-shelf Industrial Quantum Cascade Lasers (QCL) and QCL-based spectrometer modules for Industrial & Defense applications",
+            "keywords": "militaire, défense, laser",
+            "twitter": "mirSense",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "comment": "Siège",
+                    "postal_address": "Centre d’intégration NanoINNOV Bâtiment 863, 8 avenue de la Vauve F-91120 Palaiseau",
+                    "gps_coordinates": "48.71278/2.19356"
+                },
+                {
+                    "name": "",
+                    "comment": "Site de production",
+                    "postal_address": "17 Avenue des Martyrs, 38054 Grenoble",
+                    "gps_coordinates": "45.19519/5.70834"
                 }
             ]
         },
@@ -9793,6 +10008,26 @@
             ]
         },
         {
+            "name": "Vaisala",
+            "url": "http://www.vaisala.fr/fr",
+            "description": "Mesure environnementale et industrielle",
+            "keywords": "environnemental, mesure, air, pollution",
+            "twitter": "vaisalagroup",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "39/41, avenue des 3 Peuples, Bât. B - Entrée B1, 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.77915/2.02537"
+                },
+                {
+                    "name": "",
+                    "postal_address": "73 cours albert Thomas, 69003 LYON",
+                    "gps_coordinates": "45.74685/4.86791"
+                }
+            ]
+        },
+        {
             "name": "Vector",
             "url": "https://vector.com",
             "description": "automobile electronics",
@@ -9925,6 +10160,21 @@
                     "name": "",
                     "postal_address": "8, rue Germain Soufflot 78180 MONTIGNY LE BRETONNEUX",
                     "gps_coordinates": "48.78463/2.04247"
+                }
+            ]
+        },
+        {
+            "name": "Vitirover",
+            "url": "http://www.vitirover.com/fr",
+            "description": "entretien des sols et le contrôle de l'enherbement",
+            "keywords": "robot, robotique, agriculture, agricole, glyphosate, enherbement, flotte, tondeuse, autonome, viticulture, solaire",
+            "twitter": "vitirover",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "La Gare de Saint-Emilion, 6 lieu-dit Simard, 33330 Saint-Emilion",
+                    "gps_coordinates": "44.88209/-0.15961"
                 }
             ]
         },
@@ -10195,6 +10445,21 @@
             ]
         },
         {
+            "name": "VIPS",
+            "url": "https://www.vips-sa.com/",
+            "description": "Conception, fabrication et commercialisation de solutions pour la scannérisation, la lecture, le marquage et le tri de documents et d’objet plats. ",
+            "keywords": "lecteur scanner",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "25 rue du ventoux - CE 1456 petite montagne nord 91020 Evry Cedex",
+                    "gps_coordinates": "48.61499/2.42658"
+                }
+            ]
+        },
+        {
             "name": "Vocal Apps",
             "url": "https://www.vocal-apps.com/",
             "description": "Vocal assistants for the internet of things",
@@ -10282,6 +10547,21 @@
                     "name": "",
                     "postal_address": "Immeuble Les Thales Parc les Algorithmes St. Aubin",
                     "gps_coordinates": "48.70790/2.15100"
+                }
+            ]
+        },
+        {
+            "name": "Zéphyr Sola",
+            "url": "http://zephyr.solar/",
+            "description": "ballons photovoltaïques fournissant de l'électricité",
+            "keywords": "startup, solaire, ballon, photovoltaïque",
+            "twitter": "zephyrsolar",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "36 rue de la Roquette 75019 Paris",
+                    "gps_coordinates": "48.85433/2.37190"
                 }
             ]
         },
