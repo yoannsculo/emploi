@@ -3133,8 +3133,10 @@
         },
         {
             "name": "Eco-Compteur",
-            "url": "http://www.instantcounting.com",
-            "description": "People counting systems",
+            "url": "https://www.eco-compteur.com/fr/",
+            "description": "comptage des piétons et des cyclistes en environnement urbain et naturel",
+            "keywords": "piétons, cyclistes, vélo, compteur",
+            "twitter": "Ecocompteur",
             "locations": [
                 {
                     "name": "",
