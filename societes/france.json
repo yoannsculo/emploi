@@ -1318,6 +1318,11 @@
                     "name": "",
                     "postal_address": "240 rue de la Motte 77550 Moissy-Cramayel, France",
                     "gps_coordinates": "48.63127/2.57075"
+                },
+                {
+                    "name": "siège",
+                    "postal_address": "3 rue Paul Mazy 94200 Ivry-sur-Seine",
+                    "gps_coordinates": "48.81749/2.38512"
                 }
             ]
         },
