@@ -8809,6 +8809,37 @@
             ]
         },
         {
+            "name": "Siemens",
+            "url": "https://www.siemens.com",
+            "description": "",
+            "keywords": "Mobilité, Bâtiment, Energie",
+            "twitter": "Siemens_France",
+            "comment": "Les sites ne sont pas tous référencés",
+            "locations": [
+                {
+                    "name": "Siemens Mobility France",
+                    "description": "solutions dans les domaines du matériel roulant ferroviaire et urbain, de la mobilité, du transport et de la gestion de la logistique.",
+                    "postal_address": "Le Diagonal, 150 Avenue de la République, 92320 Châtillon",
+                    "gps_coordinates": "48.80692/2.29848"
+                },
+                {
+                    "name": "",
+                    "postal_address": "617 Rue Fourny, 78530 Buc",
+                    "gps_coordinates": "48.76423/2.12514"
+                },
+                {
+                    "name": "",
+                    "postal_address": "12 Avenue Léon Harmel, 92160 Antony",
+                    "gps_coordinates": "48.73718/2.31188"
+                },
+                {
+                    "name": "siège",
+                    "postal_address": "40 Avenue des Fruitiers, 93210 Saint-Denis",
+                    "gps_coordinates": "48.92054/2.35504"
+                }
+            ]
+        },
+        {
             "name": "Sierra Wireless",
             "url": "http://www.sierrawireless.com",
             "description": "Modules, gateways and cloud services for M2M",
