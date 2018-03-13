@@ -1727,6 +1727,21 @@
             ]
         },
         {
+            "name": "Bouygues Telecom",
+            "url": "https://www.bouyguestelecom.fr/",
+            "description": "Box ADSL / fibre",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13 AVENUE DU MARECHAL JUIN 92360 MEUDON",
+                    "gps_coordinates": "48.78756/2.21952"
+                }
+            ]
+        },
+        {
             "name": "BrightLoop",
             "url": "http://www.brightloop.fr",
             "description": "Development of custom power supplies with digital control",
@@ -4308,6 +4323,28 @@
             ]
         },
         {
+            "name": "Forsee Power",
+            "url": "http://www.forseepower.com",
+            "description": "smart battery systems",
+            "keywords": "batterie, énergie, transport",
+            "twitter": "forseepower",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "comment": "siège",
+                    "postal_address": "1 boulevard Hippolyte Marquès 75013 Paris",
+                    "gps_coordinates": "48.81897/2.37340"
+                },
+                {
+                    "name": "",
+                    "comment": "production",
+                    "postal_address": "240 rue de la Motte 77550 Moissy-Cramayel",
+                    "gps_coordinates": "48.63107/2.57168"
+                }
+            ]
+        },
+        {
             "name": "FRANCE AIR",
             "url": "http://www.france-air.com/",
             "description": "concepteur de système de traitement de l'air, de chauffage, d'eau chaude sanitaire",
@@ -6223,6 +6260,26 @@
             ]
         },
         {
+            "name": "Ledger",
+            "url": "https://www.ledger.fr",
+            "description": "multicurrency hardware wallet for cryptocurrencies",
+            "keywords": "",
+            "twitter": "ledgerhq",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 RUE DU MAIL - 75002 PARIS",
+                    "gps_coordinates": "48.86642/2.34138"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Allée GEORGES CHARPAK - 18100 VIERZON",
+                    "gps_coordinates": "47.24688/2.07093"
+                }
+            ]
+        },
+        {
             "name": "Leds-chat",
             "url": "http://www.leds-chat.com/index.html",
             "description": "LED's CHAT : La Première Dalle LED Intelligente Et Connectée",
@@ -6372,6 +6429,21 @@
                     "name": "",
                     "postal_address": "Business Pôle, Allée Pierre Ziller Bâtiment B, Entrée A, BP19 – CS80019 06560 Valbonne - Sophia Antipolis",
                     "gps_coordinates": "43.62719/7.04132"
+                }
+            ]
+        },
+        {
+            "name": "Luko",
+            "url": "https://www.getluko.com/homefr",
+            "description": "Analyse de la consommation d'énergie en temps réel à la maison",
+            "keywords": "startup, smarthome",
+            "twitter": "getluko",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "95 avenue du Président Wilson 93108 Montreuil",
+                    "gps_coordinates": "48.85580/2.43975"
                 }
             ]
         },
