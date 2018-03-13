@@ -10227,18 +10227,6 @@
             ]
         },
         {
-            "name": "Vitec",
-            "url": "http://www.vitecmm.com",
-            "description": "Digital video products that support end-to-end media solutions",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "99, rue Pierre Sémard 92320 CHATILLON Cedex France",
-                    "gps_coordinates": "48.80592/2.29703"
-                }
-            ]
-        },
-        {
             "name": "Viotec",
             "url": "http://www.viotech.net",
             "description": "Audiovisual and multimedia transmission over digital networks",
@@ -10247,6 +10235,21 @@
                     "name": "",
                     "postal_address": "8, rue Germain Soufflot 78180 MONTIGNY LE BRETONNEUX",
                     "gps_coordinates": "48.78463/2.04247"
+                }
+            ]
+        },
+        {
+            "name": "Vitec",
+            "url": "https://www.vitec.com",
+            "description": "digital video products that support end-to-end media solutions",
+            "keywords": "video, numérique, encodeur",
+            "twitter": "Vitec_MM",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "99 rue Pierre Sémard 92320 CHATILLON",
+                    "gps_coordinates": "48.80632/2.29719"
                 }
             ]
         },
