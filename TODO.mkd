@@ -5,16 +5,20 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-- Siemens PLC - Division Mobility de Siemens / mobilité des voyageurs - basé à Chatillon (92)
-- Kapsch (pour le badge autoroute)
-- https://www.vitec.com
-- Bouygues Telecom à Meudon pour les box - https://bouyguestelecom-recrute.talent-soft.com/offre-de-emploi/emploi-ingenieur-systemes-embarques-wi-fi-h-f_14064.aspx?idOrigine=1906
-- http://www.forseepower.com - http://www.forseepower.com/en/career/embedded-software-developer-mf
-- http://www.faurecia.com/fr (Brières-les-Scellés)
+Agriculture connectée
+- https://www.nexxtep-technologies.com/
+- http://www.agrotronix.fr/
+- https://www.wezr.com/
+- http://www.agriscope.fr
+- http://www.hiphen-plant.com/
+- http://sencrop.com/
+- https://www.wid.fr/
+- http://www.corhize.com/fr/
+- http://www.sulky-burel.fr/
+
+
+- http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
 - Groupe Keolis (billettique)
-- Ajouter site de Balyo à Ivry
-- https://www.ledger.fr/
-- https://www.getluko.com/homefr
 - ajouter Continental (Rambouillet)
 - ajouter Renault et Technocentre
 - https://www.getadok.com
@@ -270,6 +274,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - LR TECHNOLOGIES
 - QUARTZ INGENIERIE
 - STUDIEL
+- Eliquans
 
 ### Closed companies (to specify in a new field)
 
