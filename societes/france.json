@@ -2097,12 +2097,12 @@
             ]
         },
         {
-            "name": "Chronocam",
-            "url": "http://www.chronocam.com",
+            "name": "Prophesee",
+            "url": "http://www.prophesee.ai/",
             "description": "machine vision sensors and systems for applications in all fields of machine vision",
             "keywords": "",
-            "twitter": "Chronocam",
-            "comment": "",
+            "twitter": "Prophesee_ai",
+            "comment": "formerly chronocam",
             "locations": [
                 {
                     "name": "",
