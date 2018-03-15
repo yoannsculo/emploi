@@ -8362,6 +8362,51 @@
             ]
         },
         {
+            "name": "Serma",
+            "url": "https://www.serma-ingenierie.com",
+            "description": "Etude, développement et réalisation de systèmes électroniques embarqués.",
+            "keywords": "",
+            "twitter": "sermagroup",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "CORNEBARRIEU",
+                    "postal_address": "Rue de l'Aussonnelle - 31700 CORNEBARRIEU",
+                    "gps_coordinates": "43.65179/1.32689"
+                },
+                {
+                    "name": "GUYANCOURT",
+                    "postal_address": "5 Boulevard des Chênes - Parc Ariane - Bât. Neptune - 78280 GUYANCOURT",
+                    "gps_coordinates": "48.78811/2.05880"
+                },
+                {
+                    "name": "TOULOUSE",
+                    "postal_address": "3, impasse Chalard - 31110 TOULOUSE",
+                    "gps_coordinates": "43.5675424/1.3919624000000113"
+                },
+                {
+                    "name": "LE BOUSCAT",
+                    "postal_address": "AW2S - Bat. H, 375 Avenue de Tivoli - 33110 LE BOUSCAT",
+                    "gps_coordinates": "44.87442/-0.59611"
+                },
+                {
+                    "name": "VENISSIEUX",
+                    "postal_address": "Parc Lyon Sud - 4, rue de l’Arsenal - 69200 VENISSIEUX",
+                    "gps_coordinates": "45.71197739999999/4.865399400000001"
+                },
+                {
+                    "name": "GRENOBLE",
+                    "postal_address": "7 Parvis Louis Néel - MINATEC - 38040 GRENOBLE",
+                    "gps_coordinates": "45.1956397/5.708299000000011"
+                },
+                {
+                    "name": "PESSAC",
+                    "postal_address": "14, rue Galilée - CS10055 - 33615 PESSAC",
+                    "gps_coordinates": "44.789819/-0.6634040000000141"
+                }
+            ]
+        },
+        {
             "name": "SCHILLER Médical SAS",
             "url": "http://www.schiller.fr",
             "description": "Medical devices for cardiopulmonary diagnostics, patient monitoring and emergency medicine",
