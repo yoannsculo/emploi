@@ -3407,13 +3407,13 @@
         },
         {
             "name": "Elinap",
-            "url": "http://elinap.pagesperso-orange.fr",
+            "url": "http://www.elinap.com",
             "description": "Produits qui permettent l'amélioration du service assuré par les transports publics",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "7 Rue Thiébaud, 25000 Besançon",
-                    "gps_coordinates": "47.25386/6.01739"
+                    "postal_address": "11 RUE THIEBAUD - 25000 BESANCON",
+                    "gps_coordinates": "47.25418/6.01668"
                 }
             ]
         },
