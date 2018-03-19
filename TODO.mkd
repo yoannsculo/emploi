@@ -5,18 +5,6 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-Agriculture connectée
-- https://www.nexxtep-technologies.com/
-- http://www.agrotronix.fr/
-- https://www.wezr.com/
-- http://www.agriscope.fr
-- http://www.hiphen-plant.com/
-- http://sencrop.com/
-- https://www.wid.fr/
-- http://www.corhize.com/fr/
-- http://www.sulky-burel.fr/
-
-
 - http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
 - Groupe Keolis (billettique)
 - ajouter Continental (Rambouillet)

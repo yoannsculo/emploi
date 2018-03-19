@@ -386,6 +386,21 @@
             ]
         },
         {
+            "name": "Agriscope",
+            "url": "http://www.agriscope.fr",
+            "description": "Réseaux de capteurs pour l'agriculture",
+            "keywords": "agriculture",
+            "twitter": "Agriscope",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "404 Rue Saint-Exupéry, 34130 Mauguio",
+                    "gps_coordinates": "43.58756/3.93821"
+                }
+            ]
+        },
+        {
             "name": "Agrivolta",
             "url": "http://www.agrivolta.fr/",
             "description": "ombrières intelligentes",
@@ -397,6 +412,21 @@
                     "name": "",
                     "postal_address": "Domaine du Petit Arbois Avenue Louis Philibert 13100 Aix-en-Provence",
                     "gps_coordinates": "43.49166/5.33061"
+                }
+            ]
+        },
+        {
+            "name": "Agrotronix",
+            "url": "http://www.agrotronix.fr/",
+            "description": "solutions logicielles et d'électronique embarquée pour les machines d'épandage et de pulvérisations",
+            "keywords": "agriculture connectée",
+            "twitter": "agrotronix",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "31, rue du Canal 59400 CAMBRAI",
+                    "gps_coordinates": "50.17569/3.21853"
                 }
             ]
         },
@@ -2419,6 +2449,21 @@
                     "name": "",
                     "postal_address": "Cité de la Photonique  11 Avenue Canteranne - 33600 PESSAC",
                     "gps_coordinates": "44.78542/-0.63264"
+                }
+            ]
+        },
+        {
+            "name": "CoRHIZE",
+            "url": "http://www.corhize.com",
+            "description": "équipements de contrôle et aux outils d'aide à la décision pour l'agriculture",
+            "keywords": "agriculture, météo, capteur",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Agropôle Deltagro 3, 47310 Estillac",
+                    "gps_coordinates": "44.16669/0.59443"
                 }
             ]
         },
@@ -5027,6 +5072,21 @@
             ]
         },
         {
+            "name": "Hiphen",
+            "url": "http://www.hiphen-plant.com/",
+            "description": "solutions for plant phenotyping",
+            "keywords": "uav, multispectral, startup, agriculture",
+            "twitter": "hiphen_plant",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Centre INRA PACA - UMR 114 EMMAH - 228, Route de l’Aérodrome - CS 40509 - 84914 AVIGNON - Cedex 9",
+                    "gps_coordinates": "43.91680/4.88381"
+                }
+            ]
+        },
+        {
             "name": "HITRONETIC",
             "url": "http://www.hitronetic.com",
             "description": "",
@@ -7230,6 +7290,21 @@
                     "name": "",
                     "postal_address": "1 Boulevard de l'Océan 13009 Marseille",
                     "gps_coordinates": "43.2409980/5.3996354"
+                }
+            ]
+        },
+        {
+            "name": "NeXXtep Technologies",
+            "url": "https://www.nexxtep-technologies.com",
+            "description": "Développement de solutions connectées pour l'agriculture",
+            "keywords": "agriculture connectée",
+            "twitter": "Nexx_tep",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "11 RUE DU FOUR 51000 CHALONS EN CHAMPAGNE",
+                    "gps_coordinates": "48.95715/4.36992"
                 }
             ]
         },
@@ -9494,6 +9569,21 @@
             ]
         },
         {
+            "name": "Sulky-Burel",
+            "url": "http://www.sulky-burel.fr",
+            "description": "conception, la production et la commercialisation de solutions de préparation du sol, de semis et de fertilisation destinées à l’agriculture",
+            "keywords": "agriculture",
+            "twitter": "sulky_burel",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "LES PORTES DE BRETAGNE - PARC D ACTIVITE DE LA GAULTIERE - 35220 CHATEAUBOURG",
+                    "gps_coordinates": "48.09223/-1.42478"
+                }
+            ]
+        },
+        {
             "name": "Sunna design",
             "url": "http://sunna-design.fr/",
             "description": "L'éclairage public solaire intelligent",
@@ -10400,6 +10490,21 @@
             ]
         },
         {
+            "name": "WEZR",
+            "url": "https://www.wezr.com/",
+            "description": "Station météo nomade connectée",
+            "keywords": "",
+            "twitter": "Wezr_",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "CAP OMEGA - RPT BENJAMIN FRANKLIN - 34000 MONTPELLIER",
+                    "gps_coordinates": "43.61864/3.91481"
+                }
+            ]
+        },
+        {
             "name": "WI6Labs",
             "url": "http://www.wi6labs.com",
             "description": "Ultra low power and secured wireless sensors network solution",
@@ -10492,6 +10597,21 @@
                     "name": "",
                     "postal_address": "165 avenue de Bretagne 59000 LILLE",
                     "gps_coordinates": "50.63333/3.01953"
+                }
+            ]
+        },
+        {
+            "name": "WID",
+            "url": "https://www.wid.fr/",
+            "description": "solutions d’authentification, d’identification et de traçabilité des vins",
+            "keywords": "rfid, vin, étiquette",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue du Cmdt Robert Malrait PA des Granges 27300 BERNAY",
+                    "gps_coordinates": "49.10431/0.59172"
                 }
             ]
         },
