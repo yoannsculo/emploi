@@ -1531,6 +1531,19 @@
             ]
         },
         {
+            "name": "BLEUJOUR",
+            "url": "http://www.kubb.eu",
+            "description": "Computer manufacturer",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
+                    "gps_coordinates": "43.56300/1.49201"
+                }
+
+            ]
+        },
+        {
             "name": "BLUE FROG ROBOTICS",
             "url": "http://www.bluefrogrobotics.com/",
             "description": "Companion Robots",
@@ -6024,19 +6037,6 @@
             ]
         },
         {
-            "name": "BLEUJOUR",
-            "url": "http://www.kubb.eu",
-            "description": "Computer manufacturer",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "3 avenue Didier Daurat 31400 Toulouse",
-                    "gps_coordinates": "43.56300/1.49201"
-                }
-
-            ]
-        },
-        {
             "name": "Kazeko",
             "url": "http://www.kazeko.fr/",
             "description": "conception et réalisation d’objets autonomes, communiquant sans fil en toute sécurité.",
@@ -8789,7 +8789,7 @@
                     "name": "Sepro Robotique",
                     "postal_address": "Rue Henry Bessemer - ZA Est - CS10084 - 85003 La Roche sur Yon",
                     "gps_coordinates": "46.69659/-1.37103"
-                }
+                },
                 {
                     "name": "Sepro Robotique",
                     "postal_address": "235 rue de la Prairie - Parc Industriel Sud - 01100 Groissiat",
