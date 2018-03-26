@@ -309,7 +309,7 @@
             "name": "Actility",
             "url": "http://www.actility.com",
             "description": "Internet of Things and M2M service platform",
-            "keywords": "",
+            "keywords": "LPWAN, iot, LoRaWAN, LoRaAlliance , LoRa",
             "twitter": "actility",
             "comment": "",
             "locations": [
@@ -319,9 +319,24 @@
                     "gps_coordinates": "48.87514/2.33369"
                 },
                 {
-                    "name": "Actility Lannion",
+                    "name": "",
                     "postal_address": "4 rue Andre Marie Ampère BP 30225 22300 Lannion",
                     "gps_coordinates": "48.75575/-3.46553"
+                },
+                {
+                    "name": "",
+                    "postal_address": "RUE FULGENCE BIENVENUE - 22300 LANNION",
+                    "gps_coordinates": "48.75809/-3.47131"
+                },
+                {
+                    "name": "",
+                    "postal_address": "57 RUE DE LA LIBERTE - 14730 GIBERVILLE",
+                    "gps_coordinates": "49.18879/-0.29189"
+                },
+                {
+                    "name": "",
+                    "postal_address": "7 CHE DES HIRONDELLES - 69570 DARDILLY",
+                    "gps_coordinates": "45.80635/4.76323"
                 }
             ]
         },
