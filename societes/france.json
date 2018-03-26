@@ -7619,11 +7619,14 @@
             "name": "OneAccess",
             "url": "http://www.oneaccess-net.com",
             "description": "",
+            "keywords": "",
+            "twitter": "oneaccess",
+            "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Pentagone Plaza 381 Avenue du Général de Gaulle 92140 Clamart",
-                    "gps_coordinates": "48.78165/2.24292"
+                    "postal_address": "13 AV MORANE SAULNIER - 78140 VELIZY VILLACOUBLAY",
+                    "gps_coordinates": "48.78268/2.21094"
                 },
                 {
                     "name": "",
