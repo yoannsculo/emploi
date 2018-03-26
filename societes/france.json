@@ -254,6 +254,21 @@
             ]
         },
         {
+            "name": "Adok",
+            "url": "https://www.getadok.com/",
+            "description": "multi-touch projection technology",
+            "keywords": "startup",
+            "twitter": "my_adok",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 rue de Liège 75009 Paris",
+                    "gps_coordinates": "48.87945/2.32855"
+                }
+            ]
+        },
+        {
             "name": "Advantech",
             "url": "http://www.advantech.com",
             "description": "Embedded and automation products and solutions.",
@@ -2585,6 +2600,21 @@
                     "name": "",
                     "postal_address": "36 B RUE ERNEST RENAN 92130 ISSY LES MOULINEAUX",
                     "gps_coordinates": "48.82810/2.28096"
+                }
+            ]
+        },
+        {
+            "name": "CXignited",
+            "url": "http://cxignited.com/",
+            "description": "Expérience client connectée",
+            "keywords": "",
+            "twitter": "CXIgnited",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "75 Boulevard Hausmann 75008 Paris",
+                    "gps_coordinates": "48.87420/2.32245"
                 }
             ]
         },
@@ -8744,6 +8774,26 @@
                     "name": "",
                     "postal_address": "59-63 rue Emile Cordon, 93400 Saint-Ouen",
                     "gps_coordinates": "48.91361/2.34378"
+                }
+            ]
+        },
+        {
+            "name": "SEPRO Group",
+            "url": "http://www.sepro-group.com/fr/",
+            "description": "Robots industriels",
+            "keywords": "Robot",
+            "twitter": "SeproGroup",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "Sepro Robotique",
+                    "postal_address": "Rue Henry Bessemer - ZA Est - CS10084 - 85003 La Roche sur Yon",
+                    "gps_coordinates": "46.69659/-1.37103"
+                }
+                {
+                    "name": "Sepro Robotique",
+                    "postal_address": "235 rue de la Prairie - Parc Industriel Sud - 01100 Groissiat",
+                    "gps_coordinates": "46.23096/5.62430"
                 }
             ]
         },
