@@ -5048,6 +5048,21 @@
             ]
         },
         {
+            "name": "Harman",
+            "url": "https://services.harman.com/",
+            "description": "Automobile connectée",
+            "keywords": "Cloud, IoT, ",
+            "twitter": "HARMANservices",
+            "comment": "ex Red Bend Software",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "14, place Georges Pompidou 78180 Montigny-le-Bretonneux",
+                    "gps_coordinates": "48.78440/2.04253"
+                }
+            ]
+        },
+        {
             "name": "Hectronic",
             "url": "http://www.hectronic.com/fr",
             "description": "Smart solutions for parking and refuelling",
@@ -8445,21 +8460,6 @@
                     "name": "",
                     "postal_address": "7 rue Ambroise Thomas 75009 Paris",
                     "gps_coordinates": "48.87466/2.34724"
-                }
-            ]
-        },
-        {
-            "name": "Harman",
-            "url": "https://services.harman.com/",
-            "description": "Automobile connectée",
-            "keywords": "Cloud, IoT, ",
-            "twitter": "HARMANservices",
-            "comment": "ex Red Bend Software",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "14, place Georges Pompidou 78180 Montigny-le-Bretonneux",
-                    "gps_coordinates": "48.78440/2.04253"
                 }
             ]
         },
