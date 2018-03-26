@@ -5,20 +5,69 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-- http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
-- Groupe Keolis (billettique)
+Embarqué vérifié (à placer)
+---------------------------
+- Samsung Paris 10eme - https://www.artik.io/
+
+Grosses sociétés (plus de travail)
+----------------------------------
 - ajouter Continental (Rambouillet)
 - ajouter Renault et Technocentre
-- https://www.getadok.com
-- https://www.abeeway.com
+- Groupe Keolis (billettique)
+- http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
+- Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
+- Schlumberger
+- Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
+- Airbus Defense & Space
+- Thalescom
+- MBDA (Plessis Robinson)
+- AIRBUS GROUP
+- airbus - les mureaux
+- veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
+- Renault,Guyancourt
+- Thales Cergy (95)
+- Renault Sport
+- Renault Truck
+- Renault Defense
+- Orange (Colombes) pour les STB
+- Renault Software Labs à Toulouse
+- THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
+- IBM
+- NXP/Caen
+- NXP/Sophia-Antipolis
+- Thalès / http://www.thalesgroup.com
+- Valeo / http://www.valeo.com
+- Alstom / http://www.alstom.com
+- Arianespace / http://www.arianespace.com
+- Bull / http://www.bull.fr
+- Continental / http://www.conti-online.com/
+- Dassault Aviation / http://www.dassault-aviation.com
+- EADS / http://www.eads.com
+- PSA / http://www.psa-peugeot-citroen.com
+- Safran / http://www.safran-group.com
+- SFR / http://www.sfr.com
+- Schneider Electric / http://www.schneider-electric.com
+- ST-Ericsson / http://www.stericsson.com
+
+Regarder s'il y a un site en France
+------------------------------------
+
+Vérifier s'il y a de l'embarqué (embarqué protable)
+---------------------------------------------------
+- https://ke.kubota-eu.com/agriculture/fr/
+- http://www.intent-technologies.eu
+- http://www.upmem.com
+- http://www.urbanpotager.com
+- Niwa / http://getniwa.com/
+
+A analyser
+----------
 - https://heaserobotics.com
 - https://www.willo.com
 - http://www.stago.fr
 - http://www.wandercraft.eu
-- Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
 - https://buzz-esante.fr/2018-innovations-sante-part-1/
 - https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
-- http://www.energysquare.co/
 - Sysmic - www.sysmic.org
 - BIZE ELECTRONIQUE / Soudure et assemblage / http://www.doubs.org/industrie/fiche-industrie-bize-electronique,236.html
 - https://www.la-croix.com/amp/1200905077?__twitter_impression=true
@@ -31,7 +80,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.dibotics.com/
 - http://www.swap-assist.fr
 - http://www.aei-wisycom-france.com/index.html
-
 - http://www.rubisoft.fr
 - http://www.millidrop.com
 - https://www.ixblue.com
@@ -61,8 +109,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.webdyn.com
 - http://www.neoaxess.com
 - http://www.ondeosystems.com - Ondeo Systems (Le Pecq - vérifié Linux embarqué)
-
-
 - Atlantic - http://www.atlantic.fr/
 - Elnec - http://www.elnec.com/
 - Eurocave - http://www.eurocave.com
@@ -81,12 +127,9 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://thomson-broadcast.com/
 - Dav / Valéo, Dura, G Cartier electronique, L'electricfil, LEM, NSI, Peugeot motocycles, Pinguely, PSA, Renault, Rockwell, Serdi, Soubitez, Striebel, Teleflex, Chongqing Teleflex Automotive (China) etc ...
 - 3M, Alcatel / Vaccum Technology, Amphenol / Socapex, Arnoul, Ascom / Néopost, ASSA ABLOY, CEA, EDF, Essilor, Flunch, France Telecom, Leroy Sommer, Metrix/ Chauvin Arnoux, Navic, Orange, Parker, Schneider / Merlin, Gérin, Secap, Sensorex, SKF, SNR, Somfy, Thales, Thiriet, Renault Truck etc ... 
-- MBDA (Plessis Robinson)
-- AIRBUS GROUP
 - SOCOMEC - http://www.socomec.fr
 - PEUGEOT CITROEN AUTOMOBILE SA
 - Fare - Pithiviers (Loiret) / Groupe DEF
-- SIEMENS SAS / Chatillon
 - Technifor/Gravotech Group - http://www.gravotech.com/ - http://www.technifor.fr (http://www.directemploi.com/offre/1960427/ingenieur-de-developpement-c-c-embarque-h-f)
 - http://amd-group.fr
 - http://atelec-electronic.com
@@ -94,9 +137,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - http://www.thyssenkrupp-ascenseurs.fr/societe/notre-centre-industriel/
 - http://www.oxhoo.com/corporate/
 - http://fr.agneovo.com/
-- Schlumberger
-- Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
-- Airbus Defense & Space
 - Synox Group (SoFleet)
 - Assystem
 - Squoring Technologies
@@ -108,40 +148,20 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Safran Morpho - Osny (45 mn de la Défense) ou à Aix en Provence (13) - https://www.linkedin.com/jobs2/view/12043773?trk=job_view_similar_jobs
 - Canon Research Centre / 48.13282/-1.62586
 - BroadSoft ?
-- Renault,Guyancourt
-- Thales Cergy (95)
 - Gigaset - http://www.gigaset.com/fr_FR/gigaset/mentions-legales.html
 - Oralb - http://www.oralb.fr/fr-FR/details-des-produits/brosse-a-dents-electrique-oral-b-pro-7000-blanche-smartseries
 - CEMI - http://www.cemifrance.fr
 - MARBEN PRODUCTS
-- IBM
-- NXP/Caen
-- NXP/Sophia-Antipolis
 - OpenPattern / http://www.openpattern.com
-- Thalès / http://www.thalesgroup.com
-- Valeo / http://www.valeo.com
-- Alstom / http://www.alstom.com
-- Arianespace / http://www.arianespace.com
-- Bull / http://www.bull.fr
 - CEA / http://www.cea.fr
-- Continental / http://www.conti-online.com/
-- Dassault Aviation / http://www.dassault-aviation.com
-- EADS / http://www.eads.com
 - Efixo / http://www.efixo.com
 - Montavista / http://www.mvista.com
-- PSA / http://www.psa-peugeot-citroen.com
-- Safran / http://www.safran-group.com
-- SFR / http://www.sfr.com
-- Schneider Electric / http://www.schneider-electric.com
-- ST-Ericsson / http://www.stericsson.com
 - Tea Ebook / http://www.tea-ebook.com
 - IFM / http://www.ifm.com
 - INEO SYSTRANS / http://www.cofelyineo-systrans-gdfsuez.com/ (ACHERES)
-- THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
 - http://www.spacebel.be/fr/aboutspacebel/sites/
 - congatec AG France - http://www.congatec.com/fr/ - @congatec_france
 - Lynx Software Technologies Europe / http://www.lynx.com / @LynxSoftware
-- Thalescom
 - Cls COLLECTE LOCALISATION SATELLITES à Toulouse
 - http://www.xerox-parking.com/borne-entreesortie-light-reflex.html
 - ACS (Affiliated Computer Services)/Filiale de Xerox
@@ -153,7 +173,6 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - ? ApisSys
 - NXP Semiconductors et Freescale Semiconductor ne font désormais plus qu’une seule et même société
 - http://www.lembarque.com/les-trophees-de-lembarque-2015-recompensent-handisco-krono-safe-partnering-robotics-qivivo-rolls-royce-suricog-et-terradona_004228
-- VALEO VEEM /  Créteil
 - SARL CESIGMA,  la garde
 - OVERLINE SYSTEMS à Andernos les Bains
 - NEAVIA TECHNOLOGIES à SAINT BRIEUC
@@ -162,53 +181,21 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - Microchip Technology
 - http://corporate.pickup.fr/ ?
 - http://www.madine-france.com/fr/annuaire/fabricants-566-electronique-hi-fi-video-photo-materiel-hifi-video
-- Samsung Paris 10eme - https://www.artik.io/
-- airbus - les mureaux
-- veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
 - http://www.logistafrance.fr/fr/empresas-del-grupo/logistafrance/Pages/contacto.aspx / Immeuble Le Bristol 27, avenue des Murs du Parc 94300 Vincennes
 - General Electric ouvrira un site à Nantes en 2017
-- Valeo à Créteil
 - Magneti marelli France / Châtellerault - 86
-- SIEMENS SAS a Châtillon
 - ACAL-BFI France
-- Bouygues Telecom - 13 Avenue du Maréchal Juin - 93260 Meudon
-- Renault Sport
-- Renault Truck
-- Renault Defense
-- Orange (Colombes) pour les STB
-- Il y a un siemens France à Châtillon - @Siemens_France c’est 8 sites industriels & 11 centres de R&D dont #LeHavre #Toulouse #Châtillon #Haguenau #Grenoble https://t.co/pyphNcdz5x
 - https://shadow.tech
-- GE Healthcare
 - http://www.opteya.com/ ?
 - http://www.lafrenchtech.com/
-- Renault Software Labs à Toulouse
-
-### Embedded ?
-
-- http://www.upmem.com
-- http://www.urbanpotager.com
-- Niwa / http://getniwa.com/
-
-### TODO
-
-
 
 ### Divers
 
-- Réordonner BLEUJOUR
 - GreenMe (ex-ACA-O) ?
-
-### Est-ce vraiment de l'embarqué ?
-
-- http://www.intent-technologies.eu
 
 ### Vu par hasard sur la carte
 
 - Motorola / NXP ? - Immeuble Les Thales Parc les Algorithmes St. Aubin
-
-### Vérifié Apec
-
-
 
 
 ### Companies addresses not found / Startups ?
@@ -235,6 +222,7 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 - https://www.sowee.fr
 - http://www.vegidair.co
 - Isymap / BAGNOLS-SUR-CÈZE
+- http://www.energysquare.co
 
 ### French companies ? Or resellers ?
 - BeeWi
