@@ -8446,9 +8446,12 @@
             ]
         },
         {
-            "name": "Red Bend Software",
-            "url": "http://www.redbend.com",
-            "description": "",
+            "name": "Harman",
+            "url": "https://services.harman.com/",
+            "description": "Automobile connectée",
+            "keywords": "Cloud, IoT, ",
+            "twitter": "HARMANservices",
+            "comment": "ex Red Bend Software",
             "locations": [
                 {
                     "name": "",
