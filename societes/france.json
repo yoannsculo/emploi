@@ -10411,6 +10411,21 @@
             ]
         },
         {
+            "name": "ValoTec",
+            "url": "http://www.valotec.fr/",
+            "description": "Prototypage rapide",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Mail du Professeur Georges Mathé,  94800 Villejuif, France",
+                    "gps_coordinates": "48.795584/2.3575105"
+                }
+            ]
+},
+        {
             "name": "Vector",
             "url": "https://vector.com",
             "description": "automobile electronics",
