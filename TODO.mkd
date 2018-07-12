@@ -5,9 +5,30 @@ TODO
 
 Those companies "may" be linked to the embedded, industrial, electronics market but need to be checked AND listed if it's the case.
 
-Embarqué vérifié (à placer)
+Embarqué déjà vérifié (à placer)
 ---------------------------
-- Samsung Paris 10eme - https://www.artik.io/
+- Samsung Paris 10eme - https://www.artik.io
+- Germitec - 3, 5 Allée de la Seine, 94200 Ivry-sur-Seine
+- Transdev à Versailles (équipe Véhicule Embarqué) - #Véhicule autonome - https://transdev.taleo.net/careersection/extexp/jobdetail.ftl?job=554274&lang=fr_FR&source=IND
+- http://www.green-alternative.fr/
+- https://www.kubotausa.com/
+- http://biotraq.fr/
+- https://www.ercom.fr/
+- https://www.citypassenger.com/
+- https://www.cutii.io/
+- https://www.mecalux.fr/ - Wissous
+- https://tempow.com/
+- http://wandercraft.eu/
+- https://bilberry.io/fr/
+- http://www.simpulse-sdr.com/
+- http://surgivisio.com/fr/
+- http://www.isorg.fr
+- http://www.oledcomm.com/
+- http://www.corwave.fr/fr/
+- http://www.bodycap-medical.com/fr/
+- http://www.exagan.com/en/
+- http://www.helper-drone.com
+- http://uniways.fr
 
 Grosses sociétés (plus de travail)
 ----------------------------------
@@ -52,13 +73,18 @@ Grosses sociétés (plus de travail)
 Regarder s'il y a un site en France
 ------------------------------------
 
-Vérifier s'il y a de l'embarqué (embarqué protable)
+Vérifier s'il y a de l'embarqué (embarqué probable)
 ---------------------------------------------------
 - https://ke.kubota-eu.com/agriculture/fr/
 - http://www.intent-technologies.eu
 - http://www.upmem.com
 - http://www.urbanpotager.com
 - Niwa / http://getniwa.com/
+- http://www.motor-e.com/
+- Synchrosoft
+- http://www.mip-robotics.com/
+- https://www.aledia.com/en/
+- https://www.solable.fr/
 
 A analyser
 ----------
@@ -251,6 +277,7 @@ A analyser
 - QUARTZ INGENIERIE
 - STUDIEL
 - Eliquans
+- SOCASS
 
 ### Closed companies (to specify in a new field)
 
@@ -278,6 +305,7 @@ A analyser
 
 - http://senic.com/ - Berlin
 - Segger
+- https://www.magazino.eu
 
 ### BELGIUM
 
