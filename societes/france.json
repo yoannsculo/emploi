@@ -4151,6 +4151,21 @@
             ]
         },
         {
+            "name": "Fluigent",
+            "url": "https://www.fluigent.com",
+            "description": "smart microfluidics",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Biopark 1, Mail du Professeur Georges Mathé, 94800 Villejuif, FRANCE",
+                    "gps_coordinates": "48.7953917/2.3571956"
+                }
+            ]
+        },
+        {
             "name": "Fludia",
             "url": "https://www.fludia.com",
             "description": "mesure et analyse des consommations d’énergie sur tous types de bâtiments",
