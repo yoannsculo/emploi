@@ -9106,6 +9106,18 @@
             ]
         },
         {
+            "name": "Stilla",
+            "url": "https://www.stillatechnologies.com",
+            "description": "Discover the simplicity of Digital PCR",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Biopark 1, Mail du Professeur Georges Mathé, 94800 Villejuif, FRANCE",
+                    "gps_coordinates": "48.7953917/2.3571956"
+                }
+            ]
+        },
+        {
             "name": "Stimio",
             "url": "http://stimio.fr",
             "description": "STIMIO accompagne ses clients dans l’adoption de l’IoT, du PoC à l’industrialisation",
