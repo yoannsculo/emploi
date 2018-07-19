@@ -3463,6 +3463,21 @@
             ]
         },
         {
+            "name": "Enovasense",
+            "url": "https://www.enovasense.com",
+            "description": "Behind the invisible",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 Mail du Professeur Georges Mathé, Villejuif BioPark, 94800 Villejuif",
+                    "gps_coordinates": "48.796133/2.359474"
+                }
+            ]
+        },
+        {
             "name": "Environnement S.A",
             "url": "http://www.environnement-sa.com",
             "description": "Continuous environmental pollution analysis systems",
