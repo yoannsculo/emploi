@@ -7,68 +7,49 @@ Those companies "may" be linked to the embedded, industrial, electronics market 
 
 Embarqué déjà vérifié (à placer)
 ---------------------------
-- Samsung Paris 10eme - https://www.artik.io
-- Germitec - 3, 5 Allée de la Seine, 94200 Ivry-sur-Seine
-- Transdev à Versailles (équipe Véhicule Embarqué) - #Véhicule autonome - https://transdev.taleo.net/careersection/extexp/jobdetail.ftl?job=554274&lang=fr_FR&source=IND
-- http://www.green-alternative.fr/
-- https://www.kubotausa.com/
-- http://biotraq.fr/
-- https://www.ercom.fr/
-- https://www.citypassenger.com/
-- https://www.cutii.io/
-- https://www.mecalux.fr/ - Wissous
-- https://tempow.com/
-- http://wandercraft.eu/
-- https://bilberry.io/fr/
-- http://www.simpulse-sdr.com/
-- http://surgivisio.com/fr/
-- http://www.isorg.fr
-- http://www.oledcomm.com/
-- http://www.corwave.fr/fr/
-- http://www.bodycap-medical.com/fr/
-- http://www.exagan.com/en/
-- http://www.helper-drone.com
-- http://uniways.fr
+- SUEZ Eau France à Croissy
+- Ajouter le site de Kubota à Crépy-en-Valois quand il sera construit - https://www.usinenouvelle.com/article/kubota-investit-55-millions-d-euros-dans-un-centre-de-recherche-a-crepy-en-valois.N716799
 
 Grosses sociétés (plus de travail)
 ----------------------------------
-- ajouter Continental (Rambouillet)
-- ajouter Renault et Technocentre
-- Groupe Keolis (billettique)
-- http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
-- Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
-- Schlumberger
-- Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
+
 - Airbus Defense & Space
-- Thalescom
-- MBDA (Plessis Robinson)
 - AIRBUS GROUP
 - airbus - les mureaux
-- veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
-- Renault,Guyancourt
-- Thales Cergy (95)
-- Renault Sport
-- Renault Truck
-- Renault Defense
-- Orange (Colombes) pour les STB
-- Renault Software Labs à Toulouse
-- THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
-- IBM
-- NXP/Caen
-- NXP/Sophia-Antipolis
-- Thalès / http://www.thalesgroup.com
-- Valeo / http://www.valeo.com
-- Alstom / http://www.alstom.com
 - Arianespace / http://www.arianespace.com
+- Alstom / http://www.alstom.com
 - Bull / http://www.bull.fr
+- Continental (Rambouillet)
 - Continental / http://www.conti-online.com/
 - Dassault Aviation / http://www.dassault-aviation.com
 - EADS / http://www.eads.com
+- http://www.faurecia.com/fr (Brières-les-Scellés) @Faurecia
+- IBM
+- Groupe Keolis (billettique)
+- MBDA (Plessis Robinson)
+- NXP/Caen
+- NXP/Sophia-Antipolis
+- Orange (Colombes) pour les STB
 - PSA / http://www.psa-peugeot-citroen.com
+- Renault Sport
+- Renault Truck
+- Renault Defense
+- Renault Software Labs à Toulouse
+- Renault Technocentre
+- Renault Guyancourt
 - Safran / http://www.safran-group.com
-- SFR / http://www.sfr.com
+- Sagem Defense Sécurité / Massy 48.72528/2.26697 / http://www.sagem.com/spip.php?rubrique200&lang=en
+- Schlumberger
 - Schneider Electric / http://www.schneider-electric.com
+- SFR / http://www.sfr.com
 - ST-Ericsson / http://www.stericsson.com
+- THALES COMMUNICATIONS & SECURITY S.A.S / Gennevilliers
+- Thalès / http://www.thalesgroup.com
+- Thales Cergy (95)
+- Thalescom
+- Valéo en IDF - Créteil, Paris (17), La Verrière, Cergy et Bobigny.
+- veolia - limay (et aussi Maison-Laffitte et Rueil-Malmaison)
+- Valeo / http://www.valeo.com
 
 Regarder s'il y a un site en France
 ------------------------------------
@@ -80,7 +61,7 @@ Vérifier s'il y a de l'embarqué (embarqué probable)
 - http://www.upmem.com
 - http://www.urbanpotager.com
 - Niwa / http://getniwa.com/
-- http://www.motor-e.com/
+
 - Synchrosoft
 - http://www.mip-robotics.com/
 - https://www.aledia.com/en/
@@ -91,7 +72,6 @@ A analyser
 - https://heaserobotics.com
 - https://www.willo.com
 - http://www.stago.fr
-- http://www.wandercraft.eu
 - https://buzz-esante.fr/2018-innovations-sante-part-1/
 - https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
 - Sysmic - www.sysmic.org
@@ -118,7 +98,6 @@ A analyser
 - https://www.air-lynx.com
 - http://izitron.com/
 - https://seamlesswaves.com/
-- http://www.simpulse-sdr.com/
 - http://bag-era.fr
 - Monixo - http://www.monixo.com/ - @MonixoSAS
 - http://www.gulplug.com
@@ -180,7 +159,6 @@ A analyser
 - MARBEN PRODUCTS
 - OpenPattern / http://www.openpattern.com
 - CEA / http://www.cea.fr
-- Efixo / http://www.efixo.com
 - Montavista / http://www.mvista.com
 - Tea Ebook / http://www.tea-ebook.com
 - IFM / http://www.ifm.com
@@ -217,6 +195,7 @@ A analyser
 
 ### Divers
 
+- Ajouter tous les sites de Transdev. Il y en a beaucoup.
 - GreenMe (ex-ACA-O) ?
 
 ### Vu par hasard sur la carte
@@ -249,6 +228,11 @@ A analyser
 - http://www.vegidair.co
 - Isymap / BAGNOLS-SUR-CÈZE
 - http://www.energysquare.co
+- https://www.citypassenger.com
+- Samsung Paris 10eme - https://www.artik.io
+- http://lacool.co/ - Strasbourg Saint Denis - Capteurs iot
+- https://www.aveine.paris
+- https://www.akoustic-arts.com
 
 ### French companies ? Or resellers ?
 - BeeWi
