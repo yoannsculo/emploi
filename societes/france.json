@@ -1669,14 +1669,14 @@
             "name": "BodyCap",
             "url": "http://www.bodycap-medical.com",
             "description": "Medical Sensor development",
-            "keywords": "",
+            "keywords": "medical",
             "twitter": "BodyCap",
             "comment": "",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "6 rue de la girafe 14000 Caen",
-                    "gps_coordinates": "49.20344/-0.36338"
+                    "postal_address": "3 rue du Dr Laennec 14200 Hérouville Saint-Clair",
+                    "gps_coordinates": "49.20662/-0.34474"
                 }
             ]
         },
