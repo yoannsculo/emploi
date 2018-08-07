@@ -10841,6 +10841,21 @@
             ]
         },
         {
+            "name": "ve-hotech",
+            "url": "ve-hotech.com",
+            "description": "NAS grand public",
+            "keywords": "",
+            "twitter": "vehotech",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "4 rue Joseph Fourier 49070 Beaucouzé",
+                    "gps_coordinates": "47.47285/-0.60976"
+                }
+            ]
+        },
+        {
             "name": "Velco bike",
             "url": "http://velco.bike/fr/",
             "description": "Faites de votre vélo un vélo intelligent",
@@ -10933,6 +10948,21 @@
             ]
         },
         {
+            "name": "VIPS",
+            "url": "https://www.vips-sa.com/",
+            "description": "Conception, fabrication et commercialisation de solutions pour la scannérisation, la lecture, le marquage et le tri de documents et d’objet plats. ",
+            "keywords": "lecteur scanner",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "25 rue du ventoux - CE 1456 petite montagne nord 91020 Evry Cedex",
+                    "gps_coordinates": "48.61499/2.42658"
+                }
+            ]
+        },
+        {
             "name": "Vitec",
             "url": "https://www.vitec.com",
             "description": "digital video products that support end-to-end media solutions",
@@ -10963,6 +10993,67 @@
             ]
         },
         {
+            "name": "Vix Technology France",
+            "url": "http://www.vixtechnology.com",
+            "description": "Provider and integrator of smart access, booking, ticketing, payment and clearing systems",
+            "twitter": "VIX_Technology",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 Bis Rue Alain Savary Parc Temis 25000 BESANCON",
+                    "gps_coordinates": "47.25253/6.00053"
+                }
+            ]
+        },
+        {
+            "name": "Vocal Apps",
+            "url": "https://www.vocal-apps.com/",
+            "description": "Vocal assistants for the internet of things",
+            "keywords": "",
+            "twitter": "vocal_apps",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "19 Boulevard Poissonnière 75002 Paris",
+                    "gps_coordinates": "48.87094/2.34466"
+                }
+            ]
+        },
+        {
+            "name": "VRV Pod",
+            "url": "http://vrvprod.fr",
+            "description": "vous ne regardez plus l'événement, vous êtes dans l'événement",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "8 rue Léopold Sédar Senghor, Bâtiment Erable, 14460 Colombelles",
+                    "gps_coordinates": "49.1882665/-0.3096618"
+                }
+            ]
+        },
+        {
+            "name": "Wandercraft",
+            "url": "http://www.wandercraft.eu",
+            "description": "exosquelette pour personnes paraplégiques",
+            "keywords": "robotique, santé, exosquelette",
+            "twitter": "ExoWandercraft",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "88 rue de Rivoli, 75004 Paris",
+                    "gps_coordinates": "48.85829/2.34941"
+                },
+                {
+                    "name": "",
+                    "postal_address": "86 RUE DE PARIS - 91400 ORSAY",
+                    "gps_coordinates": "48.69567/2.19628"
+                }
+            ]
+        },
+        {
             "name": "WATTS ELECTRONICS",
             "url": "http://www.wattselectronics.com",
             "description": "",
@@ -10971,6 +11062,21 @@
                     "name": "",
                     "postal_address": "Z.A. des TOURETTES 43800 ROSIÈRES",
                     "gps_coordinates": "45.12558/3.97581"
+                }
+            ]
+        },
+        {
+            "name": "Wavely",
+            "url": "http://wavely.fr",
+            "description": "Capteurs acoustiques",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "165 avenue de Bretagne 59000 LILLE",
+                    "gps_coordinates": "50.63333/3.01953"
                 }
             ]
         },
@@ -10984,6 +11090,21 @@
                     "name": "",
                     "postal_address": "2 Place de Touraine, 78000 Versailles, France",
                     "gps_coordinates": "48.80405/2.16233"
+                }
+            ]
+        },
+        {
+            "name": "Weenat",
+            "url": "https://www.weenat.com/",
+            "description": "Plateforme collaborative d'agronomie de précision",
+            "keywords": "",
+            "twitter": "weenat_com",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Technocampus Alimentation 2 impasse Therese Bertrand-Fontaine 44320 Nantes",
+                    "gps_coordinates": "47.26376/-1.56518"
                 }
             ]
         },
@@ -11027,6 +11148,36 @@
                     "name": "",
                     "postal_address": "10 rue de Jouanet E-Park 35700 Rennes",
                     "gps_coordinates": "48.13320/-1.63609"
+                }
+            ]
+        },
+        {
+            "name": "WID",
+            "url": "https://www.wid.fr/",
+            "description": "solutions d’authentification, d’identification et de traçabilité des vins",
+            "keywords": "rfid, vin, étiquette",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 rue du Cmdt Robert Malrait PA des Granges 27300 BERNAY",
+                    "gps_coordinates": "49.10431/0.59172"
+                }
+            ]
+        },
+        {
+            "name": "Wildmoka",
+            "url": "http://wildmoka.com/",
+            "description": "Video enrichment solutions",
+            "keywords": "",
+            "twitter": "wildmoka",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Business Pole 1047 route des Dolines F-06560 Sophia Antipolis",
+                    "gps_coordinates": "43.62711/7.04126"
                 }
             ]
         },
@@ -11099,36 +11250,6 @@
             ]
         },
         {
-            "name": "Wavely",
-            "url": "http://wavely.fr",
-            "description": "Capteurs acoustiques",
-            "keywords": "",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "165 avenue de Bretagne 59000 LILLE",
-                    "gps_coordinates": "50.63333/3.01953"
-                }
-            ]
-        },
-        {
-            "name": "WID",
-            "url": "https://www.wid.fr/",
-            "description": "solutions d’authentification, d’identification et de traçabilité des vins",
-            "keywords": "rfid, vin, étiquette",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "1 rue du Cmdt Robert Malrait PA des Granges 27300 BERNAY",
-                    "gps_coordinates": "49.10431/0.59172"
-                }
-            ]
-        },
-        {
             "name": "WitMonki",
             "url": "http://www.witmonki.com",
             "description": "WitMonki est une startup française dans le domaine de la e-santé",
@@ -11152,21 +11273,6 @@
                     "name": "",
                     "postal_address": "48 rue René Clair 75899 Paris Cedex 18",
                     "gps_coordinates": "48.89369/2.35426"
-                }
-            ]
-        },
-        {
-            "name": "Wildmoka",
-            "url": "http://wildmoka.com/",
-            "description": "Video enrichment solutions",
-            "keywords": "",
-            "twitter": "wildmoka",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Business Pole 1047 route des Dolines F-06560 Sophia Antipolis",
-                    "gps_coordinates": "43.62711/7.04126"
                 }
             ]
         },
@@ -11232,124 +11338,6 @@
             ]
         },
         {
-            "name": "Ze-Watt",
-            "url": "http://ze-watt.com/",
-            "description": "Bornes de recharge communicantes pour véhicules électriques",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "7 Chemin du Mont Betou 31320 Vieille-Toulouse",
-                    "gps_coordinates": "43.53354/1.43576"
-                }
-            ]
-        },
-        {
-            "name": "ve-hotech",
-            "url": "ve-hotech.com",
-            "description": "NAS grand public",
-            "keywords": "",
-            "twitter": "vehotech",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "4 rue Joseph Fourier 49070 Beaucouzé",
-                    "gps_coordinates": "47.47285/-0.60976"
-                }
-            ]
-        },
-        {
-            "name": "VIPS",
-            "url": "https://www.vips-sa.com/",
-            "description": "Conception, fabrication et commercialisation de solutions pour la scannérisation, la lecture, le marquage et le tri de documents et d’objet plats. ",
-            "keywords": "lecteur scanner",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "25 rue du ventoux - CE 1456 petite montagne nord 91020 Evry Cedex",
-                    "gps_coordinates": "48.61499/2.42658"
-                }
-            ]
-        },
-        {
-            "name": "Vocal Apps",
-            "url": "https://www.vocal-apps.com/",
-            "description": "Vocal assistants for the internet of things",
-            "keywords": "",
-            "twitter": "vocal_apps",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "19 Boulevard Poissonnière 75002 Paris",
-                    "gps_coordinates": "48.87094/2.34466"
-                }
-            ]
-        },
-        {
-            "name": "Vix Technology France",
-            "url": "http://www.vixtechnology.com",
-            "description": "Provider and integrator of smart access, booking, ticketing, payment and clearing systems",
-            "twitter": "VIX_Technology",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "17 Bis Rue Alain Savary Parc Temis 25000 BESANCON",
-                    "gps_coordinates": "47.25253/6.00053"
-                }
-            ]
-        },
-        {
-            "name": "VRV Pod",
-            "url": "http://vrvprod.fr",
-            "description": "vous ne regardez plus l'événement, vous êtes dans l'événement",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "8 rue Léopold Sédar Senghor, Bâtiment Erable, 14460 Colombelles",
-                    "gps_coordinates": "49.1882665/-0.3096618"
-                }
-            ]
-        },
-        {
-            "name": "Wandercraft",
-            "url": "http://www.wandercraft.eu",
-            "description": "exosquelette pour personnes paraplégiques",
-            "keywords": "robotique, santé, exosquelette",
-            "twitter": "ExoWandercraft",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "88 rue de Rivoli, 75004 Paris",
-                    "gps_coordinates": "48.85829/2.34941"
-                },
-                {
-                    "name": "",
-                    "postal_address": "86 RUE DE PARIS - 91400 ORSAY",
-                    "gps_coordinates": "48.69567/2.19628"
-                }
-            ]
-        },
-        {
-            "name": "Weenat",
-            "url": "https://www.weenat.com/",
-            "description": "Plateforme collaborative d'agronomie de précision",
-            "keywords": "",
-            "twitter": "weenat_com",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Technocampus Alimentation 2 impasse Therese Bertrand-Fontaine 44320 Nantes",
-                    "gps_coordinates": "47.26376/-1.56518"
-                }
-            ]
-        },
-        {
             "name": "Wyres",
             "url": "http://wyres.eu/",
             "description": "high performing IoT geolocation solution",
@@ -11411,6 +11399,18 @@
                     "name": "",
                     "postal_address": "36 rue de la Roquette 75019 Paris",
                     "gps_coordinates": "48.85433/2.37190"
+                }
+            ]
+        },
+        {
+            "name": "Ze-Watt",
+            "url": "http://ze-watt.com/",
+            "description": "Bornes de recharge communicantes pour véhicules électriques",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 Chemin du Mont Betou 31320 Vieille-Toulouse",
+                    "gps_coordinates": "43.53354/1.43576"
                 }
             ]
         },
