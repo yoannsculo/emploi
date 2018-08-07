@@ -254,6 +254,21 @@
              ]
         },
         {
+            "name": "Actronika",
+            "url": "http://www.actronika.com",
+            "description": "haptic rendering and vibrotactile feedback",
+            "keywords": "haptics",
+            "twitter": "actronika",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "157 boulevard MacDonald 75019 Paris",
+                    "gps_coordinates": "48.89819/2.37786"
+                }
+            ]
+        },
+        {
             "name": "Adacore",
             "url": "http://www.adacore.com",
             "description": "commercial software solutions for Ada",
@@ -5272,6 +5287,26 @@
             ]
         },
         {
+            "name": "Helper drone",
+            "url": "http://www.helper-drone.com",
+            "description": "Search & Rescue solutions",
+            "keywords": "drone, uav",
+            "twitter": "HelperDrone",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "458 CHE DE LACOSTE - 40380 MONTFORT EN CHALOSSE",
+                    "gps_coordinates": "43.70401/-0.82523"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 RTE DES CHENES - 40180 HINX",
+                    "gps_coordinates": "43.70569/-0.91670"
+                }
+            ]
+        },
+        {
             "name": "Hemodia",
             "url": "http://www.hemodia.com/",
             "description": "Manufacturing and marketing of customized single-use care kits.",
@@ -7497,6 +7532,21 @@
                     "name": "",
                     "postal_address": "93 Rue nationale 92100 Boulogne-Billancourt",
                     "gps_coordinates": "48.82981/2.23952"
+                }
+            ]
+        },
+        {
+            "name": "NetSeenergy",
+            "url": "https://www.netseenergy.fr",
+            "description": "experts de la performance énergétique des bâtiments",
+            "keywords": "",
+            "twitter": "NetSeenergy",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "13-17 Rue Pagès, 92150 SURESNES",
+                    "gps_coordinates": "48.87200/2.22902"
                 }
             ]
         },
@@ -10494,6 +10544,26 @@
             ]
         },
         {
+            "name": "TRIDIMEO",
+            "url": "https://tridimeo.com",
+            "description": "Conception et fabrication de caméras 3D industrielles et de solutions logicielles de vision",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Centre d’intégration Nano-INNOV 8, avenue de la Vauve 91120 PALAISEAU",
+                    "gps_coordinates": "48.71279/2.19337"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Orsay Parc, bâtiment Érable 86, rue de Paris 91400 Orsay",
+                    "gps_coordinates": "48.69540/2.19688"
+                }
+            ]
+        },
+        {
             "name": "Trimble",
             "url": "http://www.trimble.com",
             "description": "Advanced positioning solutions",
@@ -10628,6 +10698,36 @@
                     "name": "",
                     "postal_address": "100, Impasse de Houllières, 13590 Meyreuil, France",
                     "gps_coordinates": "43.4714787/5.4888976"
+                }
+            ]
+        },
+        {
+            "name": "Uniways",
+            "url": "http://uniways.fr",
+            "description": "Network video solutions",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "20, rue Troyon 92310 Sèvres",
+                    "gps_coordinates": "48.82590/2.22674"
+                }
+            ]
+        },
+        {
+            "name": "Uptime",
+            "url": "https://www.uptime.ac/",
+            "description": "ascenseur connecté",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10, rue de Penthièvre 75008 Paris",
+                    "gps_coordinates": ""
                 }
             ]
         },
@@ -11231,6 +11331,21 @@
                     "name": "",
                     "postal_address": "86 RUE DE PARIS - 91400 ORSAY",
                     "gps_coordinates": "48.69567/2.19628"
+                }
+            ]
+        },
+        {
+            "name": "Weenat",
+            "url": "https://www.weenat.com/",
+            "description": "Plateforme collaborative d'agronomie de précision",
+            "keywords": "",
+            "twitter": "weenat_com",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Technocampus Alimentation 2 impasse Therese Bertrand-Fontaine 44320 Nantes",
+                    "gps_coordinates": "47.26376/-1.56518"
                 }
             ]
         },
