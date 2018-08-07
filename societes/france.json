@@ -122,6 +122,21 @@
             ]
         },
         {
+            "name": "Abeeway",
+            "url": "https://www.abeeway.com/",
+            "description": "low-power geolocation",
+            "keywords": "LoRaWAN, LoRa, GPS, IoT",
+            "twitter": "abeeway",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "29 chemin du Vieux Chêne, 38240 MEYLAN",
+                    "gps_coordinates": "45.20849/5.79318"
+                }
+            ]
+        },
+        {
             "name": "Acal BFi France S.A.S",
             "url": "http://www.acalbfi.com",
             "description": "",
@@ -1492,6 +1507,21 @@
             ]
         },
         {
+            "name": "Bilberry",
+            "url": "https://bilberry.io",
+            "description": "caméras embarquées permettant de repérer les adventices en grandes cultures, afin de cibler les désherbages",
+            "keywords": "startup, agriculture",
+            "twitter": "BilberryAgri",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "86 Rue de Paris Orsay 91400",
+                    "gps_coordinates": "48.69549/2.19673"
+                }
+            ]
+        },
+        {
             "name": "BioSerenity",
             "url": "http://www.bioserenity.com/",
             "description": "Smart healthcare solution for the diagnosis and monitoring of epilepsy.",
@@ -1512,6 +1542,26 @@
                     "name": "",
                     "postal_address": "24 rue du Faubourg Saint Jacques 75014 Paris",
                     "gps_coordinates": "48.83746/2.33852"
+                }
+            ]
+        },
+        {
+            "name": "Biotraq",
+            "url": "http://biotraq.fr",
+            "description": "optimise la #supplychain des produits #périssables pour diminuer le gaspillage grâce à l'IoT et AI, SmartData",
+            "keywords": "IoT, AI, SmartData",
+            "twitter": "biotraq",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "6 Rue Montalivet, 75008 Paris",
+                    "gps_coordinates": "48.87091/2.31920"
+                },
+                {
+                    "name": "",
+                    "postal_address": "36 Rue du Séminaire, 94550 Chevilly-Larue",
+                    "gps_coordinates": "48.76098/2.36266"
                 }
             ]
         },
@@ -2523,6 +2573,21 @@
             ]
         },
         {
+            "name": "CorWave",
+            "url": "http://www.corwave.fr",
+            "description": "pompes cardiaques",
+            "keywords": "medical",
+            "twitter": "CorWave",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "17 rue de Neuilly 92110 Clichy",
+                    "gps_coordinates": "48.90048/2.29629"
+                }
+            ]
+        },
+        {
             "name": "Cosmo Connected",
             "url": "http://cosmoconnected.com",
             "description": "Feu de Freinage Connecté",
@@ -2598,6 +2663,21 @@
                     "name": "",
                     "postal_address": "10 RUE CARDINAL PAUL GOUYON 35000 RENNES FRANCE",
                     "gps_coordinates": "48.1172641/-1.6904887"
+                }
+            ]
+        },
+        {
+            "name": "Cutii",
+            "url": "https://www.cutii.io",
+            "description": "le robot de mise en relation des personnes âgées avec leur famille",
+            "keywords": "robotique, startup",
+            "twitter": "Cutii_io",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "42 Rue du Général Sarrail, 59100 Roubaix",
+                    "gps_coordinates": "50.69167/3.17037"
                 }
             ]
         },
@@ -4779,6 +4859,21 @@
             ]
         },
         {
+            "name": "Germitec",
+            "url": "https://www.germitec.com",
+            "description": "Désinfection de Niveau Haut des sondes d’échographie par UV-C",
+            "keywords": "medical",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Allée de la Seine, 94200 Ivry-sur-Seine",
+                    "gps_coordinates": "48.81825/2.39997"
+                }
+            ]
+        },
+        {
             "name": "Getraline",
             "url": "http://www.getraline.com",
             "description": "",
@@ -4859,6 +4954,21 @@
                     "name": "",
                     "postal_address": "15, rue Rouget de Lisle 92130 Issy-les-Moulineaux",
                     "gps_coordinates": "48.82894/2.26499"
+                }
+            ]
+        },
+        {
+            "name": "Green Alternative",
+            "url": "http://www.green-alternative.fr/",
+            "description": "détecte vos gaspillages énergétiques à l'aide de technologies innovantes et vous accompagne dans vos démarches d'économies d'énergies.",
+            "keywords": "",
+            "twitter": "GreenAlternati",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16 rue Edouard Nieuport 92150 SURESNES",
+                    "gps_coordinates": "48.87280/2.23065"
                 }
             ]
         },
@@ -5784,6 +5894,21 @@
             ]
         },
         {
+            "name": "ISORG",
+            "url": "http://www.isorg.fr",
+            "description": "organic and printed electronics for large area photo-detectors and image sensors",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Polytec Immeuble Tramontane 60, rue des Berges 38000 Grenoble",
+                    "gps_coordinates": "45.20489/5.70167"
+                }
+            ]
+        },
+        {
             "name" : "Itekube" ,
             "url" : "http://www.itekube.com" ,
             "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
@@ -6215,6 +6340,28 @@
                     "name": "",
                     "postal_address": "150 rue Marcelin Berthelot BP 244 - ZI Toulon-Est 83078 Toulon Cedex 9",
                     "gps_coordinates": "43.14849/6.04054"
+                }
+            ]
+        },
+        {
+            "name": "Kubota",
+            "url": "https://www.kubota.com/fr/",
+            "description": "constructeur de tracteurs",
+            "keywords": "Tracteurs",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "comment": "Sales of tractors, construction machinery, engines, turf equipment and UVs",
+                    "postal_address": "19-25, Rue Jules Vercruysse, Z.I., BP88 95101 Argenteuil Cedex",
+                    "gps_coordinates": "48.95409/2.20805"
+                },
+                {
+                    "name": "",
+                    "comment": "Manufacturing of tractors",
+                    "postal_address": "Route de Socx 59380 Bierne",
+                    "gps_coordinates": "50.95653/2.41287"
                 }
             ]
         },
@@ -6712,6 +6859,56 @@
                     "name": "",
                     "postal_address": "9, rue d’Enghien 75010 Paris",
                     "gps_coordinates": "48.87164/2.35246"
+                }
+            ]
+        },
+        {
+            "name": "Mecalux",
+            "url": "https://www.mecalux.fr/",
+            "description": "design & manufacture of metal racking, warehouse automation, warehouse software wms & intralogistics solutions",
+            "keywords": "automation",
+            "twitter": "Mecalux_Group",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 ZI DE LA PILATERIE - 59290 WASQUEHAL",
+                    "gps_coordinates": "50.65377/3.12294"
+                },
+                {
+                    "name": "",
+                    "postal_address": "24 RTE DE TOULOUSE - 31190 AUTERIVE",
+                    "gps_coordinates": "43.35486/1.46869"
+                },
+                {
+                    "name": "",
+                    "postal_address": "10 AV LOUIS BLERIOT - 69680 CHASSIEU",
+                    "gps_coordinates": "45.72781/4.96061"
+                },
+                {
+                    "name": "",
+                    "postal_address": "2 T RUE MARCEL DORET - 31700 BLAGNAC",
+                    "gps_coordinates": "43.63270/1.38031"
+                },
+                {
+                    "name": "",
+                    "postal_address": "75 RUE MARCELLIN BERTHELOT - 13290 AIX EN PROVENCE",
+                    "gps_coordinates": "43.49351/5.37036"
+                },
+                {
+                    "name": "",
+                    "postal_address": "4 RUE VASCO DE GAMA - 44800 SAINT HERBLAIN",
+                    "gps_coordinates": "47.22238/-1.62252"
+                },
+                {
+                    "name": "",
+                    "postal_address": "18 RUE JOSEPH GRAFF - 67810 HOLTZHEIM",
+                    "gps_coordinates": "48.56180/7.65136"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1 RUE COLBERT - 91320 WISSOUS",
+                    "gps_coordinates": "48.72570/2.31850"
                 }
             ]
         },
@@ -7647,6 +7844,21 @@
                     "name": "",
                     "postal_address": "7, rue Commandant Malbert 29200 BREST",
                     "gps_coordinates": "48.3815979/-4.4907485"
+                }
+            ]
+        },
+        {
+            "name": "Oledcomm",
+            "url": "http://www.oledcomm.com",
+            "description": "wireless communication technology LiFi",
+            "keywords": "",
+            "twitter": "oledcomm",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "10-12 avenue de l'Europe 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.78195/2.21771"
                 }
             ]
         },
@@ -9228,6 +9440,21 @@
             ]
         },
         {
+            "name": "Simpulse",
+            "url": "http://www.simpulse-sdr.com",
+            "description": "embedded Software-Defined Radio (SDR) solutions for professional communication system",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "7 rue de la Croix Martre - 91120 Palaiseau",
+                    "gps_coordinates": "48.72073/2.26014"
+                }
+            ]
+        },
+        {
             "name": "SISE SAS",
             "url": "http://www.sise-plastics.com/",
             "description": "Products dedicated to the plastic injection molding industry",
@@ -9722,6 +9949,21 @@
             ]
         },
         {
+            "name": "SURGIVISIO",
+            "url": "http://surgivisio.com",
+            "description": "technologies dedicated to 2D/3D imaging and computer assisted minimally-invasive surgery",
+            "keywords": "medical",
+            "twitter": "surgivisio",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5,Avenue du Grand Sablon 38700 La Tronche",
+                    "gps_coordinates": "45.19827/5.75004"
+                }
+            ]
+        },
+        {
             "name": "Swap assist",
             "url": "http://www.swap-assist.fr",
             "description": "Un porte-clefs GPS pour Alzheimer",
@@ -9832,6 +10074,21 @@
                     "name": "Systerel Toulouse",
                     "postal_address": "La Maison des Lois 2 impasse Michel Labrousse, 31036 Toulouse",
                     "gps_coordinates": "43.56829/1.39113"
+                }
+            ]
+        },
+        {
+            "name": "TAP Sound System",
+            "url": "https://tempow.com",
+            "description": "music streaming from 1 smartphone to multiple Bluetooth devices",
+            "keywords": "startup, bluetooth",
+            "twitter": "WeAreTempow",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Agoranov - 96 bis boulevard Raspail 75006, Paris",
+                    "gps_coordinates": "48.84604/2.32779"
                 }
             ]
         },
@@ -10192,6 +10449,21 @@
                     "name": "",
                     "postal_address": "87 BOULEVARD SAINT MICHEL 75005 PARIS",
                     "gps_coordinates": "48.84523/2.33989"
+                }
+            ]
+        },
+        {
+            "name": "Transdev",
+            "url": "https://www.transdev.com/fr/",
+            "description": "",
+            "keywords": "transport",
+            "twitter": "transdevFR",
+            "comment": "Très gros groupe. Beaucoup plus de sites à rajouter que celui d'Issy-les-Moulineaux",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 ALL DE GRENELLE - 92130 ISSY LES MOULINEAUX",
+                    "gps_coordinates": "48.82798/2.26414"
                 }
             ]
         },
@@ -10928,6 +11200,26 @@
                     "name": "",
                     "postal_address": "8 rue Léopold Sédar Senghor, Bâtiment Erable, 14460 Colombelles",
                     "gps_coordinates": "49.1882665/-0.3096618"
+                }
+            ]
+        },
+        {
+            "name": "Wandercraft",
+            "url": "http://www.wandercraft.eu",
+            "description": "exosquelette pour personnes paraplégiques",
+            "keywords": "robotique, santé, exosquelette",
+            "twitter": "ExoWandercraft",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "88 rue de Rivoli, 75004 Paris",
+                    "gps_coordinates": "48.85829/2.34941"
+                },
+                {
+                    "name": "",
+                    "postal_address": "86 RUE DE PARIS - 91400 ORSAY",
+                    "gps_coordinates": "48.69567/2.19628"
                 }
             ]
         },
