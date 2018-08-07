@@ -7228,6 +7228,21 @@
             ]
         },
         {
+            "name": "MOTOR-E",
+            "url": "http://www.motor-e.com",
+            "description": "ingénierie des véhicules autonomes, électriques et hybrides",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1 RUE ROYALE - 92210 SAINT CLOUD",
+                    "gps_coordinates": "48.84176/2.21996"
+                }
+            ]
+        },
+        {
             "name": "Mugen",
             "url": "http://www.mugen-sas.com",
             "description": "software suite making the interaction with connected objects and environments easier",
