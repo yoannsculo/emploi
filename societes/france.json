@@ -3956,12 +3956,23 @@
         {
             "name": "ERCOM",
             "url": "http://www.ercom.fr",
-            "description": "Telecom manufacturer",
+            "description": "Sécurisation des communications, données et terminaux",
+            "twitter": "ercom_",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "Bâtiment Emeraude - 6, rue Dewoitine - 78140 Vélizy-Villacoublay",
-                    "gps_coordinates": "48.78242/2.21582"
+                    "postal_address": "6 Rue Dewoitine Bâtiment Rubis 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.78219/2.21515"
+                },
+                {
+                    "name": "",
+                    "postal_address": "Tour Swiss Life 1, boulevard Vivier Merle 69443 Lyon Cedex 03",
+                    "gps_coordinates": "45.76302/4.85826"
+                },
+                {
+                    "name": "",
+                    "postal_address": "9 Grand rue 13002 Marseille",
+                    "gps_coordinates": "43.29765/5.37254"
                 }
             ]
         },
