@@ -5784,6 +5784,18 @@
             ]
         },
         {
+            "name": "ISP Aquitaine",
+            "url": "http://www.isp-aquitaine.fr/",
+            "description": "ISP Aquitaine développe et produit des solutions innovantes",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Rue Thomas Edison, 33600 Pessac",
+                    "gps_coordinates": "44.77923/-0.65017"
+                }
+            ]
+        },
+        {
             "name" : "Itekube" ,
             "url" : "http://www.itekube.com" ,
             "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
