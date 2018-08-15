@@ -2389,26 +2389,6 @@
             ]
         },
         {
-            "name": "Climax technology",
-            "url": "http://climax-technology.com",
-            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
-            "keywords": "",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
-                    "gps_coordinates": "44.8540024/-0.5768703"
-                },
-                {
-                    "name": "",
-                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
-                    "gps_coordinates": "44.8090969/-0.7651735"
-                }
-            ]
-        },
-        {
             "name": "CNB Electronique",
             "url": "http://www.cnb-electronique.com",
             "description": "",
@@ -5491,6 +5471,26 @@
 
 
 
+            ]
+        },
+         {
+            "name": "HU&CO",
+            "url": "https://huandco.com/",
+            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
+                    "gps_coordinates": "44.8540024/-0.5768703"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
+                    "gps_coordinates": "44.8090969/-0.7651735"
+                }
             ]
         },
         {
