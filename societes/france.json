@@ -8605,6 +8605,18 @@
             ]
         },
         {
+            "name": "Pollen Robotics",
+            "url": "https://www.pollen-robotics.com/",
+            "description": "Studio de développement, design et conseil. Créateurs de solutions curieuses intelligentes connectées élégantes ludiques interactives surprenante",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "49 Rue Borie, 33300 Bordeaux",
+                    "gps_coordinates": "44.85488/-0.57012"
+                }
+            ]
+        },
+        {
             "name": "POLYVELEC",
             "url": "http://polyvelec.com/",
             "description": "contrôleurs de carrefours et signalisation",
