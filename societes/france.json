@@ -2324,26 +2324,6 @@
             ]
         },
         {
-            "name": "Climax technology",
-            "url": "http://climax-technology.com",
-            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
-            "keywords": "",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
-                    "gps_coordinates": "44.8540024/-0.5768703"
-                },
-                {
-                    "name": "",
-                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
-                    "gps_coordinates": "44.8090969/-0.7651735"
-                }
-            ]
-        },
-        {
             "name": "CNB Electronique",
             "url": "http://www.cnb-electronique.com",
             "description": "",
@@ -5337,6 +5317,26 @@
 
             ]
         },
+         {
+            "name": "HU&CO",
+            "url": "https://huandco.com/",
+            "description": "Inventeur de solutions connectées pour la sécurité et le confort",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "105 rue du jardin public 33000 Bordeaux, France",
+                    "gps_coordinates": "44.8540024/-0.5768703"
+                },
+                {
+                    "name": "",
+                    "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
+                    "gps_coordinates": "44.8090969/-0.7651735"
+                }
+            ]
+        },
         {
             "name": "Icalla",
             "url": "http://www.icalla.fr",
@@ -5780,6 +5780,18 @@
                     "name": "",
                     "postal_address": "52 Cours Jean Jaurès, 38000 Grenoble",
                     "gps_coordinates": "45.18760/5.71854"
+                }
+            ]
+        },
+        {
+            "name": "ISP Aquitaine",
+            "url": "http://www.isp-aquitaine.fr/",
+            "description": "ISP Aquitaine développe et produit des solutions innovantes",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "5 Rue Thomas Edison, 33600 Pessac",
+                    "gps_coordinates": "44.77923/-0.65017"
                 }
             ]
         },
@@ -8301,6 +8313,18 @@
                     "name": "",
                     "postal_address": "27 allée Charles Darwin, 33600 Pessac",
                     "gps_coordinates": "44.81067/-0.67437"
+                }
+            ]
+        },
+        {
+            "name": "Pollen Robotics",
+            "url": "https://www.pollen-robotics.com/",
+            "description": "Studio de développement, design et conseil. Créateurs de solutions curieuses intelligentes connectées élégantes ludiques interactives surprenante",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "49 Rue Borie, 33300 Bordeaux",
+                    "gps_coordinates": "44.85488/-0.57012"
                 }
             ]
         },
