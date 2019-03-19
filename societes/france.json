@@ -6387,6 +6387,21 @@
             ]
         },
         {
+            "name": "Koncepto",
+            "url": "https://koncepto.io/",
+            "description": "Koncepto is an engineering cabinet expert in embedded systems, electronics and software",
+            "keywords": "",
+            "twitter": "Koncepto_io",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "AéroCampus Aquitaine, 1 Route de Cénac, 33360 Latresne",
+                    "gps_coordinates": "44.782014/-0.494946"
+                }
+            ]
+        },
+        {
             "name": "Kontron Modular Computers S.A.S.",
             "url": "http://www.kontron.com",
             "description": "embedded computing technology and advisor in IoT",
