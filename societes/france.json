@@ -5698,6 +5698,21 @@
             ]
         },
         {
+            "name": "Karnott",
+            "url": "https://www.karnott.fr/",
+            "description": "Karnott associe un compteur connecté autonome à une application simple et innovante.",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "165 Avenue de Bretagne, 59000 Lille",
+                    "gps_coordinates": "50.6356633/3.0317184"
+                }
+            ]
+        },
+        {
             "name": "Kawantech",
             "url": "http://www.kawantech.com",
             "description": "smart public lighting",
