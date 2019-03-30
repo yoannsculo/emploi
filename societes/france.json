@@ -4412,6 +4412,19 @@
             ]
         },
         {
+            "name": "Exotec Solutions",
+            "url": "https://www.exotecsolutions.com/",
+            "description": "Exotec Solutions réalise des systèmes de préparation de commande",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "251 Rue Jean Monnet, 59170 Croix, France",
+                    "gps_coordinates": "50.6773452/3.1297951"
+                }
+            ]
+        },
+        {
             "name": "EXOTIC SYSTEMS",
             "url": "http://www.exotic-systems.com",
             "description": "Conception d'objets connectés",
