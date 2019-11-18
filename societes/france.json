@@ -5788,6 +5788,49 @@
             ]
         },
         {
+            "name": "IDEMIA",
+            "url": "https://www.idemia.com/",
+            "description": "Entreprise de sécurité numérique spécialisée dans la biométrie, l'identification et l’authentification, la sécurité digitale, l’analyse de données et de vidéos",
+            "locations": [
+                {
+                    "name": "IDEMIA",
+                    "description": "Courbevoie : Siège social",
+                    "postal_address": "2 Place Samuel de Champlain 92400 Courbevoie France",
+                    "gps_coordinates": "48.89621/2.23963"
+                },
+                {
+                    "name": "IDEMIA",
+                    "description": "Dijon : Centre de support",
+                    "postal_address": "14 rue des Cortots 21121 Fontaine-lès-Dijon",
+                    "gps_coordinates": "47.35432/5.02689"
+                },
+                {
+                    "name": "IDEMIA",
+                    "description": "Osny : Centre de R&D et bureau d'étude, Centre de support",
+                    "postal_address": "18, chaussée Jules César BP 60261 95520 Osny Cedex France",
+                    "gps_coordinates": "49.05318/2.06638"
+                },
+                {
+                    "name": "IDEMIA",
+                    "description": "Pessac : Centre de R&D et bureau d'étude",
+                    "postal_address": "13 Avenue de Canteranne, 33600 Pessac",
+                    "gps_coordinates": "44.78589/-0.63154"
+                },
+                {
+                    "name": "IDEMIA",
+                    "description": "Saint-Etienne-du-Rouvray :  Site industriel, Centre de R&D et bureau d'étude, Centre de support",
+                    "postal_address": "Boulevard Lénine, 76800 Saint-Étienne-du-Rouvray",
+                    "gps_coordinates": "49.37360/1.11139"
+                },
+                {
+                    "name": "IDEMIA",
+                    "description": "Vitré : Site industriel",
+                    "postal_address": "La Haye Robert, Avenue d'Helmstedt, 35500 Vitré",
+                    "gps_coordinates": "48.11406/-1.19381"
+                }
+            ]
+        },
+        {
             "name": "Idosens",
             "url": "http://www.idosens.com",
             "description": "capteur domotique très longue portée",
@@ -8320,38 +8363,6 @@
                     "name": "",
                     "postal_address": "2 Esplanade Anton Philips, 14000 Caen",
                     "gps_coordinates": "49.1869401/-0.3106232"
-                }
-            ]
-        },
-        {
-            "name": "Oberthur Technologies",
-            "url": "http://www.oberthur.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "Zone Industriel de l’étang 63290 Puy-Guillaume",
-                    "gps_coordinates": "45.95212/3.47530"
-                },
-                {
-                    "name": "",
-                    "postal_address": "Rue des Cortots 21121 Fontaine-lès-Dijon",
-                    "gps_coordinates": "47.35432/5.02689"
-                },
-                {
-                    "name": "",
-                    "postal_address": "420, rue d’Estienne d’Orves 92700 Colombes",
-                    "gps_coordinates": "48.90864/2.22956"
-                },
-                {
-                    "name": "",
-                    "postal_address": "La Haye Robert Avenue d Helmstedt – BP90308 35503 Vitré Cedex",
-                    "gps_coordinates": "48.11406/-1.19381"
-                },
-                {
-                    "name": "",
-                    "postal_address": "13 Avenue de Canteranne, 33600 Pessac",
-                    "gps_coordinates": "44.78589/-0.63154"
                 }
             ]
         },
