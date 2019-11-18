@@ -9051,7 +9051,68 @@
                 }
             ]
         },
-	{
+        {
+            "name": "Safran Electronics & Defense",
+            "url": "https://www.safran-group.com",
+            "description": "Solutions et services en optronique, avionique, électronique & logiciels critiques, pour les marchés civils et de défense ",
+            "locations": [
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Boulogne-Billancourt",
+                    "postal_address": "20 Quai du Point du Jour, 92100 Boulogne-Billancourt",
+                    "gps_coordinates": "48.83215/2.25905"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Éragny",
+                    "postal_address": "21 Avenue du Gros Chêne, 95610 Éragny",
+                    "gps_coordinates": "49.02642/2.11112"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Massy",
+                    "postal_address": "100 Avenue de Paris, 91344 Massy",
+                    "gps_coordinates": "48.72511/2.26709"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Valence",
+                    "postal_address": "95 Route de Montelier, 26000 Valence",
+                    "gps_coordinates": "44.93768/4.9214"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Dijon",
+                    "postal_address": "45, avenue de Stalingrad, BP 97509 21075 Cedex Dijon",
+                    "gps_coordinates": "47.34202/5.05696"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Fougères",
+                    "postal_address": "12 Rue Colbert, 35300 Fougères",
+                    "gps_coordinates": "48.34138/-1.17908"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Mantes-la-Ville",
+                    "postal_address": "15 Rue Louise Michel, 78711 Mantes-la-Ville",
+                    "gps_coordinates": "48.98249/1.70692"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Domérat",
+                    "postal_address": "15 Avenue Ambroise Croizat, 03410 Domérat",
+                    "gps_coordinates": "46.36501/2.57643"
+                },
+                {
+                    "name": "Safran Electronics & Defense",
+                    "description": "Saint-Benoît",
+                    "postal_address": "26 Avenue des Hauts de la Chaume, 86280 Saint-Benoît",
+                    "gps_coordinates": "46.55217/0.33244"
+                }
+            ]
+        },
+        {
             "name": "SAFT",
             "url": "https://www.saftbatteries.com",
             "description": "Spécialiste dans la conception, la fabrication et la commercialisation de piles techniques et d'accumulateurs électriques",
