@@ -6524,9 +6524,9 @@
         },
         {
             "name": "Kalray",
-            "url": "http://www.kalray.eu",
+            "url": "https://www.kalray.eu",
             "description": "Many-core Processors, Multi-core, Parallel computing, Embedded, Super Computing",
-            "twitter": "Kalray1",
+            "twitter": "Kalrayinc",
             "locations": [
                 {
                     "name": "",
@@ -6535,8 +6535,8 @@
                 },
                 {
                     "name": "",
-                    "postal_address": "445, rue Lavoisier, 38330 Montbonnot Saint Martin",
-                    "gps_coordinates": "45.21638/5.81382"
+                    "postal_address": "180, avenue de l'Europe, 38330 Montbonnot Saint Martin",
+                    "gps_coordinates": "45.213563/5.806556"
                 }
 
             ]
