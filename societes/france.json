@@ -10566,6 +10566,61 @@
             ]
         },
         {
+            "name": "Thales SIX GTS France (Thales Communications & Security)",
+            "url": "https://www.thalesgroup.com/fr/",
+            "description": "(anciennement Thales Communications & Security)",
+            "locations": [
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Brive (19) : air & naval, soutien et service client, opérations",
+                    "postal_address": "6 Rue Lt Colonel Laporte, 19100 Brive-la-Gaillarde",
+                    "gps_coordinates": "45.15578/1.55908"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Cholet (49) : réseaux tactiques, réseaux mobiles, sécurité des technologies de l’information, opérations",
+                    "postal_address": "110 avenue du Maréchal Leclerc, 49300 CHOLET, France",
+                    "gps_coordinates": "47.06619/-0.85753"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Gennevilliers (92) (siège social) : activité produits de radiocommunication, activité systèmes, opérations",
+                    "postal_address": "4, avenue des Louvresses, 92622 GENNEVILLIERS, France",
+                    "gps_coordinates": "48.93979/2.30843"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Lambersart (59) : soutien et service clients, opérations",
+                    "postal_address": "4, avenue des Louvresses, 92622 GENNEVILLIERS, France",
+                    "gps_coordinates": "50.64795/3.04296"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Laval (53) : air & naval, soutien et service client, opérations",
+                    "postal_address": "83/85 rue Emile Brault, 53005 LAVAL, France",
+                    "gps_coordinates": "48.07039/-0.79955"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Brétigny-sur-Orge (91) : billettique",
+                    "postal_address": "Rue de la Mare aux Joncs, 91220 Le Plessis-Pâte",
+                    "gps_coordinates": "48.60362/2.35182"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Toulouse (31) : Ingénierie des technologies de l'électronique, Évaluation de la sécurité des technologies de l'information",
+                    "postal_address": "105 Avenue du Général Eisenhower, 31100 Toulouse",
+                    "gps_coordinates": "43.56459/1.38193"
+                },
+                {
+                    "name": "Thales SIX GTS",
+                    "description": "Vélizy (78) : transport et sécurité, arme nucléaire, radiologique, biologique et chimique (NRBC) dont 5 collaborateurs basés à Cavaillon (84)",
+                    "postal_address": "20-22 Rue Grange Dame Rose, 78140 Vélizy-Villacoublay",
+                    "gps_coordinates": "48.78572/2.20857"
+                }
+            ]
+        },
+        {
             "name": "Thalès Underwater Systems",
             "url": "https://www.thalesgroup.com/en/worldwide/defence/naval-forces/underwater-warfare",
             "description": "Underwater warfare",
