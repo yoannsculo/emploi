@@ -8497,6 +8497,41 @@
             ]
         },
         {
+            "name": "Phytec Group",
+            "url": "www.phytec.eu",
+            "description": "PHYTEC develops and produces microprocessor-based solutions for the global, industrial embedded market at its headquarters in Mainz.",
+            "keywords": "",
+            "twitter": "",
+            "comment": "PHYTEC is a global company with subsidiaries in the United States, France, India, and China. We have distributors in many countries for direct customer contact.",
+            "locations": [
+                {
+                    "name": "PHYTEC Messtechnik GmbH",
+                    "postal_address": "Robert-Koch-Str. 39, 55129 Mainz, Germany",
+                    "gps_coordinates": "49.95769/8.25915"
+                },
+				{
+                    "name": "PHYTEC America LLC",
+                    "postal_address": "203 Parfitt Way SW, Bainbridge Island, WA 98110, USA",
+                    "gps_coordinates": "47.62178/-122.52255"
+                },
+				{
+                    "name": "PHYTEC France SARL",
+                    "postal_address": "17 Place Saint-Etienne, 72140 Sillé-le-Guillaume, France",
+                    "gps_coordinates": "48.18422/-0.128421"
+                },
+				{
+                    "name": "PHYTEC Embedded Pvt. Ltd.",
+                    "postal_address": "No. 1688, 25th Cross, 27th Main, 2nd Sector, Opp. PEP School V2, HSR Layout, Bangalore-560102, India",
+                    "gps_coordinates": "12.90734/77.65137"
+                },
+				{
+                    "name": "PHYTEC Information Technology Co. Ltd.",
+                    "postal_address": "2106A, Block A, Tianxia Jinniu Square, Taoyuan Road, Nanshan District, 518026 Shenzhen, CHINA",
+                    "gps_coordinates": "22.53321/113.92743"
+                }
+            ]
+        },
+        {
             "name": "PIQ",
             "url": "http://www.piq.com",
             "description": "multisport sensor",
