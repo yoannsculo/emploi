@@ -3224,6 +3224,21 @@
                 }
             ]
         },
+                {
+            "name": "DREAM SAS",
+            "url": "https://www.dream.fr",
+            "description": "Dream® continuously develops new dedicated DSP’s and Firmware for electronic musical instruments, Karaoke equipment, effect devices….and much more.",
+            "keywords": "DSP, AUDIO, processing, ASIC, FPGA, FREERTOS",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "DREAM SAS",
+                    "postal_address": "Rue de la Croix Belin, 21140 Semur-en-Auxois",
+                    "gps_coordinates": "47.48684/4.35208"
+                }
+            ]
+        },
         {
             "name": "DRIVECO",
             "url": "http://driv-eco.com",
