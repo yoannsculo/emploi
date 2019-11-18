@@ -4850,6 +4850,18 @@
                 }
             ]
         },
+                {
+            "name": "Fuel it",
+            "url": "https://fuel-it.io/",
+            "description": "La start-up Fuel It propose une jauge connectée pour cuve à fioul.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "67 rue des Godrans, 21000 Dijon",
+                    "gps_coordinates": "47.32226/5.03818"
+                }
+            ]
+        },
         {
             "name": "FUJIFILM France",
             "url": "https://www.fujifilm.eu/fr",
