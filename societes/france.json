@@ -2069,6 +2069,21 @@
                 }
             ]
         },
+                {
+            "name": "CASTEL",
+            "url": "http://www.castel.fr/",
+            "description": "CASTEL élabore des solutions de communication et de contrôle d’accès pour sécuriser et gérer vos installations en toute sérénité. ",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZAC de la Ronde, 10 route du Bois de la Casse, 49680 NEUILLE FRANCE",
+                    "gps_coordinates": "47.31208/-0.02261"
+                }
+            ]
+        },
         {
             "name": "CATIE",
             "url": "http://www.catie.fr/",
@@ -5512,6 +5527,18 @@
                     "name": "",
                     "postal_address": "1436 Route de Bordeaux 33127 Saint Jean d’Illac, France",
                     "gps_coordinates": "44.8090969/-0.7651735"
+                }
+            ]
+        },
+        {
+            "name": "IAERO - I2A",
+            "url": "12b route de Troyes 21121 Darois – France",
+            "description": "L’APIBOX est un Enregistreur de vol pour l’aviation générale et d’affaire. Depuis 2005, iAéro, également située à Darois (Côte-d’Or), développe, fabrique et commercialise des enregistreurs de vol pour le travail aérien, l’aviation générale et l’armée. Les enregistreurs de vol d’iAéro (600 000 euros de chiffre d’affaires, 10 salariés) revendiquent un avantage concurrentiel par leur polyvalence. ",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "12b route de Troyes 21121 Darois, France",
+                    "gps_coordinates": "47.38641/4.94443"
                 }
             ]
         },
@@ -10204,6 +10231,20 @@
                     "name": "",
                     "postal_address": "5,Avenue du Grand Sablon 38700 La Tronche",
                     "gps_coordinates": "45.19827/5.75004"
+                }
+            ]
+        },
+        {
+            "name": "SurTec",
+            "url": "https://www.surtec-alarme.com",
+            "description": "SURTEC est fabricant de systèmes d'alarme dans fil pour la protection des biens",
+            "keywords": "security",
+            "comment": "INTERVOX SYSTEMES devient SurTec en 2011",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "616 Avenue de l’Europe, BP 30086 – 71206 Le Creusot",
+                    "gps_coordinates": "46.80797/4.42202"
                 }
             ]
         },
