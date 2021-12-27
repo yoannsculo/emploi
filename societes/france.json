@@ -1669,6 +1669,19 @@
             ]
         },
         {
+            "name": "Blueback",
+            "url": "https://www.blueback.fr",
+            "description": "Dispositif médical de tonicité musculaire profonde",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "1137a, Avenue des Champs Blancs - 35510 Cesson-Sévigné",
+                    "gps_coordinates": "48.1348187/-1.6243435"
+                }
+
+            ]
+        },
+        {
             "name": "BLUE FROG ROBOTICS",
             "url": "http://www.bluefrogrobotics.com/",
             "description": "Companion Robots",
