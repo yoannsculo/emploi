@@ -5976,18 +5976,6 @@
             ]
         },
         {
-            "name": "IMEX-CGI",
-            "url": "http://www.imex-cgi.fr",
-            "description": "Bureau d'études et fabricant de lampadaires solaires et éoliennes",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "300 Rue Pierre Rivoalon, 29200 Brest, France",
-                    "gps_coordinates": "48.3636828/-4.54985"
-                }
-            ]
-        },
-        {
             "name": "Ineo-Sense",
             "url": "http://www.ineo-sense.com",
             "description": "Industrial wireless sensor solutions",
@@ -6279,18 +6267,6 @@
                     "name": "",
                     "postal_address": "5 Rue Thomas Edison, 33600 Pessac",
                     "gps_coordinates": "44.77923/-0.65017"
-                }
-            ]
-        },
-        {
-            "name" : "Itekube" ,
-            "url" : "http://www.itekube.com" ,
-            "description" : "Itekube est une start-up hi-tech qui design et fabrique des interfaces homme-machine hautes-performances.",
-            "locations" : [
-                {
-                    "name" : "",
-                    "postal_address" : "ESPACE FRESNEL Immeuble Res Publica 9 rue Raymonde Bail, 14000 Caen, France" ,
-                    "gps_coordinates" : "49.16326/-0.35594"
                 }
             ]
         },
