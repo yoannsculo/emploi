@@ -607,18 +607,6 @@
             ]
         },
         {
-            "name": "Airtag",
-            "url": "http://www.airtag.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": " 1 Villa le Mesnil, 92320 Châtillon",
-                    "gps_coordinates": "48.80812/2.29695"
-                }
-            ]
-        },
-        {
             "name": "Alcatel-Lucent",
             "url": "http://www.alcatel-lucent.com",
             "description": "",
@@ -6033,18 +6021,6 @@
             ]
         },
         {
-            "name": "Infotron",
-            "url": "http://www.infotron.fr",
-            "description": "Drones",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "17 rue Ampère - 91300 MASSY FRANCE",
-                    "gps_coordinates": "48.72036/2.27076"
-                }
-            ]
-        },
-        {
             "name": "Ingenico",
             "url": "http://www.ingenico.com",
             "description": "seamless payment",
@@ -6189,18 +6165,6 @@
                     "name": "Intel Mobile Communications France",
                     "postal_address": "Les Montalets - 2 Rue de Paris - 92190 Meudon",
                     "gps_coordinates": "48.8176/2.2485"
-                }
-            ]
-        },
-        {
-            "name": "Intesens",
-            "url": "http://www.intesens.com",
-            "description": "Solutions de surveillance à distance",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "425 rue Jean Rostand 31670 Labège",
-                    "gps_coordinates": "43.54365/1.51111"
                 }
             ]
         },
@@ -6492,18 +6456,6 @@
                     "name": "JDSU - Sales Office",
                     "postal_address": "ZI Les Gâtines 46 bis rue Pierre Curie, 78370 Plaisir France",
                     "gps_coordinates": "48.80233/1.97687"
-                }
-            ]
-        },
-        {
-            "name": "Joshfire",
-            "url": "http://www.joshfire.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "100 rue de la Folie Méricourt 75011 Paris",
-                    "gps_coordinates": "48.86756/2.36957"
                 }
             ]
         },
@@ -7165,18 +7117,6 @@
             ]
         },
         {
-            "name": "Lima",
-            "url": "http://meetlima.com",
-            "description": "Data storage solutions",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "77 BD HAUSSMANN - 75008 PARIS",
-                    "gps_coordinates": "48.87423/2.32221"
-                }
-            ]
-        },
-        {
             "name": "Li-Mithra",
             "url": "https://www.li-mithra.fr/",
             "description": "Panneaux photovoltaïques et thermiques",
@@ -7640,18 +7580,6 @@
                     "name": "",
                     "postal_address": "100 Avenue de Stalingrad 94800 Villejuif – France",
                     "gps_coordinates": "48.78380/2.36663"
-                }
-            ]
-        },
-        {
-            "name": "Modulowatt",
-            "url": "http://www.modulowatt.com",
-            "description": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "64bis, avenue de New York 75016 Paris",
-                    "gps_coordinates": "48.85825/2.28805"
                 }
             ]
         },
