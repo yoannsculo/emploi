@@ -8070,13 +8070,13 @@
         {
             "name": "Netatmo",
             "url": "http://www.netatmo.com",
-            "description": "",
+            "description": "Smart home",
             "twitter": "netatmo",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "93 Rue nationale 92100 Boulogne-Billancourt",
-                    "gps_coordinates": "48.82981/2.23952"
+                    "postal_address": "73 Rue de Sèvres, 92100 Boulogne Billancourt",
+                    "gps_coordinates": "48.83352/2.22902"
                 }
             ]
         },
