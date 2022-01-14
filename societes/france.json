@@ -788,6 +788,18 @@
             ]
         },
         {
+            "name": "AMI - advanced magnetic interaction",
+            "url": "https://ami.technology",
+            "description": "Augmented Interaction technology",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "2 B AV PIERRE DE COUBERTIN - 38170 SEYSSINET-PARISET",
+                    "gps_coordinates": "45.17067/5.68628"
+                }
+            ]
+        },
+        {
             "name": "Amplitude Systèmes",
             "url": "http://www.amplitude-systemes.com",
             "description": "Ultrafast solid-state lasers",
@@ -6252,18 +6264,6 @@
                     "name": "",
                     "postal_address": "45 Rue Frédéric Joliot Curie, Marseille, France",
                     "gps_coordinates": "43.3439196/5.4329399"
-                }
-            ]
-        },
-        {
-            "name": "Iskn",
-            "url": "http://www.isketchnote.com",
-            "description": "Writing devices",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "52 Cours Jean Jaurès, 38000 Grenoble",
-                    "gps_coordinates": "45.18760/5.71854"
                 }
             ]
         },
