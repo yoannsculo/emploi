@@ -69,19 +69,12 @@ Vérifier s'il y a de l'embarqué (embarqué probable)
 
 A analyser
 ----------
-- https://heaserobotics.com
-- https://www.willo.com
-- http://www.stago.fr
 - https://buzz-esante.fr/2018-innovations-sante-part-1/
 - https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
 - Sysmic - www.sysmic.org
 - BIZE ELECTRONIQUE / Soudure et assemblage / http://www.doubs.org/industrie/fiche-industrie-bize-electronique,236.html
 - https://www.la-croix.com/amp/1200905077?__twitter_impression=true
-- https://klaxoon.com/fr (Rennes)
-- http://www.kickmaker.fr
-- Echosens
 - Métronome Technologie - http://www.metronome.audio/index.php
-- http://driv-eco.com
 - https://buzz-esante.fr/2018-innovations-sante-part-1/
 - https://buzz-esante.fr/ces-2018-quelles-innovations-en-sante-part-2/
 
@@ -100,7 +93,6 @@ A analyser
 - http://www.swap-assist.fr
 - http://www.aei-wisycom-france.com/index.html
 - http://www.dibotics.com/
-- http://www.swap-assist.fr
 - http://www.agrivolta.fr/
 - https://cosmoconnected.com/
 - http://zephyr.solar/
@@ -270,6 +262,7 @@ A analyser
 - http://lacool.co/ - Strasbourg Saint Denis - Capteurs iot
 - https://www.aveine.paris
 - https://www.akoustic-arts.com
+- https://www.willo.com
 
 ### French companies ? Or resellers ?
 - BeeWi
@@ -299,16 +292,15 @@ A analyser
 - STUDIEL
 - Eliquans
 - SOCASS
+- http://www.kickmaker.fr
 
 ### Closed companies (to specify in a new field)
-
-- Modulowatt
-- Airtag
 
 ####Misc
 
 - Rename NDS into Cisco
-- Lima moved into Paris
+
+- INSIDE Secure a changé de nom pour Verimatrix
 
 ###Worldwide
 
