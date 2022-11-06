@@ -6293,6 +6293,18 @@
             ]
         },
         {
+            "name": "Iskn",
+            "url": "https://www.iskn.co",
+            "description": "Writing devices",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "52 Cours Jean Jaurès, 38000 Grenoble",
+                    "gps_coordinates": "45.18760/5.71854"
+                }
+            ]
+        },
+        {
             "name": "ISORG",
             "url": "http://www.isorg.fr",
             "description": "organic and printed electronics for large area photo-detectors and image sensors",
