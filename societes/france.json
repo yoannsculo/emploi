@@ -29,9 +29,9 @@
             ]
         },
         {
-            "name": "42factory",
-            "url": "http://42factory.com/fr/",
-            "description": "Understand Your Environment",
+            "name": "Atmotrack",
+            "url": "https://atmotrack.fr",
+            "description": "Air quality solutions",
             "locations": [
                 {
                     "name": "",
@@ -671,11 +671,6 @@
                     "name": "",
                     "postal_address": "Z.I - rue Lavoisier 76260 Eu",
                     "gps_coordinates": "50.05674/1.41878"
-                },
-		{
-                    "name": "",
-                    "postal_address": "Lieu dit Le Mail – Le Mail 44700 Orvault",
-                    "gps_coordinates": "47.27044/-1.61125"
                 },
 		{
                     "name": "",
