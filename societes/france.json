@@ -5246,21 +5246,6 @@
             ]
         },
         {
-            "name": "Goji",
-            "url": "http://hi-goji.com",
-            "description": "daily personal assistant",
-            "keywords": "",
-            "twitter": "",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "445, Avenue du Séquoia, 44300 Nantes",
-                    "gps_coordinates": "47.25445/-1.54304"
-                }
-            ]
-        },
-        {
             "name": "Goobie",
             "url": "http://www.goobie.fr",
             "description": "",
