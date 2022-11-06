@@ -6305,6 +6305,18 @@
             ]
         },
         {
+            "name": "I-Sep",
+            "url": "https://www.i-sep.com",
+            "description": "MedTech spécialisée dans l'autotransfusion sanguine",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "21 Rue de la Noue Bras De Fer, 44200 NANTES",
+                    "gps_coordinates": "47.2067951/-1.5638873"
+                }
+            ]
+        },
+        {
             "name": "ISORG",
             "url": "http://www.isorg.fr",
             "description": "organic and printed electronics for large area photo-detectors and image sensors",
