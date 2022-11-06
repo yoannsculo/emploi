@@ -3120,6 +3120,18 @@
                 }
             ]
         },
+		{
+            "name": "Depixus",
+            "url": "https://depixus.com",
+            "description": "MedTech specialized in genome analysis",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "3 Imp. Reille, 75014 Paris",
+                    "gps_coordinates": "48.8260849/2.3383896"
+                }
+            ]
+        },
         {
             "name": "Devialet",
             "url": "http://www.devialet.com",
