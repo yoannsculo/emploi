@@ -2915,6 +2915,18 @@
             ]
         },
         {
+            "name": "Daan technologies",
+            "url": "https://daan.tech",
+            "description": "Lave vaisselle Inovant BOB",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "ZA Mortier Est, 85610 Cugand",
+                    "gps_coordinates": "47.0574359/-1.2548088"
+                }
+            ]
+        },
+        {
             "name": "DAMAE Medical",
             "url": "http://damaemedical.fr",
             "description": "Imaging process for quick and non-invasive skin cancer detection",
