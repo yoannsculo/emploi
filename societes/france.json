@@ -10042,21 +10042,6 @@
             ]
         },
         {
-            "name": "Sensorwake",
-            "url": "https://sensorwake.com",
-            "description": "olfactory alarm clock",
-            "keywords": "",
-            "twitter": "SensorWake",
-            "comment": "",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "2 rue Alfred Kastler 44300 Nantes",
-                    "gps_coordinates": "47.28215/-1.51991"
-                }
-            ]
-        },
-        {
             "name": "Sentryo",
             "url": "https://www.sentryo.net",
             "description": "cybersecurity and situation awareness solutions dedicated to industrial networks and the Internet of Things",
