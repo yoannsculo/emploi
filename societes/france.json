@@ -10409,18 +10409,6 @@
             ]
         },
         {
-            "name": "SMT Performances",
-            "url": "http://www.smtperformances.fr/",
-            "description": "Redécouvrez votre moto",
-            "locations": [
-                {
-                    "name": "",
-                    "postal_address": "37 B Avenue de la Côte d'Or, 44300 Nantes",
-                    "gps_coordinates": "47.2444133/-1.5706174"
-                }
-            ]
-        },
-        {
             "name": "Snapkin",
             "url": "http://www.snapkin.fr",
             "description": "Outil de mesure 2D/3D avec réalisation des plans d'architectes",
