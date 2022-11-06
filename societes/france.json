@@ -1118,19 +1118,24 @@
             ]
         },
         {
-            "name": "Atmel",
-            "url": "http://www.atmel.com",
-            "description": "",
+            "name": "Microchip",
+            "url": "https://www.microchip.com",
+            "description": "Leader provider of microcontrollers",
             "locations": [
                 {
-                    "name": "Atmel Rousset",
-                    "postal_address": "Atmel Zone industrielle, 13790 Rousset",
+                    "name": "Microchip Rousset",
+                    "postal_address": "57 Av. Victoire, 13790 Rousset",
                     "gps_coordinates": "43.47178/5.59994"
                 },
                 {
-                    "name": "Atmel Nantes",
+                    "name": "Microchip Nantes",
                     "postal_address": "Route de Gachet, 44300 Nantes",
                     "gps_coordinates": "47.28459/-1.51851"
+                },
+                {
+                    "name": "Microchip Les Ulis",
+                    "postal_address": "1 Av. de l'Atlantique, 91940 Les Ulis",
+                    "gps_coordinates": "48.6838873/2.1976734"
                 }
             ]
         },
