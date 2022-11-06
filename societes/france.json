@@ -2583,9 +2583,14 @@
             "description": "Design, manufacture and marketing of telephone intercom and access control solutions.",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "1 rue de l'Industrie – 85290 MORTAGNE SUR SEVRE",
+                    "name": "Cogelec Cholet",
+                    "postal_address": "1 rue de l'Industrie – 85290 Mortagne sur sevre",
                     "gps_coordinates": "46.99810/-0.94713"
+                },
+                {
+                    "name": "Cogelec Nantes",
+                    "postal_address": "26 mail Pablo Picasso - 44000 Nantes",
+                    "gps_coordinates": "47.2149208/-1.5396373"
                 }
             ]
         },
