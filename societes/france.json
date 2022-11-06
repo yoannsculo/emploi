@@ -11679,9 +11679,14 @@
             "comment": "",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "10, rue de Penthièvre 75008 Paris",
-                    "gps_coordinates": ""
+                    "name": "Bureaux Uptime",
+                    "postal_address": "89 boulevard Pereire, 75017 Paris",
+                    "gps_coordinates": "48.8863448/2.2992366"
+                },
+                {
+                    "name": "Centre technique Uptime",
+                    "postal_address": "112 Quai de Bezons, 95100 Argenteuil",
+                    "gps_coordinates": "48.9337837/2.2358900"
                 }
             ]
         },
