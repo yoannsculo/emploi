@@ -8735,6 +8735,18 @@
             ]
         },
         {
+            "name": "Orthopus",
+            "url": "https://orthopus.com/",
+            "description": "Assitant robotique pour les personnes en situation de handicap moteur",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Le Karting, 6 Rue St Domingue, 44200 Nantes",
+                    "gps_coordinates": "47.2004791/-1.5740737"
+                }
+            ]
+        },
+        {
             "name": "OSAT",
             "url": "http://osat.fr",
             "description": "",
