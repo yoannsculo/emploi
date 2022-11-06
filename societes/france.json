@@ -6157,16 +6157,6 @@
                 },
                 {
                     "name": "",
-                    "postal_address": "Immeuble Le Saphir, 3 Rue Alfred Kastler - 44300 NANTES",
-                    "gps_coordinates": "47.28244/-1.51956"
-                },
-                {
-                    "name": "",
-                    "postal_address": "9 rue Alfred Kastler, C.S. 80746 - NANTES",
-                    "gps_coordinates": "47.28138/-1.51981"
-                },
-                {
-                    "name": "",
                     "postal_address": "2600 Route des Cretes, GAIA - Sophia Antipolis",
                     "gps_coordinates": "43.62689/7.04927"
                 },
@@ -6184,11 +6174,6 @@
                     "name": "",
                     "postal_address": "505 route des Lucioles, Building B - Sophia Antipolis",
                     "gps_coordinates": "43.61643/7.04876"
-                },
-                {
-                    "name": "Intel Mobile Communications France",
-                    "postal_address": "2600 Route des Cretes, GAIA, 06560 Sophia-Antipolis",
-                    "gps_coordinates": "43.62706/7.04948"
                 },
                 {
                     "name": "Intel Mobile Communications France",
