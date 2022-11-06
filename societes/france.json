@@ -2959,6 +2959,18 @@
             ]
         },
         {
+            "name": "D-Vine",
+            "url": "https://www.d-vine.pro/",
+            "description": "Solution technologie de fourniture de vin au verre",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "16 ter Bd de la Prairie au Duc, 44200 Nantes",
+                    "gps_coordinates": "47.2051493/-1.5570087"
+                }
+            ]
+        },
+        {
             "name": "Naval Group",
             "url": "https://www.naval-group.com",
             "description": "European leader in naval defense",
