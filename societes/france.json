@@ -8912,49 +8912,49 @@
             ]
         },
         {
-            "name": "Parkeon",
-            "url": "http://www.parkeon.fr/",
+            "name": "Flow Bird",
+            "url": "https://www.flowbird.group",
             "description": "Parking and transport solutions",
-            "twitter": "ParkeonCorporat",
+            "twitter": "FlowbirdFrance",
             "locations": [
                 {
-                    "name": "Parkeon - Agence de Paris",
+                    "name": "Flow Bird - Agence de Paris",
                     "postal_address": "70 Avenue de la République 92320 CHATILLON",
                     "gps_coordinates": "48.80171/2.29604"
                 },
                 {
-                    "name": "Parkeon - Agence de Lille",
+                    "name": "Flow Bird - Agence de Lille",
                     "postal_address": "66/70 Chemin de la Campagnerie 59700 MARCQ EN BAROEUL",
                     "gps_coordinates": "50.65289/3.10840"
                 },
                 {
-                    "name": "Parkeon - Agence de Strasbourg",
+                    "name": "Flow Bird - Agence de Strasbourg",
                     "comment": "Très gros doute sur l'emplacement du curseur",
                     "postal_address": "Parc d’Activités de la Porte Sud Rue du Pont Péage Bâtiment D  67118 GEISPOLSHEIM",
                     "gps_coordinates": "48.52037/7.70008"
                 },
                 {
-                    "name": "Parkeon - Agence de Marseille",
+                    "name": "Flow Bird - Agence de Marseille",
                     "postal_address": "La Clairière de l’Anjoly Bâtiment F – lot 27  96 Avenue de l’Europe 13127 VITROLLES",
                     "gps_coordinates": "43.42135/5.26591"
                 },
                 {
-                    "name": "Parkeon - Agence de Nancy",
+                    "name": "Flow Bird - Agence de Nancy",
                     "postal_address": "18 Allée de la Forêt de la Reine BP 8 54600 VILLERS LES NANCY",
                     "gps_coordinates": "48.65621/6.12999"
                 },
                 {
-                    "name": "Parkeon - Agence de Besançon",
+                    "name": "Flow Bird - Agence de Besançon",
                     "postal_address": "Parc Lafayette  6 Rue Isaac Newton 25075 BESANCON",
                     "gps_coordinates": "47.21207/5.96816"
                 },
                 {
-                    "name": "Parkeon - Agence de Nantes",
-                    "postal_address": "23 rue Jules Verne 44700 ORVAULT",
-                    "gps_coordinates": "47.25198/-1.61694"
+                    "name": "Flow Bird - Agence de Nantes",
+                    "postal_address": "9 rue Jules Verne 44700 ORVAULT",
+                    "gps_coordinates": "47.2528979/-1.6178"
                 },
                 {
-                    "name": "Parkeon - Agence de Bordeaux",
+                    "name": "Flow Bird - Agence de Bordeaux",
                     "postal_address": "50 avenue Gustave Eiffel 33610 Canéjan",
                     "gps_coordinates": "44.77671/-0.65973"
                 }
