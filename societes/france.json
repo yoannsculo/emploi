@@ -11850,13 +11850,13 @@
         },
         {
             "name": "Velco bike",
-            "url": "http://velco.bike/fr/",
-            "description": "Faites de votre vélo un vélo intelligent",
+            "url": "http://velco.tech/fr/",
+            "description": "Solutions connectées pour l'industrie du vélo électrique",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "La Garde, Route de Paris, 44300 Nantes, France",
-                    "gps_coordinates": "47.2547872/-1.5129804"
+                    "postal_address": "168 Rte de Saint-Joseph, 44300 Nantes",
+                    "gps_coordinates": "47.2428698/-1.5338904"
                 }
             ]
         },
