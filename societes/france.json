@@ -6677,14 +6677,19 @@
             "comment": "",
             "locations": [
                 {
-                    "name": "",
+                    "name": "Kickmaker Paris",
                     "postal_address": "Station F - 55, boulevard Vincent Auriol 75013 Paris",
                     "gps_coordinates": "48.83410/2.37112"
                 },
                 {
-                    "name": "",
+                    "name": "Kickmaker Lyon",
                     "postal_address": "Bel Air Camp : 11 Avenue du Bel air, 69100 Villeurbanne",
                     "gps_coordinates": "45.75645/4.91269"
+                },
+                {
+                    "name": "Kickmaker Nantes",
+                    "postal_address": "9 Rue de l'Halbrane, 44340 Bouguenais",
+                    "gps_coordinates": "47.1557559/-1.584126"
                 }
             ]
         },
