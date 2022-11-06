@@ -4651,6 +4651,18 @@
                 }
             ]
         },
+		{
+            "name": "FDI Matelec",
+            "url": "https://www.fdimatelec.com",
+            "description": "Fabriquant et concepteur de produits de contrôle d'accès",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "110 rue Pierre Gilles de Gennes ZAC Cormier 5, 49300 Cholet",
+                    "gps_coordinates": "47.0209752/-0.9229206"
+                }
+            ]
+        },
         {
             "name": "Fiamm",
             "url": "http://www.fiamm.com",
