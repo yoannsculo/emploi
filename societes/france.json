@@ -12216,14 +12216,29 @@
             "comment": "Ex Adeneo Embedded",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "8 RUE DE LA RENAISSANCE 92160 ANTONY",
-                    "gps_coordinates": "48.76094/2.29912"
+                    "name": "Wiketio Antony",
+                    "postal_address": "8, rue de la Renaissance Antony Renaissance – Bâtiment D – 4ème étage, 92160 Antony",
+                    "gps_coordinates": "48.7610584/2.2991694"
                 },
                 {
-                    "name": "",
-                    "postal_address": "14 RUE RHIN ET DANUBE 69009 LYON",
-                    "gps_coordinates": "45.78305/4.80926"
+                    "name": "Wiketio Lyon",
+                    "postal_address": "14 Rue Rhin et Danube, 69009 Lyon",
+                    "gps_coordinates": "45.7830816/4.8073044"
+                },
+                {
+                    "name": "Witekio Frankfurt",
+                    "postal_address": "Am Wartfeld 7, 61169 Friedberg (Hessen), Allemagne",
+                    "gps_coordinates": "50.3250808/8.7599706"
+                },
+                {
+                    "name": "Witekio Bristol",
+                    "postal_address": "Units 7 - 8 Brabazon Office Park, Golf Course Ln, Bristol BS34 7PZ, Royaume-Uni",
+                    "gps_coordinates": "51.5087518/-2.5827324"
+                },
+                {
+                    "name": "Witekio Bellevue (US)",
+                    "postal_address": "3150 Richards Rd # 210, Bellevue, WA 98005, États-Unis",
+                    "gps_coordinates": "47.5824243/-122.1691483"
                 }
             ]
         },
