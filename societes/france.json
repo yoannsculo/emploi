@@ -9096,17 +9096,17 @@
             ]
         },
         {
-            "name": "Pixiel group",
-            "url": "https://www.pixiel-group.com",
-            "description": "Beyond the limit",
+            "name": "Delta drone",
+            "url": "https://www.deltadrone.com",
+            "description": "civilian drones for professional use",
             "keywords": "",
             "comment": "",
             "locations": [
-                {
-                    "name": "",
-                    "postal_address": "11 RUE GUTENBERG - 44340 BOUGUENAIS - FRANCE",
-                    "gps_coordinates": "47.1744241/-1.6180842"
-                }
+            {
+                "name": "",
+                "postal_address": "27, chemin des Peupliers - 69570 Dardilly",
+                "gps_coordinates": "45.8160493/4.7564899"
+            }
             ]
         },
         {
