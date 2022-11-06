@@ -9562,16 +9562,16 @@
             ]
         },
         {
-            "name": "Rythm",
-            "url": "rythm.co",
+            "name": "Dreem",
+            "url": "https://dreem.com/",
             "description": "active wearable to increase the quality of sleep",
-            "twitter": "dreemrythm",
+            "twitter": "dreem_official",
             "keywords": "Dreem",
             "locations": [
                 {
                     "name": "",
-                    "postal_address": "5 rue Scribe 75009 Paris",
-                    "gps_coordinates": "48.87111/2.32961"
+                    "postal_address": "7 boulevard haussmann 75009 Paris",
+                    "gps_coordinates": "48.8722395/2.3351216"
                 }
             ]
         },
