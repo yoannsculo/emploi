@@ -2087,8 +2087,8 @@
         },
         {
             "name": "Captiv SAS",
-            "url": "https://www.misterhector.com/",
-            "description": "cube connecté",
+            "url": "https://www.captiv.eu",
+            "description": "Produits connectés",
             "keywords": "",
             "twitter": "",
             "comment": "",
@@ -2101,9 +2101,24 @@
             ]
         },
         {
-            "name": "Captiv SAS",
+            "name": "Captiv SAS - Hector",
             "url": "https://www.misterhector.com/",
-            "description": "cube connecté",
+            "description": "cube connecté qualité de l'air",
+            "keywords": "",
+            "twitter": "",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "18 rue du taillis, 44880, Sautron, France",
+                    "gps_coordinates": "47.2624756/-1.668795"
+                }
+            ]
+        },
+        {
+            "name": "Captiv SAS - Gaspard",
+            "url": "https://www.mistergaspard.com/",
+            "description": "Coussin anti escarre connecté",
             "keywords": "",
             "twitter": "",
             "comment": "",
