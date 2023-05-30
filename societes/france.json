@@ -4605,6 +4605,18 @@
             ]
         },
         {
+            "name": "EP Tender",
+            "url": "https://eptender.com",
+            "description": "Development of battery Tender, smart modules for extend the range of electric cars.",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "22 Rue Gustave Eiffel, 78300 Poissy",
+                    "gps_coordinates": "48.9463942,2.0634473"
+                }
+            ]
+        },
+		{
             "name": "FARECO",
             "url": "http://fareco-fayat.com",
             "description": "travaux publics, du bâtiment, de la construction métallique, de l’industrie des équipements routiers, de la chaudronnerie, et des réseaux d’énergie.",
