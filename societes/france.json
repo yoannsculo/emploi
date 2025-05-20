@@ -2628,9 +2628,10 @@
         {
             "name": "Concierge",
             "url": "https://concierge.eu",
-            "description": "",
+            "description": "Concierge bell, smart callbell",
+            "last_check": "2024-04-11",
             "keywords": "",
-            "twitter": "concierge_home",
+            "twitter": "concierge_eu",
             "comment": "",
             "locations": [
                 {
