@@ -12214,6 +12214,22 @@
                 }
             ]
         },
+	{
+            "name": "Wirestone",
+            "url": "https://www.wirestone.io/",
+            "description": "Hardware & Software Product Development",
+            "last_check": "2024-04-11",
+            "keywords": "",
+            "twitter": "wirestone_io",
+            "comment": "",
+            "locations": [
+                {
+                    "name": "",
+                    "postal_address": "Halle 6-EST, 40 Rue la Tour d'Auvergne, 44200 Nantes",
+                    "gps_coordinates": "47.20610/-1.56038"
+                }
+            ]
+        },
         {
             "name": "Wistiki",
             "url": "http://www.wistiki.com",
