@@ -7547,11 +7547,12 @@
             "name": "Micropross",
             "url": "http://www.micropross.com",
             "description": "supply of test and personalization solutions for the business of RFID, smartcard and NFC",
+            "last_check": "2024-04-11",
             "locations": [
                 {
-                    "name": "",
-                    "postal_address": "11-21 rue Hubble - Parc de la Haute Borne - 59650 Villeneuve d'Ascq",
-                    "gps_coordinates": "50.60114/3.15386"
+                    "name": "NI Lille",
+                    "postal_address": "40 rue Horace – Parc de la Haute Borne – 59650 Villeneuve d’Ascq",
+                    "gps_coordinates": "50.60451/3.15826"
                 }
             ]
         },
